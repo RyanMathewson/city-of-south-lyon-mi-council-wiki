@@ -1,4 +1,5 @@
-site_name: South Lyon City Council wiki
+site_name: 'City of South Lyon, Michigan: council wiki'
+site_url: https://ryanmathewson.github.io/city-of-south-lyon-mi-council-wiki/
 use_directory_urls: true
 theme:
   name: material

@@ -8,7 +8,7 @@ title: "About"
 
 ## What this is
 
-A public record aid for the City of South Lyon, Michigan council. It is not run by the city.
+A public record aid for the City of South Lyon, Michigan council and city staff. It is not run by the city, and it does not cover any township government.
 
 ## How it is made
 
@@ -23,4 +23,4 @@ The city's own minutes and the meeting video. When this wiki and those differ, t
 
 ## Corrections
 
-Contact details for corrections will be added when the wiki is published.
+To report a mistake, or to ask for something to be removed (for example a home address or another personal detail), [open an issue](https://github.com/RyanMathewson/city-of-south-lyon-mi-council-wiki/issues). Give the meeting date and, for a transcript, the time shown on the paragraph. Please do not repeat the personal information in the issue, because issues are public; describe where it is instead.

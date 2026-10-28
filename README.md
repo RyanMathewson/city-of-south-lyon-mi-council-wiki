@@ -1,4 +1,4 @@
-# South Lyon City Council wiki
+# City of South Lyon, Michigan: council wiki
 
 Transcripts of City of South Lyon, Michigan city council meetings, and the agendas, packets and minutes as Markdown. Not run by the city.
 
@@ -18,7 +18,7 @@ All of it is plain Markdown, so you can read it here or download it. Scanned doc
 
 ## Privacy
 
-In public comment, home addresses, phone numbers, e-mail addresses and "my name is" introductions are replaced by software with `[address redacted]`, `[contact redacted]` or `[name redacted]`. This is automatic and can miss things. The meeting videos and the city's own documents are not changed. To report something that should be removed, see the About page.
+In public comment, home addresses, phone numbers, e-mail addresses and "my name is" introductions are replaced by software with `[address redacted]`, `[contact redacted]` or `[name redacted]`. This is automatic and can miss things. The meeting videos and the city's own documents are not changed. To report a mistake or ask for something to be removed, open an issue in this repository (describe where it is; do not repeat the personal information) or see the About page.
 
 ## How the site is built
 
