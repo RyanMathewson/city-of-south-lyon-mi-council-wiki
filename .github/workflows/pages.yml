@@ -1,0 +1,49 @@
+# Builds the site from the Markdown in this repository and publishes it with GitHub Pages.
+#
+# Manual only for now (Actions tab, "Run workflow"). GitHub Pages needs a public repository on a free plan, so enabling the push
+# trigger below is part of the decision to make the wiki public:
+#   1. Settings > Pages > Source: GitHub Actions.
+#   2. Replace `on: workflow_dispatch` with the commented block, so every push to main republishes the site.
+# Versions are pinned in requirements.txt. Material for MkDocs stops receiving updates on 2027-05-05; plan a theme change before then.
+name: Publish site
+
+on:
+  workflow_dispatch:
+  # push:
+  #   branches: [main]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      NO_MKDOCS_2_WARNING: "1"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: mkdocs build -d site
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

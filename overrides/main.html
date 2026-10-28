@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block content %}
+{% if page and page.file and page.file.src_uri.endswith(".md") %}
+<p class="md-export" style="font-size:.8rem;margin:0 0 1rem">
+  <a href="{{ base_url }}/{{ page.file.src_uri }}" download>Download as Markdown</a> &middot;
+  {% if page.file.src_uri.startswith("transcripts/") %}<a href="{{ base_url }}/exports/{{ page.file.src_uri }}" download>Download clean transcript</a> &middot;{% endif %}
+  <a href="#" id="copy-md" data-src="{{ base_url }}/{{ page.file.src_uri }}">Copy Markdown</a>
+  <span id="copy-md-status" role="status"></span>
+</p>
+<script>
+document.getElementById("copy-md").addEventListener("click", function (e) {
+  e.preventDefault();
+  var status = document.getElementById("copy-md-status");
+  fetch(this.dataset.src).then(function (r) { return r.text(); })
+    .then(function (t) { return navigator.clipboard.writeText(t); })
+    .then(function () { status.textContent = " Copied."; })
+    .catch(function () { status.textContent = " Could not copy here; use Download."; });
+});
+</script>
+{% endif %}
+{{ super() }}
+{% endblock %}
