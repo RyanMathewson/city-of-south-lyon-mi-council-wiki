@@ -2,6 +2,8 @@
 
 Transcripts of City of South Lyon, Michigan city council meetings, and the agendas, packets and minutes as Markdown. Not run by the city.
 
+**Read the wiki: <https://ryanmathewson.github.io/city-of-south-lyon-mi-council-wiki/>**
+
 **Unofficial.** Transcripts and conversions are machine-made and can contain errors. The city's own minutes and the meeting videos are the record. Every page links to its original source. No text here is written by an AI model: pages are filled in from the sources by templates.
 
 ## What is here
