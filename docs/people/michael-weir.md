@@ -21,6 +21,10 @@ kind: "staff"
 - Minutes list him as Deputy Chief 2019-02 to 2022-03.
 - The 2021 annual report (presented 2022-01-24) is signed by Weir as Interim Fire Chief. The minutes list him as Deputy Chief, not Chief, at every meeting from 2021-10-11 through 2022-03, so the interim title is not in the minutes. Runs from Vogel's last meeting to Thorington's start.
 
+## Everything they said
+
+[Everything Michael Weir said in these meetings](michael-weir/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2019-02-11](../meetings/2019/2019-02-11.md), 23 s

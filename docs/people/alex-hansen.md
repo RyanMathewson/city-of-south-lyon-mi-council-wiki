@@ -19,6 +19,10 @@ kind: "council"
 
 - Current; Mayor Pro Tem since 2025-11-24 (Citizen Portal). Re-elected Nov 2025.
 
+## Everything they said
+
+[Everything Alex Hansen said in these meetings](alex-hansen/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2021-11-08](../meetings/2021/2021-11-08.md), 2 min

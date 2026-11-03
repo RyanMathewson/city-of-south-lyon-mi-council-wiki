@@ -19,6 +19,10 @@ kind: "staff"
 
 - Name on the city site: Nathan Mack, ED/DDA Director (previously Executive Director of the Jackson DDA). Start inferred: he told Berkley's DDA on 2025-07-09 he had held the South Lyon post 'for the last five years', and voice matches begin 2020-07-27. End inferred: Berkley approved his contract 2025-07-09 and WHMI refers to a 'new DDA director' on 2025-08-13.
 
+## Everything they said
+
+[Everything Nate Mack said in these meetings](nate-mack/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2020-07-27](../meetings/2020/2020-07-27.md), 3 min

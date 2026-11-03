@@ -19,6 +19,10 @@ kind: "staff"
 
 - Current ('Lisa J. Hamameh', City Attorney on the city's Planning Commission page, checked 2026-10-28). Minutes list her from 2019-09-09; appointment date not found. She is also lead attorney for Berkley's municipal counsel (Sept 2025).
 
+## Everything they said
+
+[Everything Lisa Hamameh said in these meetings](lisa-hamameh/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2019-09-09](../meetings/2019/2019-09-09.md), 1 min

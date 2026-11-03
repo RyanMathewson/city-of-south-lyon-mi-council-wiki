@@ -19,6 +19,10 @@ kind: "staff"
 
 - Fire Inspector in the 2021 annual report; Fire Marshal in the staff directory 2026-10-28. Minutes 2008-2025.
 
+## Everything they said
+
+[Everything Brad Moynihan said in these meetings](brad-moynihan/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2024-03-25](../meetings/2024/2024-03-25.md), 1 min

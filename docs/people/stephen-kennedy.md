@@ -21,6 +21,10 @@ kind: "council"
 - Appointed at the special meeting of 2018-01-18 to the vacancy left by Joe Ryzyi (term to 2019); elected Nov 2019 as top vote-getter. Mayor Pro Tem by 2022-09 (minutes); start of that role not found.
 - Beat Jacob McLeod in Nov 2023. Re-elected unopposed Nov 2025; term to 2027-12-31.
 
+## Everything they said
+
+[Everything Stephen Kennedy said in these meetings](stephen-kennedy/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2018-01-18](../meetings/2018/2018-01-18.md), 11 min

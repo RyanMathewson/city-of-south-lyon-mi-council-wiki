@@ -19,6 +19,10 @@ kind: "council"
 
 - 30+ years. On the FY2010 audit roster. WHMI 2017-07 says he was seeking a 6th term in 2017, which implies a first election about 1997 if terms are four years (inference only; not verified). Re-elected 2017 and 2021. Did not run in Nov 2025. Mayor Pro Tem on Wayback rosters of 2020-2021.
 
+## Everything they said
+
+[Everything Glenn Kivell said in these meetings](glenn-kivell/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2014-08-26](../meetings/2014/2014-08-26.md), 4 min

@@ -23,6 +23,10 @@ kind: "staff"
 - During Ladner's leave, until Zelenak started (about Sept 2018, after a 30-day notice period); still interim on 2018-08-01 (WHMI).
 - Interim City Manager Collins in the 2013-11-11 and 2013-11-13 minutes, before Rod Cook's interim agreement was approved (2013-11-13). Start inferred from Murphy's dismissal. Made Assistant City Manager (5 hours a week) at Cook's request, 2014-01-27.
 
+## Everything they said
+
+[Everything Lloyd Collins said in these meetings](lloyd-collins/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2014-08-26](../meetings/2014/2014-08-26.md), 1 min

@@ -19,6 +19,10 @@ kind: "staff"
 
 - Start inferred: seven years with the department as of Nov 2017 and Craig Kaska retired as chief in 2010; minutes list him from 2011-02-28. Left for Ann Arbor (started 2017-12-11). NOT Stephen Kennedy (councilmember from 2018).
 
+## Everything they said
+
+[Everything Mike Kennedy said in these meetings](mike-kennedy/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2014-09-22](../meetings/2014/2014-09-22-1.md), 2 min

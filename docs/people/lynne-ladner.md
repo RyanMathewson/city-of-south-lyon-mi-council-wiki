@@ -19,6 +19,10 @@ kind: "staff"
 
 - Introduced as the new City Manager at the 2014-06-09 meeting (offer made at the 2014-04-26 interviews; target start June 1). Medical leave from Jan 2018; separation agreement effective 2018-03-29. Previously city administrator of Hiawatha, KS.
 
+## Everything they said
+
+[Everything Lynne Ladner said in these meetings](lynne-ladner/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2014-08-26](../meetings/2014/2014-08-26.md), 3 min

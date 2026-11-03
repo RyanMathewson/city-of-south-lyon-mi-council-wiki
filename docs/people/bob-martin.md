@@ -19,6 +19,10 @@ kind: "staff"
 
 - 'Robert Martin' in the FY2010 and FY2015 audits (Water and Wastewater Treatment Superintendent; Director of DPW by 2015). Minutes list him 2008-12 to 2017-08.
 
+## Everything they said
+
+[Everything Bob Martin said in these meetings](bob-martin/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2014-08-26](../meetings/2014/2014-08-26.md), 3 min

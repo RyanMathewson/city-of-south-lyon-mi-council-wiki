@@ -19,6 +19,10 @@ kind: "council"
 
 - Mayor Pro Tem in 2015. Re-elected Nov 2015 (top vote total, 1,193). Announced his resignation about 2018-01-02 (WHMI); exact effective date not found. Start not found (minutes list him from 2011-11).
 
+## Everything they said
+
+[Everything Joe Ryzyi said in these meetings](joe-ryzyi/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2014-08-26](../meetings/2014/2014-08-26.md), 26 s

@@ -19,6 +19,10 @@ kind: "council"
 
 - Newly elected Nov 2025.
 
+## Everything they said
+
+[Everything Lisa Popa said in these meetings](lisa-popa/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2025-11-24](../meetings/2025/2025-11-24-1.md), 37 s

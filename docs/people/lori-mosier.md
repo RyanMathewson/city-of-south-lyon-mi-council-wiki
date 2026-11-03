@@ -21,6 +21,10 @@ kind: "council"
 - Listed as Bookkeeper in the FY2010 and FY2015 audits; WHMI 2021-11 says she worked as an accountant for the city for 27 years. Same person as the councilmember. Start and end dates not found (ended before 2021-11).
 - Did not run in Nov 2025.
 
+## Everything they said
+
+[Everything Lori Mosier said in these meetings](lori-mosier/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2016-06-27](../meetings/2016/2016-06-27.md), 1 min

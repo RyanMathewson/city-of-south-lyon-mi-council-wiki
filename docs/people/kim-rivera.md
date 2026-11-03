@@ -19,6 +19,10 @@ kind: "staff"
 
 - Listed as Economic Development/DDA Director (Starbridge, low-confidence source). Start inferred: WHMI 2025-08-13 mentions the city's 'new DDA director' (unnamed) and her voice appears 2025-09-22; minutes list her from 2025-11-10.
 
+## Everything they said
+
+[Everything Kim Rivera said in these meetings](kim-rivera/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2025-09-22](../meetings/2025/2025-09-22.md), 5 min

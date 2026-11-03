@@ -21,6 +21,10 @@ kind: "staff"
 - Joined the department in 2014 (Hometownlife); a lieutenant when WILX profiled Vogel (about 2021); 'Captain Conrad' in the minutes 2022-2025.
 - First woman fire chief; promoted from within.
 
+## Everything they said
+
+[Everything Cindy Conrad said in these meetings](cindy-conrad/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2022-05-09](../meetings/2022/2022-05-09-1.md), 1 min

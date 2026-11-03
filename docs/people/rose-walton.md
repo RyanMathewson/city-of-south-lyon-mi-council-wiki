@@ -19,6 +19,10 @@ kind: "council"
 
 - Newly elected Nov 2017. End inferred: the three seats won in 2017 (Kivell, Walton, Richards) came up again in Nov 2021 and she was not among the candidates (Hansen, Hamade, Mosier, Kivell, Richards); minutes list her to 2021-11-08.
 
+## Everything they said
+
+[Everything Rose Walton said in these meetings](rose-walton/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2017-11-27](../meetings/2017/2017-11-27.md), 1 min

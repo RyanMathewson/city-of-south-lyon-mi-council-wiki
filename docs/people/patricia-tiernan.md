@@ -19,6 +19,10 @@ kind: "staff"
 
 - Minutes list her 2021-01 to 2026-02 (titles: Benefit Administrator, Finance Director); still in the staff directory 2026-10-28 as Finance &amp; Benefits Administrator.
 
+## Everything they said
+
+[Everything Patricia Tiernan said in these meetings](patricia-tiernan/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2021-02-22](../meetings/2021/2021-02-22.md), 6 min

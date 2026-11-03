@@ -19,6 +19,10 @@ kind: "council"
 
 - Challenger in the Nov 7, 2023 election (against incumbents Kurtzweil and Dilg and Jean Dendel); on the FY2024 audit roster, so he won. Minutes list him from 2023-11-27.
 
+## Everything they said
+
+[Everything Thad Bogert said in these meetings](thad-bogert/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2023-10-23](../meetings/2023/2023-10-23.md), 53 s

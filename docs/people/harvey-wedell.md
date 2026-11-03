@@ -19,6 +19,10 @@ kind: "council"
 
 - On the FY2010 and FY2015 audit rosters. Ran for mayor Nov 2015 and lost (571 votes). Minutes list him 2008-01 to 2017-11. Mayor Pro Tem on the Wayback roster of 2017-08.
 
+## Everything they said
+
+[Everything Harvey Wedell said in these meetings](harvey-wedell/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2014-09-08](../meetings/2014/2014-09-08.md), 4 min

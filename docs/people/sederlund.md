@@ -19,6 +19,10 @@ kind: "staff"
 
 - FIRST NAME NOT FOUND; only the initial 'C.' (police email address sederlundc@southlyonpolice.com; 'Lt. Sederlund' as FOIA contact). Minutes 2023-2025. Only police officer listed at the 2025-07-14 to 2025-08-11 meetings, between Chief Baaki and Chief Unruh (first listed 2025-08-25). Not in the staff directory of 2026-10-28 (lieutenant there: Chris Faught).
 
+## Everything they said
+
+[Everything Sederlund said in these meetings](sederlund/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2023-05-08](../meetings/2023/2023-05-08.md), 40 s

@@ -19,6 +19,10 @@ kind: "staff"
 
 - Minutes 2018-02 to 2018-05 only. Department not stated.
 
+## Everything they said
+
+[Everything Mike Boven said in these meetings](mike-boven/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2018-02-12](../meetings/2018/2018-02-12.md), 4 min

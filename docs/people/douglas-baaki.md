@@ -25,6 +25,10 @@ kind: "staff"
 - WHMI 2022-11-29: taking over 'on Thursday' (2022-12-01). Retired July 2025 after 34 years (exact day not found). Honored by proclamation on 2025-06-23 ahead of retirement; Lieutenant Sederlund is the only police officer in the Also-present lines 2025-07-14 to 2025-08-11, and Chief Unruh first appears 2025-08-25.
 - Interim since Dec. 9, 2025; council voted Jan 28, 2026 to offer him the job and the city staff directory lists him as City Manager. Signed contract date not found. WHO WAS ACTING between Zelenak's retirement (2025-11-04) and 2025-12-09 is not known (new gap N-1). The 2025-12-08 minutes approve the interim agreement (motion dated 12-5-25). No acting manager is named for 2025-11-04 to 2025-12-08: the Also-present lists of 2025-11-10 and 2025-11-24 show none.
 
+## Everything they said
+
+[Everything Douglas Baaki said in these meetings](douglas-baaki/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2019-07-08](../meetings/2019/2019-07-08.md), 3 min

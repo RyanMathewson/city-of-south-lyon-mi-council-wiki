@@ -19,6 +19,10 @@ kind: "staff"
 
 - Joined South Lyon in Dec 2017 (WILX), in charge by 2018-01-04. Council thanked him and wished him well on 2021-09-13 (leaving for Charlotte); last present 2021-09-27.
 
+## Everything they said
+
+[Everything Robert Vogel said in these meetings](robert-vogel/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2018-05-14](../meetings/2018/2018-05-14.md), 2 min

@@ -19,6 +19,10 @@ kind: "staff"
 
 - Dykema (law firm). Documents name him Timothy S. Wilhelm. First named in the minutes 2012-07-09 (Attorney Lee was last on 2012-06-25); minutes list him to 2019-08.
 
+## Everything they said
+
+[Everything Timothy Wilhelm said in these meetings](timothy-wilhelm/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2014-09-08](../meetings/2014/2014-09-08.md), 57 s

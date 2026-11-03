@@ -21,6 +21,10 @@ kind: "staff"
 - 'Police Lt. Christopher Sovik' in the Dykema report of 2017-02-27; hired 1991; was delegated chief duties for a couple of years before 2019. Promotion date to lieutenant not found; minutes list him 2015-2018.
 - WHMI 2019-02-08: officially took over January 29. Retired after 31 years with the department.
 
+## Everything they said
+
+[Everything Chris Sovik said in these meetings](chris-sovik/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2015-08-10](../meetings/2015/2015-08-10.md), 1 min

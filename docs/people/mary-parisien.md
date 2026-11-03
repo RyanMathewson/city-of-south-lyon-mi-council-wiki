@@ -19,6 +19,10 @@ kind: "council"
 
 - On Wayback rosters 2017-08 to 2018-10; voted on the Jan 2018 Kennedy appointment (WHMI spells 'Mary Parisian'). Minutes list her 2016-11 to 2019-11; she was not among the three winners of the Nov 2019 election. How she took her seat (appointment or election) not found.
 
+## Everything they said
+
+[Everything Mary Parisien said in these meetings](mary-parisien/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2015-11-09](../meetings/2015/2015-11-09.md), 1 min

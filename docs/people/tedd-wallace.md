@@ -19,6 +19,10 @@ kind: "council"
 
 - Also mayor 1985-1989. Lost the Nov 3, 2015 mayoral race (565 votes; Galeas 632, Wedell 571). Exact start date not found; listed as mayor in the FY2010 and FY2015 audits.
 
+## Everything they said
+
+[Everything Tedd Wallace said in these meetings](tedd-wallace/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2014-08-26](../meetings/2014/2014-08-26.md), 2 min

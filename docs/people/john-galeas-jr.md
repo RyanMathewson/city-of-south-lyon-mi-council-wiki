@@ -19,6 +19,10 @@ kind: "council"
 
 - Won the Nov 3, 2015 mayoral race with 632 votes; minutes list him from 2015-11-23. Declined to run in 2017. Public-comment voice matches in 2015-10 fit his candidacy.
 
+## Everything they said
+
+[Everything John Galeas Jr. said in these meetings](john-galeas-jr/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2015-10-12](../meetings/2015/2015-10-12.md), 5 min

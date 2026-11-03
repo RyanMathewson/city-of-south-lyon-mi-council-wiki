@@ -19,6 +19,10 @@ kind: "council"
 
 - On the FY2010 and FY2015 audit rosters. Minutes list him 2009-11 to 2017-11.
 
+## Everything they said
+
+[Everything Mike Kramer said in these meetings](mike-kramer/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2014-08-26](../meetings/2014/2014-08-26.md), 1 min

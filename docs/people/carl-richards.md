@@ -19,6 +19,10 @@ kind: "council"
 
 - Newly elected Nov 2017; lost Nov 2021.
 
+## Everything they said
+
+[Everything Carl Richards said in these meetings](carl-richards/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2014-09-08](../meetings/2014/2014-09-08.md), 21 s

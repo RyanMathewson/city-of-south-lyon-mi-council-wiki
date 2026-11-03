@@ -19,6 +19,10 @@ kind: "staff"
 
 - Start inferred between 2022-01-24 (chief still vacant per the 2021 annual report) and 2022-02-28 (first minutes listing). The Southfield bio saying South Lyon chief '2021 to 2025' conflicts with that and with another Southfield release (last three years as chief, 27 years at Dearborn). Resigned early May 2025 for Southfield (appointed there 2025-05-19). At the 2022-02-28 meeting he said he had worked 4-5 days, so he started about 2022-02-22.
 
+## Everything they said
+
+[Everything Joey Thorington said in these meetings](joey-thorington/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2022-02-28](../meetings/2022/2022-02-28-1.md), 1 min

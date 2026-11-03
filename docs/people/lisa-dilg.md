@@ -19,6 +19,10 @@ kind: "council"
 
 - Newcomer elected Nov 5, 2019; re-elected Nov 2023. Minutes list her from 2019-11-25. Mayor Pro Tem FY2024 (audit).
 
+## Everything they said
+
+[Everything Lisa Dilg said in these meetings](lisa-dilg/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2019-08-26](../meetings/2019/2019-08-26.md), 2 min

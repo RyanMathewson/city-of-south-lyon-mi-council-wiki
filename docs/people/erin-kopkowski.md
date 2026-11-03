@@ -19,6 +19,10 @@ kind: "council"
 
 - Mayor Pro Tem in the FY2010 audit. Lost the Nov 3, 2015 election. Minutes list her 2008-01 to 2015-11. Target of the 2014 recall effort. Start not found.
 
+## Everything they said
+
+[Everything Erin Kopkowski said in these meetings](erin-kopkowski/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2014-09-08](../meetings/2014/2014-09-08.md), 5 min

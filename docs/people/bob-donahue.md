@@ -19,6 +19,10 @@ kind: "staff"
 
 - Hired about 2016 (council minutes: 'last year we decided to invest in our downtown, we hired Bob Donahue', 2017-05-22); not in any 'Also present' line. The city's economic development page says the ED/DDA director position was created in 2016 (it names Mack, not Donahue). Left about 2020 (last heard in meetings 2020). Exact dates not found.
 
+## Everything they said
+
+[Everything Bob Donahue said in these meetings](bob-donahue/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2016-06-13](../meetings/2016/2016-06-13.md), 3 min

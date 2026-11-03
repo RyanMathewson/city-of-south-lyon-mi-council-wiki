@@ -19,6 +19,10 @@ kind: "staff"
 
 - First female chief; from Farmington Hills. First full week 2025-08-25. Who ran the department between Baaki's retirement (July 2025) and her start is not known (new gap N-2).
 
+## Everything they said
+
+[Everything Bonnie Unruh said in these meetings](bonnie-unruh/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2025-08-11](../meetings/2025/2025-08-11.md), 1 min

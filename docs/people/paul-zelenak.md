@@ -19,6 +19,10 @@ kind: "staff"
 
 - Council voted to hire him at the special meeting of 2018-08-23; he gave Linden 30 days' notice and WHMI says he left Linden 'last September', so the start is about Sept 2018 (minutes list him from 2018-10). Retired effective Nov 4, 2025.
 
+## Everything they said
+
+[Everything Paul Zelenak said in these meetings](paul-zelenak/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2018-08-01](../meetings/2018/2018-08-01-1.md), 34 min

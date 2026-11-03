@@ -19,6 +19,10 @@ kind: "council"
 
 - Elected Nov 3, 2015 (976 votes); re-elected 2019 and 2023. Minutes list her from 2015-11-23. Planning Commission member in 2012 (commission minutes 2012-05-10), which fits voice matches before 2015. Mayor Pro Tem on the Wayback roster of 2017-12 to 2018-10.
 
+## Everything they said
+
+[Everything Margaret Kurtzweil said in these meetings](margaret-kurtzweil/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2015-11-09](../meetings/2015/2015-11-09.md), 9 min

@@ -19,6 +19,10 @@ kind: "council"
 
 - Write-in win 2017, sworn in Monday 2017-11-13 (WHMI 2017-11-16); re-elected 2019 and 2021 (unopposed on the ballot); did not seek a 2023 term. Swearing-in date of his successor not found.
 
+## Everything they said
+
+[Everything Dan Pelchat said in these meetings](dan-pelchat/said.md), in order, with links to each moment in the video.
+
 ## Meetings in this wiki where they speak
 
 - [2014-11-10](../meetings/2014/2014-11-10.md), 3 min
