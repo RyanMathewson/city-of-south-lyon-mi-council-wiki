@@ -48,6 +48,7 @@ Officials and staff who appear in the council's minutes, with the dates they hel
 - [Kim Rivera](kim-rivera.md): DDA Director (current)
 - [Lisa Deaton](lisa-deaton.md): Clerk/Treasurer (current)
 - [Lisa Hamameh](lisa-hamameh.md): City Attorney (current)
+- [Ron Beason](ron-beason.md): Water/Wastewater Superintendent (current)
 - [Bob Donahue](bob-donahue.md): Downtown manager
 - [Bob Martin](bob-martin.md): Department Head (Water/Wastewater Superintendent)
 - [Chris Sovik](chris-sovik.md): Police Chief
