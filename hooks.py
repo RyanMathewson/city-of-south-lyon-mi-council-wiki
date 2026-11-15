@@ -1,5 +1,6 @@
-"""MkDocs hook: publish each page's Markdown source in the built site so readers can download or copy it.
-When site_url is set, links to other wiki pages in those copies are made absolute, so a file saved on its own still works."""
+"""MkDocs hooks: publish each page's Markdown source in the built site so readers can download or copy it.
+When site_url is set, links to other wiki pages in those copies are made absolute, so a file saved on its own still works.
+Links to other sites and to files open in a new tab."""
 import posixpath
 import re
 import shutil
@@ -24,6 +25,33 @@ def absolute(text, rel_dir, base):
             url = base + page + "/"
         return "](" + url + (m.group(2) or "") + ")"
     return LINK.sub(fix, text)
+
+
+# Links to other sites, and links to files rather than wiki pages (e.g. a PDF), open in a new tab.
+ANCHOR = re.compile(r"<a\s[^>]*>")
+HREF = re.compile(r'\shref="([^"]*)"')
+FILE_EXT = re.compile(r"\.[A-Za-z0-9]{1,5}$")
+
+
+def opens_new_tab(href, site_url):
+    if href.startswith(("http://", "https://", "//")):
+        return not (site_url and href.startswith(site_url))
+    if href.startswith(("#", "mailto:", "tel:", "javascript:")):
+        return False
+    path = href.split("#", 1)[0].split("?", 1)[0]
+    return bool(FILE_EXT.search(path)) and not path.lower().endswith((".html", ".htm"))
+
+
+def on_page_content(html, page, config, files):
+    site_url = config.get("site_url") or ""
+
+    def fix(m):
+        tag = m.group(0)
+        href = HREF.search(tag)
+        if not href or " target=" in tag or not opens_new_tab(href.group(1), site_url):
+            return tag
+        return tag[:-1] + ' target="_blank" rel="noopener">'
+    return ANCHOR.sub(fix, html)
 
 
 def on_post_build(config):

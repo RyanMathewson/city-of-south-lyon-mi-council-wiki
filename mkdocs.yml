@@ -7,6 +7,8 @@ theme:
 hooks:
   - hooks.py
 plugins: []
+markdown_extensions:
+  - md_in_html
 nav:
   - Home: index.md
   - About: about.md
