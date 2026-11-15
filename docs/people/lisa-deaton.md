@@ -22,4 +22,4 @@ kind: "staff"
 ## Sources
 
 - [fy2015_audit](https://cms5.revize.com/revize/southlyon/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket09.28.15.pdf)
-- Named in the roll call or staff list of 293 meeting minutes from 2012-11-12 to 2026-09-28; the minutes are listed on the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php).
+- Named in the roll call or staff list of 295 meeting minutes from 2012-11-12 to 2026-10-26; the minutes are listed on the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php).

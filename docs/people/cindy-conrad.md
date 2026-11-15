@@ -60,10 +60,12 @@ kind: "staff"
 - [2026-08-24](../meetings/2026/2026-08-24.md), 1 min
 - [2026-09-28](../meetings/2026/2026-09-28.md), 4 min
 - [2026-10-12](../meetings/2026/2026-10-12.md), 49 s
+- [2026-10-26](../meetings/2026/2026-10-26.md), 3 min
+- [2026-11-09](../meetings/2026/2026-11-09.md), 51 s
 
 ## Sources
 
 - [wilx_vogel](https://fox47news.com/neighborhoods/charlotte-eaton-rapids/charlottes-new-fire-chief-robert-vogel-will-start-the-job-next-month)
 - [hometownlife_conrad](https://bluewaterhealthyliving.com/?p=1541610)
 - [staff_directory](https://www.southlyonmi.org/staff_directory/index.php)
-- Named in the roll call or staff list of 33 meeting minutes from 2022-05-09 to 2026-09-28; the minutes are listed on the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php).
+- Named in the roll call or staff list of 35 meeting minutes from 2022-05-09 to 2026-10-26; the minutes are listed on the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php).

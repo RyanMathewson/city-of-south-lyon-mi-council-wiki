@@ -9,7 +9,7 @@ person: "Bonnie Unruh"
 
 Back to [Bonnie Unruh](../bonnie-unruh.md).
 
-238 paragraphs in 29 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
+242 paragraphs in 31 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
 
 Speakers are matched by voice, so some of these may be someone else, and some of what this person said may be missing. Only confident matches are listed. The words are machine transcribed; the video is the record.
 
@@ -608,6 +608,22 @@ Speakers are matched by voice, so some of these may be someone else, and some of
 [0:08:38](https://www.youtube.com/watch?v=8tvAkwGuLt0&t=518s) Mayor council I'd like to report that I had the pleasure of going out to colonial acres and doing A drug take back that's where they turn in unused prescription drugs which we turn over to the dea For proper destruction. It keeps the medication out of our water supply and out of the wrong hands. While I was there, I also did a crime prevention presentation on scams, which was well received. They're a smart bunch. They knew quite a bit about scams and how to prevent themselves from Being a victim of scams. I was impressed that they talked to each other if they get something Just to kind of go over it before they make a bad decision so I like that too That they're pretty tight out there the other thing I'd like to report on to Which is that was on everybody's radar was the little library that was damaged the door was ripped off over at McCaddy Park we utilized Facebook by putting on A video from the camera that was out there on the bathroom because one of the The individuals even though he had his hood up had taken the the door inside The bathroom and he was caught going in along with another juvenile so it got on Facebook and several people came into the station to report that they believed They knew who these two were interviews were conducted by detective booty and With the parents and the parents were very cooperative he wanted me to know That that they had brought their kids in and encouraged them to tell the truth Which they did and admitted to what they had done so we'll be moving forward with Filing a petition for both of them plus hopefully getting back how much it's Going to cost to fix
 
 [0:10:57](https://www.youtube.com/watch?v=8tvAkwGuLt0&t=657s) I was very impressed uh support that came up
+
+### Monday, October 26, 2026
+
+[Meeting page](../../meetings/2026/2026-10-26.md) · [Full transcript](../../transcripts/2026/2026-10-26.md) · [Video](https://www.youtube.com/watch?v=2ghjGVgcM4o) · South Lyon City Council Meeting October  26 2026
+
+[0:16:03](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=963s) Good evening, Mr. Mayor and Council. I just want to give kudos to Active Faith. The police department uses active faith quite a bit we have just by the means of Our job come across a lot of people that need help and active faith has always Helped out wherever we brought them the officers think very highly of active Faith when I first started here they couldn't say enough nice things about You so kudos the Halloween on truck retreats have started and officers are Going to those and on Halloween we will have extra officers out on patrol making Sure everybody stays safe and the officers will be having Halloween candy On them so if you see a police officer make sure you go up to them because They'll have Halloween candy and like the fire department we got the good candy from Costco so no cheap candy for kids of South Lyon so the other thing I wanted to report on too is we had the DEA drug take back this past Saturday at The police department and today I drove not only the medication that we Collected on Saturday but also medication that we've collected since since the last DA drug take -back. And it's so funny, it's like a Jenga puzzle, Putting those boxes in the car, Because there's so many of them, and this year I thought there's no way We're gonna fit all those in, but me and Lieutenant Fott made it happen, and it's funny because I wait in line, I drive an unmarked car there, and so you wait in line, I watch other people go up, And they take out maybe four or eight boxes, And so here I come I'm backing up and I open the door and I hear somebody go south lions here And because we always drop off a lot you know everybody in our community is real good about Instead of putting it down the toilet in the water um you know they do the right thing and They drop it off to us so that it's properly disposed of so the weight that I brought today For disposal was a hundred seventy three point eight pounds that's a lot that's a lot so that's a kudos to South Lyon we always look good so and that's all I
+
+### Monday, November 9, 2026
+
+[Meeting page](../../meetings/2026/2026-11-09.md) · [Full transcript](../../transcripts/2026/2026-11-09.md) · [Video](https://www.youtube.com/watch?v=AqdwFBG4X3I) · South Lyon City Council Meeting November 9th, 2026
+
+[0:17:12](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1032s) Mayor City Council so the police department for Halloween we had six cars out there Passing out candy since I've been police chief it was probably the most scariest moment I've ever experienced as I pulled the police car up roof surrounded by kids so I had to say please let me get out of the car I have candy so
+
+[0:17:36](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1056s) great experience I don't know if you saw on Facebook we did have I got a picture With the four cows that were going through the neighborhood by the time they got to me they were Hoarse they couldn't barely moo anymore but it was a lot of fun so 2100 pieces of candy we gave out Police department attended the first responder monument ceremony and that was a very nice Ceremony myself and chief conrad got to ring the bell there it's usually locked and you you can't Ring the bell and they unlocked it for us to to ring it um the election there was no election Problems that the police department saw any
+
+[0:21:02](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1262s) Yes yes yes yes yes yes
 
 ## Sources
 

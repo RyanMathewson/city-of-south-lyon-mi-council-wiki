@@ -27,4 +27,4 @@ This wiki collects what the City of South Lyon, Michigan council has said and do
 - [2023](years/2023.md): 25 meetings
 - [2024](years/2024.md): 23 meetings
 - [2025](years/2025.md): 24 meetings
-- [2026](years/2026.md): 20 meetings
+- [2026](years/2026.md): 22 meetings

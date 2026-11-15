@@ -9,7 +9,7 @@ person: "Michael Squires"
 
 Back to [Michael Squires](../michael-squires.md).
 
-194 paragraphs in 23 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
+203 paragraphs in 25 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
 
 Speakers are matched by voice, so some of these may be someone else, and some of what this person said may be missing. Only confident matches are listed. The words are machine transcribed; the video is the record.
 
@@ -496,6 +496,32 @@ Speakers are matched by voice, so some of these may be someone else, and some of
 [1:23:03](https://www.youtube.com/watch?v=7EUVjQRLP0o&t=4983s) We can daughters and relay the message to you know where it goes from paved to Construction some of them are are pretty hard on the cars
 
 [1:28:49](https://www.youtube.com/watch?v=7EUVjQRLP0o&t=5329s) Mayor just like to say a big thank you to everyone who volunteered at pumpkin fest and South Lyon live I know my wife and I volunteered at the beer tent on Friday and the number of people Compared to last year was record -breaking a lot more people this Year thank you to everyone who helped organize and put this special event Together it's great to see that the construction didn't stop it and you know Thank you for everyone who participated again I'd like to say a special thank You to our police chief for your continued efforts for protecting the Citizens of south lion I know we entrust you with our lives and our children's lives so thank you Very much I also was at the event at brighton this weekend my wife is a huge gilmore girls fan I didn't really get it all but you know she had a blast um so definitely we could take some notes as to how to bump up South Lydon with it as well and again thank you for all the Emails and public comments it's great seeing the citizens take concern about What's happening in their community and all the comments and emails have are Greatly appreciated so thank you very much
+
+### Monday, October 26, 2026
+
+[Meeting page](../../meetings/2026/2026-10-26.md) · [Full transcript](../../transcripts/2026/2026-10-26.md) · [Video](https://www.youtube.com/watch?v=2ghjGVgcM4o) · South Lyon City Council Meeting October  26 2026
+
+[0:15:11](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=911s) Go ahead, Kelsey. Thank you, Mr. Merritt. Do you know, how much does the average CO2 alarm cost?
+
+[0:15:46](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=946s) Gotcha. Thank you. You're welcome.
+
+[0:18:48](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=1128s) Squires you weren't here last you weren't
+
+[0:18:50](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=1130s) I forgot I just want to say a big thank you to the police department and the fire department For uh trigger treating and being present and having the cars and the trucks and the lights and Giving out candy it's always been my kids favorite part of halloween and it's always really nice to See uh the police officers and firefighters out in the community giving out candy so a big thank You to both of you very
+
+[0:51:11](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=3071s) Just really quick uh preload was the original company that Built this tank that's correct yep that
+
+[1:36:03](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=5763s) Mr. Mayor, I'd like to say congratulations to South Lyon High and South Lyon East football teams for making it into the postseason. Their first playoff game is on Friday, so congratulations to both South Lyon High schools. Election day is right around the corner. Make sure you have a plan. Make sure you vote and make your voice heard. And that's all I have. Thank you. Thank you, Councilmember. Councilmember Hanson.
+
+### Monday, November 9, 2026
+
+[Meeting page](../../meetings/2026/2026-11-09.md) · [Full transcript](../../transcripts/2026/2026-11-09.md) · [Video](https://www.youtube.com/watch?v=AqdwFBG4X3I) · South Lyon City Council Meeting November 9th, 2026
+
+[0:24:24](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1464s) You mr mayor uh as far as the construction goes I know we had a eta of mid -november and we're still Looking good good question and I always say
+
+[0:25:16](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1516s) We're at so awesome and thank you for all the updates and communication regarding the project absolutely thank you so much Councilmember Kurtzweil I
+
+[0:29:03](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1743s) Member squires thank you mr mayor uh happy diwali to everyone who celebrates um hope it's a fun Celebration again thank you to all the city workers and poll workers for working the election As far as the police chief said there were no issues I haven't heard any issues so thank you To everyone and congratulations to the police department for a great article in the south Line magazine it's a really really proud moment for all of us so that's
 
 ## Sources
 

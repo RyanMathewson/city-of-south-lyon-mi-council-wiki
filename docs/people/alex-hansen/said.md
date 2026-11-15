@@ -9,7 +9,7 @@ person: "Alex Hansen"
 
 Back to [Alex Hansen](../alex-hansen.md).
 
-918 paragraphs in 111 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
+927 paragraphs in 113 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
 
 Speakers are matched by voice, so some of these may be someone else, and some of what this person said may be missing. Only confident matches are listed; 26 more paragraphs matched only weakly and appear in the transcripts marked *(unconfirmed)*. The words are machine transcribed; the video is the record.
 
@@ -2304,6 +2304,32 @@ Speakers are matched by voice, so some of these may be someone else, and some of
 [0:41:28](https://www.youtube.com/watch?v=8tvAkwGuLt0&t=2488s) I'm
 
 [1:04:58](https://www.youtube.com/watch?v=8tvAkwGuLt0&t=3898s) Mr mayor just a quick note um actually piggybacking off the halloween decorations I actually was going To mention that I've had quite a bit of joy walking around the city even driving around My kids specifically even with all the detours and everything like that want me to drive certain Streets because of certain decorations that are out so it's been so great to see some of The decorations that have been put out I would definitely encourage anyone that hasn't had the Chance explore those side streets and some of those subdivisions because the decorations are A real treat especially once the lights go down and they they light up and everything so I wanted To just make that note and uh just express my kids pleasure on on those uh lovely decorations Out there so thanks to the community and uh keep it up so that's
+
+### Monday, October 26, 2026
+
+[Meeting page](../../meetings/2026/2026-10-26.md) · [Full transcript](../../transcripts/2026/2026-10-26.md) · [Video](https://www.youtube.com/watch?v=2ghjGVgcM4o) · South Lyon City Council Meeting October  26 2026
+
+[0:01:01](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=61s) Thank you, Mr. Mayor. I'll move the agenda as presented.
+
+[0:43:56](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2636s) I I just had questions yeah we're going to
+
+[0:44:17](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2657s) This might be more for like the quote that they gave us but my My thought process here from what you're telling me to repair this they're gonna Leave the corroded wire in there and then wrap around you're exactly right
+
+[1:03:17](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=3797s) Well, I had one quick question as far as the repair. Okay, go ahead. Just wanted to clarify and confirm, the wiring for the repair is not going below ground. Like, we aren't digging out the nine feet.
+
+[1:03:42](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=3822s) Yeah, because I saw the backfill item on the on the invoice on the estimate. So I was like, okay Well, if we aren't going all the way down like how yeah. Yeah. Okay. Thank you. Mr. Mayor.
+
+[1:22:53](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=4973s) Yeah yeah so disheartening news sorry Ron you're you know in front Of us again with with this sort of news but I appreciate all your efforts and and HRC's efforts would it be something to maybe consider you know we keep Keep talking another million gallon tank is this time to maybe even explore two Five hundred thousand gallon tanks to have in tandem with the six hundred Thousand to you know have redundancies or I mean you know tank is down for Maintenance or something like that I mean would that be something to explore at this point too I
+
+[1:36:27](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=5787s) Thank you, Mr. Mayor. I just Wanted to thank all the city staff clerk and the election workers and volunteers That are helping with the election as mr. Squires commented on election day is Next week but Southline is doing early voting as many municipalities do so you've got some early voting times 9 a .m. to 5 then Tuesday Wednesday and then On thursday we've got early voting uh possible from 10 a .m to 6 p .m then on the 30th 31st and November 1st you've got early voting options from 9 a .m to 5 p .m this is all at the city of south Lion city hall at 335 south warren street in south lions so again thanks to all the city staff and The election volunteers that are helping to make this happen and hoping to see everybody down at The polls thanks thank
+
+### Monday, November 9, 2026
+
+[Meeting page](../../meetings/2026/2026-11-09.md) · [Full transcript](../../transcripts/2026/2026-11-09.md) · [Video](https://www.youtube.com/watch?v=AqdwFBG4X3I) · South Lyon City Council Meeting November 9th, 2026
+
+[0:18:40](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1120s) Mr mayor thank you
+
+[0:32:39](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1959s) Thank you, Mr. Mayor. Just a couple things from my seat this evening. Definitely wanted to thank Lisa Deaton, all the city staff, the election volunteers for such a smooth election this year. My mom volunteers every year for over in Kalamazoo County, and she said it was very busy. So the fact that we had 90 percent of all absentee ballots come back, you know, total of, gosh, 2 ,742 by 8 p .m. And then also, 68 % of the vote for the city coming in. That is a great turnout. Thank you, South Lyon, for coming out and voting, 6 ,739 of you. So definitely we'll see what happens next election. But it was so positive to read that in the manager's report And to see that kind of turnout and civic engagement from the community. A point for next week, there's actually ribbon cutting, Friday, November 20th at 10 .30 a .m., BU therapy ribbon cutting. And then also coming up here on Wednesday, just wanted to put a reminder out there that Wednesday is actually Veterans Day. Thank a veteran, thank a service member that you know in our community for their service. Um this day is to honor them and by all means I'll be looking forward to some of the activities Around town so thank you mr mayor thank
 
 ## Sources
 

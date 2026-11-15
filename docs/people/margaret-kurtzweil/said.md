@@ -9,7 +9,7 @@ person: "Margaret Kurtzweil"
 
 Back to [Margaret Kurtzweil](../margaret-kurtzweil.md).
 
-6636 paragraphs in 264 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
+6674 paragraphs in 266 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
 
 Speakers are matched by voice, so some of these may be someone else, and some of what this person said may be missing. Only confident matches are listed; 208 more paragraphs matched only weakly and appear in the transcripts marked *(unconfirmed)*. The words are machine transcribed; the video is the record.
 
@@ -14364,6 +14364,90 @@ Speakers are matched by voice, so some of these may be someone else, and some of
 [1:04:07](https://www.youtube.com/watch?v=8tvAkwGuLt0&t=3847s) You know people are asking so sure no I understand yeah I think we Can do okay so
 
 [1:07:24](https://www.youtube.com/watch?v=8tvAkwGuLt0&t=4044s) Thank you mr mayor uh once again welcome ashley looking forward to sitting down and Um having a cup of coffee with you at one of our great places in town uh once again Please visit our downtown businesses I've been at uh maple house several times in the past week Uh was at a venue uh next door uh great time in there found a couple of items So definitely shop downtown I didn't have a problem getting into downtown uh so please shop I'd also like to thank the culture arts commission for participating in the forest trick or treat at The salem south lion live public library thank you carl linda melissa and ken close to I heard About 400 kids were in attendance and the kids and their parents had a great time last get ready For the great halloween costume party at the south lane hotel on friday october 23rd now I've been Talking to corey and I've kind of heard through the grapevine that there's going to be some Surprises down there in the works not quite sure what they are but apparently it's going to be a Huge friday down at the hotel I already have my costume and I've already been told that it's Probably a ringer for first place so I don't know yeah that could just be corey talking but anyway way I don't forget the big Halloween costume party at the South Line Hotel on Friday October 23rd hopefully we'll see everybody there in costume thank you
+
+### Monday, October 26, 2026
+
+[Meeting page](../../meetings/2026/2026-10-26.md) · [Full transcript](../../transcripts/2026/2026-10-26.md) · [Video](https://www.youtube.com/watch?v=2ghjGVgcM4o) · South Lyon City Council Meeting October  26 2026
+
+[0:09:57](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=597s) mayor I also want Let you know that some of the businesses that are south of the downtown are looking forward To meeting you uh that would include you know our businesses down around the nine mile area Uh that also have not really had an opportunity to uh work with uh an you know an economic Development director in terms of how they can uh cross market with the downtown I think there's Some really good ideas not only on the south end of the city but we have a very active north end Of the city also up by 11 mile that have some really good businesses that also Want to participate in the economic development and programs and do a lot of Cross marketing with many of our good businesses downtown so your schedule is Really busy now but you know hopefully in the spring or sometime next summer You know some of those networking opportunities you can do yeah I'll make
+
+[0:10:52](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=652s) You any other comments
+
+[0:31:23](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=1883s) on page two and I'm just gonna sort of ask you To explain some issues I'm in the executive summary in that first Paragraph towards the bottom is is there they're they're talking about the Shotcrete cover was placed over the wires and unexpected construction Sequence that it's not standard practice today is that going to be corrected in In a that will be corrected so are they talking about replacing the whole dome yeah well not not
+
+[0:32:23](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=1943s) So they're looking at not just repairing pilaster number eight the issues that Surround that but they're going to take a good thorough look at all the other
+
+[0:33:54](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2034s) Brings me to my next question is that if they see that the crack is moving that
+
+[0:35:44](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2144s) only I don't to get back to my initial question is that in my mind when I was Looking at this you know things do shift you know I mean they they just do they do so at some point I assume that if they determine that that shift in that crack has moved almost more than what would Be capable of being repairing without sacrificing the integrity of that tank I would think at some Point they will be raising the red flag saying
+
+[0:36:23](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2183s) We're not going to know that they would
+
+[0:37:04](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2224s) The issue of the stress As I read the report it did not provide any Analysis of underground Observations am I correct on that you are correct not from the outside.
+
+[0:37:22](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2242s) Yeah okay all right so then it says on page six uh at the bottom of the page it would appear that There had been some outward displacement of the wall so the the out explain they're discussing
+
+[0:38:27](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2307s) Be my question was was it just the pilaster that was Moving yep or was there something behind the pilaster
+
+[0:39:03](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2343s) Yeah, they may not. Then on page 7 in figure 4 in the text material, It says note the pilaster does not have a one and a half insert from the Overhanging dome ring face that okay so
+
+[0:39:21](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2361s) That's again yep
+
+[0:39:37](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2377s) I found this interesting on Page 10 we believe it's necessary to remove the coatings over this is why I Said it sounds like it's a complete almost remake over a fairly wide Portion of the wall or at least enough to expose all right yeah the coating
+
+[0:40:10](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2410s) Material okay they do say on page 10 remaining tasks on this phase of pre Loads investigation number one so are they saying here when we get all done We're going to take another step and decide about the dome to to redesign it For pre -stressing replacement no
+
+[0:40:40](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2440s) Dome will stay okay
+
+[0:40:59](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2459s) I had a one last question and That goes on the page where uh james masterfield the division manager signed the letter um dated October 14th it's on the second page up at the top he says the above estimate is for construction Beginning in 2026 and assumes the use of open shop labor so is I I think I understand what open shop Labor is I've been spending a lot of time with union guys the past month yep I read that yeah
+
+[0:42:00](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2520s) not open shop I
+
+[0:42:21](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2541s) And that's not to say that that um the shop guys aren't extremely Talented because they are they're an incredible group of of individuals um like I said I've been With a bunch of them for the past 30 days but I've also become very educated too in terms of Skill sets and I think on a job like this this is not a normal job that somebody with open shop Skills would necessarily run into on a daily basis so their ability to maybe Pick up on some of the nuances that could occur in the repair process may not be as experienced that's all I'm saying and and that's why I just I also
+
+[0:43:23](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2603s) You very much mr mayor so it's
+
+[0:51:26](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=3086s) Thank you um going to the bid a little bit uh it just sort of triggered my mind a little bit I don't know let's assume people wanted to send this out for a bid I I don't know If I would be in favor of that in fact I probably wouldn't be at all This seems like a highly specialized area of repair number one number two if you're going To send it out if I were preload I would not I'm curious did they put a restriction on you Releasing this report to anybody because I sure would not I think if I were them I wouldn't want You releasing this report
+
+[0:52:50](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=3170s) The issue for me on on an additional bid Would be if the second bidder had a different process and a different Analysis as to what the preload report has already provided why is that That important? To me, it's important because everybody else has had their hands in analyzing And repairing that tank except for the manufacturer of that tank, and it has not met with success. Since 2014 or 15th, it's been an issue. Somebody has come in. Somebody's done the repair. It hasn't Been preload so I'm saying to myself why are we going to repeat this why would you invite A second bidder to come in and repair this when the track record of second parties coming in and Repairing that tank have not met with success if preload made the tank my preference would be they They are the ones that own it. They're the ones that own the repair. Give them the opportunity to change the course A little bit with that tank. So I would stick, I wouldn't send it out. I'm not opposed to that, no. I mean, yeah. That's just my thoughts on it.
+
+[0:54:25](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=3265s) Correct, because we're still on that part of the discussion. Correct, Mr. Mayor, correct, yeah.
+
+[1:15:15](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=4515s) I have a couple questions then on that I thought I read in the report What preload did was they took some core samples or they went in and drilled and It took some samples so
+
+[1:16:35](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=4595s) So what keeps the water in these tanks from freezing? I understand the metal.
+
+[1:17:04](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=4624s) So you don't have an artificial mechanism in there that is rotating or keeping them?
+
+[1:17:31](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=4651s) Why doesn't that work With a metal tank well
+
+[1:18:16](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=4696s) Let's go to preload now preload possibly is could be considered you know somebody to put in a The new one have they done any design differences from when this was done it appears that yeah they
+
+[1:28:02](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=5282s) Mayor I'd like to move forward that that the city continued to explore its Its options to replace the 1 million gallon tank that is currently offline a
+
+[1:32:18](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=5538s) Member Kurtzweil oh I've been getting a lot of questions about all the electrical work that's Going on down at nine mile and Pontiac Trail uh it's been oh
+
+[1:33:17](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=5597s) When you look at the poles that are going up if you Look at the uh wiring that's going on them the actual structures uh there's a lot of new hardware That is going on those um those poles I mean it's unbelievable now is this part of their program To help improve um electricity in the city of South Lyon so we don't have these outages yeah
+
+[1:34:27](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=5667s) I know I've brought it up at you know other City Council meetings not only with you as a city manager but with the former city manager yeah And and the outages really are not you know I don't recall the art outages being That significant down on the Pontiac Trail nine mile area the outages were more in town yeah yeah Down on the 10 mile area yeah that's not where I'm seeing the
+
+[1:34:54](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=5694s) Yeah I mean you Should see the wiring on these it's incredible yeah um that's why I'm kind of wondering about It because really where the outage issue is is and maybe when you do have a meeting with dte You could maybe bring that up to make sure that the outage problem in fact I Think Hagedorn might be one of the areas that they've had the outages just east Of town on 10 mile yeah back in there yeah
+
+[1:35:44](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=5744s) As well okay thank you any
+
+[1:38:50](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=5930s) Thank you, Ms. Mayor. I would like to thank Sharon for all her hard work at Active Faith. I used to sit on the Board of Directors And that's not an easy job. I don't think there was a night that I didn't go home from a Board of Director meeting that I didn't sit back and wonder, You know, was there more that we could do? Who can I call for some additional help, Financial resources? It is a tough job and I can assure you she probably doesn't have a lot of Nights that she sleeps well because she carries every one of those clients with her heart so thank you Sharon I also want to thank Great Lakes a eco for Their contribution to the fire department I think we sometimes forget How important our businesses are in terms of their donations back to the community so thank you Great Lakes I'll be in sometime this week and thank Everyone over there personally for their help uh next I'd like to thank the southline hotel Who gave just a fabulous incredible uh friday night for everybody um and also james from abc News it was just an incredible event over there um and not only uh did we have just a packed house But the halloween was going on and so was the baseball game and and nobody had a problem finding the Southline Hotel so when people say construction is tough no it's not Because there were hundreds and hundreds of people at that hotel and everybody Was able to find it and no one had a problem during the construction and last I want to thank all the individuals that I've spoken to in the subdivisions People are getting their homes decorated everyone is getting ready for Halloween on Saturday and I think everyone is looking forward to just having a nice Halloween because the past couple years have been a little bit chilly and rainy and so I think everyone is expecting a really good turnout and I think that's why people are going out of the way and decorating so I have a great time I'm Looking forward to it and we'll see everybody at the next meeting thank you
+
+### Monday, November 9, 2026
+
+[Meeting page](../../meetings/2026/2026-11-09.md) · [Full transcript](../../transcripts/2026/2026-11-09.md) · [Video](https://www.youtube.com/watch?v=AqdwFBG4X3I) · South Lyon City Council Meeting November 9th, 2026
+
+[0:09:32](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=572s) I moved the consent agenda as presented by the mayor support the motion Councilmember
+
+[0:25:28](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1528s) Just had a question regarding construction also one of my complaints Every year have been the clotheslines that have been down downtown with the Christmas lights on them and I recall being told that those strings would be Gone when the roads got replaced and then they could put in electrical Outlets down at the bottom by the trees instead of stringing these wires from Tree to tree so I wanted to know if that is still part of the plan in the Improvement downtown is to get those clothes lines off of the trees and to Get electrical outlets down by the trunk on the bottom down at ground level yeah
+
+[0:26:25](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1585s) Great I know other cities have um their outlets down at the bottom so I know we can do it Um the other thing is on the um data center um ordinance I'm not in a hurry that that's just me I'm not in a hurry to have that ordinance pushed through um because I'm taking a lot of notes I'm Doing a lot of research and I'm going to nitpick that a lot and there's a lot of ideas that other States are coming out with in terms of restricting the use and I'd like to have the benefit of maybe Exploring what other states are doing I'm a little bit concerned that if we get if we rush it through Too quick um we will not learn from the experiences of the other states that are imposing restrictions And cutting back or curtailing the use so we'll just have an ordinance that we Decided to do I'd rather be a little bit more comprehensive and address maybe What other communities are already facing that already have these data Centers in how they are going back and sort of readjusting some of their Decision -making so for me I wouldn't be opposed if we had to run another year moratorium on it so I'd rather I'd rather be extremely thorough on it Uh rather than doing it because it's an agenda item understood
+
+[0:34:08](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=2048s) You mr mayor uh first of all I want to thank all the parents who had just incredible kids on Halloween uh the parents were just absolutely phenomenal uh that I saw uh our sub was absolutely Packed and uh the kids were extremely well behaved and I just think it was just a perfect night the Weather was great the kids were super the costumes were unbelievable and uh between the golf cart With the blinking eyes and the cows uh I'll tell you it was a wild wild night in hidden creek sub That's for sure um next I want to thank pac -39 for coming tonight and working on their badge Dealing with community and adventure this was a great opportunity for them to understand Including their parents uh how local government works so I want to thank those members of city Council that participated including the staff the chief of police our fire chief and our city Manager and last um I know uh jeanette benson I've known her for a very long time in the four seasons Garden club and I learned a lot about gardening through jeanette jeanette could earn this award Over and over and over again she is just an incredible individual who just continues to Give and give and give I know I've gone to her on issues that were unrelated to gardening and The woman has always always come through with with either an answer or a suggestion or she's put me In contact with somebody her commitment to volunteering is absolutely phenomenal and and I think mr mary couldn't have selected a better person uh for this award she's just a great human Being so uh jeanette I will see you in the garden soon thank you thank you Councilmember and
 
 ## Sources
 

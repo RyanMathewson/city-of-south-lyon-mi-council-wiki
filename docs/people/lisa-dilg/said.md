@@ -9,7 +9,7 @@ person: "Lisa Dilg"
 
 Back to [Lisa Dilg](../lisa-dilg.md).
 
-1713 paragraphs in 161 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
+1720 paragraphs in 163 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
 
 Speakers are matched by voice, so some of these may be someone else, and some of what this person said may be missing. Only confident matches are listed; 73 more paragraphs matched only weakly and appear in the transcripts marked *(unconfirmed)*. The words are machine transcribed; the video is the record.
 
@@ -4098,6 +4098,28 @@ Speakers are matched by voice, so some of these may be someone else, and some of
 [0:59:21](https://www.youtube.com/watch?v=8tvAkwGuLt0&t=3561s) What's the date of the planning uh meeting that I would
 
 [1:06:18](https://www.youtube.com/watch?v=8tvAkwGuLt0&t=3978s) mayor I just wanted to say once again just a plea for Everybody to please shop local um and I with that I wanted to welcome again ashley and let you know That you do have a uh you'll have a lot uh to accomplish when that all uh opens up again but I'm really excited to have you here and I think it'll be nice to have um a fresh new look at Things so we can get started on that so um just to everybody please uh try to support our local Businesses while you while this is going on and you know maybe at some point we Can talk with our downtown businesses about Sunday and capture staying open maybe in capturing the huge amount of people coming out of Maple House on Sunday and I think that would be something to look at because you know There's people funneling in and out of there oh you know all day long on Sundays so that's all thank you thank
+
+### Monday, October 26, 2026
+
+[Meeting page](../../meetings/2026/2026-10-26.md) · [Full transcript](../../transcripts/2026/2026-10-26.md) · [Video](https://www.youtube.com/watch?v=2ghjGVgcM4o) · South Lyon City Council Meeting October  26 2026
+
+[0:50:21](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=3021s) Councilmember Duke thank you um I know this will sound bad but I don't see any Kind of insurance quote in here and I just wonder you're saying how dangerous this is there will be Insurance that is there but what I'm asking is is are they do they have to fully cover it with Their insurance or are we
+
+[0:50:42](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=3042s) Want to make sure it's
+
+[1:37:26](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=5846s) You mr mayor um the only thing I have is to say that I'm excited to judge the halloween houses so get your stuff ready um and Same thing uh get out and vote and um just wanted to say to be careful um on halloween it is on a Saturday this year which could complicate things a little bit with other with people going out more Often than they do during the week so just everybody be careful out there Drive carefully and and pay attention to the kids and then I just wanted to thank Sharon from active faith for coming in and talking with us it is certainly a gem of South Lyon and the help that they do for our community is incredible That's all thank you thank
+
+### Monday, November 9, 2026
+
+[Meeting page](../../meetings/2026/2026-11-09.md) · [Full transcript](../../transcripts/2026/2026-11-09.md) · [Video](https://www.youtube.com/watch?v=AqdwFBG4X3I) · South Lyon City Council Meeting November 9th, 2026
+
+[0:02:13](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=133s) Move the agenda is presented support
+
+[0:23:28](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1408s) Just really quickly um talking about the uh fixing the trail that our young visitor brought up I just wondered if we have I mean I know the the the plan for right now but I just wonder if you haven't do you have it mapped out at all so I've
+
+[0:24:20](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1460s) You Councilmember squires thank
+
+[0:36:03](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=2163s) Member Dilg I actually don't have anything that wasn't already covered thank you everybody and
 
 ## Sources
 

@@ -9,7 +9,7 @@ person: "Stephen Kennedy"
 
 Back to [Stephen Kennedy](../stephen-kennedy.md).
 
-6039 paragraphs in 222 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
+6159 paragraphs in 224 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
 
 Speakers are matched by voice, so some of these may be someone else, and some of what this person said may be missing. Only confident matches are listed; 115 more paragraphs matched only weakly and appear in the transcripts marked *(unconfirmed)*. The words are machine transcribed; the video is the record.
 
@@ -12996,6 +12996,254 @@ Speakers are matched by voice, so some of these may be someone else, and some of
 [1:08:49](https://www.youtube.com/watch?v=8tvAkwGuLt0&t=4129s) thank you Councilmember Councilmember Popa thank you mr.
 
 [1:10:07](https://www.youtube.com/watch?v=8tvAkwGuLt0&t=4207s) You Councilmember uh tonight I want to remind everyone that We do have some halloween events coming up this week as Councilmember Kurtzweil mentioned the one For the the hotel uh another one coming up is goodies on the grand and lion township takes Place this saturday october 17th from 4 30 to 6 p .m as well as a trunk retreat event at salem Gardens down on Pontiac Trail that same afternoon from four o 'clock to seven p .m carousel acres will host cars and critters on Sunday October 18th from 11 a .m. to 4 p .m. with Halloween costume contest and trick -or -treating as our city manager mentioned the city will be supporting the South Lyon Senior Care and Rehab trunk -or -treat over on Reynolds Sweet Parkway for their event on October 22nd from 530 until 730 and that same night the Moose Lodge will be hosting a Trunk -or -treat event from 6 p .m. To 8 p .m. So they'll be providing free hot Dogs and chips as well as candy and a costume contest there as well so make plans now to get The kids out in their costumes for a good time and some great treats and I'm sure everybody's Going to have their sugar fix from all the events there so with that I will look for a motion to Adjourn Councilmember Kurtzweil move to adjourn support very good we will see you in two weeks
+
+### Monday, October 26, 2026
+
+[Meeting page](../../meetings/2026/2026-10-26.md) · [Full transcript](../../transcripts/2026/2026-10-26.md) · [Video](https://www.youtube.com/watch?v=2ghjGVgcM4o) · South Lyon City Council Meeting October  26 2026
+
+[0:00:00](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=0s) I'd like to call to order the October 26, 2026, regular City Council meeting. Please stand for the Pledge of Allegiance.
+
+[0:00:26](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=26s) Thank you. City Clerk Deaton will let the roll call show everyone is present this evening. And with that, we will move on to approval of the minutes for October 12, 2026.
+
+[0:00:46](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=46s) Motion is second from Councilmember Dilge. All those in favor, please say aye. Aye. Opposed? Thank you very much. We have no bills for this evening, so we'll move on to approval of tonight's agenda. Councilmember Hanson.
+
+[0:01:03](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=63s) I'll support. Motion is second. All those in favor, please say aye. Aye. Opposed?
+
+[0:01:10](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=70s) At this time we'll open the floor for public comment those wishing to address the the council have a two -minute time frame within which Do so please come to the podium state your name and address for the city clerk if you would hi
+
+[0:03:24](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=204s) Thank you very much at
+
+[0:03:33](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=213s) This point we will close public comment and move on to Tonight's proclamations we have a couple of proclamations this evening the
+
+[0:03:48](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=228s) First deals with Alzheimer's disease awareness month Alzheimer's disease and related Dementias affect more than 6 million Americans aged 65 and older and an Estimated 50 million people worldwide are living with dementia a number Projected to triple by 2050 and whereas dementia is the seventh leading cause of Death globally and its impact extends far beyond those diagnosed affecting Families caregivers and communities who often provide care without adequate Support or resources and whereas Alzheimer's disease awareness month was first designated in November 1983 by President Ronald Reagan and November Remains the nationally recognized month to elevate awareness reduce stigma and Honor those living with dementia and their caregivers and whereas memory Matters a youth led non -profit organization works to raise awareness About dementia and build a supportive community for those affected reaching Advocates researchers and families across more than 35 countries through Its global newsletter and researcher network and whereas the city of South Lyon recognizes the importance of supporting residents and families Navigating the challenges of dementia and affirms its commitment to a Compassionate informed and inclusive community now therefore I stephen b kennedy mayor of the City of south lion do hereby declare the month of november 2026 to be dementia awareness month In the city of south lion and call upon all residents businesses and community organizations To join in recognizing supporting and honoring the millions of individuals and families families living with dementia, dated this 26th day of October, 2026.
+
+[0:05:36](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=336s) On another note, we have a proclamation honoring Family Court Awareness Month, whereas the mission of Family Court Awareness Month is to highlight the need to prioritize child Safety in family court as one in three families in Michigan are exposed to domestic abuse, and whereas an estimated 58 ,000 children in the U .S. are ordered into unsupervised contact Act with abusive parents each year, resulting in almost 1 ,000 children in the United States Murdered during visitation with an abusive parent since 2008. In Michigan, 39 children have been murdered by a parent since 2008 during divorce or custody Disputes. And whereas the mission of Family Court Awareness Month is to promote judicial education that Would include training on domestic violence, child abuse, childhood trauma, coercive control And post separation abuse for all professionals involved in family court Cases and whereas the family court awareness month recognizes the need to Incorporate evidence -based research into the challenge of the courts decisions This includes the adverse childhood experiences study this research Highlights long -term effects of exposure to abuse in childhood and emphasizes the Need for research informed and impartial decision -making to protect children's Well -being and whereas family court awareness month aims to encourage Collaboration among legislators advocates professionals and the Community to improve family court practices ensuring that they are guided By evidence -based research and prioritize the safety and best interests of the children now therefore I Stephen B Kennedy mayor of the city of South Lyon do hereby declare the month of November of 2026 to be family court awareness month in the city of South Lyon thank
+
+[0:07:26](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=446s) You very much this point move On to the consent agenda we have nothing on the consent agenda this evening so We'll move on to a discussion of downtown testing
+
+[0:07:38](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=458s) okay I'm on so
+
+[0:08:36](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=516s) Okay well please come on up
+
+[0:08:47](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=527s) We
+
+[0:08:59](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=539s) have anything else relative to downtown now I Tell you what else you actually did you want to say something yeah please feel
+
+[0:09:51](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=591s) Pressure anybody have any questions for a new DDA director Councilmember Kurtzweil Thank You mr.
+
+[0:10:55](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=655s) Well, welcome to the city of South Lyon look forward to working with you and helping you well, you know, take the city even further Yeah, likewise.
+
+[0:11:04](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=664s) You bet this point. We'll move on to the fire chiefs report tonight with the chief Conrad
+
+[0:13:17](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=797s) Very good any questions for chief Conrad this evening
+
+[0:13:26](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=806s) Councilmember Volker Thank You.
+
+[0:15:52](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=952s) Thank you, Chief.
+
+[0:15:54](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=954s) Moving on to the police chief's report this evening with Chief Unruh.
+
+[0:18:38](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=1118s) Have okay any questions for chief under this evening Councilmember why am I Drawing a blank okay
+
+[0:18:50](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=1130s) Here last week and
+
+[0:19:19](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=1159s) Good thank you very much chief this evening we have a presentation from Our water and wastewater superintendent mr ron beason good
+
+[0:19:36](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=1176s) Evening mr mayor council
+
+[0:28:37](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=1717s) Any questions regarding what was initially found here?
+
+[0:29:44](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=1784s) You any other questions at this point council member Thank You mr.
+
+[0:31:17](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=1877s) you Councilmember Kurtz well
+
+[0:43:21](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2601s) That a Councilmember yes thank
+
+[0:43:30](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2610s) You know be honest I'll be I'll be frank about it sounds like we're Perfuming the pig here
+
+[0:43:36](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2616s) I mean there's still a lot of unknowns there are I'm not yeah you tell Me tell me what the difference is between trying to repair and resurrect this thing and the other Alternative that they list list
+
+[0:44:12](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2652s) I'm recognizing councilman first so
+
+[0:46:07](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2767s) So how's that how high is that
+
+[0:47:21](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2841s) It's a tough decision
+
+[0:47:25](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2845s) Let me just see what Councilmember popa has her hand up here oh okay thank
+
+[0:51:05](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=3065s) Okay thank you Councilmember squires
+
+[0:51:22](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=3082s) Was it okay thank you mr mayor Councilmember critchwell
+
+[0:54:19](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=3259s) And that presupposes that we actually make a decision To try to repair what exists there.
+
+[0:54:28](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=3268s) Any other comments for Ron regarding this phase? Okay, well, let's go ahead with the other because, I mean, this is trying to resurrect this tank as it currently exists. Correct. And that's based on everything that we can see right now. Right. Okay, I mean, it doesn't, and again, we did this four years ago. I think it was four years, Ron?
+
+[0:54:57](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=3297s) Four years later. And looking at a million six or whatever it is.
+
+[0:55:11](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=3311s) So let's let's go on what the other alternatives we let's move
+
+[1:01:29](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=3689s) All right so there's just a couple of quick questions for you ron If we you know we look at the the tank like the one that sits over there at nine mile and And griswold road yep okay so first off we've got a totally demo the the existing tank foundation Everything out of there to put something like that in got a backfill the hole that's there To bring it up to ground level and then is this thing have a bladder inside that tank so it has
+
+[1:02:58](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=3778s) Let's do that straw poll okay I mean let's just take a Straw poll going down the con the table here let's see who's interested in entertaining repairing The existing tank that we have and addressing the issues as from what we already know okay council Councilmember Hanson?
+
+[1:03:53](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=3833s) Yeah So I'm looking to see if Where everybody currently stands right now as far as who's entertaining repairing the existing tank With what we currently know and or may not know right now. So I'm looking for a show of hands on who's Interested in pursuing that course of action
+
+[1:04:17](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=3857s) Okay, so we're looking at some new alternatives So we're looking at either Tearing the old tank out Rebuilding a new tank another million gallons similar construction Or we're looking at another million gallon tank. I'm assuming this million gallon tank steel construction like they have over a nine mile and men Griswold there That's two million. This would be just one million
+
+[1:05:08](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=3908s) so I mean you're not prepared to do
+
+[1:05:17](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=3917s) you know I mean I think we've made the decision here That we're not going to repair the current tank we've been down that road Before okay so the question is do we replicate this tank with the concrete and you know reinforced Concrete design do we go to the uh the design like they have over there at nine mile and griswold That the township has with uh is there a bladder inside that one over there is it just it's just Well up against the steel walls
+
+[1:05:45](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=3945s) That keeps the stuff from
+
+[1:06:22](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=3982s) Does anybody have any Other questions for ron Councilmember opa
+
+[1:12:15](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=4335s) We repaired this we didn't use we didn't use preload to repair this thing we use
+
+[1:12:25](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=4345s) there I mean Doug
+
+[1:12:27](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=4347s) Yes. Do you know who he used? Mike?
+
+[1:12:56](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=4376s) Okay. Okay. Just out of curiosity, you guys were the consulting engineers at that time. Was there a recommendation made why we selected them based on that approach to fixing the thing Versus going back to preload? I'm just curious because, again, I don't know how much Ron was involved in that decision process. We had another director in place at the time, but you guys were here, so I'm just curious. What what the discussion centered around why that decision was made give us any background on that at that time?
+
+[1:13:54](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=4434s) Okay Okay. So just out of curiosity, because, I mean, looking at the pictures, Obviously we've got deterioration throughout the wall there. It isn't just a leak in one location. It's traversed within the wall there somewhere over the course of time. And I guess, and I don't know if you know or not, Was that there before when we made the repair and we didn't notice it, Or do we have any idea?
+
+[1:15:39](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=4539s) They use a hammer drill
+
+[1:20:16](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=4816s) Ron if you can get that would you send that Along to everybody so we can take a look at that it's
+
+[1:20:27](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=4827s) Website yeah yeah yeah yeah whereabouts
+
+[1:20:44](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=4844s) Okay so just
+
+[1:20:51](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=4851s) Out of just cursory discussion right now is there a Recommendation to basically rebuild what we have or construct a tank like Lyon Township has I'm assuming there's advantages and disadvantages to the two designs I'm sure there's a difference in cost yeah I mean just if you want to Just give some order of magnitude and you want to talk about the benefits and Concerns that would probably be helpful to determine the direction we want to go
+
+[1:22:48](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=4968s) Okay okay Councilmember Hanson did you have Something?
+
+[1:25:01](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=5101s) The decision would be which type of tank to Build okay which and the benefits and yes concerns of one over the other yeah
+
+[1:25:38](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=5138s) Would be prepared within four weeks to come back with those options
+
+[1:25:49](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=5149s) Okay. Any other questions for HRC or Ron?
+
+[1:25:58](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=5158s) Okay. We'll see where it leads us, I guess, at this point. One thing I would like to do is just, I'd like to go on the record and Get everybody on record as far as making a decision that we are not going to perfume the Pig here and repair the old one, that we're going to pursue some other options in most likelihood. So I'll look for a motion to do that. Somebody wants to make that motion. You can leave out the perfume the pig part
+
+[1:27:38](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=5258s) You thank you so I'll be looking for a motion to that we're not going to Pursue rebuilding the existing tank we're going to be looking at additional Options forthwith that the water wastewater superintendent will be Providing four weeks from now Councilmember Kurtzweil thank you mr.
+
+[1:28:18](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=5298s) Second of a motion from Councilmember Kurtz well a second from Councilmember Popa do we have any further discussion city clerk Deaton if you'll lead us on Roll call vote for this please
+
+[1:28:38](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=5318s) Yes Kennedy yes so we will do that motion passes we'll see what happens in Four weeks let's look at the what the plan of action is what the pros and cons Are of the choices that we have available to us and we'll take it from There I mean obviously if there's you know one of the options has things that We can do during the winter months and get some of the prep steps out of the The way I mean that's obviously to our advantage to shorten the overall duration before we have that new new unit online so I guess I'm sure that You're going to provide that information in that discussion when you come forth With the proposal there so look forward to seeing what you recommend here in a Few weeks certainly appreciate you guys being here tonight and yeah so do we Certainly appreciate the amount of effort that's gone into investigating the issue and So forth. Ron, I know it's been tedious to say the least, but we'll get through it. We'll do it. I guess the silver lining in the cloud is that we do have the 600 ,000 that's in pretty Good shape, brand new practically. So if we didn't have that, this would be a whole different discussion. Yeah so yeah certainly appreciate that any other comments regarding this topic Thank you very much we
+
+[1:30:10](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=5410s) Have no unfinished business this evening and we Have no new business this evening any questions regarding the the budget at This point at this point we will open the floor for public comment those Wishing to address the council of two minutes within which to do so please State your name and address for the city clerk if you would seeing
+
+[1:30:37](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=5437s) None we will close public comment At this point and move on to the city manager's report with city manager Baaki thank
+
+[1:32:17](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=5537s) Have any questions for the city manager council
+
+[1:35:49](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=5749s) Other questions for the city manager this
+
+[1:35:56](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=5756s) You at this point we'll move on to the council Comments let's start with the Councilmember Squires this evening thank you
+
+[1:37:23](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=5843s) You Councilmember Councilmember doug thank
+
+[1:38:12](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=5892s) you Councilmember Councilmember Bogart thank
+
+[1:38:47](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=5927s) Thank you, Councilmember. Councilmember Kurtzweil.
+
+[1:40:47](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=6047s) Thank You Councilmember Councilmember popa Thank You mr.
+
+[1:42:44](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=6164s) You Councilmember uh tonight I want to remind everyone we do Have a couple more halloween events this uh this week the first will take place on thursday october 29th from six until eight in king plaza located at 22908 Pontiac Trail next to martin's hardware And the second is obviously the big day itself on saturday october 31st from six o 'clock until 8 p .m so get your costumes on and come on out to trick -or -treat and happy halloween and with that I'll look for a motion to adjourn Councilmember Kurtz will move to adjourn Support very well. We'll see you in two weeks. Thank you very much folks
+
+### Monday, November 9, 2026
+
+[Meeting page](../../meetings/2026/2026-11-09.md) · [Full transcript](../../transcripts/2026/2026-11-09.md) · [Video](https://www.youtube.com/watch?v=AqdwFBG4X3I) · South Lyon City Council Meeting November 9th, 2026
+
+[0:00:00](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=0s) I'd like to call to order the November 9th, 2026 Regular City Council meeting. And before we get started this evening, we have some special guests here. We have the Scouts, Pac -39 from South Lyon here, and I believe they're going to lead us in the Pledge of Allegiance for this evening, right? So if they want to step over to the microphone there.
+
+[0:00:33](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=33s) Whenever you're ready, Scouts. To
+
+[0:00:41](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=41s) the United States of America, and to the Republic for which it
+
+[0:00:52](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=52s) That was fantastic. How about a round of applause for the staff, okay?
+
+[0:01:06](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=66s) City Clerk Deaton, let the roll call show everyone is present this evening. And at this point, we'll move on to approval of the minutes for October 26th. Councilmember Bogert.
+
+[0:01:23](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=83s) I'll support. A motion from Councilmember Bogert, a second from Councilmember Dill. Do we have any further discussion regarding the minutes? All those in favor please say aye. Aye. Opposed? Thank you.
+
+[0:01:38](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=98s) Move on to approval of the bills for this evening. Councilmember Hanson. Thank you Mr. Mayor. I'll move the bills as presented. Support. Motion from Councilmember Hansen a second from Councilmember Squires any discussion regarding the bills for this evening Well all those in favor, please say aye aye opposed Motion passes. Thank you.
+
+[0:02:09](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=129s) We've been on to approval of tonight's agenda That's member Dilg
+
+[0:02:18](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=138s) Motion a second any further discussion regarding tonight's agenda All those in favor, please say aye. Aye. Opposed? Thank you very much. At this point, we'll open the floor for public comment. Those wishing to address the council have a two -minute time frame within which to do so. Please come to the podium. State your name and address for the city clerk. And you remember this is one -way communication. It's not a two -way conversation.
+
+[0:03:19](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=199s) Okay. Thank you. Thank you very much.
+
+[0:03:30](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=210s) I'm sure the city manager took note of that. At
+
+[0:03:39](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=219s) This point, we will close public comment. And tonight, we have a very special occasion. Tonight, we have a proclamation. So, Jeanette, if I could ask you to come on down and your entourage as well.
+
+[0:04:50](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=290s) Whereas, whereas, Jeanette Benson has served the Friends of the Salem Southland District Library for nearly 30 years, serving as a member of the Friends of the Library Board, as Secretary, as Vice President, and as President. And whereas, Jeanette played a crucial role in establishing the beautiful gardens at the library, Developing a team of 30 volunteers from the community, including herself, And making it a focal point in a place of beauty and peace for the community to enjoy. And whereas Jeanette also serves as the Friends of the Library Book Room Coordinator, Leading a dedicated team of 17 volunteers, as well as being responsible for the budgeting and financial reporting of the Friends Board. And whereas Jeanette ensures the Book Room provides a place for community members to donate books for sale, With the funds providing significant financial support to library programming, resources, marketing, and communications. And whereas Jeanette developed innovative ways to sell donated materials outside the library through online selling services such as Brickbooks, Ebay, and Amazon Seller, allowing the library to offer even more users beyond the walls of the Salem -South Lyon District Library, And whereas Jeanette has served our community in other capacities over the years as a volunteer at Active Faith, delivering food to those in need, and at the St. Joseph Catholic Parish bringing community to the homebound. And whereas Jeanette has proven to be a true servant leader whose traits include strong communication, authenticity, integrity, compassion, empowerment, continuous improvement, and always putting others first. And now, therefore, I, Stephen B. Kennedy, Mayor of the City of South Lyon, do hereby Declare that in recognition of her exemplary volunteer service to our community, Jeanette Benson shall be the recipient of this year's Dana Johnston Volunteer of the Year Award. Congratulations.
+
+[0:07:22](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=442s) Oh, excuse me. I'm sorry. Just, Jeanette, you have something. I forgot to offer you the microphone. Please come down and say something. My apologies.
+
+[0:08:05](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=485s) You very much yeah did
+
+[0:08:20](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=500s) Somebody else want to say something they're welcome to say that please Jeanette
+
+[0:08:31](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=511s) Really deserves us
+
+[0:08:46](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=526s) You anybody
+
+[0:08:53](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=533s) Else have anything to say on Jeanette's behalf again Jeanette well -deserved answer but the committee Certainly appreciates your efforts after all of these years so thank you very Much we'll
+
+[0:09:14](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=554s) Be known to tonight's consent agenda we have the resignation of mr. Dunn from the zoning Board of Appeals the holiday approval of the holiday spectacular parade and the parade route and the South Lion night out so I'll be Looking for a motion to approve tonight's consent agenda Councilmember Kurtzweil thank you mr mayor
+
+[0:09:39](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=579s) Kurtzweil second from Councilmember hansen we have any further discussion all those in favor Please say aye aye aye opposed and I certainly want to thank mr dunn for his years of support On the zoning board of appeals going to miss him in that in that capacity thank you again At this point, we will open the floor for discussion. I'm sorry, open the discussion for downtown with our DDA director, Ms. Abade. Abade?
+
+[0:13:58](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=838s) Certainly sounds like you've hit the ground Running uh anyone have any questions for our DDA director Councilmember bogart uh thank you mr
+
+[0:15:34](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=934s) Questions very good thanks thanks very much moving on to our fire chiefs report tonight with chief Conrad good evening mr.
+
+[0:16:20](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=980s) all I have for you any questions for chief Conrad this evening Councilmember Bogart Thank You mr.
+
+[0:16:54](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1014s) questions for chief Conrad this evening thank
+
+[0:17:00](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1020s) the police chiefs report this evening with chief Unruh good
+
+[0:17:12](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1032s) Evening mr.
+
+[0:18:19](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1099s) Questions for chief unruh this evening great News chief thank you very much thank you we have no unfinished business this evening so we'll move On to new business oakland county parks community park and trail capital grant program thank you
+
+[0:20:19](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1219s) Member popa I'd
+
+[0:20:42](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1242s) I'm sorry who I'll support I have a motion from Councilmember popa second from council Member hansen do we have any questions or discussion regarding this particular topic Very well city clerk dayton if you'll lead us in a roll call vote for this please
+
+[0:21:08](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1268s) Motion carries thank you very much thank you have
+
+[0:21:17](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1277s) Any Questions regarding the budget this evening our finance directors in the Audience here no
+
+[0:21:26](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1286s) Questions for this evening thank you at this point we will Open the floor for public comment again those wishing to address the the Council have a two -minute time frame within which to do so please come to the Uh the podium state your name and address for the city clerk and remember it is one -way communication
+
+[0:21:51](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1311s) Seeing none we will close public comment at this point and move on to the city manager's report
+
+[0:23:23](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1403s) Got any questions Councilmember doke yeah
+
+[0:28:01](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1681s) Road construction I was contacted by one of the businesses downtown today they Wanted their customers were asking since there's no construction right now are They allowed to park on the road and I told them no they are not allowed to Park on the road parking is prohibited while that project is underway and the Only time they'll be allowed to park on the road is when that road is reopened and that will be after Oakland County has striped the road and the DPW has Has marked the parking spots, as I recall, if that's correct, right?
+
+[0:28:52](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1732s) Okay, great. Thank you. Any other questions for our city manager this evening? Thank you very much, Doug. Thank you at this point we'll move on to council comments and we'll start tonight with council
+
+[0:29:34](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1774s) All thank you thank you Councilmember Councilmember popa thank
+
+[0:31:02](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1862s) Thank you Councilmember Councilmember bogart thank
+
+[0:32:37](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1957s) THANK YOU Councilmember. Councilmember HANSON.
+
+[0:34:05](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=2045s) You Councilmember Councilmember Kurtzweil oh thank
+
+[0:35:57](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=2157s) Certainly appreciate the uh accolades for uh jeanette benson as well well deserved council
+
+[0:36:09](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=2169s) Good night thank you Councilmember that won't stop me I'm going to repeat it Uh so tonight I want to I'd like to commend our city clerk Lisa Deaton as well as the entire staff City hall the entire team of election workers our dpw and everyone else who helped with last Week's election as usual everything went smoothly as the city conducted another safe and secure Election so again thank you one and all for making that happen also as was mentioned earlier in the the meeting tonight, we have a vacancy on the city's Zoning Board of Appeals, as well As on a number of other boards and commissions in the city. I'm encouraging our residents to contact City Hall and see if there's an area that might Be of interest to you, where you can help improve things in our city and make a difference For the folks who live here. Please contact City Hall at 248 -437 -1735, and we certainly appreciate you helping. So, thank you very much. and with that I will look for a motion to adjourn Councilmember Kurtz well move To adjourn support and we will see on November 23rd thank you very much before Thanksgiving
 
 ## Sources
 

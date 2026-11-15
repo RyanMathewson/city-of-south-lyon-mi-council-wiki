@@ -9,7 +9,7 @@ person: "Cindy Conrad"
 
 Back to [Cindy Conrad](../cindy-conrad.md).
 
-146 paragraphs in 33 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
+152 paragraphs in 35 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
 
 Speakers are matched by voice, so some of these may be someone else, and some of what this person said may be missing. Only confident matches are listed. The words are machine transcribed; the video is the record.
 
@@ -446,6 +446,26 @@ Speakers are matched by voice, so some of these may be someone else, and some of
 [0:07:59](https://www.youtube.com/watch?v=8tvAkwGuLt0&t=479s) We do have a low quantity right now, but we're ordering them from the state. Okay. Yeah, we just found out recently that our rep was no longer our rep, and there's a new rep, even though the website says otherwise. So we're trying to track down who our new rep is to get them ordered.
 
 [0:08:18](https://www.youtube.com/watch?v=8tvAkwGuLt0&t=498s) Usually it takes a few weeks once we place the order. So we have enough so far. We're not behind we've all we're all caught up on smoke alarms good
+
+### Monday, October 26, 2026
+
+[Meeting page](../../meetings/2026/2026-10-26.md) · [Full transcript](../../transcripts/2026/2026-10-26.md) · [Video](https://www.youtube.com/watch?v=2ghjGVgcM4o) · South Lyon City Council Meeting October  26 2026
+
+[0:11:13](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=673s) Good evening. Mr. Mayor council The numbers I'm going to report for you are since the last council meeting We're at 59 calls I'm sorry. I didn't get a total up to this point Um, I believe I can look that up in two seconds, uh, two, the last two weeks we've had 59 calls for service, 47 of them, 47 of them were EMS, three hazardous conditions for public service, one rescue, which was actually the confined space we did for DPW, three false alarms. And then I'm sure you've heard about the fire that we had yesterday, the brush fire with THE BEHIND BUSHES PLAZA, WHICH WAS VERY DISAPPOINTING. OUR TOTAL FOR THIS YEAR IS 1 ,160 SO FAR. AS YOU SAW IN THE THURSDAY REPORT, I REPORTED THAT GREAT LAKES ACE HAS APPROVED A GENEROUS $1 ,000 DONATION TO THE CITY. THE DONATION HAS BEEN APPROVED BY THEM. I've submitted the necessary tax documents, and I'm just waiting for Disbursement of the of the funds so pretty exciting Unfortunately, I reported that the state did not get their grant funding for 2027 and that the state fire marshal is Working on trying to get that funding. I did look back into our records at the beginning of the year We got 72 smoke alarms from the state and that's based on how many alarms they think will install and Because we had the FEMA grant the three years prior to that those numbers don't get reported to the state So we actually got less alarms than we should have gotten They do have CO alarms available this month So we're gonna jump on that and get as many as we can and then with this thousand dollar donation We'll be able to get a good number Hopefully At cost So that's all I have for you
+
+[0:13:43](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=823s) Because so in the winter we turn on our furnaces Gas fireplaces if any of those are not working properly they can give off odorless colorless gas that can do harm the CO detectors we prefer to have one on every level but most of the time if If someone can't afford one on every level and you know I'm speaking to anybody in any city one in Your sleeping area is the most important because you want to be woken up in the Middle of the night if you're already awake in your kitchen and you hear it Going off upstairs then you know you're alerted but preferably we want one on Every level especially sleeping levels just
+
+[0:14:39](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=879s) They weigh, so carbon monoxide weighs almost as much as oxygen or air. So if your furnace isn't working properly, it's going to mingle with the air and just spread out throughout your house. There's a common misconception that it has to be up high or down below. It can be anywhere plugged into your wall outlet. It can be mixed in with your fire alarm on your ceiling. It doesn't matter.
+
+[0:15:17](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=917s) They can get pretty expensive Because you can get simple ones that just alert you And you can get other alarms that actually talk to you And tell you to get out, get out of the house, And they tell you different numbers. Some of them have displays, But they range anywhere from $20 an alarm up till $70, $80, Depending on how fancy you want it. You can also get combination smoke and CO alarms. Alarms. That's also highly recommended if you can get those, but those are pretty expensive, Like $80 a unit.
+
+### Monday, November 9, 2026
+
+[Meeting page](../../meetings/2026/2026-11-09.md) · [Full transcript](../../transcripts/2026/2026-11-09.md) · [Video](https://www.youtube.com/watch?v=AqdwFBG4X3I) · South Lyon City Council Meeting November 9th, 2026
+
+[0:15:46](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=946s) Mayor council we are at 1195 calls Year -to -date and the types of calls I'm going to report are since last council meeting we've had 36 calls 25 of them were EMS 7 public service 2 fires and 2 False alarms unfortunately I do not have any updates on our engine build or our Rescue and there are no new developments regarding the smoke alarm donations that I requested a couple weeks ago that's
+
+[0:16:34](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=994s) So I looked those numbers up last week and we were 30 calls over last year's Numbers so yeah usually we're we're in our slow time right now there's probably A couple weeks maybe a month around Thanksgiving that it gets kind of slow and then it starts to pick up again in December so thank
 
 ## Sources
 

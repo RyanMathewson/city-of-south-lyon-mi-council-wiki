@@ -289,6 +289,8 @@ kind: "council"
 - [2026-09-14](../meetings/2026/2026-09-14.md), 45 min
 - [2026-09-28](../meetings/2026/2026-09-28.md), 16 min
 - [2026-10-12](../meetings/2026/2026-10-12.md), 16 min
+- [2026-10-26](../meetings/2026/2026-10-26.md), 12 min
+- [2026-11-09](../meetings/2026/2026-11-09.md), 3 min
 
 ## Sources
 
@@ -296,4 +298,4 @@ kind: "council"
 - [whmi_35277](https://whmi.com/news/article/35277)
 - [whmi_44252](https://whmi.com/news/article/44252)
 - [city_council_page](https://www.southlyonmi.org/government/city_council/index.php)
-- Named in the roll call or staff list of 252 meeting minutes from 2015-11-23 to 2026-09-28; the minutes are listed on the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php).
+- Named in the roll call or staff list of 254 meeting minutes from 2015-11-23 to 2026-10-26; the minutes are listed on the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php).

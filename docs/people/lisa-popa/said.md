@@ -9,7 +9,7 @@ person: "Lisa Popa"
 
 Back to [Lisa Popa](../lisa-popa.md).
 
-170 paragraphs in 21 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
+185 paragraphs in 23 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
 
 Speakers are matched by voice, so some of these may be someone else, and some of what this person said may be missing. Only confident matches are listed. The words are machine transcribed; the video is the record.
 
@@ -440,6 +440,44 @@ Speakers are matched by voice, so some of these may be someone else, and some of
 [0:10:42](https://www.youtube.com/watch?v=8tvAkwGuLt0&t=642s) Thank you mr mayor uh great work with that you know that really shows you know community Involvement police involvement partnership so thank you very much for all of that and kudos To uh all who spoke up and came forward yeah
 
 [1:08:52](https://www.youtube.com/watch?v=8tvAkwGuLt0&t=4132s) mayor again Ashley Welcome look forward to partnering with you on some upcoming events thank you Doug for letting us know that we do have an upcoming ladies night and holiday Parade more info to come so just hang on we're gonna get that together and I Also want to echo everyone about the downtown businesses uh within the last week I believe uh South lions cycle has a promo going on right now if you go and uh test drive a bike or some Test ride a bike excuse me um I believe you get a gift card check out their page And I saw grand trunk also has a promo right now as well they have different sales on each day On some of their most popular merchandise so um check them out please support everyone Um because you know we're getting into that that time where we always knew it was going to happen Here uh leading up to the holidays but um you know they're all there and they need our support so uh Please make make the effort to to do so um that's about it for tonight thank you so much have a good Evening and good week thank you thank
+
+### Monday, October 26, 2026
+
+[Meeting page](../../meetings/2026/2026-10-26.md) · [Full transcript](../../transcripts/2026/2026-10-26.md) · [Video](https://www.youtube.com/watch?v=2ghjGVgcM4o) · South Lyon City Council Meeting October  26 2026
+
+[0:29:50](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=1790s) mayor I see here on page 9 where you where it was referenced About the ladder the retrofit exterior ladder yes okay so from what I'm reading Here it says it doesn't have adequate connection to the tank it does not it
+
+[0:30:23](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=1823s) Okay, so then this is for 7, which is next to, no, I'm not trying to make it, but it's next to 8. Yes. So with regards to this ladder, then, is that preventing anyone checking on the tank? They can't climb up the ladder? From this point on,
+
+[0:30:54](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=1854s) okay I just with with this being cited and pointed out I just wanted to understand the reasoning I understand it From reading it but the fact that it was included in the report obviously it adds To the overall condition and it does inability to service correct is that what I'm that is correct understanding here okay thank you
+
+[0:31:20](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=1880s) I'm
+
+[0:47:29](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2849s) You mr mayor um I'm I'm looking at this Packet and I understand that you want to move on to the next part of your presentation so I'm trying Real hard not to jump ahead here um but just a point of interest uh the reason why we have the Quote for the the next part of your presentation it's dated october 9th versus the repair quote That's october 14th is I don't want to tell me why that is I think I know why that is but I want to
+
+[0:49:07](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2947s) That's fair and I believe we probably I think we had this discussion before but There's is there anyone else who could give a counter bid or counter assessment Or I think costs might have been the issue cost is
+
+[0:50:08](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=3008s) that's why I'm trying really hard not to go I Don't want to ruin your your talk and everything but um okay so then I will Wait once you move on to the next I will speak again but thank you very much
+
+[1:06:28](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=3988s) Thank you mr mayor um now that we've gotten to this part Of the discussion I guess the the few points I would interject um one is there an industry standard for this there is okay so then I guess I would want to know how do the Options that are going to be explored you know compare with the industry
+
+[1:07:10](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=4030s) And then on the subject of preload, that would go back to what I was getting to previously. Is there an option to get a competitive bid or another manufacturer? I understand with repairing, we wanted to stay with what was working.
+
+[1:07:52](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=4072s) we need to move forward but I also want to look at monetarily What what's better and explore those options too rather than just having one option I don't know With this amount of money if everyone wants to just go with one option when we're talking This amount of I would
+
+[1:08:23](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=4103s) I reach out to my counterparts too everyone weigh in on this But just from my my my perspective right now they're
+
+[1:26:29](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=5189s) Yes, thank you Samara just one more inquiry just for the purposes of the recording With this new tank, I understand time is of the essence all these things are of the essence But I also want to ensure that we're doing the best for the long term, right So that you know, obviously unforeseeable circumstances, which is probably what's occurred in this instance I want to make sure that we're exploring On either side for either option. What's the best? Long term for Everyone Certainly understanding all the points provided and yes times of the essence and we need to do we need to do this We need to do this, but I want to make sure that we're doing it the right way For the long term not just to you know get a quick solution out there because I Don't think any of us want to be discussing this anytime soon after this And certainly for everyone out there this is not something that you know we Want to be revisiting so just point of note right so thank you so much thank
+
+[1:40:50](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=6050s) mayor I want to echo looking forward to the Halloween decorating contest Halloween on a A saturday I mean that's like the jackpot right so um really looking forward to that thank you For everyone who's uh signed up to participate um also want to remind everyone that yes because Halloween is on a saturday it's going to be a lot more activity on the side streets sidewalks Everything uh to that extent um I don't I don't hear much about it nowadays but candy let's make Sure we're checking our candy before we eat it and let's make sure that as adults we're taking A look at the kids candy again I don't hear about it a lot now but I remember growing up and I feel Like I'm dating myself but like that was a thing so um let's just uh be sure to take a look let's Scan the candy before we let the kids open it up and eat it um and along the lines of roads and Driving and everything in general let's use some caution on these side streets I love nascar but The side street is not the place to like you know get your top speed we need to be really careful Reason why I'm saying that um I see animals on the side of the road and I think my this is a Side street if someone didn't look out and slow down for an animal on a side Street that's 25 or less what would happen if a little one ran out to get a Ball or something that split second occurred so let's just all be aware out There to kind of slow down on the side streets and use some caution so with That I will finish up this finish up my statements and thank you very much have A good evening happy halloween thank
+
+### Monday, November 9, 2026
+
+[Meeting page](../../meetings/2026/2026-11-09.md) · [Full transcript](../../transcripts/2026/2026-11-09.md) · [Video](https://www.youtube.com/watch?v=AqdwFBG4X3I) · South Lyon City Council Meeting November 9th, 2026
+
+[0:20:23](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1223s) Like to motion to approve the current city manager doug bakke to sign the amendment which would Extend the term of the oakland county parks community park and trail capital grant program Agreement to may 3rd 2027 to complete the grant program requirements I'll support
+
+[0:29:39](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1779s) You mr mayor um I want to echo the halloween turnout I know in our neighborhood the kids really enjoyed when the officer drove through pulled a little Rank they turned on the lights so that was super exciting for me the kids liked it too but I really Really enjoyed it um so uh glad halloween went well for everyone um super excited for the upcoming Holiday spectacular parade I anticipate the application will probably be going live tomorrow So um looking forward to that that's going to be on saturday december 5th and uh you know that'll Kind of close out this year and uh you know be a celebration right so because we've all been Through a lot so um I want to thank everyone uh especially our city manager mr bakke he he really Led the efforts on that along with uh mr mayor here um to ensure that we had that celebration This year um to kind of bring us back together with some sense of normalcy so uh looking forward To that and uh that's gonna be what I'm working on now until then so um and happy thanksgiving To everyone are we going to be meeting before thanksgiving we are okay well I'm wishing happy Thanksgiving because it's already christmas in my mind so with that I'll pass thank you
 
 ## Sources
 

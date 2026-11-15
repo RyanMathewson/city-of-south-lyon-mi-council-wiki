@@ -9,7 +9,7 @@ person: "Thad Bogert"
 
 Back to [Thad Bogert](../thad-bogert.md).
 
-723 paragraphs in 64 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
+748 paragraphs in 66 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
 
 Speakers are matched by voice, so some of these may be someone else, and some of what this person said may be missing. Only confident matches are listed; 11 more paragraphs matched only weakly and appear in the transcripts marked *(unconfirmed)*. The words are machine transcribed; the video is the record.
 
@@ -1722,6 +1722,64 @@ Speakers are matched by voice, so some of these may be someone else, and some of
 [0:58:04](https://www.youtube.com/watch?v=8tvAkwGuLt0&t=3484s) Thank you, Mr. Mayor. Regarding the work that's being done, once there is two -way operation south of Reynolds Suite, Is there still traffic flow south through downtown, Or will that be closed off?
 
 [1:05:44](https://www.youtube.com/watch?v=8tvAkwGuLt0&t=3944s) Thank you mr mayor um just want to say the weather's been lovely You know enjoy it while it lasts um and also my quote for today is action is the antidote to despair Joan Baez we all have a responsibility to make this world a Better place whether it's a vote or volunteer there's many opportunities in The city to volunteer for with nonprofit organizations and also the city's
+
+### Monday, October 26, 2026
+
+[Meeting page](../../meetings/2026/2026-10-26.md) · [Full transcript](../../transcripts/2026/2026-10-26.md) · [Video](https://www.youtube.com/watch?v=2ghjGVgcM4o) · South Lyon City Council Meeting October  26 2026
+
+[0:00:08](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=8s) I pledge allegiance to the flag of the United States of America, and to the republic for which it stands, one nation, under God.
+
+[0:00:39](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=39s) Councilmember Bogart. Thank you, Mr. Mayor. Motion to approve the minutes as presented. Support.
+
+[0:01:09](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=69s) Thank you
+
+[0:13:28](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=808s) Mr. Mayor. Um You mentioned co alarms. Those are carbon monoxide alarms, right? Correct. Yes So those are something that's pretty important to have like during the winter time very important. Yes And Because oh
+
+[0:14:31](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=871s) Out of curiosity with the carbon Monoxide alarms is there an ideal position to place those nope they they
+
+[0:15:04](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=904s) Great. Thanks for the info. You're welcome.
+
+[0:28:42](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=1722s) Councilmember Bogart. Thank you, Mr. Mayor. The wires that are part of it, does that function like Rebar?
+
+[0:29:14](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=1754s) Kind of like bailing wire in a sense. Yeah, yeah.
+
+[0:43:34](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2614s) Um
+
+[0:45:12](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2712s) You mr mayor is there Is there a lifespan for ground storage tanks?
+
+[0:46:52](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=2812s) Echo mr. Mayor's and sentiment that it's lipstick on a pig for us to well the one
+
+[1:09:11](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=4151s) Thank You mr. mayor um regarding the steel tank it sounds a lot like a water Heater tank in a sense now
+
+[1:09:25](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=4165s) Yeah but it's glass
+
+[1:09:37](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=4177s) So um when you contacted your counterpart at the township did they Do they give a justification for that type of tank over?
+
+[1:10:28](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=4228s) Guess that with how if we do have to have a pump that we also have to have a Generator in case of us
+
+[1:11:00](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=4260s) Going with the replacement route would we be able to do demolition and site prep during the winter
+
+[1:12:07](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=4327s) Yeah I think we definitely rely on your your judgment on that thank you and when
+
+[1:38:14](https://www.youtube.com/watch?v=2ghjGVgcM4o&t=5894s) You mr mayor um speaking of active faith they're having a turkey trot in november be sure to check Out their site for info regarding that event and blessings in the backpack is also having a turkey Trot on thanksgiving state thanksgiving day so be sure to check that out as well and um Little bird told me that there may be a ladies night downtown in december so So keep your eyes out for that, thank you.
+
+### Monday, November 9, 2026
+
+[Meeting page](../../meetings/2026/2026-11-09.md) · [Full transcript](../../transcripts/2026/2026-11-09.md) · [Video](https://www.youtube.com/watch?v=AqdwFBG4X3I) · South Lyon City Council Meeting November 9th, 2026
+
+[0:00:45](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=45s) Stands, one nation, under God, indivisible, with liberty and justice for all.
+
+[0:01:20](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=80s) Motion to approve the minutes as presented.
+
+[0:14:06](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=846s) Mayor um the uh shared calendar I think that's a great idea to have a one -stop shop for everything That's happening in the city is that on the city's website so
+
+[0:15:00](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=900s) Um, you probably already thought of this but it would be wonderful to have an invitation for the community to send updates
+
+[0:16:26](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=986s) Mayor um comparing The numbers so far this year how do we compare to like last year at this time
+
+[0:16:52](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1012s) You yeah any other
+
+[0:31:05](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1865s) You mr mayor um first I'd like to uh thank Everyone involved in the elections this year it sounds like it went really well my wife um actually Volunteered at one of the polling places and she said it was a great experience everyone was very professional very courteous I'd like to congratulate the South Lyon Lions on their win over South Lyon East district champions so wish them the best as they progress also December 4th is a South Lyon night out I'm sure mr. mayor has Some things to share about it but yours truly will be playing the tunes on Thanksgiving is the turkey trot for act for blessings in a backpack it's a great Opportunity to support the organization I'll be playing tunes again finally well almost finally so every year for my birthday I do a fundraiser for South Line area youth assistance for their shop with the hero event where kids with WITH DIFFICULT SITUATIONS, HAVE THE OPPORTUNITY TO SHOP WITH FIRST RESPONDERS. I'M STILL RAISING FUNDS SO BE SURE TO CHECK OUT MY FACEBOOK PAGE AND CONSIDER MAKING A DONATION. AND FINALLY, I'D LIKE TO THANK OUR LOCAL SCOUTS FOR COMING AND VISITING. I WAS A SCOUT BACK IN 1981, PACK 774. THANK YOU.
 
 ## Sources
 
