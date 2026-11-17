@@ -2,11 +2,11 @@
 title: "Minutes, 2026-10-12"
 meeting_date: "2026-10-12"
 document: "minutes"
-source_url: "https://www.southlyonmi.org/10-26-26%20CM.pdf?t=202610271130500"
+source_url: "https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270"
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "371d0072ea5c42359b4afa209270e89487b45fe42c4c74fef251e20136979a8f"
 source_bytes: 5720063
-retrieved: "2026-11-15"
+retrieved: "2026-11-17"
 pages: 17
 ocr_pages: 17
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,10 +14,10 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Minutes, 2026-10-12
 
-> **Source:** [Minutes, original PDF](https://www.southlyonmi.org/10-26-26%20CM.pdf?t=202610271130500) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-15; SHA-256 `371d0072ea5c4235…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Minutes, original PDF](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-17; SHA-256 `371d0072ea5c4235…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
-*[Page 1 of the original](https://www.southlyonmi.org/10-26-26%20CM.pdf?t=202610271130500#page=1)* (read by OCR; check the original)
+*[Page 1 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=1)* (read by OCR; check the original)
 
 # City of South Lyon
 
@@ -94,7 +94,7 @@ VOTE:  $ \underline{\text{MOTION CARRIED UNANIMOUSLY}} $
 City Manager Baaki stated he is happy to announce we have selected our new DDA Director. We had 15 applicants and narrowed it down to 5 to interview. The interviews took place on September 30th and 10/12/2026
 
 <a id="p2"></a>
-*[Page 2 of the original](https://www.southlyonmi.org/10-26-26%20CM.pdf?t=202610271130500#page=2)* (read by OCR; check the original)
+*[Page 2 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=2)* (read by OCR; check the original)
 
 October 1st. Out of those 5, we chose our candidate and will be introducing her shortly. He then went over her background. Her name is Ashley Abeid, she comes from MacKinnon Consulting out of Northville where she manages Client Identified Planning and Policy Development. She serves as the day-to-day contact with small businesses for their clients. She plans and facilitates creative community engagement events, and facilitates boards and commission meetings. She comes with a master's in environmental and sustainability from U of M, a master's of science in regional planning from Tubman University and a Bachelors in Science of environmental studies of journalism from New York University. DDA Director Abeid stated she is very excited to be here and it sounds like everyone is very hungry for downtown to be open and be back after the construction season. She stated she is excited to bring some new energy here. She has a ton of experience engaging with DDA's and small businesses and writing and presenting on zoning and planning for small business success and she is excited to bring those strategies to this community. She further stated it sounds like there is already a great team with a lot of ideas. she stated as she was meeting councilmembers, they were sharing their ideas for December. She stated she really can't wait to get plugged in and Council will hear a lot from her in the bi-monthly updates. She said Council should feel free to reach out to her at any time. She hopes to be as accessible to Council and the community as she can. Councilmember Kurtzweil welcomed her to South Lyon and stated it is wonderful to have her here and it's great to hear she has experience from Northville. She then stated she has a lot of friends in Northville and asked her if she had a hand in any of the grants that they are receiving to be used in their development downtown. DDA Director Abeid stated to clarify, she is from MacKinnon which is located in Northville. So, she gets to enjoy all the great work that has been going on, but she hasn't been a part of it. She stated she's been to MDA Conferences where she got to know their DDA Director Knight and they have been in touch so she looks forward to incorporating her earnings here as well. Councilmember Popa welcomed her and stated she is very happy to have her here.
 
@@ -111,7 +111,7 @@ PRESENTATION- Fiscal Year 2025-2026 Audit Presentation *full audit can be viewed
 10/12/2026
 
 <a id="p3"></a>
-*[Page 3 of the original](https://www.southlyonmi.org/10-26-26%20CM.pdf?t=202610271130500#page=3)* (read by OCR; check the original)
+*[Page 3 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=3)* (read by OCR; check the original)
 
 Mr. St. Andrew from Plante Moran thanked City Manager Baaki and Finance and Benefit Administrator Tiernan for their help with the audit. Back in August everything was ready to go and in great shape and everyone here was helpful and he appreciates their efforts. He then stated the city did receive an unmodified opinion which is the highest opinion and highest form of assurance they can provide. He then stated that means the numbers and with disclosures within the financial statement are materially accurate and the users can rely on the financial statements. He then stated the general fund continues to be at a healthy number of $2.1 million. He also stated the capital additions during the year was $7.2 million which increased largely due to the road improvements and utility system improvements. Mr. Schultz from Plante Moran then went through the slide presentation which can be viewed online, or you can see them attached to the minutes. Mayor Kennedy stated we are at 69.5% funded and the smoothing was about 67% funded and the recommendation is to be above 60%. Mr. St. Andrew stated yes, you have to be funded 60% for the State before you have to have a plan in place to address it. Mayor Kennedy then stated the OPEB went from zero to 75.41% in the last 6 years and that's great. Councilmember Kurtzweil asked about the GASB 87 and the requirement for monitoring leases and additional information. Mr. St. Andrew stated this covers the lease and the IT arrangement. This is a new standard that came about a few years ago. Normally the monthly payment would be an expense, but with the new standards, they are recognizing that as a long-term asset in place. It is a recommendation if the city enters into any new lease agreements. Councilmember Kurtzweil then asked what are they looking for with the cyber security. Mr. St. Andrew stated it is just a recommendation. Everyone is receiving more phishing scams. This is a recommendation that discussions are held with employees to ensure they are aware not to open attachments or follow links unless they are known to be genuine. Councilmember Kurtzweil then asked about where it says there could be a slight decrease in the MTF. Finance and Benefit Administrator Tiernan stated it is a monthly payment, but there has been a small reduction with the calculation. This year to compensate for that, they have the neighborhood road funding and the capture started in April, but we didn't receive our first payment until September, and we just received another payment. We don't have a good estimate from the State as to what we'll be getting. They did give us some rough numbers when we were going through the budget process. Although since then, the state has said the numbers could be reduced based on usage and the dollars they collect. As of now, we haven't seen a decrease as of yet. Councilmember Kurtzweil stated we need to be ultraconservative because she doesn't see increases coming from the State at all. Further discussion was held regarding the audit presentation.
 
@@ -130,7 +130,7 @@ City Manager Baaki stated he attended the DDA meeting and they have decided to h
 10/12/2026
 
 <a id="p4"></a>
-*[Page 4 of the original](https://www.southlyonmi.org/10-26-26%20CM.pdf?t=202610271130500#page=4)* (read by OCR; check the original)
+*[Page 4 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=4)* (read by OCR; check the original)
 
 Kennedy stated the RCOC was supposed to open north and south lanes between 9 Mile and Reynold Sweet, but it keeps getting put off. City Manager Baaki stated he will speak with them tomorrow for details. He further stated they are going to be moving to the east side of 10 Mile and he is hoping it will be Friday. The issue is they want everyone to understand that the detour is Reynold Sweet, because if you open it at McHattie or McMunn, that will jam them up downtown. He further stated they will have detour signs up to let local traffic know. Councilmember Dilg thanked him for getting the information on the data center moratorium. City Manager Baaki stated she spoke with our Planner, and the plan is still being worked on. Councilmember Kurtzweil asked about the road project at 9 Mile. She stated it is from Dixboro all the way to Griswold, if it's not the road work, there is DTE and it is a mess. City Manager Baaki stated between the contractors, DPW said there was issues about where the gas line was, and how far back it needed to be moved. The good news is they were able to get it fixed. That was the big hiccup with the consumer's line. Councilmember Kurtzweil stated the cancellation of the Halloween Decorating contest, and she knows a lot of people prepared for that and decorated their houses and were planning on it, and people were looking forward to it. She then asked if there is a way we can still have it. She will go out and judge. City Manager Baaki stated we are trying to do something for the Trun-or-Treat at South Lyon Gardens. He stated he will look into and see if that is what everyone wants to do. Councilmember Kurtzweil stated it's just homeowners decorating their homes and some people have started. City Manager Baaki stated we can do that. Mayor Kennedy stated we had gifts for the first, second and third place winners along with the signs for their yard.
 
@@ -145,7 +145,7 @@ Councilmember Dilg reminded everyone to please shop local, and she wants to agai
 Councilmember Kurtzweil welcomed Ashley and she's looking forward to having coffee with her. She further stated she visited Maple House and Venue Next Door and she hopes everyone will shop downtown. She didn't have a problem getting into downtown. She then stated she wants to thank the Cultural Arts Commission for participating in the Forest Trick-or-Treat at the Salem South Lyon Library, so thanks to Carl, Linda, Melissa and Ken. She heard about 400 kids attended and the kids and parents had a great time. Lastly, she stated don't forget about the great Halloween party at the South Lyon Hotel on Friday October 23rd. She has been talking to Corey and has heard there will be a few surprises along the way. It will be a huge Friday at the Hotel.
 
 <a id="p5"></a>
-*[Page 5 of the original](https://www.southlyonmi.org/10-26-26%20CM.pdf?t=202610271130500#page=5)* (read by OCR; check the original)
+*[Page 5 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=5)* (read by OCR; check the original)
 
 Councilmember Popa stated she wanted to welcome Ashley. She is looking forward to partnering with her on some upcoming events. She also thanked City Manager Baaki for letting everyone know about the Ladies Night and holiday parade events. She also wants to remind everyone about downtown, South Lyon Cycle has a promotion going on right now and if you go downtown and test ride a bike, you get a gift card and the information is on their website. She then stated Grand Trunk has a promo right now as well, and they had special sales on each day for some of their most popular merchandise. She further stated she hopes everyone will check them out.
 
@@ -168,7 +168,7 @@ Mayor Steve Kennedy
 Koch Deaton Clerk/Treasurer Lisa Deaton
 
 <a id="p6"></a>
-*[Page 6 of the original](https://www.southlyonmi.org/10-26-26%20CM.pdf?t=202610271130500#page=6)* (read by OCR; check the original)
+*[Page 6 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=6)* (read by OCR; check the original)
 
 *[Image or figure on this page; see the original.]*
 
@@ -177,7 +177,7 @@ Koch Deaton Clerk/Treasurer Lisa Deaton
 For Year Ended June 30, 2026
 
 <a id="p7"></a>
-*[Page 7 of the original](https://www.southlyonmi.org/10-26-26%20CM.pdf?t=202610271130500#page=7)* (read by OCR; check the original)
+*[Page 7 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=7)* (read by OCR; check the original)
 
 *[Image or figure on this page; see the original.]*
 
@@ -192,7 +192,7 @@ Communication with Those Charged with Governance – End of Audit Letter
 Questions
 
 <a id="p8"></a>
-*[Page 8 of the original](https://www.southlyonmi.org/10-26-26%20CM.pdf?t=202610271130500#page=8)* (read by OCR; check the original)
+*[Page 8 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=8)* (read by OCR; check the original)
 
 *[Image or figure on this page; see the original.]*
 
@@ -235,7 +235,7 @@ Debt paydown of $2.1 million
 Water and Sewer Fund - $564 thousand operating loss (includes depreciation).
 
 <a id="p9"></a>
-*[Page 9 of the original](https://www.southlyonmi.org/10-26-26%20CM.pdf?t=202610271130500#page=9)* (read by OCR; check the original)
+*[Page 9 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=9)* (read by OCR; check the original)
 
 *[Image or figure on this page; see the original.]*
 
@@ -244,7 +244,7 @@ Water and Sewer Fund - $564 thousand operating loss (includes depreciation).
 *[Image or figure on this page; see the original.]*
 
 <a id="p10"></a>
-*[Page 10 of the original](https://www.southlyonmi.org/10-26-26%20CM.pdf?t=202610271130500#page=10)* (read by OCR; check the original)
+*[Page 10 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=10)* (read by OCR; check the original)
 
 ## Homestead Property Tax Analysis 2025 Levy City of South Lyon — Year Ended June 30, 2026
 
@@ -267,7 +267,7 @@ Library
 Art/Zoo/Huron Clinton Metro Park/Oakland County Parks and Recreation
 
 <a id="p11"></a>
-*[Page 11 of the original](https://www.southlyonmi.org/10-26-26%20CM.pdf?t=202610271130500#page=11)* (read by OCR; check the original)
+*[Page 11 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=11)* (read by OCR; check the original)
 
 *[Image or figure on this page; see the original.]*
 
@@ -276,7 +276,7 @@ Art/Zoo/Huron Clinton Metro Park/Oakland County Parks and Recreation
 *[Image or figure on this page; see the original.]*
 
 <a id="p12"></a>
-*[Page 12 of the original](https://www.southlyonmi.org/10-26-26%20CM.pdf?t=202610271130500#page=12)* (read by OCR; check the original)
+*[Page 12 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=12)* (read by OCR; check the original)
 
 *[Image or figure on this page; see the original.]*
 
@@ -285,7 +285,7 @@ Art/Zoo/Huron Clinton Metro Park/Oakland County Parks and Recreation
 *[Image or figure on this page; see the original.]*
 
 <a id="p13"></a>
-*[Page 13 of the original](https://www.southlyonmi.org/10-26-26%20CM.pdf?t=202610271130500#page=13)* (read by OCR; check the original)
+*[Page 13 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=13)* (read by OCR; check the original)
 
 *[Image or figure on this page; see the original.]*
 
@@ -298,7 +298,7 @@ Capital Project funds include Capital Improvement, Equipment Replacement, and La
 • Graph above excludes Drug Forfeiture fund balance of $3,301 restricted for Police activity
 
 <a id="p14"></a>
-*[Page 14 of the original](https://www.southlyonmi.org/10-26-26%20CM.pdf?t=202610271130500#page=14)* (read by OCR; check the original)
+*[Page 14 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=14)* (read by OCR; check the original)
 
 *[Image or figure on this page; see the original.]*
 
@@ -309,7 +309,7 @@ Operating Revenue Plus Property Taxes
 Operating Expense (Excl. Depreciation) Plus Capital Improvements and Debt Service
 
 <a id="p15"></a>
-*[Page 15 of the original](https://www.southlyonmi.org/10-26-26%20CM.pdf?t=202610271130500#page=15)* (read by OCR; check the original)
+*[Page 15 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=15)* (read by OCR; check the original)
 
 <div>Unfunded Liability</div>
 
@@ -328,7 +328,7 @@ Estimated at 3% annual increase
 Note – Water and Sewer Fund accounts for approximately 15-20% of the liability and contributions.
 
 <a id="p16"></a>
-*[Page 16 of the original](https://www.southlyonmi.org/10-26-26%20CM.pdf?t=202610271130500#page=16)* (read by OCR; check the original)
+*[Page 16 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=16)* (read by OCR; check the original)
 
 ## City of South Lyon Communication With Those Charged With Governance
 
@@ -351,7 +351,7 @@ Pension
  $ ^{*} $Please see separate letter to Mayor and City Council dated September 11, 2026 for more details.
 
 <a id="p17"></a>
-*[Page 17 of the original](https://www.southlyonmi.org/10-26-26%20CM.pdf?t=202610271130500#page=17)* (read by OCR; check the original)
+*[Page 17 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=17)* (read by OCR; check the original)
 
 ## Thank you for the opportunity to serve as auditors for the City of South Lyon
 
