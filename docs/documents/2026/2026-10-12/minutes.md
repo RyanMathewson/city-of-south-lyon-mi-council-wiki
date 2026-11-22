@@ -4,9 +4,9 @@ meeting_date: "2026-10-12"
 document: "minutes"
 source_url: "https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270"
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
-source_sha256: "371d0072ea5c42359b4afa209270e89487b45fe42c4c74fef251e20136979a8f"
-source_bytes: 5720063
-retrieved: "2026-11-17"
+source_sha256: "8af574bc50c0025f94476eab7a90c0ce46e7a65c73ea0bbd83030f5e11d6fadf"
+source_bytes: 5750038
+retrieved: "2026-11-21"
 pages: 17
 ocr_pages: 17
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Minutes, 2026-10-12
 
-> **Source:** [Minutes, original PDF](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-17; SHA-256 `371d0072ea5c4235…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Minutes, original PDF](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-21; SHA-256 `8af574bc50c0025f…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=1)* (read by OCR; check the original)
@@ -31,11 +31,7 @@ Mayor Kennedy led those present in the Pledge of Allegiance
 
 ## ROLL CALL
 
-Roll Call: Mayor Kennedy and Councilmembers: Bogert, Dilg, Hansen, Kurtzweil, and Popa  
-
-Also present: City Manager Baaki, Police Chief Unruh, Fire Chief Conrad, Finance and Benefit  
-
-Administrator Tiernan and Clerk Deaton
+Roll Call: Mayor Kennedy and Councilmembers: Bogert, Dilg, Hansen, Kurtzweil, and Popa Also present: City Manager Baaki, Police Chief Unruh, Fire Chief Conrad, Finance and Benefit Administrator Tiernan and Clerk Deaton
 
 ## CM 10-1-26 MOTION TO EXCUSE ABSENCE
 
@@ -75,19 +71,21 @@ Motion to approve agenda as presented
 
 MOTION CARRIED UNANIMOUSLY
 
-##  $ \underline{\text{PUBLIC COMMENT}} $- No public comment was made
+ $ \underline{\text{PUBLIC COMMENT}} $- No public comment was made
 
 ## CONSENT AGENDA
 
 1. Appointment of Steven Seiler to Housing Commission
 
-2. Kiwanis Christmas Tree Sales Event CM 10-5-26 MOTION TO APPROVE CONSENT AGENDA
+2. Kiwanis Christmas Tree Sales Event
+
+CM 10-5-26 MOTION TO APPROVE CONSENT AGENDA
 
 Motion by Kurtzweil, supported by Hansen
 
-Motion to approve consent agenda as presented
+fotion to approve consent agenda as presented
 
-VOTE:  $ \underline{\text{MOTION CARRIED UNANIMOUSLY}} $
+MOTION CARRIED UNANIMOUSLY
 
 ## DISCUSSION- Downtown
 
@@ -96,7 +94,7 @@ City Manager Baaki stated he is happy to announce we have selected our new DDA D
 <a id="p2"></a>
 *[Page 2 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=2)* (read by OCR; check the original)
 
-October 1st. Out of those 5, we chose our candidate and will be introducing her shortly. He then went over her background. Her name is Ashley Abeid, she comes from MacKinnon Consulting out of Northville where she manages Client Identified Planning and Policy Development. She serves as the day-to-day contact with small businesses for their clients. She plans and facilitates creative community engagement events, and facilitates boards and commission meetings. She comes with a master's in environmental and sustainability from U of M, a master's of science in regional planning from Tubman University and a Bachelors in Science of environmental studies of journalism from New York University. DDA Director Abeid stated she is very excited to be here and it sounds like everyone is very hungry for downtown to be open and be back after the construction season. She stated she is excited to bring some new energy here. She has a ton of experience engaging with DDA's and small businesses and writing and presenting on zoning and planning for small business success and she is excited to bring those strategies to this community. She further stated it sounds like there is already a great team with a lot of ideas. she stated as she was meeting councilmembers, they were sharing their ideas for December. She stated she really can't wait to get plugged in and Council will hear a lot from her in the bi-monthly updates. She said Council should feel free to reach out to her at any time. She hopes to be as accessible to Council and the community as she can. Councilmember Kurtzweil welcomed her to South Lyon and stated it is wonderful to have her here and it's great to hear she has experience from Northville. She then stated she has a lot of friends in Northville and asked her if she had a hand in any of the grants that they are receiving to be used in their development downtown. DDA Director Abeid stated to clarify, she is from MacKinnon which is located in Northville. So, she gets to enjoy all the great work that has been going on, but she hasn't been a part of it. She stated she's been to MDA Conferences where she got to know their DDA Director Knight and they have been in touch so she looks forward to incorporating her earnings here as well. Councilmember Popa welcomed her and stated she is very happy to have her here.
+October 1 $ ^{st} $. Out of those 5, we chose our candidate and will be introducing her shortly. He then went over her background. Her name is Ashley Abeid, she comes from MacKinnon Consulting out of Northville where she manages Client Identified Planning and Policy Development. She serves as the day-to-day contact with small businesses for their clients. She plans and facilitates creative community engagement events, and facilitates boards and commission meetings. She comes with a master's in environmental and sustainability from U of M, a master's of science in regional planning from Tubman University and a Bachelors in Science of environmental studies of journalism from New York University. DDA Director Abeid stated she is very excited to be here and it sounds like everyone is very hungry for downtown to be open and be back after the construction season. She stated she is excited to bring some new energy here. She has a ton of experience engaging with DDA's and small businesses and writing and presenting on zoning and planning for small business success and she is excited to bring those strategies to this community. She further stated it sounds like there is already a great team with a lot of ideas. She stated as she was meeting councilmembers, they were sharing their ideas for December. She stated she really can't wait to get plugged in and Council will hear a lot from her in the bi-monthly updates. She said Council should feel free to reach out to her at any time. She hopes to be as accessible to Council and the community as she can. Councilmember Kurtzweil welcomed her to South Lyon and stated it is wonderful to have her here and it's great to hear she has experience from Northville. She then stated she has a lot of friends in Northville and asked her if she had a hand in any of the grants that they are receiving to be used in their development downtown. DDA Director Abeid stated to clarify, she is from MacKinnon which is located in Northville. So, she gets to enjoy all the great work that has been going on, but she hasn't been a part of it. She stated she's been to MDA Conferences where she got to know their DDA Director Knight and they have been in touch so she looks forward to incorporating her learnings here as well. Councilmember Popa welcomed her and stated she is very happy to have her here.
 
 ##  $ \underline{\text{FIRE CHIEF REPORT}} $
 
@@ -106,9 +104,7 @@ Fire Chief Conrad stated 1,101 calls year to date. Since the last Council meetin
 
 Police Chief Unruh stated she had the pleasure of going to Colonial Acres and doing a Drug Take Back which is where they turn in unused prescription drugs which are then turned over to the DEA for proper destruction. It keeps the medication out of the water supply and out of the wrong hands. She further stated she also did a crime prevention presentation on scams. They are a smart bunch, and they were aware of a lot of scams. She further stated it was well received. She stated they talk with each other when they get something that doesn't seem right. She then stated she wanted to let everyone know we utilized Facebook with the camera footage of the 2 juveniles that broke the door on the Little Free Library. She further stated we had several people come in and reported they thought they knew who the two people were. Interviews were conducted with the parents and they said they encouraged them to tell the truth and they will be moving forward with filing a petition and finding out how much it will cost to fix. Councilmember Popa stated she did a great work and it shows community and police involvement and it's a partnership and kudos to everyone that spoke up. Mayor Kennedy stated that is great news and they have already fixed one of the damaged doors and he hopes this will put an end to it.
 
-PRESENTATION- Fiscal Year 2025-2026 Audit Presentation *full audit can be viewed on the city website at www.southlyonmi.org
-
-10/12/2026
+PRESENTATION- Fiscal Year 2025-2026 Audit Presentation *full audit can be viewed on the city website at  $ \underline{\text{www.southlyonmi.org}} $
 
 <a id="p3"></a>
 *[Page 3 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=3)* (read by OCR; check the original)
@@ -125,9 +121,7 @@ PUBLIC COMMENT- No public comment was made
 
 ## MANAGER'S REPORT
 
-City Manager Baaki stated he attended the DDA meeting and they have decided to have the Ladies Night Event on December 4th at 5:00 p.m. and the holiday parade on the 6th at 6:00 p.m. He is happy we have a new DDA Director to help out with it. He then stated mid-November is when it's supposed to be done, so we wanted to go ahead and plan those events. He stated he spoke with Water and Sewer Superintendent Beason about the water ground storage tank and Preload has been promising him a work around what it looks like for a repair or for a new tank, and we still haven't heard back from them. We were hoping to hear from them today, but hopefully when we get the information from them, we will let Council know. Luckily with the weather and rain, we are doing fine. He also stated well #6 is completed. Mayor
-
-10/12/2026
+City Manager Baaki stated he attended the DDA meeting and they have decided to have the Ladies Night Event on December 4 $ ^{th} $ at 5:00 p.m. and the holiday parade on the 6 $ ^{th} $ at 6:00 p.m. He is happy we have a new DDA Director to help out with it. He then stated mid-November is when it's supposed to be done, so we wanted to go ahead and plan those events. He stated he spoke with Water and Sewer Superintendent Beason about the water ground storage tank and Preload has been promising him a work around what it looks like for a repair or for a new tank, and we still haven't heard back from them. We were hoping to hear from them today, but hopefully when we get the information from them, we will let Council know. Luckily with the weather and rain, we are doing fine. He also stated well #6 is completed. Mayor 10/12/2026
 
 <a id="p4"></a>
 *[Page 4 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=4)* (read by OCR; check the original)
@@ -142,7 +136,7 @@ Councilmember Bogert stated the weather has been lovely and he hopes everyone en
 
 Councilmember Dilg reminded everyone to please shop local, and she wants to again welcome Ashley and let her know she will have a lot to accomplish when town opens up again. She further stated she is happy to have her here and it will be nice to have someone that will have a fresh look at things. She then reminded everyone to please support the local businesses as the construction is going on, and maybe at some point we can talk with our downtown businesses about maybe being open on Sundays and capturing the huge amount of people that come from the Maple House. That would be something to look at.
 
-Councilmember Kurtzweil welcomed Ashley and she's looking forward to having coffee with her. She further stated she visited Maple House and Venue Next Door and she hopes everyone will shop downtown. She didn't have a problem getting into downtown. She then stated she wants to thank the Cultural Arts Commission for participating in the Forest Trick-or-Treat at the Salem South Lyon Library, so thanks to Carl, Linda, Melissa and Ken. She heard about 400 kids attended and the kids and parents had a great time. Lastly, she stated don't forget about the great Halloween party at the South Lyon Hotel on Friday October 23rd. She has been talking to Corey and has heard there will be a few surprises along the way. It will be a huge Friday at the Hotel.
+Councilmember Kurtzweil welcomed Ashley and she's looking forward to having coffee with her. She further stated she visited Maple House and Venue Next Door and she hopes everyone will shop downtown. She didn't have a problem getting into downtown. She then stated she wants to thank the Cultural Arts Commission for participating in the Forest Trick-or-Treat at the Salem South Lyon Library, so thanks to Carl, Linda, Melissa and Ken. She heard about 400 kids attended and the kids and parents had a great time. Lastly, she stated don't forget about the great Halloween party at the South Lyon Hotel on Friday October 23 $ ^{rd} $. She has been talking to Corey and has heard there will be a few surprises along the way. It will be a huge Friday at the Hotel.
 
 <a id="p5"></a>
 *[Page 5 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=5)* (read by OCR; check the original)
@@ -161,7 +155,9 @@ Motion to adjourn meeting at 7:41p.m.
 
 VOTE: MOTION CARRIED UNANIMOUSLY
 
-Respectfully submitted.
+Respectfully submitted,
+
+*[Image or figure on this page; see the original.]*
 
 Mayor Steve Kennedy
 
@@ -208,9 +204,7 @@ Capital additions during the year of $7.2 million. Increase largely due to road 
 
 Road improvement debt proceeds (2023 and 2026 Bonds)
 
-2023 Bonds ($0 remaining to spend)
-
-2026 Bonds
+2023 Bonds ($0 remaining to spend) 2026 Bonds
 
 $8.9 million received in 2023
 
@@ -246,7 +240,7 @@ Water and Sewer Fund - $564 thousand operating loss (includes depreciation).
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=10)* (read by OCR; check the original)
 
-## Homestead Property Tax Analysis 2025 Levy City of South Lyon — Year Ended June 30, 2026
+## Homestead Property Tax Analysis 2025 Levy City of South Lyon – Year Ended June 30, 2026
 
 Property Tax Collections - $25.72 million collected
 
@@ -258,7 +252,7 @@ South Lyon Schools
 
 State Education
 
-■ Intermediate School District and Oakland County Community College
+Intermediate School District and Oakland County Community College
 
 County
 
@@ -268,8 +262,6 @@ Art/Zoo/Huron Clinton Metro Park/Oakland County Parks and Recreation
 
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=11)* (read by OCR; check the original)
-
-*[Image or figure on this page; see the original.]*
 
 ## City of South Lyon General Fund – Expenditures Years Ended June 30
 
@@ -336,7 +328,7 @@ Required Communication with Those Charged with Governance
 
 No transactions entered into for which there was a lack of authoritative guidance
 
-➢No significant transactions recognized in a different period than when the transaction occurred
+No significant transactions recognized in a different period than when the transaction occurred
 
 Management estimates included within the financial statements
 
@@ -344,9 +336,9 @@ Actuarial assumptions
 
 Pension
 
-▶OPEB
+OPEB
 
-➢No difficulties or disagreements with management in performing the audit
+No difficulties or disagreements with management in performing the audit
 
  $ ^{*} $Please see separate letter to Mayor and City Council dated September 11, 2026 for more details.
 
