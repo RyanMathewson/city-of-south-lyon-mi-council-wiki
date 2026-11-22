@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "969214cd01e01166832298e62c84ea68f3be4e0d92b71a558cd361a53f7b5bb7"
 source_bytes: 8003184
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 93
 ocr_pages: 93
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2016-03-28
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket3-28-16.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `969214cd01e01166…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket3-28-16.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `969214cd01e01166…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket3-28-16.pdf?t=202108310732570#page=1)* (read by OCR; check the original)
@@ -117,7 +117,7 @@ Subsection (a) provides that the sale and furnishing of tobacco products, vapor 
 
 Subsection (b) requires specific point of sale signage for tobacco products, vapor products and alternative nicotine delivery products. This is consistent with the Youth Tobacco Act.
 
-Subsections (c) and (d) also address signage requirements for the sale of tobacco products, vapor products and alternative nicotine delivery products.
+- Subsections (c) and (d) also address signage requirements for the sale of tobacco products, vapor products and alternative nicotine delivery products.
 
 Subsection (e) provides for an affirmative defense to a violation of the prohibition on selling or furnishing tobacco products, vapor products and alternative nicotine delivery products to a minor.
 
@@ -139,7 +139,7 @@ This ordinance will repeal the current Section 58-217 pertaining to tobacco prod
 
 Michigan Senate Bill 231 and legislative analysis summary
 
-- What You Should Know About Electronic Cigarettes (E-Cigarettes), prepared by Michigan Department of Health and Human Services, Division of Chronic Disease and Injury Control, Tobacco Section.
+What You Should Know About Electronic Cigarettes (E-Cigarettes), prepared by Michigan Department of Health and Human Services, Division of Chronic Disease and Injury Control, Tobacco Section.
 
 South Lyon Drug paraphernalia ordinance
 
@@ -318,7 +318,7 @@ b. Participate in a health promotion and risk reduction program, as described in
 
 "The purchase of a tobacco product, vapor product or alternative nicotine delivery product by a minor under 18 years of age and the provision of a tobacco product, vapor product or alternative nicotine delivery product to a minor are prohibited by law. A minor who unlawfully purchases or uses a tobacco product, vapor product or alternative nicotine delivery product is subject to criminal penalties."
 
-(c) If the sign required under subsection (b) above, is more than six (6) feet from the point of sale, it shall be five and one-half (5½) inches by eight and one-half (8½) inches and the statement required under subsection (b) shall be printed in 36-point bold-faced type. If the sign required under subsection (b) is six (6) feet or less from the point of sale, it shall be two (2) inches by four (4) inches and the statement required under subsection (b) shall be printed in 20-point bold-faced type.
+(c) If the sign required under subsection (b) above, is more than six (6) feet from the point of sale, it shall be five and one-half ( $ 5\frac{1}{2} $) inches by eight and one-half ( $ 8\frac{1}{2} $) inches and the statement required under subsection (b) shall be printed in 36-point bold-faced type. If the sign required under subsection (b) is six (6) feet or less from the point of sale, it shall be two (2) inches by four (4) inches and the statement required under subsection (b) shall be printed in 20-point bold-faced type.
 
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket3-28-16.pdf?t=202108310732570#page=11)* (read by OCR; check the original)
@@ -825,9 +825,9 @@ Sec. 58-261. - Possession and use of marihuana.
 
 (Code 1988, § 9.251)
 
-Sec. 58-262. - Drug paraphernalia.
+(a) Definitions. The following words and phrases, when used in this section shall, for the purpose of this section, have the meaning respectively ascribed to them in this section, except where the context clearly indicates a different meaning:
 
-(a) Definitions. The following words and phrases, when used in this section shall, for the purpose of this section, have the meaning, respectively ascribed to them in this section, except where the context clearly indicates a different meaning:
+Sec. 58-262. - Drug paraphernalia.
 
 Controlled substance means any drug, substance or immediate precursor enumerated in schedule 1-5 of section 7201 to 7231 of the Public Health Code, being sections 333.7201 to 333.7231 of the Michigan Compiled Laws, as amended.
 

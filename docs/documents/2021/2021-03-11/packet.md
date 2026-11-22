@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/3-11-21%20Council%20Workshop%20Packet.p
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "0febd35018c89ca674830b9e58ab324513cbe98ad324334fa20492f166dcd45b"
 source_bytes: 4164101
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 12
 ocr_pages: 12
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2021-03-11
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/3-11-21%20Council%20Workshop%20Packet.pdf?t=202108310733180) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `0febd35018c89ca6…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/3-11-21%20Council%20Workshop%20Packet.pdf?t=202108310733180) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `0febd35018c89ca6…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/3-11-21%20Council%20Workshop%20Packet.pdf?t=202108310733180#page=1)* (read by OCR; check the original)
@@ -251,6 +251,8 @@ City of South Lyon current long-term debt obligation: $8,144,799. Legal Debt Mar
 *[Page 12 of the original](https://www.southlyonmi.org/3-11-21%20Council%20Workshop%20Packet.pdf?t=202108310733180#page=12)* (read by OCR; check the original)
 
 <table><tr><td>Option</td><td>Funding Type</td><td>Source</td><td>Initial Payment</td><td>Initial Payment Date</td><td>Order Date</td><td>Delivery Date</td><td>Terms</td><td>Interest Rate</td><td>Annual Subsequent Payments</td><td>Total Cost of Truck</td></tr><tr><td>A</td><td>Cash Payment</td><td>General Fund</td><td>$ 250,000.00</td><td>7/1/2021</td><td>7/1/2021</td><td>7/1/2022</td><td></td><td></td><td>$ 1,250,000.00</td><td>$ 1,500,000.00</td></tr><tr><td rowspan="6">B</td><td>Municipal Lease Purchase</td><td>REV Financial Services</td><td>$ 250,000.00</td><td>7/1/2021</td><td>7/1/2021</td><td>7/1/2022</td><td>5 years</td><td>2.29%</td><td>$ 267,434.19</td><td>$ 1,587,170.95</td></tr><tr><td>Municipal Lease Purchase</td><td>REV Financial Services</td><td>$ 250,000.00</td><td>7/1/2021</td><td>7/1/2021</td><td>7/1/2022</td><td>7 years</td><td>2.39%</td><td>$ 196,045.88</td><td>$ 1,622,321.16</td></tr><tr><td>Municipal Lease Purchase</td><td>REV Financial Services</td><td>$ 250,000.00</td><td>7/1/2021</td><td>7/1/2021</td><td>7/1/2022</td><td>10 years</td><td>2.48%</td><td>$ 142,675.89</td><td>$ 1,676,758.90</td></tr><tr><td>Municipal Lease Purchase</td><td>REV Financial Services</td><td>$ 500,000.00</td><td>7/1/2021</td><td>7/1/2021</td><td>7/1/2022</td><td>5 years</td><td>2.29%</td><td>$ 213,947.37</td><td>$ 1,569,736.75</td></tr><tr><td>Municipal Lease Purchase</td><td>REV Financial Services</td><td>$ 500,000.00</td><td>7/1/2021</td><td>7/1/2021</td><td>7/1/2022</td><td>7 years</td><td>2.39%</td><td>$ 156,836.70</td><td>$ 1,597,856.90</td></tr><tr><td>Municipal Lease Purchase</td><td>REV Financial Services</td><td>$ 500,000.00</td><td>7/1/2021</td><td>7/1/2021</td><td>7/1/2022</td><td>10 years</td><td>2.48%</td><td>$ 114,140.71</td><td>$ 1,641,407.10</td></tr></table>
+
+annual payments based on interest rate not available until attorney agreement drafted
 
  $ ^{*} $estimate based on March 1, 2021 contracts
 

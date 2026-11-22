@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/1.22.18%20packet.pdf?t=202108310733110"
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "9354b9619db91cfa5393e147fcd0918b06502707954a57bf3695a8469b5b79aa"
 source_bytes: 7926805
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 135
 ocr_pages: 135
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2018-01-22
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/1.22.18%20packet.pdf?t=202108310733110) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `9354b9619db91cfa…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/1.22.18%20packet.pdf?t=202108310733110) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `9354b9619db91cfa…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/1.22.18%20packet.pdf?t=202108310733110#page=1)* (read by OCR; check the original)
@@ -1999,6 +1999,14 @@ Toll Free (866) 813-0011 • www.michigan.gov/lcc</td></tr><tr><td>On Premise Tr
 *[Page 76 of the original](https://www.southlyonmi.org/1.22.18%20packet.pdf?t=202108310733110#page=76)* (read by OCR; check the original)
 
 *[Image or figure on this page; see the original.]*
+
+Michigan Department of Licensing and Regulatory Affairs
+
+Liquor Control Commission (MLCC)
+
+7150 Harris Drive, P.O. Box 30005 - Lansing, Michigan 48909-7505
+
+Toll Free (866) 813-0011 • www.michigan.gov/lcc
 
 <table><tr><td colspan="2">On Premise Transactions</td><td>Is Local Legislative Body approval required?</td><td>Is Local Police approval required?</td><td>Is Local Legislative Body or Police opinions required to be considered?</td><td>MLCC Investigation required?</td><td>Inspection Fees?</td><td>Base Fees</td></tr><tr><td>Transfer ownership of Catering Permit</td><td></td><td>No</td><td>No</td><td>Yes</td><td>No</td><td>No</td><td>$100.00</td></tr><tr><td>Transfer ownership of Class C License</td><td></td><td>No</td><td>No</td><td>Yes</td><td>Yes</td><td>Yes</td><td>$600.00</td></tr><tr><td>Transfer ownership of Class G-1 License</td><td></td><td>No</td><td>No</td><td>Yes</td><td>Yes</td><td>Yes</td><td>$1,000.00</td></tr><tr><td>Transfer ownership of Class G-2 License</td><td></td><td>No</td><td>No</td><td>Yes</td><td>Yes</td><td>Yes</td><td>$500.00</td></tr><tr><td>Transfer ownership of Continuing Care Retirement Center License</td><td></td><td>No</td><td>No</td><td>Yes</td><td>Yes</td><td>Yes</td><td>$600.00</td></tr><tr><td>Transfer ownership of Dance Permit</td><td></td><td>No</td><td>No</td><td>Yes</td><td>No</td><td>No</td><td></td></tr><tr><td>Transfer ownership of Dance-Entertainment Permit</td><td></td><td>No</td><td>No</td><td>Yes</td><td>No</td><td>No</td><td></td></tr><tr><td>Transfer ownership of Direct Connection</td><td></td><td>No</td><td>No</td><td>No</td><td>Yes</td><td>No</td><td></td></tr><tr><td>Transfer ownership of Entertainment Permit</td><td></td><td>No</td><td>No</td><td>Yes</td><td>No</td><td>No</td><td></td></tr><tr><td>Transfer ownership of Extended Hours Permit(Dance,Topless,Entertain)</td><td></td><td>No</td><td>No</td><td>Yes</td><td>No</td><td>No</td><td></td></tr><tr><td>Transfer ownership of Living Quarters Permit</td><td></td><td>No</td><td>No</td><td>Yes</td><td>No</td><td>No</td><td></td></tr><tr><td>Transfer ownership of Outdoor Service</td><td></td><td>No</td><td>No</td><td>No</td><td>Yes</td><td>No</td><td></td></tr><tr><td>Transfer ownership of Participation Permit</td><td></td><td>No</td><td>No</td><td>Yes</td><td>No</td><td>No</td><td></td></tr><tr><td>Transfer ownership of Resort A-Hotel License</td><td></td><td>No</td><td>No</td><td>Yes</td><td>Yes</td><td>Yes</td><td>$250.00</td></tr><tr><td>Transfer ownership of Resort B-Hotel License</td><td></td><td>No</td><td>No</td><td>Yes</td><td>Yes</td><td>Yes</td><td>$600.00</td></tr><tr><td>Transfer ownership of Resort Class C License</td><td></td><td>No</td><td>No</td><td>Yes</td><td>Yes</td><td>Yes</td><td>$600.00</td></tr><tr><td>Transfer ownership of Resort Tavern License</td><td></td><td>No</td><td>No</td><td>Yes</td><td>Yes</td><td>Yes</td><td>$250.00</td></tr><tr><td>Transfer ownership of Specific Purpose Permit (Food, Golf, etc.)</td><td></td><td>No</td><td>No</td><td>Yes</td><td>No</td><td>No</td><td></td></tr></table>
 

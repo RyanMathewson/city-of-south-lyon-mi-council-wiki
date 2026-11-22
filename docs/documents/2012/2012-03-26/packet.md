@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "a43e977a1834d90ebd1b2f109a68f7d861d972603e4a7b8e1ac9edcd6689c243"
 source_bytes: 6361999
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 60
 ocr_pages: 60
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2012-03-26
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC032312CCPACKET03-26-12.pdf?t=202108310732590) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `a43e977a1834d90e…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC032312CCPACKET03-26-12.pdf?t=202108310732590) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `a43e977a1834d90e…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC032312CCPACKET03-26-12.pdf?t=202108310732590#page=1)* (read by OCR; check the original)
@@ -1600,7 +1600,7 @@ C. Any animal found running at large in the City in violation of this section ma
 
 ### § 7-9. Hunting and trapping
 
-No person shall hunt or trap wildlife at any time within the City limits, except with the approval of the City Manager or Chief of Public Safety, nor shall any person carrying a firearm or hunting weapon trespass upon the land of another in the City without the landowner's consent. This prohibition shall not apply to the trapping of rats, mice and moles, and shall not apply to the humane live trapping of squirrels, raccoons, chipmunks, and other wild or domestic animals which may be causing damage to property or which constitute a nuisance within a dwelling or building or structure or curtilage within the City. The selling for commercial purposes of such animals which have been trapped or the offering for sale or the keeping for sale for commercial purposes of such animals which have been trapped is prohibited. The disposal of such animals which have been live-trapped shall be to release such animals in the natural habitat of such animals. This prohibition shall not apply to a law a enforcement officer when acting to enforce the law or to control or dispose of dangerous or seriously injured wild or domestic animals.
+No person shall hunt or trap wildlife at any time within the City limits, except with the approval of the City Manager or Chief of Public Safety, nor shall any person carrying a firearm or hunting weapon trespass upon the land of another in the City without the landowner's consent. This prohibition shall not apply to the trapping of rats, mice and moles, and shall not apply to the humane live trapping of squirrels, raccoons, chipmunks, and other wild or domestic animals which may be causing damage to property or which constitute a nuisance within a dwelling or building or structure or curtilage within the City. The selling for commercial purposes of such animals which have been trapped or the offering for sale or the keeping for sale for commercial purposes of such animals which have been trapped is prohibited. The disposal of such animals which have been trapped shall be to release such animals in the natural habitat of such animals. This prohibition shall not apply to a law a enforcement officer when acting to enforce the law or to control or dispose of dangerous or seriously injured wild or domestic animals.
 
 ### § 7-10. Combat between animals and humans
 
@@ -1612,7 +1612,7 @@ It shall be unlawful for any owner to keep any animal which causes a public nuis
 
 ### § 7-12. Dangerous animals
 
-It shall be unlawful for any person to own or harbor any vicious or dangerous animal as defined in  $ \underline{7-3} $.
+It shall be unlawful for any person to own or harbor any vicious or dangerous animal as defined in  $ \underline{5} $  $ \underline{7-3} $.
 
 ### § 7-13. Abandonment
 

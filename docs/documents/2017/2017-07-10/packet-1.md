@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/packet%207.10.17%20part%201.pdf?t=20210
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "d4466c065799b110e126d2a213e536d9fb3aa9fa25a9459cba9569d36128e753"
 source_bytes: 2561904
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 55
 ocr_pages: 55
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2017-07-10
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/packet%207.10.17%20part%201.pdf?t=202108310733080) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `d4466c065799b110…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/packet%207.10.17%20part%201.pdf?t=202108310733080) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `d4466c065799b110…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/packet%207.10.17%20part%201.pdf?t=202108310733080#page=1)* (read by OCR; check the original)
@@ -1229,9 +1229,9 @@ Map data ©2017 Google
 <a id="p52"></a>
 *[Page 52 of the original](https://www.southlyonmi.org/packet%207.10.17%20part%201.pdf?t=202108310733080#page=52)* (read by OCR; check the original)
 
-## Reference: West End Industrial Park
+Reference: West End Industrial Park
 
-<table><tr><td>11</td><td>220 N Mill St</td><td>South Lyon</td><td>Class C Industrial/Warehouse</td><td>4,572 SF</td><td>0 SF</td><td>-</td></tr><tr><td>12</td><td>220 N Mill St</td><td>South Lyon</td><td>Class C Industrial/Warehouse</td><td>2,159 SF</td><td>0 SF</td><td>-</td></tr><tr><td>13</td><td>299-300 N Mill St</td><td>South Lyon</td><td>Class C Industrial/Warehouse</td><td>1,965 SF</td><td>0 SF</td><td>-</td></tr><tr><td>14</td><td>385 N Mill St</td><td>South Lyon</td><td>Class C Industrial/Warehouse</td><td>16,000 SF</td><td>0 SF</td><td>-</td></tr><tr><td>15</td><td>465 N Mill St</td><td>South Lyon</td><td>Class C Industrial/Manufacturing</td><td>13,743 SF</td><td>0 SF</td><td>-</td></tr><tr><td>16</td><td>500 N Mill St</td><td>South Lyon</td><td>Class C Industrial/Manufacturing</td><td>0,389 SF</td><td>0 SF</td><td>-</td></tr><tr><td>17</td><td>515 N Mill St</td><td>South Lyon</td><td>Class C Industrial/Warehouse</td><td>8,177 SF</td><td>0 SF</td><td>-</td></tr><tr><td>18</td><td>521 N Mill St</td><td>South Lyon</td><td>Class B Industrial/Warehouse</td><td>14,920 SF</td><td>0 SF</td><td>-</td></tr><tr><td>19</td><td>550 N Mill St</td><td>South Lyon</td><td>Class C Industrial/Manufacturing</td><td>63,021 SF</td><td>0 SF</td><td>-</td></tr><tr><td>20</td><td>201 S Mill St</td><td>South Lyon</td><td>Class C Industrial/Manufacturing</td><td>16,000 SF</td><td>0 SF</td><td>-</td></tr><tr><td>21</td><td>228 S Mill St</td><td>South Lyon</td><td>Class C Industrial/Warehouse</td><td>6,600 SF</td><td>0 SF</td><td>-</td></tr><tr><td>22</td><td>245 S Mill St</td><td>South Lyon</td><td>Class C Industrial/Manufacturing</td><td>63,221 SF</td><td>0 SF</td><td>-</td></tr><tr><td>23</td><td>410 Pellibone St</td><td>South Lyon</td><td>Class C Industrial/Warehouse</td><td>2,277 SF</td><td>0 SF</td><td>-</td></tr><tr><td>24</td><td>381 N Reese St</td><td>South Lyon</td><td>Class C Industrial/Manufacturing</td><td>4,566 SF</td><td>0 SF</td><td>-</td></tr><tr><td>25</td><td>401 Washington St</td><td>South Lyon</td><td>Class C Industrial/Warehouse</td><td>3,213 SF</td><td>0 SF</td><td>-</td></tr><tr><td>26</td><td>475 S Washington St</td><td>South Lyon</td><td>Class C Industrial/Warehouse</td><td>2,500 SF</td><td>0 SF</td><td>-</td></tr></table>
+<table><tr><td>11</td><td>220 N Mill St</td><td>South Lyon</td><td>Class C Industrial/Warehouse</td><td>4,572 SF</td><td>0 SF</td><td>-</td></tr><tr><td>12</td><td>220 N Mill St</td><td>South Lyon</td><td>Class C Industrial/Warehouse</td><td>2,159 SF</td><td>0 SF</td><td>-</td></tr><tr><td>13</td><td>299-300 N Mill St</td><td>South Lyon</td><td>Class C Industrial/Warehouse</td><td>1,965 SF</td><td>0 SF</td><td>-</td></tr><tr><td>14</td><td>385 N Mill St</td><td>South Lyon</td><td>Class C Industrial/Warehouse</td><td>18,000 SF</td><td>0 SF</td><td>-</td></tr><tr><td>15</td><td>465 N Mill St</td><td>South Lyon</td><td>Class C Industrial/Manufacturing</td><td>13,743 SF</td><td>0 SF</td><td>-</td></tr><tr><td>16</td><td>500 N Mill St</td><td>South Lyon</td><td>Class C Industrial/Manufacturing</td><td>9,389 SF</td><td>0 SF</td><td>-</td></tr><tr><td>17</td><td>515 N Mill St</td><td>South Lyon</td><td>Class C Industrial/Warehouse</td><td>8,177 SF</td><td>0 SF</td><td>-</td></tr><tr><td>18</td><td>521 N Mill St</td><td>South Lyon</td><td>Class B Industrial/Warehouse</td><td>14,920 SF</td><td>0 SF</td><td>-</td></tr><tr><td>19</td><td>550 N Mill St</td><td>South Lyon</td><td>Class C Industrial/Manufacturing</td><td>63,021 SF</td><td>0 SF</td><td>-</td></tr><tr><td>20</td><td>201 S Mill St</td><td>South Lyon</td><td>Class C Industrial/Manufacturing</td><td>16,000 SF</td><td>0 SF</td><td>-</td></tr><tr><td>21</td><td>228 S Mill St</td><td>South Lyon</td><td>Class C Industrial/Warehouse</td><td>6,600 SF</td><td>0 SF</td><td>-</td></tr><tr><td>22</td><td>245 S Mill St</td><td>South Lyon</td><td>Class C Industrial/Manufacturing</td><td>63,221 SF</td><td>0 SF</td><td>-</td></tr><tr><td>23</td><td>410 Peltibone St</td><td>South Lyon</td><td>Class C Industrial/Warehouse</td><td>2,277 SF</td><td>0 SF</td><td>-</td></tr><tr><td>24</td><td>381 N Reese St</td><td>South Lyon</td><td>Class C Industrial/Manufacturing</td><td>4,566 SF</td><td>0 SF</td><td>-</td></tr><tr><td>25</td><td>401 Washington St</td><td>South Lyon</td><td>Class C Industrial/Warehouse</td><td>3,213 SF</td><td>0 SF</td><td>-</td></tr><tr><td>26</td><td>475 S Washington St</td><td>South Lyon</td><td>Class C Industrial/Warehouse</td><td>2,500 SF</td><td>0 SF</td><td>-</td></tr></table>
 
 Several recent building expansions are noted on existing sites in South Lyon including Sun Steel, Superb Fabrication, Pullum Windows, and Lucas Properties. Three of the four are manufacturers the fourth is storage. In such cases, the owner/occupants judged new construction as feasible within the context of their needs. The possibility of a potential future owner/occupant willing to construct improvements on the subject should not be discounted in light of these observations. The scope of the Schafer Viability Analysis is limited to tenant occupied properties.
 
@@ -1244,6 +1244,8 @@ Respectfully,
 *[Image or figure on this page; see the original.]*
 
 Craig J./Fuller, Certified General Appraiser
+
+Attachment: Thomas Duke Viability Analysis dated November 22, 2016
 
 <a id="p53"></a>
 *[Page 53 of the original](https://www.southlyonmi.org/packet%207.10.17%20part%201.pdf?t=202108310733080#page=53)* (read by OCR; check the original)

@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/3-28-22%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "25a7fc85b6563f3cc97e09736f936475290448b20bc544b6c7f448f955acc336"
 source_bytes: 8583842
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 57
 ocr_pages: 57
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2022-03-28
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/3-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202203241447490) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `25a7fc85b6563f3c…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/3-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202203241447490) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `25a7fc85b6563f3c…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/3-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202203241447490#page=1)* (read by OCR; check the original)
@@ -1130,255 +1130,183 @@ LORI MOSIER
 <a id="p45"></a>
 *[Page 45 of the original](https://www.southlyonmi.org/3-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202203241447490#page=45)* (read by OCR; check the original)
 
-<table><tr><td rowspan="2">GENERAL</td><td>MISCELLANEOUS</td><td></td><td>LEARN</td><td>*[Image or figure on this page; see the original.]*</td></tr><tr><td>THE CONTROLS OF ALL THE CONำters will be CANDIDATE FOR ANY CONSIDER OR TEAM TO BE MADE TO THE CONSIDERATION AND THE CONSTRUCTION OF THE CONSTRUCTION FOR ANY RECOGNITION OF THE CONSTRUCTION OR CONSTRUCTION FOR ANY RECOGNITION OF THE CONSTRUCTION OR CONSTRUCTION FOR ANY RECOGNITION OF THE CONSTRUCTION OR CONSTRUCTION FOR ANY RECOGNITION OF THE CONSTRUCTION OR CONSTRUCTION FOR ANY RECOGNITION OF THE CONSTRUCTION OR CONSTRUCTION FOR ANY RECOGNITION OF THE CONSTRUCTION OR CONSTRUCTION FOR ANY RECOGNITION OF THE CONSTRUCTION OR CONSTRUCTION FOR ANY RECOGNITION OF THE CONSTRUCTION OR CONSTRUCTION FOR ANY RECOGNITION OF THE CONSTRUCTION OR CONSTRUCTION FOR ANY RECOGNITION OF THE CONSTRUCTION OR CONSTRUCTION FOR ANY RECOGNITION OF THE CONSTRUCTION OR CONSTRUCTION FOR ANY RECOGNITION OF THE CONSTRUCTION OR CONSTRUCTION FOR ANY RECOGNITION OF THE CONSTRUCTION OR CONSTRUCTION FOR ANY RECOGNITION OF THE CONSTRUCTION OR CONSTRUCTION FOR ANY RECOGNITION OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONSTRUCTION OR CON STRUCTURE OF THE CONDUCTION OR RECREational OR LEARNing Projects. All the work is required to be completed by the project director and the project director must be 10 years of age and 10 years of age. All project director must be 10 years of age and 10 years of age. All project director must be 10 years of age and 10 years of age. All project director must be 10 years of age and 10 years of age. All project director must be 10 years of age and 10 years of age. All project director must be 10 years of age and 10 years of age. All project director must be 10 years of age and 10 years of age. All project director must be 10 years of age and 10 years of age. All project director must be 10 years of age and 10 years of age. All project director must be 10 years of age and 10 years of age. All project director must be 10 years of age and 10 years of age. All project director must be 10 years of age and 10 years of age. All project director must be 10 years of age and 10 years of age. All project director</td><td></td><td></td><td></td></tr></table>
+<table><tr><td rowspan="2">GENERAL</td><td>MISCELLANEOUS</td></tr><tr><td>THE CONTRIBUTION OF THE CONTRACTOR: AND AN界際際の構築・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・本・</td></tr></table>
 
 <a id="p46"></a>
 *[Page 46 of the original](https://www.southlyonmi.org/3-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202203241447490#page=46)* (read by OCR; check the original)
 
-<table><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE SECTION DETAIL
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL MOUNTABLE CONCRETE CURB AND GUTTER (MDOT D-1) DETAIL
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL MOUNTABLE CONCRETE CURB AND GUTTER (MDOT D-1) DETAIL
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-SUBGRADE UNDEROUTITING DETAIL
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-SUBGRADE MADE IN TOTAL ALGEBRA
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-SUBGRADE MADE IN TOTAL ALGEBRA
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) DETAIL
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) DETAIL
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (MDOT F-3) DETAIL
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) DETAIL
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) DETAIL
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) DETAIL
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) DETAIL
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td></tr><tr><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) Detail
-NO SCALE</td><td>*[Image or figure on this page; see the original.]*
-TYPICAL CONCRETE CURB</td><td></td></tr></table>
+*[OCR note: this page may contain text repeated by the OCR software; check the original.]*
+
+<table><tr><td colspan="3">*[Image or figure on this page; see the original.]* TYPICAL MOUNTABLE CONCRETE CURB AND GUTTER (MDOT D-1) DETAIL</td></tr><tr><td colspan="2">*[Image or figure on this page; see the original.]* SUBGRADE UNDERCUTTING DETAIL</td><td>*[Image or figure on this page; see the original.]* AGGREGATE BASE DETAIL</td></tr><tr><td colspan="2">*[Image or figure on this page; see the original.]* TYPICAL CONCRETE CURB AND GUTTER (REVERSE PAN) (MDOT F-3) DETAIL</td><td>*[Image or figure on this page; see the original.]* TYPICAL MOUNTABLE CONCRETE CURB AND GUTTER (MDOT D-1) DETAIL</td></tr><tr><td>*[Image or figure on this page; see the original.]* CART (OF THE FUTURE LOVERING)
+1. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+2. LATE 2023 PALL IN EASTERED AND EASTERED AND
+NOT FUND FOR ATراکش,مشاهده باید</td><td>*[Image or figure on this page; see the original.]* CART AND GUTTER (MDOT D-1) DETAIL
+2. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+3. LATE 2023 PALL IN EASTERED AND EASTERED AND
+NOT FUND FOR AT RAILE IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+4. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+5. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+6. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+7. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+8. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+9. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+10. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+11. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+12. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+13. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+14. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+15. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+16. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+17. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+18. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+19. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+20. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+21. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+22. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+23. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+24. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+25. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+26. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+27. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+28. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+29. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+30. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+31. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+32. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+33. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+34. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+35. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+36. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+37. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+38. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+39. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+40. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+41. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+42. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+43. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+44. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+45. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+46. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+47. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+48. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+49. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+50. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+51. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+52. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+53. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+54. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+55. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+56. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+57. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+58. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+59. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+60. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+61. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+62. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+63. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+64. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+65. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+66. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+67. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+68. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+69. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+70. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+71. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+72. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+73. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+74. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+75. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+76. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+77. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+78. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+79. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+80. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+81. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+82. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 11, 2023
+83. ALL ARTS SOUTH AND EASTERED IN THE 2020 OF
+CART AND GUTTER COOKS, NOT 10 - 1</td><td></td></tr></table>
 
 *[Image or figure on this page; see the original.]*
 

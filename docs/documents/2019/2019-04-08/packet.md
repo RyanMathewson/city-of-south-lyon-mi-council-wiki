@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/4-8-19%20Council%20Packet%20-%20online%
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "95e2276addf0b77a0ff74149557e4024d63f21babe5135e4e82812a9cbf2d4e3"
 source_bytes: 5831207
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 156
 ocr_pages: 156
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2019-04-08
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/4-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `95e2276addf0b77a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/4-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `95e2276addf0b77a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/4-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=1)* (read by OCR; check the original)
@@ -1833,19 +1833,19 @@ SALES QUOTE
 
 Quote Number
 
-Datos
+Dates
 
 Effective Date: 10/23/2018
 
 Expiration Date: 11/23/2018
 
-<table><tr><td>Bulliard Part Number</td><td>Product Description</td><td>Total Quoted</td><td>Minimum Purchase Req</td><td>Price Each</td><td>TOTAL</td></tr><tr><td>T3XBUNDLE</td><td>T3X Thermal Imager (Metallic Blue) with Powerhouse Bundle</td><td>1</td><td>1</td><td>$7,456.00</td><td>$7,456.00</td></tr><tr><td>T3XETT</td><td>T3X Electronic Thermal Throttle</td><td>1</td><td>1</td><td>$999.00</td><td>$999.00</td></tr><tr><td>T3RETRACT</td><td>T3/T4 Series Retractable Strap Kit</td><td>1</td><td>1</td><td>$74.87</td><td>$74.87</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr></table>
+<table><tr><td>Bullard Part Number</td><td>Product Description</td><td>Total Quoted</td><td>Minimum Purchase Req</td><td>Price Each</td><td>TOTAL</td></tr><tr><td>T3XBUNDLE</td><td>T3X Thermal Imager (Metallic Blue) with Powerhouse Bundle</td><td>1</td><td>1</td><td>$7,456.00</td><td>$7,456.00</td></tr><tr><td>T3XETT</td><td>T3X Electronic Thermal Throttle</td><td>1</td><td>1</td><td>$999.00</td><td>$999.00</td></tr><tr><td>T3RETRACT</td><td>T3/T4 Series Retractable Strap Kit</td><td>1</td><td>1</td><td>$74.87</td><td>$74.87</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>$0.00</td></tr></table>
 
-Quote Prepared By Mark Jetton
+Quote Prepared By Mark Jelton
 
 Cell 312-550-4823
 
-E-mail mark jetton@bullani.com
+E-mail mark jetton@bullant.com
 
 Fax
 
@@ -3360,7 +3360,7 @@ william p. lindhout frank l. pierron piet w. lindhout robert j. king michael j. 
 
 10. Egress illumination: Please refer to attached Drawing Sheet 4/A2.0 for locations of designated building egress illumination fixtures. Exit illumination fixtures shall be Lithonia Model ELM6L with battery backup. Fixtures shall work with in combination with lighted Exit Signs as specified in Item #9 above. Final number of fixtures shall be determined in the field by the electrical subcontractor in order to meet required lighting levels per code.
 
-11. Exit Doors: Existing exit doors, hardware and swings, within Rooms 102 and 110, serving an occupant load of less than 50 occupants shall remain as is per Sections 1010.1.2.1 and 1010.1.10 of the 2015 Michigan Building Code. See attached Egress Plan on Drawing Sheet 1/A1.0.
+11. Exit Doors: Existing exit doors, hardware and swings, within Rooms 102 and 110, serving an occupant load of less than 50 occupants shall remain as is per Sections 1010.1.2.1 and 1010.1.10 of the 2015 Michigan Building Code: See attached Egress Plan on Drawing Sheet 1/A1.0.
 
 12. Building & Site Accessibility: Existing building and site meets requirements as note within the Building Plan and Review document dated 1/29/19.
 

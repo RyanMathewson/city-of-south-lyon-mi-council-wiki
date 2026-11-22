@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "c871725539fed22791429ffa390e883a63e835378e8327af0dc577497c514401"
 source_bytes: 4603557
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 114
 ocr_pages: 114
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2016-06-13
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC061016RevisedCCpacket6-13-2016.pdf?t=202108310732560) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `c871725539fed227…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC061016RevisedCCpacket6-13-2016.pdf?t=202108310732560) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `c871725539fed227…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC061016RevisedCCpacket6-13-2016.pdf?t=202108310732560#page=1)* (read by OCR; check the original)
@@ -411,6 +411,8 @@ User: LMosier
 DB: South Lyon
 
 <table><tr><td>Check Date</td><td>Check</td><td>Vendor Name</td><td>Description</td><td>Amount</td></tr><tr><td>06/09/2016</td><td>69258</td><td>POLICE OFFICERS LABOR COUNCIL</td><td>PAYROLL DEDUCTIONS - 6/10/16</td><td>251.25</td></tr><tr><td>06/09/2016</td><td>69259</td><td>POSTMASTER</td><td>POSTAGE FOR RECRUITMENT MAILERS</td><td>359.92</td></tr><tr><td>06/09/2016</td><td>69260</td><td>R.R.R.A.S.O.C.</td><td>HAZARDOUS WASTE EVENT - 5/21/16 - 10 CAR</td><td>278.50</td></tr><tr><td>06/09/2016</td><td>69261</td><td>TIMOTHY RAAP</td><td>OFFICER'S UNIFORM ALLOWANCE</td><td>250.00</td></tr><tr><td>06/09/2016</td><td>69262</td><td>SALEM-SOUTH LYON DISTRICT</td><td>TAXES DUE TO LIBRARY</td><td>8,384.34</td></tr><tr><td>06/09/2016</td><td>69263</td><td>CHRISTOPHER SEDERLUND</td><td>OFFICER'S UNIFORM ALLOWANCE</td><td>250.00</td></tr><tr><td>06/09/2016</td><td>69264</td><td>KELLY SMITH</td><td>WEDDING 6/4/16</td><td>275.00</td></tr><tr><td>06/09/2016</td><td>69265</td><td>CHRISTOPHER SOVIK</td><td>OFFICER'S UNIFORM ALLOWANCE</td><td>250.00</td></tr><tr><td>06/09/2016</td><td>69266</td><td>TONY SROUFE</td><td>OFFICER'S UNIFORM ALLOWANCE</td><td>250.00</td></tr><tr><td>06/09/2016</td><td>69267</td><td>STATE OF MICHIGAN^^^</td><td>EMS VEHICLE TRANSFER FEE</td><td>25.00</td></tr><tr><td>06/09/2016</td><td>69268</td><td>TRAVIS STEVENS</td><td>OFFICER'S UNIFORM ALLOWANCE</td><td>250.00</td></tr><tr><td>06/09/2016</td><td>69269</td><td>JOHN TOMANEK</td><td>OFFICER'S UNIFORM ALLOWANCE</td><td>250.00</td></tr><tr><td>06/09/2016</td><td>69270</td><td>US BANK</td><td>BLDG AUTH BOND AGENT FEES (BI4946)</td><td>150.00</td></tr><tr><td></td><td></td><td></td><td>BLDG AUTH BOND AGENT FEE (BI3606)</td><td>175.00</td></tr><tr><td></td><td></td><td></td><td></td><td>325.00</td></tr><tr><td>06/09/2016</td><td>69271</td><td>VANTAGEPOINT TRANSFERS</td><td>PLAN #301149, PAYROLL DEDUCTIONS 6/10/16</td><td>3,599.86</td></tr><tr><td>06/09/2016</td><td>69272</td><td>W.H. GRIFFIN, TRUSTEE</td><td>PAYROLL DEDUCTION - 6/10/16</td><td>253.85</td></tr><tr><td>06/09/2016</td><td>69273</td><td>TIMOTHY WALTON</td><td>OFFICER'S UNIFORM ALLOWANCE</td><td>250.00</td></tr><tr><td>06/09/2016</td><td>69274</td><td>WINDSTREAM</td><td>PHONE SERVICE</td><td>1,941.59</td></tr><tr><td>06/09/2016</td><td>69275</td><td>SUSAN L. WINTERS</td><td>PAYROLL DEDUCTION - 6/10/16</td><td>190.43</td></tr><tr><td>06/09/2016</td><td>69276</td><td>MICHAEL WITTROCK</td><td>OFFICER'S UNIFORM ALLOWANCE</td><td>250.00</td></tr><tr><td>06/09/2016</td><td>69277</td><td>WOLVERINE ENERGY SERVICE</td><td>ELECTRICAL PERMIT REFUND #PE160061 - 127</td><td>161.85</td></tr><tr><td>06/09/2016</td><td>69278</td><td>WOW! BUSINESS</td><td>INTERNET SERVICE</td><td>32.97</td></tr><tr><td>06/09/2016</td><td>69279</td><td>MARCI ZYCK</td><td>DEMO @ FARMER'S MKT - 6/4/16</td><td>25.00</td></tr></table>
+
+01 TOTALS:
 
 Total of 160 Disbursements:
 

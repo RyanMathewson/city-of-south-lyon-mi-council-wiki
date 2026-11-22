@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "b2a7f89a3b0970496b6cebefea64e743624f87cce14b00ac18f18fce2e822296"
 source_bytes: 3738821
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 107
 ocr_pages: 107
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2017-01-09
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/Council%20Packet%201-9-17.pdf?t=202108310733070) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `b2a7f89a3b097049…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/Council%20Packet%201-9-17.pdf?t=202108310733070) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `b2a7f89a3b097049…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/Council%20Packet%201-9-17.pdf?t=202108310733070#page=1)* (read by OCR; check the original)
@@ -2293,22 +2293,21 @@ DWG Receipt/review of Notice to Appear 0.10
 
 ty of South Lyon  
 Attorney Retainer Work  
-  
-Hours  
-11/1/2016 DWG Receipt/review of Notice to Appear 0.10  
-11/2/2016 DWG Receipt/review of Judge Batchik's 11/3/16 docket 0.10  
-DWG Receipt/review of Judge Bondy's 11/3/16 docket 0.10  
-DWG Receipt/review of Judge Law's 11/3/16 docket 0.10  
-DWG Receipt/review of Judge Reeds' 11/3/16 docket 0.10  
-DWG Receipt/review of Judge Bondy's 11/8/16 docket 0.10  
-11/3/2016 DWG Receipt/review of 11/7/16 arraignment docket 0.10  
-DWG Receipt/review of Judge Bondy's 11/7/16 docket 0.10  
-DWG Receipt/review of Judge Law's 11/7/16 docket 0.10  
-DWG Receipt/review of Judge Reeds' 11/7/16 docket 0.10  
-DWG Receipt/review of Judge Bondy's 11/9/16 docket 0.10  
-DWG Receipt/review of Judge Law's 11/9/16 docket 0.10  
-DWG Receipt/review of Judge Reeds' 11/9/16 docket 0.10  
-11/7/2016 DWG Telephone conference with victim regarding 11/22/16 Bench Trial 0.20
+11/1/2016 DWG Receipt/review of Notice to Appear  
+11/2/2016 DWG Receipt/review of Judge Batchik's 11/3/16 docket  
+DWG Receipt/review of Judge Bondy's 11/3/16 docket  
+DWG Receipt/review of Judge Law's 11/3/16 docket  
+DWG Receipt/review of Judge Reeds' 11/3/16 docket  
+DWG Receipt/review of Judge Bondy's 11/8/16 docket  
+11/3/2016 DWG Receipt/review of 11/7/16 arraignment docket  
+DWG Receipt/review of Judge Bondy's 11/7/16 docket  
+DWG Receipt/review of Judge Law's 11/7/16 docket  
+DWG Receipt/review of Judge Reeds' 11/7/16 docket  
+DWG Receipt/review of Judge Bondy's 11/9/16 docket  
+DWG Receipt/review of Judge Law's 11/9/16 docket  
+DWG Receipt/review of Judge Reeds' 11/9/16 docket  
+11/7/2016 DWG Telephone conference with victim regarding 11/22/16  
+Bench Trial
 
 <a id="p88"></a>
 *[Page 88 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/Council%20Packet%201-9-17.pdf?t=202108310733070#page=88)* (read by OCR; check the original)
@@ -2407,38 +2406,24 @@ DWG Preparation of Brief in Support of Answer to Motion to Suppress Evidence and
 <a id="p92"></a>
 *[Page 92 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/Council%20Packet%201-9-17.pdf?t=202108310733070#page=92)* (read by OCR; check the original)
 
-city of South Lyon  
-city Attorney Retainer Work  
+ity of South Lyon  
+ity Attorney Retainer Work  
   
-11/21/2016 DWG Receipt/review of Notice to Appear  
-DWG Receipt/review of Judgment of Sentence  
-DWG Receipt/review of Judgment of Sentence  
-DWG Receipt/review of Notice to Appear  
-DWG Receipt/review of Petition and Order for Amendment of Order of Probation  
-DWG Receipt/review of Judgment of Sentence  
-DWG Receipt/review of Judgment of Sentence  
-DWG Receipt/review of Judge Bondy's 11/23/16 docket  
-DWG Receipt/review of Judge Law's 11/23/16 docket  
-DWG Receipt/review of Judge Reeds' 11/23/16 docket  
-DWG Receipt/review of Judge Bondy's 11/28/16 docket  
-DWG Receipt/review of Judge Law's 11/28/16 docket  
-DWG Receipt/review of Judge Reeds' 11/28/16 docket  
-DWG Preparation for Trial  
-0.10  
-0.10  
-0.10  
-0.10  
-0.10  
-0.10  
-0.10  
-0.10  
-0.10  
-0.10  
-0.10  
-0.10  
-0.10  
-0.10  
-0.30
+Hours  
+11/21/2016 DWG Receipt/review of Notice to Appear 0.10  
+DWG Receipt/review of Judgment of Sentence 0.10  
+DWG Receipt/review of Judgment of Sentence 0.10  
+DWG Receipt/review of Notice to Appear 0.10  
+DWG Receipt/review of Petition and Order for Amendment of Order of Probation 0.10  
+DWG Receipt/review of Judgment of Sentence 0.10  
+DWG Receipt/review of Judgment of Sentence 0.10  
+DWG Receipt/review of Judge Bondy's 11/23/16 docket 0.10  
+DWG Receipt/review of Judge Law's 11/23/16 docket 0.10  
+DWG Receipt/review of Judge Reeds' 11/23/16 docket 0.10  
+DWG Receipt/review of Judge Bondy's 11/28/16 docket 0.10  
+DWG Receipt/review of Judge Law's 11/28/16 docket 0.10  
+DWG Receipt/review of Judge Reeds' 11/28/16 docket 0.10  
+DWG Preparation for Trial 0.30
 
 <a id="p93"></a>
 *[Page 93 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/Council%20Packet%201-9-17.pdf?t=202108310733070#page=93)* (read by OCR; check the original)

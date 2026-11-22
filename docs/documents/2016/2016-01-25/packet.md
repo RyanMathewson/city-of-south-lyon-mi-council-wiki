@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "ecf3b0b986e52059ee3c55097775359211a87c0aafcfdfabca7cef14190dc9c3"
 source_bytes: 43464263
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 158
 ocr_pages: 158
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2016-01-25
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `ecf3b0b986e52059…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `ecf3b0b986e52059…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570#page=1)* (read by OCR; check the original)
@@ -2207,9 +2207,9 @@ This failure is unexpected, however due to the fact that we have become aware of
 <a id="p75"></a>
 *[Page 75 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570#page=75)* (read by OCR; check the original)
 
-ADVANCED
+## ADVANCED
 
-Underground Inspection, LLC
+Underground inspection, LLC
 
 UNDERGROUND VIDEO INSPECTION
 
@@ -2227,7 +2227,10 @@ Fax (734) 721-0082
 
 DATE & DAY 2016
 
-<table><tr><td colspan="4">CUSTOMER DATA</td><td colspan="6">JOB DATA</td></tr><tr><td>NAME</td><td>City</td><td>Of</td><td>South</td><td>Lyon</td><td>NAME</td><td>City</td><td>Of</td><td>South</td><td>Lyon</td></tr><tr><td>JOB#</td><td></td><td></td><td>P.O#</td><td></td><td>CONTACT NAME</td><td colspan="4">RON (248) 762-3647</td></tr><tr><td colspan="3">CONTACT NAME</td><td colspan="2">NUMBER</td><td>LOCATION</td><td>South</td><td>Lyon</td><td colspan="2">M.I</td></tr><tr><td colspan="10">SERVICE REQUESTED</td></tr><tr><td colspan="3">T&M</td><td colspan="2">CONTRACT</td><td colspan="5">QUOTE</td></tr><tr><td colspan="3">EQUIPMENT</td><td>QTY</td><td>HRS</td><td colspan="5">DISPOSAL</td></tr><tr><td colspan="3">BYPASS PUMP</td><td colspan="2"></td><td>MANIFEST</td><td>QTY</td><td>U/M</td><td colspan="2">LOCATION</td></tr><tr><td colspan="3">TV UNIT # 502</td><td colspan="2"></td><td colspan="5"></td></tr><tr><td colspan="3">TV GROUT</td><td colspan="2"></td><td colspan="5"></td></tr><tr><td colspan="3">JETTER VAC</td><td colspan="2"></td><td colspan="5">SUPPLIES USED (EXPENSES, RENTALS)</td></tr><tr><td colspan="3">SEWER JET</td><td colspan="2"></td><td colspan="2">2 PR</td><td>Rubber</td><td colspan="2">G loves</td></tr><tr><td colspan="3">S.C.</td><td colspan="2"></td><td colspan="5"></td></tr><tr><td colspan="3">OTHER</td><td colspan="2"></td><td colspan="5"></td></tr><tr><td>EMPLOYEE</td><td colspan="2">PERSONNEL</td><td>NAME</td><td>START TIME</td><td>ARRIVE SITE</td><td>DEPART SITE</td><td>END TIME</td><td>DOWN TIME</td><td>BILABLE HOURS</td></tr><tr><td></td><td colspan="2">Dan J</td><td></td><td>A</td><td>9:45</td><td>11:30</td><td>A</td><td></td><td></td></tr><tr><td></td><td colspan="2">Justin M.</td><td></td><td>A</td><td>9:45</td><td>11:30</td><td>A</td><td></td><td></td></tr><tr><td></td><td colspan="2"></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr><tr><td></td><td colspan="2"></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr><tr><td></td><td colspan="2"></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr><tr><td></td><td colspan="2"></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr><tr><td></td><td colspan="2"></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr><tr><td colspan="10">COMMENTS:</td></tr><tr><td colspan="10">TV. 33.5 ft as Directed of 12" San</td></tr><tr><td colspan="10">unable to find sink hole from Both Manholes</td></tr><tr><td colspan="10">Due to Debris and water levels. Ron-made</td></tr><tr><td colspan="10">Decision to not Jet five time today.</td></tr><tr><td colspan="10"></td></tr><tr><td colspan="10"></td></tr><tr><td colspan="8"></td><td></td><td></td></tr></table>
+<table><tr><td colspan="4">CUSTOMER DATA</td><td colspan="6">JOB DATA</td></tr><tr><td>NAME</td><td>City</td><td>Of</td><td>South Lyon</td><td>NAME</td><td>City</td><td>Of</td><td colspan="3">South Lyon</td></tr><tr><td>JOB#</td><td></td><td></td><td>P.O#</td><td colspan="6">CONTACT NAME
+Ron (248) 762-3647</td></tr><tr><td colspan="3">CONTACT NAME</td><td>NUMBER</td><td colspan="6">LOCATION</td></tr><tr><td colspan="4">SERVICE REQUESTED</td><td colspan="6">South Lyon, MI</td></tr><tr><td colspan="3">T&M</td><td>CONTRACT</td><td colspan="6">QUOTE</td></tr><tr><td colspan="3">EQUIPMENT</td><td>QTY</td><td>HRS</td><td colspan="5">DISPOSAL</td></tr><tr><td colspan="3">BYPASS PUMP</td><td></td><td></td><td>MANIFEST</td><td>QTY</td><td>UM</td><td colspan="2">LOCATION</td></tr><tr><td colspan="3">TV UNIT # 502</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="3">TV GROUT</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="3">JETTER VAC</td><td></td><td></td><td colspan="5">SUPPLIES USED (EXPENSES, RENTALS)</td></tr><tr><td colspan="3">SEWER JET</td><td></td><td></td><td colspan="5">2 PR Rubber Gloves</td></tr><tr><td colspan="3">S.C.</td><td></td><td></td><td colspan="5"></td></tr><tr><td colspan="3">OTHER</td><td></td><td></td><td colspan="5"></td></tr><tr><td colspan="4">PERSONNEL</td><td>START TIME</td><td>ARRIVE
+SITE</td><td>DEPART
+SITE</td><td>END TIME</td><td>DOWN TIME</td><td>BILLABLE HOURS</td></tr><tr><td>EMPLOYEE#</td><td>NAME</td><td colspan="2"></td><td></td><td>9:45</td><td>11:30</td><td>A</td><td></td><td></td></tr><tr><td></td><td colspan="2">Dan J</td><td></td><td>A</td><td>9:45</td><td>11:30</td><td>A</td><td></td><td></td></tr><tr><td></td><td colspan="2">Justin M</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr><tr><td></td><td colspan="2"></td><td></td><td>P</td><td>P</td><td>P</td><td>P</td><td></td><td></td></tr><tr><td></td><td colspan="2"></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr><tr><td></td><td colspan="2"></td><td></td><td>P</td><td>P</td><td>P</td><td>P</td><td></td><td></td></tr><tr><td></td><td colspan="2"></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr><tr><td></td><td colspan="2"></td><td></td><td>P</td><td>P</td><td>P</td><td>P</td><td></td><td></td></tr><tr><td colspan="10">COMMENTS:</td></tr><tr><td colspan="10">TV. 33.5 ft as Directed of 12" San</td></tr><tr><td colspan="10">unable to find sink hole from Both Manhole</td></tr><tr><td colspan="10">Due to Debis and water levels. Ron-made</td></tr><tr><td colspan="10">Decision to not Jet the line today</td></tr><tr><td colspan="10"></td></tr><tr><td colspan="8"></td><td></td><td></td></tr></table>
 
 <a id="p76"></a>
 *[Page 76 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570#page=76)* (read by OCR; check the original)

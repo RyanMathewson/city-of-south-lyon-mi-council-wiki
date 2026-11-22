@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "753ecee240f7f73eace9d69f1e9eb2749975fa8b29ede5704f375dfb4be24a1b"
 source_bytes: 4767966
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 99
 ocr_pages: 99
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2014-10-13
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `753ecee240f7f73e…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `753ecee240f7f73e…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570#page=1)* (read by OCR; check the original)
@@ -271,7 +271,37 @@ The City of South Lyon
 
 The City of South Lyon
 
-<table><tr><td>Fund Department Account</td><td>GL Number Abbrev</td><td>Vendor Name Invoice Description</td><td>Check Number</td><td>Invoice Number</td><td>Due Date</td><td>Amount</td></tr><tr><td colspan="7">Fund: GENERAL FUND</td></tr><tr><td colspan="7">Dept: DEPT. OF PUBLIC WORKS</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>ADVANCE AUTO PARTS</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>WINDSHIELD WIPERS&WASHER FLUID</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>FLASH GLASS</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>WINDSHIELD REPL T-6</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>HINES PARK FORD, INC.</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>MUFFLER & TAILPIPE T-6</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>LAWSON PRODUCTS, INC.</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>MECHANIC'S SUPPLIES</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>O'REILLY AUTO PARTS</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>FILTERS & MISC SUPPLIES</td><td></td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>ADVANCE AUTO PARTS</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>ANTI-FREEZE & MISC TOOLS</td><td></td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>ADVANCE AUTO PARTS</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>MECHANIC'S TOOLS & SUPPLIES</td><td></td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>CARLETON EQUIPMENT COMPANY</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>HEATER & FAN SWITCH - TOOLCAT</td><td></td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>O'REILLY AUTO PARTS</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>SWAPPER BATTERIES</td><td></td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>SHARE CORP.</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>DEGREASOR & UNDERCOATING</td><td></td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>LAWSON PRODUCTS, INC.</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>BATTERY JUMPER SYS-MECH TRUCK</td><td></td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>O'REILLY AUTO PARTS</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>TIRE PRESSURE SENSOR & ADVANCE AUTO PARTS</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>BRAKES PADS - T-6</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>ADVANCE AUTO PARTS</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>MISC PARTS FOR T-6</td><td></td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>ADVANCE AUTO PARTS</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>MECHANIC'S SUPPLIES</td><td></td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>ADVANCE AUTO PARTS</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>MECHANIC'S SUPPLIES & TOOLS</td><td></td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>BADER & SONS CO.</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>HYDRAULIC FITTINGS</td><td></td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>BADER & SONS CO.</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>MOWER HITCH</td><td></td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>BADER & SONS CO.</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>HYDRAULIC FITTINGS</td><td></td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>HINES PARK FORD, INC.</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>BRAKES CALIPER T-5</td><td></td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>HINES PARK FORD, INC.</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>COMPUTER MOD. & THROTTLE BODY T5</td><td></td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>LAWSON PRODUCTS, INC.</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>HYDR. HOSE&MECHANIC SUPPLIES</td><td></td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>O'REILLY AUTO PARTS</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>TRANS FILTERS&FLUID-SWEEPER</td><td></td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>O'REILLY AUTO PARTS</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>MARKER LIGHTS - T-5</td><td></td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>TIRE HOLESALERS COMPANY, INC.</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>TIRE HOLESALERS COMPANY, INC.</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>TIRES - T-4</td><td></td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>TIRE HOLESALERS COMPANY, INC.</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>TRAILER TIRES</td><td></td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>ADVANCE AUTO PARTS</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>NPDES PHAS</td><td>BATTERIES - FORKLIFT & T-6</td><td></td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>LAND IMPRO</td><td>HUBBELL, ROTH, & CLARK, INC.</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>LAND IMPRO</td><td>2013/14 STORM WTR PERMIT ASST. COUGAR SALES & RENTAL, INC.</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>LAND IMPRO</td><td>CONCRETE TOOLS & BLADES</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>LAND IMPRO</td><td>COUGAR SALES & RENTAL, INC.</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>LAND IMPRO</td><td>CONCRETE TOOLS</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>LAND IMPRO</td><td>MIRACLE RECREATION EQUIPMENT REPL SEAT DOWNTOWN BENCH</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>LAND IMPRO</td><td>STONE DEPOT</td><td>0</td><td></td><td>10/13/2014</td><td></td></tr><tr><td>101-440.000-863.000</td><td>LAND IMPRO</td><td>MULCH - WELLS ST. LOT ISLANDS</td><td></td><td></td><td>10/13/2014</td><td></td></tr></table>
+<table><tr><td>Fund Department Account</td><td>GL Number Abbrev</td><td>Vendor Name Invoice Description</td><td>Check Number</td><td>Invoice Number</td><td>Due Date</td><td>Amount</td></tr><tr><td colspan="7">Fund: GENERAL FUND</td></tr><tr><td colspan="7">Dept: DEPT. OF PUBLIC WORKS</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>ADVANCE AUTO PARTS</td><td>0</td><td></td><td>10/13/2014</td><td>53.81</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>WINDSHIELD WIPERS&WASHER FLUID
+FLASH GLASS</td><td>0</td><td></td><td>10/13/2014</td><td>237.33</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>WINDSHIELD REPL T-6
+HINES PARK FORD, INC.
+MUFFLER & TAILPIPE T-6</td><td>0</td><td></td><td>10/13/2014</td><td>515.86</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>LAWSON PRODUCTS, INC.
+MECHANIC'S SUPPLIES</td><td>0</td><td></td><td>10/13/2014</td><td>386.07</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>O'REILLY AUTO PARTS
+FILTERS & MISC SUPPLIES</td><td>0</td><td></td><td>10/13/2014</td><td>6.99</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>ADVANCE AUTO PARTS
+ANTI-FREEZE & MISC TOOLS</td><td>0</td><td></td><td>10/13/2014</td><td>11.93</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>ADVANCE AUTO PARTS
+MECHANIC'S TOOLS & SUPPLIES</td><td>0</td><td></td><td>10/13/2014</td><td>39.95</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>CARLETON EQUIPMENT COMPANY
+HEATER & FAN SWITCH - TOOLCAT</td><td>0</td><td></td><td>10/13/2014</td><td>90.05</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>O'REILLY AUTO PARTS
+SWEDPER BATTERIES</td><td>0</td><td></td><td>10/13/2014</td><td>186.37</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>SHAKE CORP.</td><td>0</td><td></td><td>10/13/2014</td><td>463.34</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>DEGREASOR & UNDERCOATING
+LAWSON PRODUCTS, INC.</td><td>0</td><td></td><td>10/13/2014</td><td>240.12</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>BATTERY JUMPER SYS-MECH TRUCK
+O'REILLY AUTO PARTS</td><td>0</td><td></td><td>10/13/2014</td><td>5.89</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>TIRE PRESSURE SENSOR & ADVANCE AUTO PARTS</td><td>0</td><td></td><td>10/13/2014</td><td>79.69</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>BRAKES PADS - T-6</td><td>0</td><td></td><td>10/13/2014</td><td>30.64</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>ADVANCE AUTO PARTS
+MISC PARTS FOR T-6</td><td>0</td><td></td><td>10/13/2014</td><td>61.58</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>ADVANCE AUTO PARTS
+MECHANIC'S SUPPLIES</td><td>0</td><td></td><td>10/13/2014</td><td>27.73</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>ADVANCE AUTO PARTS
+MECHANIC'S SUPPLIES & TOOLS</td><td>0</td><td></td><td>10/13/2014</td><td>45.76</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>BADER & SONS CO.
+HYDRAULIC PITTINGS</td><td>0</td><td></td><td>10/13/2014</td><td>219.49</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>BADER & SONS CO.
+MOWER HITCH</td><td>0</td><td></td><td>10/13/2014</td><td>380.52</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>BADER & SONS CO.
+HYDRAULIC PITTINGS</td><td>0</td><td></td><td>10/13/2014</td><td>73.40</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>HINES PARK FORD, INC.
+BRAKE CALIPER T-5</td><td>0</td><td></td><td>10/13/2014</td><td>1,098.57</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>HINES PARK FORD, INC.
+COMPUTER MOD. & THROTTLE BODY T5</td><td>0</td><td></td><td>10/13/2014</td><td>299.69</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>LAWSON PRODUCTS, INC.
+HYDR. HOSE&MECHANIC SUPPLIES</td><td>0</td><td></td><td>10/13/2014</td><td>166.20</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>O'REILLY AUTO PARTS
+TRANS FILTERS&FLUID-SWEEPER</td><td>0</td><td></td><td>10/13/2014</td><td>4.48</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>O'REILLY AUTO PARTS
+MARKER LIGHTS - T-5</td><td>0</td><td></td><td>10/13/2014</td><td>1,022.52</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>TIRE HOLESALERS COMPANY, INC.
+TIRES - T-6</td><td>0</td><td></td><td>10/13/2014</td><td>340.84</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>TIRE HOLESALERS COMPANY, INC.
+TIRES - T-4</td><td>0</td><td></td><td>10/13/2014</td><td>121.00</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>TIRE HOLESALERS COMPANY, INC.
+TRAILER TIRES</td><td>0</td><td></td><td>10/13/2014</td><td>135.99</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>ADVANCE AUTO PARTS
+BATTERIES - FORKLIFT & T-6</td><td>0</td><td></td><td>10/13/2014</td><td>57.27</td></tr><tr><td>101-440.000-935.000</td><td>NPDES PHAS</td><td>HUBBELL, ROTH, & CLARK, INC.
+2013/14 STORM WTR PERMIT ASST.</td><td>0</td><td></td><td>10/13/2014</td><td>160.23</td></tr><tr><td>101-440.000-974.000</td><td>LAND IMPRO</td><td>COUGAR SALES & RENTAL, INC.
+CONCRETE TOOLS & BLADES</td><td>0</td><td></td><td>10/13/2014</td><td>54.72</td></tr><tr><td>101-440.000-974.000</td><td>LAND IMPRO</td><td>COUGAR SALES & RENTAL, INC.
+CONCRETE TOOLS</td><td>0</td><td></td><td>10/13/2014</td><td>477.00</td></tr><tr><td>101-440.000-974.000</td><td>LAND IMPRO</td><td>MIRACLE RECREATION EQUIPMENT REPL SEAT DOWNTOWN BENCH</td><td>0</td><td></td><td>10/13/2014</td><td>175.50</td></tr><tr><td>101-440.000-974.000</td><td>LAND IMPRO</td><td>STONE DEPOT
+MULCH - WELLS ST. LOT ISLANDS</td><td>0</td><td></td><td>10/13/2014</td><td>175.50</td></tr></table>
 
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570#page=15)* (read by OCR; check the original)
@@ -851,19 +881,19 @@ Colonial Acres Cooperative
 
 Phase 50
 
-Novembal 25, 1967
+Movesher 25, 1967
 
 1374.03L
 
-21-19-201-001{NE14-Part-Perceb-008}
+21-19-201-001{NE14_Part-Pareks-008}
 
-Concurring at the N. 1/4 corner of odd Section 19; thence S. 89° 26' 32" E.
+Comencing at the N. 1/4 corner of old Section 19; thence S. 89° 26' 32" E.
 
 1061.06 feet along the North line of said Section 19 (also being the
 
-centers of Steven Miss Aces); thence S. 00° 39' 23" W. 314.50 feet;
+centers of the Klowen Mile Road); thence S. 00° 39' 23" W. 314.50 feet;
 
-thence S. 63° 27' 47" E., 254.40 feet; thence S. 00° 39' 23" W. 1816.16 feet;
+thence S. 63° 27' 47" E. 254.40 feet; thence S. 00° 39' 23" W. 1816.16 feet;
 
 thence N. 72° 02' 56" W. 31.82 feet; thence N. 49° 43' 33" W. 112.00 feet;
 
@@ -871,11 +901,11 @@ thence N. 30° 00' 00" W. 788.94 feet to a Point of Curve; thence 549.52 feet
 
 along the arc of a curve to the right having a radius of 1725.00 feet, a
 
-central angle of 18° 26' 08" and a long chord bearing N. 20° 52' 21" W.
+central angle of 18° 16' 08" and a long chord bearing N. 20° 52' 21" W.
 
-547.20 feet to the Point of Beginning, being a Point of Ending of a
+647.20 feet to the Point of Beginning, being a Point of Ending of a
 
-previously described watermain assessment for Phase 5-5; thence M. 80° 42' 47"
+previously described watermain assessment for Phase 5-3; thence N. 80° 42' 47"
 
 E. 58.06 feet; thence S. 35° 27' 00" E. 66.94 feet; thence N. 72° 44' 38" E.
 
@@ -887,51 +917,51 @@ Beginning; thence N. 07° 26' 58" W. 134.11 feet to a Point "A"; thence N.
 
 arc of a curve to the right having a radius of 1725 feet, a central angle of
 
-00° 19' 56" and a long chord bearing N. 02° 69' 08" W. 10.00 feet to a Point
+00° 19' 56" and a long chord bearing N. 02° 59' 05" W. 10.00 feet to a Point
 
 of Ending, thence returning to said Point "A"; thence S. 78° 16' 53" W.
 
-72.35 feet to a Point of Curve; thence 110.71 feet along the arc of a curve
+72.38 feet to a Point of Curve; thence 110.71 feet along the arc of a curve
 
 to the left having a radius of 1022.00 feet, a central angle of 06° 12' 25"
 
 and a long chord bearing S. 75° 10' 40" W. 110.66 feet; thence S. 72° 04'
 
-28" W. 9.54 feet to a Point of Curve; thence 145.38 feet along the arc of a
+26" W. 9.54 feet to a Point of Curve; thence 145.38 feet along the arc of a
 
-curve to the right having a radius of 478.00 feet, a central angle of 170
+curve to the right having a radius of 478.00 feet, a central angle of 17°
 
-26' 32" and a long chord bearing S. 80° 47' 14" W. 144.82 feet; thence S.
+25° 32" and a long chord bearing S. 80° 47' 14" W. 144.82 feet; thence S.
 
 39° 30' 00" W. 82.50 feet to a Point of Curve; thence 246.38 feet along the
 
-arc of a curve to the left having a radius of 455.30 feet, a central angle
+arc of a curve to the left having a radius of 456.30 feet, a central angle
 
 of 29° 01' 42" and a long chord bearing S. 74° 59' 08" W. 243.75 feet to a
 
-Point "B"; thence S. 33° 06' 54" E., 111.01 feet; thence S. 30° 00' 00" E.
+Point "B"; thence S. 33° 05' 54" E., 111.01 feet; thence S. 30° 00' 00" E.
 
-18.63 feet to a point of curve; thence 145.78 feet along the arc of a curve
+18.53 feet to a point of curve; thence 145.78 feet along the arc of a curve
 
-to the right having a radius of 445.00 feet, a central angle of 20° 11' 10"
+to the right having a radius of 446.00 feet, a central angle of 20° 11' 10"
 
-and a long chord bearing S. 19° 43' 18" E. 165.97 feet to a Point of Ending;
+and a long chord bearing S. 19° 43' 15" E. 155.97 feet to a Point of Ending;
 
 being the Point of Ending of a previously described watermain assessment for
 
-Phase 53; thence returning to said Point "B"; thence N. 32° 19' 48" W. 49.20
+Phase 5B; thence returning to said Point "B"; thence N. 32° 19' 48" W. 49.20
 
 feet; thence N. 27° 06' 16" W. 40.05 feet; thence N. 21° 28' 10" W. 40.45
 
 feet; thence N. 30° 00' 00" W. 51.47 feet to a Point of Curve; thence 127.23
 
-feet along the arc of a curve to the right having a radius of 460.00 feet, a
+feet along the arc of a curve to the right having a radius of 480.00 feet, a
 
-central angle of 18° 11' 12" and a long chord bearing N. 22° 24' 23" W.
+central angle of 16° 11' 12" and a long chord bearing N. 22° 24' 23" W.
 
 126.86 feet to the Point of Ending.
 
-A 12' wide watermain element in the N. 1/2 of Section 19, T. 1 M., R. 7 K., City of South Lyon, Oakland County, Michigan, the centerline of which is described as:
+A 12' wide watermin assessment in the N. 1/2 of Section 19, T. 1 M., R. 7 K., City of South Lyon, Oakland County, Michigan, the centerline of which is described as:
 
 <a id="p43"></a>
 *[Page 43 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570#page=43)* (read by OCR; check the original)
@@ -1861,11 +1891,11 @@ RESOLVED, that the Board of Directors authorize the granting of a Water Supply S
 
 The foregoing is a true record of the motions duly made and carried at a meeting of the Board of Directors of the Corporation.
 
-Oun for
+Oun f
 
 Secretary
 
-Date: 5日4,2014
+Date: 5E104 ___, 2014
 
 <a id="p84"></a>
 *[Page 84 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570#page=84)* (read by OCR; check the original)
@@ -1920,7 +1950,7 @@ Date: 2014
 
 # WATER SUPPLY SYSTEM AND SANITARY SEWER SYSTEM REPAIR AND MAINTENANCE EXPANSIVE EASEMENT AGREEMENT
 
-This Water Supply System and Sanitary Sewer System Repair and Maintenance Expansive Easement Agreement ("Expansive Easement") is entered into on this ___ day of ___. 2014, by and between Colonial-Hunt Club Land Company, a Michigan co-partnership, 12585 Holtforth Road, Fenton, Michigan 48430 ("Grantor") and the City of South Lyon, a Michigan municipal corporation, 335 S. Warren Street, South Lyon, Michigan 48178 ("Grantee").
+This Water Supply System and Sanitary Sewer System Repair and Maintenance Expansive Easement Agreement ("Expansive Easement") is entered into on this ___ day of ___ 2014, by and between Colonial-Hunt Club Land Company, a Michigan co-partnership, 12585 Holtforth Road, Fenton, Michigan 48430 ("Grantor") and the City of South Lyon, a Michigan municipal corporation, 335 S. Warren Street, South Lyon, Michigan 48178 ("Grantee").
 
 ## RECITALS
 
@@ -1936,7 +1966,7 @@ iii. Quit Claim Deed dated April 6, 1987 recorded in the Oakland County Register
 
 iv. Quit Claim Deed dated April 6, 1987 recorded in the Oakland County Register of Deeds at Liber 9862 Pages 480-481 granting a 12-foot watermain easement in Colonial Acres Phase 5B;
 
-v. Quit Claim Deed dated March 7, 1988 recorded in the Oakland County Register of Deeds at Liber 10951 Pages 376-377 granting a 20-foot sanitary sewer easement in Colonial Acres Phase 5C;
+V. Quit Claim Deed dated March 7, 1988 recorded in the Oakland County Register of Deeds at Liber 10951 Pages 376-377 granting a 20-foot sanitary sewer easement in Colonial Acres Phase 5C;
 
 vi. Quit Claim Deed dated March 7, 1988 recorded in the Oakland County Register of Deeds at Liber 10951 Pages 378-379 granting a 12-foot watermain easement in Colonial Acres Phase 5C;
 

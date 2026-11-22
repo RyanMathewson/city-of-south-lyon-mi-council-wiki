@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "9af38ed47631604a2c3494f80d5671efa83e9e7604a9e407e42c5a6892acaea1"
 source_bytes: 9903866
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 61
 ocr_pages: 61
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2013-06-10
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC060613CCpacket6-10-13.pdf?t=202108310732580) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `9af38ed47631604a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC060613CCpacket6-10-13.pdf?t=202108310732580) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `9af38ed47631604a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC060613CCpacket6-10-13.pdf?t=202108310732580#page=1)* (read by OCR; check the original)
@@ -1193,6 +1193,8 @@ SUGGESTED MOTION:
 
 # PRICE QUOTATION
 
+12584 LAKESHORE DRIVE
+
 ROMEO, MI 48065
 
 David Duddles
@@ -1205,7 +1207,7 @@ email: dduddles@apollofire.com
 
 FAX (586) 752-6907
 
-<table><tr><td rowspan="4">TO</td><td>South Lyon FD</td><td colspan="2">DATE 5/7/2013 TERMS 30 days</td></tr><tr><td>217 Whipple St.</td><td colspan="2">PROPOSED SHIPPING DATE TBD</td></tr><tr><td>South Lyon, MI 48178 4</td><td colspan="2">TO BE SHIPPED VIA FedEx</td></tr><tr><td>248-437-2616</td><td colspan="2">QUOTE VALID FOR 30 days</td></tr></table>
+<table><tr><td rowspan="4">TO</td><td>South Lyon FD</td><td>DATE</td><td>5/7/2013</td><td>TERMS</td><td>30 days</td></tr><tr><td>217 Whipple St.</td><td colspan="2">PROPOSED SHIPPING DATE</td><td colspan="2">TBD</td></tr><tr><td>South Lyon, MI 48178</td><td rowspan="2">4</td><td rowspan="2">TO BE SHIPPED VIA QUOTE VALID FOR</td><td colspan="2">FedEx</td></tr><tr><td>248-437-2616</td><td colspan="2">30 days</td></tr></table>
 
 <table><tr><td>5</td><td>Lion V-Force coat and pant PBI Max</td><td>$1,986.00</td><td>$9,930.00</td></tr><tr><td></td><td>per your spec.</td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td>shipping included</td><td></td><td>$0.00</td></tr><tr><td></td><td>Sales tax exempt</td><td></td><td>$0.00</td></tr></table>
 

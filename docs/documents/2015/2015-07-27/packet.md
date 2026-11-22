@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "e328d2105a6b1ace23c52ded111c02bc26e79e9593efd9ec288eb2aceaa77da6"
 source_bytes: 41294437
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 108
 ocr_pages: 108
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2015-07-27
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket7.25.15.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `e328d2105a6b1ace…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket7.25.15.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `e328d2105a6b1ace…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket7.25.15.pdf?t=202108310732570#page=1)* (read by OCR; check the original)
@@ -1013,6 +1013,8 @@ Motion by _____, supported by _____ to approve the authorization of not to excee
 <a id="p30"></a>
 *[Page 30 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket7.25.15.pdf?t=202108310732570#page=30)* (read by OCR; check the original)
 
+Home (.) / Legal and Accepting
+
 ## Legal and Accepting
 
 « (category.php?place=Announcements&posit=Legal+and+Accepting&page=2)
@@ -1041,23 +1043,25 @@ CITY OF SOUTH LYON NOTICE SEALED
 
 BIDS REQUESTED The City of South Lyon
 
-is accepting SEALED BIDS for a ONE CUSTOM 1500 G.P.M./TOP MOUNT PUMPER WITH 10 INCH RAISED ROOF of which met the provided specifications. Sealed bid proposals will be received by the City of South Lyon in the office of the City Clerk, 335 S. Warren, South Lyon, Michigan 48178. Bids are to be received by 2:00 P.M. prevailing local time on Friday, July 10, 2015
+is accepting SEALED BIDS for a ONE CUSTOM 1500 G.P.M./TOP MOUNT
+
+PUMPER WITH 10 INCH RAISED ROOF of which met the provided specifications. Sealed bid proposals will be received by the City of South Lyon in the office of the City Clerk, 335 S. Warren, South Lyon, Michigan 48178. Bids are to be received by 2:00 P.M. prevailing local time on Friday, July 10, 2015
 
 ## Search Our Classifieds
-
-Announcements
 
 Search Across All Sites
 
 ## Or Select A Category
 
-Automotive and Recreational
+Announcements
 
-Pets
+Automotive and Recreational
 
 Real Estate
 
 Business Services
+
+Pets
 
 Merchandise
 
@@ -3081,35 +3085,41 @@ Lisa Deaton, Clerk/Treasurer
 
 ## BLOCK PARTY APPLICATION
 
-Date Application Submitted:  $ \frac{7-21}{15} $ Requested Block-off Date: Aug. 8, 2015
+Date Application Submitted:  $ \underline{\text{7-21-15}} $ Requested Block-off Date: Aug. 8, 2015
 
-Applicant / Contact's Name: Kristin Phillips PH #: 248 982 7674
+Applicant / Contact's Name:  $ \underline{\text{Kristin Phillips}} $ PH #:  $ \underline{\text{248 982 7674}} $
 
-Applicant Address: 1352 Druy Lane
+Applicant Address:  $ \underline{\text{1352 Drury Lane.}} $
 
-Block-off Time: 12 noon Block-off removal Time: 10pm Street Names to be blocked off: Dairy Lane and Coach House Lane Dairy Lane and Yestery Lane
+Block-off Time: 12 noon Block-off removal Time: 10pm Street Names to be blocked off: Dury Lane and Coach House Lane Dury Lane and Yentty Lane
 
 1) Print ALL LAST NAMES and ADDRESSES participating in the Block Party. (ALL residents within the blocked-off area must agree to the block-off)
 
-Wendy Hatem 1329 Coach House, Ln.
+Wendey Hatham 1329 Coach House Ln.
 
 Jeremy Brown 1331 Drury Lane
 
 Jon Empie 1337 Drury Lane
 
-Stephen Thomas Stephen Thomas
+Stephen Thomas 1343 Drury Street The�man
 
-1355 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 1346 Drury Ln 
+1355 Drury Ln 1346 Drury Ln Amulai Jason Davis
 
-2) ATTACH sheet of paper with SIGNATURES and ADDRESSESS of all residents agreeing to the Block Party.
+1361 Drury Ln
 
-Kuster Phillips Applicant's SIGNATURE
+Ashley Valatay 1364 Drury Ln Ashlow Valday
+
+2.) ATTACH sheet of paper with SIGNATURES and ADDRESSESS of all residents agreeing to the Block Party.
+
+Kuster Phillips
+
+Applicant's SIGNATURE
 
 APPROVED [√]
 
 DENIED [ ]
 
-Chief Librarian T. Collins 07/22/15
+ChiefطادT. Collins 07/22/15
 
 Lloyd T. Collins, Chief of Police
 

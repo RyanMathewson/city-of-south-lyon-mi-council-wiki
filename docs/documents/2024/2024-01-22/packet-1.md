@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/1-22-24%20Council%20Packet%20Part%201%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "f0fee1075a6b70d4baa6ef5967f084b84f9d24152c4d9fe4dec440f55d7f1a87"
 source_bytes: 13449735
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 279
 ocr_pages: 279
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2024-01-22
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/1-22-24%20Council%20Packet%20Part%201%20-%20online%20only.pdf?t=202401181517400) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `f0fee1075a6b70d4…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/1-22-24%20Council%20Packet%20Part%201%20-%20online%20only.pdf?t=202401181517400) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `f0fee1075a6b70d4…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/1-22-24%20Council%20Packet%20Part%201%20-%20online%20only.pdf?t=202401181517400#page=1)* (read by OCR; check the original)
@@ -414,9 +414,13 @@ Clerk/Treasurer Lisa Deaton
 
 *[Image or figure on this page; see the original.]*
 
-<table><tr><td>Mayor</td><td>PROCLAMATION</td></tr><tr><td>Stephen B. Kennedy</td><td></td></tr><tr><td>$ \underline{\text{Council Members}} $</td><td>WHEREAS, 2023 marks a milestone for the South Lyon First United Methodist Church celebrating their  $ 190^{th} $ year in the City of South Lyon; and</td></tr><tr><td>Thad Bogert</td><td>WHEREAS, the South Lyon First United Methodist Church has been a welcoming and affirming congregation since its humble beginning in 1833 when 20 people first met to hear a sermon from a Methodist Episcopal minister; and</td></tr><tr><td>Lisa Dilg</td><td>WHEREAS, the congregation has grown over the years from its modest beginnings to almost 650 members; and</td></tr><tr><td>Alex Hansen</td><td>WHEREAS, the South Lyon First United Methodist Church has been and continues to be an important, caring, and supportive part of the community contributing to the spiritual and physical health of its membership.</td></tr><tr><td>Glenn Kivell</td><td>WHEREAS, the背花 of the city of South Lyon on behalf of the City Council and the entire community offer congratulations to the South Lyon First United Methodist Church and their membership on providing 190 years of service and leadership since its founding.</td></tr><tr><td>Margaret J. Kurtzweil</td><td>WHEREAS, the背花 of the city of South Lyon on the背花 of the city Council and the entire community offer congratulations to the South Lyon First United Methodist Church and their membership on providing 190 years of service and leadership since its founding.</td></tr><tr><td>Lori Mosier</td><td>WHEREAS, the背花 of the city of South Lyon on the背花 of the city Council and the entire community offer congratulations to the South Lyon First United Methodist Church and their membership on providing 190 years of service and leadership since its founding.</td></tr><tr><td>$ \underline{\text{City Manager}} $</td><td>WHEREAS, the背花 of the city of South Lyon on the背花 of the city Council and the entire community offer congratulations to the South Lyon First United Methodist Church and their membership on providing 190 years of service and leadership since its founding.</td></tr><tr><td>Paul Zelenak</td><td>WHEREAS, the背花 of the city of South Lyon on the背花 of the city Council and the entire community offer congratulations to the South Lyon First United Methodist Church and their membership on providing 190 years of service and leadership since its founding.</td></tr><tr><td>$ \underline{\text{Clerk/Treasurer}} $</td><td>NOW THEREFORE, I, Stephen B. Kennedy, Mayor of the City of South Lyon on behalf of the City Council and the entire community offer congratulations to the South Lyon First United Methodist Church and their membership on providing 190 years of service and leadership since its founding.</td></tr><tr><td>Lisa Deaton</td><td>*[Image or figure on this page; see the original.]* Stephen B. Kennedy, Mayor ( ) 12/11/23 Date</td></tr><tr><td>835 S Warren</td><td></td></tr><tr><td>South Lyon, MI 48178</td><td></td></tr><tr><td>Phone: 248-487-1735</td><td></td></tr><tr><td>Fax: 248-486-7054</td><td></td></tr><tr><td>www.southlyonmi.org</td><td></td></tr></table>
+ $ \underline{\text{Mayor}} $
+
+<table><tr><td>Stephen B. Kennedy</td><td>PROCLARATION</td></tr><tr><td>$ \underline{\text{Council Members}} $</td><td rowspan="2">WHEREAS, 2023 marks a milestone for the South Lyon First United Methodist Church celebrating their  $ 190^{th} $ year in the City of South Lyon; and</td></tr><tr><td>Thad Bogert</td></tr><tr><td>Lisa Dilg</td><td rowspan="4">WHEREAS, the South Lyon First United Methodist Church has been a welcoming and affirming congregation since its humble beginning in 1833 when 20 people first met to hear a sermon from a Methodist Episcopal minister; and</td></tr><tr><td>Alex Hansen</td></tr><tr><td>Glenn Kivell</td></tr><tr><td>Margaret J. Kurtzweil</td></tr><tr><td>Lori Mosier</td><td>WHEREAS, the congregation has grown over the years from its modest beginnings to almost 650 members; and</td></tr><tr><td>$ \underline{\text{City Manager}} $</td><td rowspan="2">WHEREAS, the South Lyon First United Methodist Church has been and continues to be an important, caring, and supportive part of the community contributing to the spiritual and physical health of its membership.</td></tr><tr><td>Paul Zelenak</td></tr><tr><td>$ \underline{\text{Clerk/Treasurer}} $</td><td rowspan="2">NOW THEREFORE, I, Stephen B. Kennedy, Mayor of the City of South Lyon on behalf of the City Council and the entire community offer congratulations to the South Lyon First United Methodist Church and their membership on providing 190 years of service and leadership since its founding.</td></tr><tr><td>Lisa Deaton</td></tr><tr><td>835 S Warren</td><td rowspan="5">*[Image or figure on this page; see the original.]* Stephen B. Kennedy, Mayor</td></tr><tr><td>South Lyon, MI 48178</td></tr><tr><td>Phone: 248-437-1735</td></tr><tr><td>Fax: 248-486-7054</td></tr><tr><td>www.southlyonmi.org</td></tr></table>
 
 ## Office of the Mayor
+
+## PROCLAMATION
 
 <a id="p13"></a>
 *[Page 13 of the original](https://www.southlyonmi.org/1-22-24%20Council%20Packet%20Part%201%20-%20online%20only.pdf?t=202401181517400#page=13)* (read by OCR; check the original)
@@ -675,19 +679,11 @@ User: PATRICIA
 
 DB: South Lyon
 
-INVOICE GL DISTRIBUTION REPORT FOR CITY OF SOUTH LYON
-
-EXP CHECK RUN DATES 01/08/2024 - 01/08/2024
-
-JOURNALIZED
-
-OPEN
-
-CHECKS TO BE APPROVED ON 01/08/2024
+INVOICE GL DISTRIBUTION REPORT FOR CITY OF SOUTH LYON EXP CHECK RUN DATES 01/08/2024 - 01/08/2024
 
 Page: 2/6
 
-<table><tr><td>GL Number</td><td>GL Desc</td><td>Vendor</td><td>Invoice Desc.</td><td>Invoice</td><td>Due Date</td><td>Amount</td><td>Chev</td></tr><tr><td colspan="8">Fund 101 GENERAL FUND</td></tr><tr><td>Dept 441.000 DEPT. OF</td><td>PUBLIC WORKS</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>101-441.000-860.000</td><td>GAS & OIL</td><td>CORRIGAN</td><td>OIL II, INC.</td><td>GAS (73.90)</td><td>7969479-IN</td><td>01/08/24</td><td>186.50</td></tr><tr><td>101-441.000-860.000</td><td>GAS & OIL</td><td>CORRIGAN</td><td>OIL II, INC.</td><td>GAS (131.10) AND DIESEL (126.00)</td><td>7974961-IN</td><td>01/08/24</td><td>690.52</td></tr><tr><td>101-441.000-860.000</td><td>GAS & OIL</td><td>CORRIGAN</td><td>OIL II, INC.</td><td>GAS (50.60) AND DIESEL (230.60)</td><td>7945514-IN</td><td>01/08/24</td><td>988.62</td></tr><tr><td>101-441.000-860.000</td><td>GAS & OIL</td><td>CORRIGAN</td><td>OIL II, INC.</td><td>GAS (98.80) AND DIESEL (156.00)</td><td>7966415-IN</td><td>01/08/24</td><td>685.13</td></tr><tr><td>101-441.000-860.000</td><td>GAS & OIL</td><td>CORRIGAN</td><td>OIL II, INC.</td><td>GAS (64.80) AND DIESEL (170.30)</td><td>7963675-IN</td><td>01/08/24</td><td>676.58</td></tr><tr><td>101-441.000-860.000</td><td>GAS & OIL</td><td>CORRIGAN</td><td>OIL II, INC.</td><td>GAS (95.30) AND DIESEL (201.50)</td><td>7958891-IN</td><td>01/08/24</td><td>866.32</td></tr><tr><td>101-441.000-860.000</td><td>GAS & OIL</td><td>CORRIGAN</td><td>OIL II, INC.</td><td>GAS (43.00)</td><td>7978808-IN</td><td>01/08/24</td><td>128.44</td></tr><tr><td>101-441.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>ADVANCE AUTO PARTS</td><td>WASHER RESEVOIR</td><td>8195331932132</td><td>01/08/24</td><td>91.87</td><td>11260000</td></tr><tr><td>101-441.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>ADVANCE AUTO PARTS</td><td>HEADLIGHT</td><td>8195333532776</td><td>01/08/24</td><td>15.04</td><td>11260000</td></tr><tr><td>101-441.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>ADVANCE AUTO PARTS</td><td>OIL (2) FOR SHOP</td><td>8195334762057</td><td>01/08/24</td><td>6.96</td><td>11260000</td></tr><tr><td>101-441.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>CERTIFIED LABORATORIE</td><td>ELECTRA COAT AEROSOL 1 DZ</td><td>8492749</td><td>01/08/24</td><td>105.22</td><td>11260000</td></tr><tr><td>101-441.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>FLEETPRIDE</td><td>EMERGENCY LIGHTING, PIGTAIL (2), 7</td><td>112608961</td><td>01/08/24</td><td>128.29</td><td>11260000</td></tr><tr><td>101-441.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>FLEETPRIDE</td><td>FLOW MARKERS (3), DOT TAPE</td><td>113106373</td><td>01/08/24</td><td>310.06</td><td>11260000</td></tr><tr><td>101-441.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>FLEETPRIDE</td><td>DIESEL 911 64 O2 (4) AND STL TLGT</td><td>113313327</td><td>01/08/24</td><td>223.30</td><td>11260000</td></tr><tr><td>101-441.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>FLEETPRIDE</td><td>AIR HOSE FOR SHOP</td><td>113313362</td><td>01/08/24</td><td>24.74</td><td>11260000</td></tr><tr><td>101-441.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>INTERSTATE BILLING SE</td><td>MIRROR-CONVEX (2)</td><td>D46759</td><td>01/08/24</td><td>125.40</td><td>11260000</td></tr><tr><td>101-441.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>LAWSON PRODUCTS</td><td>SHOP SUPPLIES (NUT, SCREWS, DRILL</td><td>9311128514</td><td>01/08/24</td><td>320.46</td><td>11260000</td></tr><tr><td>101-441.000-935.000</td><td>NPDES PHASE 2 STORMWATER</td><td>HUBBELL, ROTH & CLARK</td><td>PROFESSIONAL SERVICE OCTOBER 2023</td><td>0211724</td><td>01/08/24</td><td>750.08</td><td>11260000</td></tr><tr><td>101-441.000-974.000</td><td>LAND IMPROVEMENTS</td><td>ALL AMERICAN TREE SER</td><td>TREE PRUNING ON DOROTHY STREET</td><td>9754</td><td>01/08/24</td><td>1,200.00</td><td>11260000</td></tr><tr><td>101-441.000-974.000</td><td>LAND IMPROVEMENTS</td><td>NICOLA'S CONTRACTING</td><td>GRINDING TREES/STORM DEBRIS AT VOL</td><td>23-62307</td><td>01/08/24</td><td>17,000.00</td><td>11260000</td></tr><tr><td>101-441.000-977.000</td><td>EQUIPMENT</td><td>CARLETON EQUIPMENT CO</td><td>RUBBER TRACKS (2) FOR BOBCAT</td><td>04-633967</td><td>01/08/24</td><td>2,320.40</td><td>11260000</td></tr><tr><td></td><td></td><td></td><td>Total For Dept 441.000 DEPT. OF PUBLIC WORKS</td><td></td><td></td><td>28,746.20</td><td></td></tr><tr><td colspan="8">Dept 567.000 CEMETERY</td></tr><tr><td>101-567.000-740.000</td><td>OPERATING EXPENSE</td><td>ADVANCE AUTO PARTS</td><td>OIL (2) FOR SHOP</td><td>8195334762057</td><td>01/08/24</td><td>1.58</td><td>11260000</td></tr><tr><td>101-567.000-740.000</td><td>OPERATING EXPENSE</td><td>CERTIFIED LABORATORIE</td><td>ELECTRA COAT AEROSOL 1 DZ</td><td>8492749</td><td>01/08/24</td><td>23.91</td><td>11260000</td></tr><tr><td>101-567.000-740.000</td><td>OPERATING EXPENSE</td><td>FLEETPRIDE</td><td>AIR HOSE FOR SHOP</td><td>113313362</td><td>01/08/24</td><td>5.62</td><td>11260000</td></tr><tr><td>101-567.000-740.000</td><td>OPERATING EXPENSE</td><td>LAWSON PRODUCTS</td><td>SHOP SUPPLIES (NUT, SCREWS, DRILL</td><td>9311128514</td><td>01/08/24</td><td>72.83</td><td>11260000</td></tr><tr><td></td><td></td><td></td><td>Total For Dept 567.000 CEMETERY</td><td></td><td></td><td>103.94</td><td></td></tr><tr><td colspan="8">Dept 751.000 PARKS AND RECREATION</td></tr><tr><td>101-751.000-801.000</td><td>PROFESSIONAL SERVICE</td><td>HUBBELL, ROTH & CLARK</td><td>PROFESSIONAL SERVICES FOR PERIOD E</td><td>0213128</td><td>01/08/24</td><td>4,932.38</td><td>11260000</td></tr><tr><td>101-751.000-801.000</td><td>PROFESSIONAL SERVICE</td><td>HUBBELL, ROTH & CLARK</td><td>PROFESSIONAL SERVICE OCTOBER 2023</td><td>0211724</td><td>01/08/24</td><td>11,035.97</td><td>11260000</td></tr><tr><td>101-751.000-801.000</td><td>PROFESSIONAL SERVICE</td><td>JOHN'S SANITATION</td><td>PORTA JOHN RENTALS MCHATTE 11/9/2</td><td>114610</td><td>01/08/24</td><td>307.15</td><td>11260000</td></tr><tr><td>101-751.000-930.000</td><td>REPAIR MAINTENANCE</td><td>KIRBY BUILT, LLC</td><td>BENCH REPLACEMENT PARTS</td><td>INVKSA5324</td><td>01/08/24</td><td>254.83</td><td>11260000</td></tr><tr><td>101-751.000-930.000</td><td>REPAIR MAINTENANCE</td><td>WEBUILDFUN, INC</td><td>BUCKET SWINGS (5), SWING CHAIN, SW</td><td>2689</td><td>01/08/24</td><td>1,205.65</td><td>11260000</td></tr><tr><td>101-751.000-978.000</td><td>CAPITAL EQUIPMENT</td><td>FONSON COMPANY, INC.</td><td>GRADING LAFAYETTE & VOLUNTEER PARK</td><td>20220701</td><td>01/08/24</td><td>333,552.60</td><td>11260000</td></tr><tr><td></td><td></td><td></td><td>Total For Dept 751.000 PARKS AND RECREATION</td><td></td><td></td><td>351,288.58</td><td></td></tr><tr><td></td><td></td><td></td><td>Total For Fund 101 GENERAL FUND</td><td></td><td></td><td>399,697.95</td><td></td></tr></table>
+<table><tr><td>GL Number</td><td>GL Desc</td><td>Vendor</td><td>Invoice Desc.</td><td>Invoice</td><td>Due Date</td><td>Amount</td><td>Chev</td></tr><tr><td colspan="8">Fund 101 GENERAL FUND</td></tr><tr><td>Dept 441.000 DEPT. OF</td><td>PUBLIC WORKS</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>101-441.000-860.000</td><td>GAS & OIL</td><td>CORRIGAN</td><td>OIL II, INC.</td><td>GAS (73.90)</td><td>7969479-IN</td><td>01/08/24</td><td>186.50</td></tr><tr><td>101-441.000-860.000</td><td>GAS & OIL</td><td>CORRIGAN</td><td>OIL II, INC.</td><td>GAS (131.10) AND DIESEL (126.00)</td><td>7974961-IN</td><td>01/08/24</td><td>690.52</td></tr><tr><td>101-441.000-860.000</td><td>GAS & OIL</td><td>CORRIGAN</td><td>OIL II, INC.</td><td>GAS (50.60) AND DIESEL (230.60)</td><td>7945514-IN</td><td>01/08/24</td><td>988.62</td></tr><tr><td>101-441.000-860.000</td><td>GAS & OIL</td><td>CORRIGAN</td><td>OIL II, INC.</td><td>GAS (98.80) AND DIESEL (156.00)</td><td>7966415-IN</td><td>01/08/24</td><td>685.13</td></tr><tr><td>101-441.000-860.000</td><td>GAS & OIL</td><td>CORRIGAN</td><td>OIL II, INC.</td><td>GAS (64.80) AND DIESEL (170.30)</td><td>7963675-IN</td><td>01/08/24</td><td>676.58</td></tr><tr><td>101-441.000-860.000</td><td>GAS & OIL</td><td>CORRIGAN</td><td>OIL II, INC.</td><td>GAS (95.30) AND DIESEL (201.50)</td><td>7958891-IN</td><td>01/08/24</td><td>866.32</td></tr><tr><td>101-441.000-860.000</td><td>GAS & OIL</td><td>CORRIGAN</td><td>OIL II, INC.</td><td>GAS (43.00)</td><td>7978808-IN</td><td>01/08/24</td><td>128.44</td></tr><tr><td>101-441.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>ADVANCE AUTO PARTS</td><td>WASHER RESEVOIR</td><td>8195331932132</td><td>01/08/24</td><td>91.87</td><td>112608961</td></tr><tr><td>101-441.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>ADVANCE AUTO PARTS</td><td>HEADLIGHT</td><td>8195333532776</td><td>01/08/24</td><td>15.04</td><td>112608961</td></tr><tr><td>101-441.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>ADVANCE AUTO PARTS</td><td>OIL (2) FOR SHOP</td><td>8195334762057</td><td>01/08/24</td><td>6.96</td><td>112608961</td></tr><tr><td>101-441.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>CERTIFIED LABORATORIE</td><td>ELECTRA COAT AEROSOL 1 DZ</td><td>8492749</td><td>01/08/24</td><td>105.22</td><td>112608961</td></tr><tr><td>101-441.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>FLEETPRIDE</td><td>EMERGENCY LIGHTING, PIGTAIL (2), 7 PLOW MARKERS (3), DOT TAPE</td><td>113106373</td><td>01/08/24</td><td>128.29</td><td>112608961</td></tr><tr><td>101-441.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>FLEETPRIDE</td><td>DIESEL 911 64 OZ (4) AND STL TLGT</td><td>113313327</td><td>01/08/24</td><td>310.06</td><td>112608961</td></tr><tr><td>101-441.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>FLEETPRIDE</td><td>AIR HOSE FOR SHOP</td><td>113313362</td><td>01/08/24</td><td>223.30</td><td>112608961</td></tr><tr><td>101-441.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>INTERSTATE BILLING SE</td><td>MIRROR-CONVEX (2)</td><td>D46759</td><td>01/08/24</td><td>24.74</td><td>112608961</td></tr><tr><td>101-441.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>LAWSON PRODUCTS</td><td>SHOP SUPPLIES (NUT, SCREWS, DRILL</td><td>9311128514</td><td>01/08/24</td><td>125.40</td><td>112608961</td></tr><tr><td>101-441.000-935.000</td><td>NPDES PHASE 2 STORMWATER</td><td>HUBBELL, ROTH & CLARK</td><td>PROFESSIONAL SERVICE OCTOBER 2023</td><td>0211724</td><td>01/08/24</td><td>320.46</td><td>112608961</td></tr><tr><td>101-441.000-974.000</td><td>LAND IMPROVEMENTS</td><td>ALL AMERICAN TREE SER</td><td>TREE PRUNING ON DOROTHY STREET</td><td>9754</td><td>01/08/24</td><td>750.08</td><td>112608961</td></tr><tr><td>101-441.000-974.000</td><td>LAND IMPROVEMENTS</td><td>NICOLA'S CONTRACTING</td><td>GRINDING TREES/STORM DEBRIS AT VOL</td><td>23-62307</td><td>01/08/24</td><td>1,200.00</td><td>112608961</td></tr><tr><td>101-441.000-977.000</td><td>EQUIPMENT</td><td>CARLETON EQUIPMENT CO</td><td>RUBBER TRACKS (2) FOR BOBCAT</td><td>04-633967</td><td>01/08/24</td><td>17,000.00</td><td>112608961</td></tr><tr><td></td><td></td><td></td><td>Total For Dept 441.000 DEPT. OF PUBLIC WORKS</td><td></td><td></td><td>2,320.40</td><td>112608961</td></tr><tr><td colspan="8">Dept 567.000 CEMETERY</td></tr><tr><td>101-567.000-740.000</td><td>OPERATING EXPENSE</td><td>ADVANCE AUTO PARTS</td><td>OIL (2) FOR SHOP</td><td>8195334762057</td><td>01/08/24</td><td>1.58</td><td>112608961</td></tr><tr><td>101-567.000-740.000</td><td>OPERATING EXPENSE</td><td>CERTIFIED LABORATORIE</td><td>ELECTRA COAT AEROSOL 1 DZ</td><td>8492749</td><td>01/08/24</td><td>23.91</td><td>112608961</td></tr><tr><td>101-567.000-740.000</td><td>OPERATING EXPENSE</td><td>FLEETPRIDE</td><td>AIR HOSE FOR SHOP</td><td>113313362</td><td>01/08/24</td><td>5.62</td><td>112608961</td></tr><tr><td>101-567.000-740.000</td><td>OPERATING EXPENSE</td><td>LAWSON PRODUCTS</td><td>SHOP SUPPLIES (NUT, SCREWS, DRILL</td><td>9311128514</td><td>01/08/24</td><td>72.83</td><td>112608961</td></tr><tr><td></td><td></td><td></td><td>Total For Dept 567.000 CEMETERY</td><td></td><td></td><td>103.94</td><td>112608961</td></tr><tr><td colspan="8">Dept 751.000 PARKS AND RECREATION</td></tr><tr><td>101-751.000-801.000</td><td>PROFESSIONAL SERVICE</td><td>HUBBELL, ROTH & CLARK</td><td>PROFESSIONAL SERVICES</td><td>0213128</td><td>01/08/24</td><td>4,932.38</td><td>112608961</td></tr><tr><td>101-751.000-801.000</td><td>PROFESSIONAL SERVICE</td><td>HUBBELL, ROTH & CLARK</td><td>PROFESSIONAL SERVICE OCTOBER 2023</td><td>0211724</td><td>01/08/24</td><td>11,035.97</td><td>112608961</td></tr><tr><td>101-751.000-801.000</td><td>PROFESSIONAL SERVICE</td><td>JOHN'S SANITATION</td><td>PORTA JOHN RENTALS MCHATTE 11/9/2</td><td>114610</td><td>01/08/24</td><td>307.15</td><td>112608961</td></tr><tr><td>101-751.000-930.000</td><td>REPAIR MAINTENANCE</td><td>KIRBY BUILT, LLC</td><td>BENCH REPLACEMENT PARTS</td><td>INVKSA5324</td><td>01/08/24</td><td>254.83</td><td>112608961</td></tr><tr><td>101-751.000-930.000</td><td>REPAIR MAINTENANCE</td><td>WEBULDFUN, INC</td><td>BUCKET SWINGS (5), SWING CHAIN, SW</td><td>2689</td><td>01/08/24</td><td>1,205.65</td><td>112608961</td></tr><tr><td>101-751.000-978.000</td><td>CAPITAL EQUIPMENT</td><td>FONSON COMPANY, INC.</td><td>GRADING LAFAYETTE & VOLUNTEER PARK</td><td>20220701</td><td>01/08/24</td><td>333,552.60</td><td>112608961</td></tr><tr><td></td><td></td><td></td><td>Total For Dept 751.000 PARKS AND RECREATION</td><td></td><td></td><td>351,288.58</td><td>112608961</td></tr><tr><td></td><td></td><td></td><td>Total For Fund 101 GENERAL FUND</td><td></td><td></td><td>399,697.95</td><td>112608961</td></tr></table>
 
 <a id="p32"></a>
 *[Page 32 of the original](https://www.southlyonmi.org/1-22-24%20Council%20Packet%20Part%201%20-%20online%20only.pdf?t=202401181517400#page=32)* (read by OCR; check the original)
@@ -703,13 +699,11 @@ User: PATRICIA
 
 DB: South Lyon
 
-INVOICE GL DISTRIBUTION REPORT FOR CITY OF SOUTH LYON
-
 <div>JOURNALIZED OPEN</div>
 
 Page: 4/6
 
-<table><tr><td>GL Number</td><td>GL Desc</td><td>Vendor</td><td>Invoice Desc.</td><td>Invoice</td><td>Due Date</td><td>Amount</td><td>Check</td></tr><tr><td colspan="8">Fund 592 WATER & SEWER</td></tr><tr><td colspan="8">Dept 550.000 SEWER / REPAIR</td></tr><tr><td>592-550.000-930.000</td><td>REPAIR MAINTENANCE</td><td>ASHLEY LIAND DEVELOPMENT</td><td>CLASS II STONE (50.80 TONS) FOR WA</td><td>21841</td><td>01/08/24</td><td>146.05</td><td></td></tr><tr><td>592-550.000-930.000</td><td>REPAIR MAINTENANCE</td><td>CORE & MAIN LP</td><td>PVC CPLG (2) & HOT MIX FAST PLUG (</td><td>U061329</td><td>01/08/24</td><td>406.40</td><td></td></tr><tr><td>592-550.000-930.000</td><td>REPAIR MAINTENANCE</td><td>HAYES SAND & GRAVEL C</td><td>SAND (101.26) AND STONE (50.52)</td><td>63239, 63240</td><td>01/08/24</td><td>379.45</td><td></td></tr><tr><td>592-550.000-930.000</td><td>REPAIR MAINTENANCE</td><td>PATRIOT READY-MIX LLC</td><td>TYPE S MORTAR BAG (2)</td><td>5456</td><td>01/08/24</td><td>24.50</td><td></td></tr><tr><td colspan="7">Total For Dept 550.000 SEWER / REPAIR</td><td>40,274.43</td></tr><tr><td colspan="8">Dept 556.000 WATER</td></tr><tr><td>592-556.000-740.000</td><td>OPERATING EXPENSE</td><td>ELHORN ENGINEERING CO</td><td>PHOSPHATE (10) & FLUORIDE (9)</td><td>300158</td><td>01/08/24</td><td>5,910.00</td><td></td></tr><tr><td>592-556.000-740.000</td><td>OPERATING EXPENSE</td><td>HAVILAND PRODUCTS COM</td><td>CHLORINE GAS CYLINDER 900 LB (6)</td><td>490895</td><td>01/08/24</td><td>2,295.00</td><td></td></tr><tr><td>592-556.000-740.000</td><td>OPERATING EXPENSE</td><td>PARAGON LABORATORIES,</td><td>WATER ANALYSIS</td><td>43488-241278</td><td>01/08/24</td><td>1,461.00</td><td></td></tr><tr><td>592-556.000-740.000</td><td>OPERATING EXPENSE</td><td>QUALITY FIRST AID & S</td><td>NITRILE GLOVES DIAMOND GRIP (10)</td><td>BF-006619</td><td>01/08/24</td><td>92.44</td><td></td></tr><tr><td>592-556.000-740.000</td><td>OPERATING EXPENSE</td><td>USA BLUE BOOK</td><td>SAMPLE CELLS (2)</td><td>INV00220591</td><td>01/08/24</td><td>530.23</td><td></td></tr><tr><td>592-556.000-740.000</td><td>OPERATING EXPENSE</td><td>USA BLUE BOOK</td><td>JERSEY GLOVES (4) AND HACH TOTAL I</td><td>INV00224780 & 0</td><td>01/08/24</td><td>88.60</td><td></td></tr><tr><td>592-556.000-860.000</td><td>GAS & OIL</td><td>CORRIGAN OIL II, INC.</td><td>GAS (120.90)</td><td>7973836-IN</td><td>01/08/24</td><td>302.28</td><td></td></tr><tr><td>592-556.000-860.000</td><td>GAS & OIL</td><td>CORRIGAN OIL II, INC.</td><td>DIESEL (312.00)</td><td>7971429-IN</td><td>01/08/24</td><td>917.92</td><td></td></tr><tr><td>592-556.000-860.000</td><td>GAS & OIL</td><td>CORRIGAN OIL II, INC.</td><td>GAS (171.70) & DIESEL (0.10)</td><td>7970680-IN</td><td>01/08/24</td><td>415.79</td><td></td></tr><tr><td>592-556.000-860.000</td><td>GAS & OIL</td><td>CORRIGAN OIL II, INC.</td><td>GAS (202.90)</td><td>7968545-IN</td><td>01/08/24</td><td>477.10</td><td></td></tr><tr><td>592-556.000-860.000</td><td>GAS & OIL</td><td>CORRIGAN OIL II, INC.</td><td>GAS (132.00) WWTP</td><td>7960091-IN</td><td>01/08/24</td><td>339.59</td><td></td></tr><tr><td>592-556.000-860.000</td><td>GAS & OIL</td><td>CORRIGAN OIL II, INC.</td><td>GAS (133.20) WWTP</td><td>7962954-IN</td><td>01/08/24</td><td>325.16</td><td></td></tr><tr><td>592-556.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>ADVANCE AUTO PARTS</td><td>OIL (2) FOR SHOP</td><td>8195334762057</td><td>01/08/24</td><td>2.85</td><td></td></tr><tr><td>592-556.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>CERTIFIED LABORATORIE</td><td>ELECTRA COAT AEROSOL 1 DZ</td><td>8492749</td><td>01/08/24</td><td>43.05</td><td></td></tr><tr><td>592-556.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>FLEETPRIDE</td><td>AIR HOSE FOR SHOP</td><td>113313362</td><td>01/08/24</td><td>10.12</td><td></td></tr><tr><td>592-556.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>LAWSON PRODUCTS</td><td>SHOP SUPPLIES (NUT, SCREWS, DRILL</td><td>9311128514</td><td>01/08/24</td><td>131.10</td><td></td></tr><tr><td>592-556.000-931.000</td><td>BUILDING MAINTENANCE</td><td>CUMMINS SALES AND SER</td><td>REPAIR SENSOR IN DRY TANK AT WTP</td><td>86-17469</td><td>01/08/24</td><td>533.50</td><td></td></tr><tr><td>592-556.000-931.000</td><td>BUILDING MAINTENANCE</td><td>DEBORD BROS. FENCE CO</td><td>FURNISH AND INSTALL MOUNTING POSTS</td><td>10/21/23</td><td>01/08/24</td><td>975.00</td><td></td></tr><tr><td>592-556.000-977.000</td><td>EQUIPMENT</td><td>ULINE</td><td>OFFICE CHAIRS (2) FOR CONFERENCE R</td><td>172076319</td><td>01/08/24</td><td>132.08</td><td></td></tr><tr><td colspan="7">Total For Dept 556.000 WATER</td><td>14,982.81</td></tr><tr><td colspan="8">Dept 557.000 WASTEWATER</td></tr><tr><td>592-557.000-740.000</td><td>OPERATING EXPENSE</td><td>GRAINGER</td><td>WORM GEAR HOSE CLAMP & SEMICONDUCT</td><td>9939690310</td><td>01/08/24</td><td>186.48</td><td></td></tr><tr><td>592-557.000-740.000</td><td>OPERATING EXPENSE</td><td>GRAINGER</td><td>2" PLUG VALVE</td><td>9925864804</td><td>01/08/24</td><td>263.46</td><td></td></tr><tr><td>592-557.000-740.000</td><td>OPERATING EXPENSE</td><td>HUTSON, INC.</td><td>STIHL BLOWER</td><td>10204708</td><td>01/08/24</td><td>566.99</td><td></td></tr><tr><td>592-557.000-740.000</td><td>OPERATING EXPENSE</td><td>LINDE GAS & EQUIPMENT</td><td>CYLINDER RENTAL 10/20/2023 - 11/20</td><td>39548798</td><td>01/08/24</td><td>55.70</td><td></td></tr><tr><td>592-557.000-740.000</td><td>OPERATING EXPENSE</td><td>PARAGON LABORATORIES,</td><td>WW ANALYSIS</td><td>43488-240506</td><td>01/08/24</td><td>1,035.00</td><td></td></tr><tr><td>592-557.000-740.000</td><td>OPERATING EXPENSE</td><td>PARAGON LABORATORIES,</td><td>WW ANALYSIS</td><td>43488-232199</td><td>01/08/24</td><td>495.00</td><td></td></tr><tr><td>592-557.000-740.000</td><td>OPERATING EXPENSE</td><td>PARAGON LABORATORIES,</td><td>WW ANALYSIS</td><td>43488-230655</td><td>01/08/24</td><td>408.00</td><td></td></tr><tr><td>592-557.000-740.000</td><td>OPERATING EXPENSE</td><td>QUALITY FIRST AID & S</td><td>NITRILE GLOVES DIAMOND GRIP (10)</td><td>BF-006619</td><td>01/08/24</td><td>92.45</td><td></td></tr><tr><td>592-557.000-740.000</td><td>OPERATING EXPENSE</td><td>USA BLUE BOOK</td><td>HACH NITRIFICATION INHIBITOR</td><td>INV00222007</td><td>01/08/24</td><td>302.45</td><td></td></tr><tr><td>592-557.000-740.000</td><td>OPERATING EXPENSE</td><td>USA BLUE BOOK</td><td>JERSEY GLOVES (4) AND HACH TOTAL I</td><td>INV00224780 & 0</td><td>01/08/24</td><td>36.62</td><td></td></tr><tr><td>592-557.000-740.000</td><td>OPERATING EXPENSE</td><td>USA BLUE BOOK</td><td>TNT+ AMMONIA TESTS - ULR 25/PK (4)</td><td>INV00215594</td><td>01/08/24</td><td>348.76</td><td></td></tr><tr><td>592-557.000-801.000</td><td>PROFESSIONAL SERVICE</td><td>HUBBELL,</td><td>PROTH & CLARK</td><td>PROFESSIONAL SERVICES FOR PERIOD E</td><td>0213128</td><td>01/08/24</td><td>2,455.80</td></tr></table>
+<table><tr><td>GL Number</td><td>GL Desc</td><td>Vendor</td><td>Invoice Desc.</td><td>Invoice</td><td>Due Date</td><td>Amount</td><td>Check</td></tr><tr><td colspan="8">Fund 592 WATER & SEWER</td></tr><tr><td colspan="8">Dept 550.000 SEWER / REPAIR</td></tr><tr><td>592-550.000-930.000</td><td>REPAIR MAINTENANCE</td><td>ASHLEY LAND DEVELOPMENT</td><td>CLASS II STONE (50.80 TONS) FOR WA</td><td>21841</td><td>01/08/24</td><td>146.05</td><td></td></tr><tr><td>592-550.000-930.000</td><td>REPAIR MAINTENANCE</td><td>CORE & MAIN LP</td><td>PVC CPLG (2) & HOT MIX FAST PLUG (</td><td>U061329</td><td>01/08/24</td><td>406.40</td><td></td></tr><tr><td>592-550.000-930.000</td><td>REPAIR MAINTENANCE</td><td>HAYES SAND & GRAVEL C</td><td>SAND (101.26) AND STONE (50.52)</td><td>63239, 63240</td><td>01/08/24</td><td>379.45</td><td></td></tr><tr><td>592-550.000-930.000</td><td>REPAIR MAINTENANCE</td><td>PATRIOT READY-MIX LLC</td><td>TYPE S MORTAR BAG (2)</td><td>5456</td><td>01/08/24</td><td>24.50</td><td></td></tr><tr><td colspan="7">Total For Dept 550.000 SEWER / REPAIR</td><td>40,274.43</td></tr><tr><td colspan="8">Dept 556.000 WATER</td></tr><tr><td>592-556.000-740.000</td><td>OPERATING EXPENSE</td><td>ELHORN ENGINEERING CO</td><td>PHOSPHATE (10) & FLUORIDE (9)</td><td>300158</td><td>01/08/24</td><td>5,910.00</td><td></td></tr><tr><td>592-556.000-740.000</td><td>OPERATING EXPENSE</td><td>HAVILAND PRODUCTS COM</td><td>CHLORINE GAS CYLINDER 900 LB (6)</td><td>490895</td><td>01/08/24</td><td>2,295.00</td><td></td></tr><tr><td>592-556.000-740.000</td><td>OPERATING EXPENSE</td><td>PARAGON LABORATORIES,</td><td>WATER ANALYSIS</td><td>43488-241278</td><td>01/08/24</td><td>1,461.00</td><td></td></tr><tr><td>592-556.000-740.000</td><td>OPERATING EXPENSE</td><td>QUALITY FIRST AID & S</td><td>NITRILE GLOVES DIAMOND GRIP (10)</td><td>BF-006619</td><td>01/08/24</td><td>92.44</td><td></td></tr><tr><td>592-556.000-740.000</td><td>OPERATING EXPENSE</td><td>USA BLUE BOOK</td><td>SAMPLE CELLS (2)</td><td>INV00220591</td><td>01/08/24</td><td>530.23</td><td></td></tr><tr><td>592-556.000-740.000</td><td>OPERATING EXPENSE</td><td>USA BLUE BOOK</td><td>JERSEY GLOVES (4) AND HACH TOTAL I</td><td>INV00224780 & 0</td><td>01/08/24</td><td>88.60</td><td></td></tr><tr><td>592-556.000-860.000</td><td>GAS & OIL</td><td>CORRIGAN OIL II, INC.</td><td>GAS (120.90)</td><td>7973836-IN</td><td>01/08/24</td><td>302.28</td><td></td></tr><tr><td>592-556.000-860.000</td><td>GAS & OIL</td><td>CORRIGAN OIL II, INC.</td><td>DIESEL (312.00)</td><td>7971429-IN</td><td>01/08/24</td><td>917.92</td><td></td></tr><tr><td>592-556.000-860.000</td><td>GAS & OIL</td><td>CORRIGAN OIL II, INC.</td><td>GAS (171.70) & DIESEL (0.10)</td><td>7970680-IN</td><td>01/08/24</td><td>415.79</td><td></td></tr><tr><td>592-556.000-860.000</td><td>GAS & OIL</td><td>CORRIGAN OIL II, INC.</td><td>GAS (202.90)</td><td>7968545-IN</td><td>01/08/24</td><td>477.10</td><td></td></tr><tr><td>592-556.000-860.000</td><td>GAS & OIL</td><td>CORRIGAN OIL II, INC.</td><td>GAS (132.00) WWTP</td><td>7960091-IN</td><td>01/08/24</td><td>339.59</td><td></td></tr><tr><td>592-556.000-860.000</td><td>GAS & OIL</td><td>CORRIGAN OIL II, INC.</td><td>GAS (133.20) WWTP</td><td>7962954-IN</td><td>01/08/24</td><td>325.16</td><td></td></tr><tr><td>592-556.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>ADVANCE AUTO PARTS</td><td>OIL (2) FOR SHOP</td><td>8195334762057</td><td>01/08/24</td><td>2.85</td><td></td></tr><tr><td>592-556.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>CERTIFIED LABORATORIE</td><td>ELECTRA COAT AEROSOL 1 DZ</td><td>8492749</td><td>01/08/24</td><td>43.05</td><td></td></tr><tr><td>592-556.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>FLEETPRIDE</td><td>AIR HOSE FOR SHOP</td><td>113313362</td><td>01/08/24</td><td>10.12</td><td></td></tr><tr><td>592-556.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>LAWSON PRODUCTS</td><td>SHOP SUPPLIES (NUT, SCREWS, DRILL</td><td>9311128514</td><td>01/08/24</td><td>131.10</td><td></td></tr><tr><td>592-556.000-931.000</td><td>BUILDING MAINTENANCE</td><td>CUMMINS SALES AND SER</td><td>REPAIR SENSOR IN DRY TANK AT WTP</td><td>86-17469</td><td>01/08/24</td><td>533.50</td><td></td></tr><tr><td>592-556.000-931.000</td><td>BUILDING MAINTENANCE</td><td>DEBORD BROS. FENCE CO</td><td>FURNISH AND INSTALL MOUNTING POSTS</td><td>10/21/23</td><td>01/08/24</td><td>975.00</td><td></td></tr><tr><td>592-556.000-977.000</td><td>EQUIPMENT</td><td>ULINE</td><td>OFFICE CHAIRS (2) FOR CONFERENCE R</td><td>172076319</td><td>01/08/24</td><td>132.08</td><td></td></tr><tr><td colspan="7">Total For Dept 556.000 WATER</td><td>14,982.81</td></tr><tr><td colspan="8">Dept 557.000 WASTEWATER</td></tr><tr><td>592-557.000-740.000</td><td>OPERATING EXPENSE</td><td>GRAINGER</td><td>WORM GEAR HOSE CLAMP & SEMICONDUCT</td><td>9939690310</td><td>01/08/24</td><td>186.48</td><td></td></tr><tr><td>592-557.000-740.000</td><td>OPERATING EXPENSE</td><td>GRAINGER</td><td>2" PLUG VALVE</td><td>9925864804</td><td>01/08/24</td><td>263.46</td><td></td></tr><tr><td>592-557.000-740.000</td><td>OPERATING EXPENSE</td><td>HUTSON, INC.</td><td>STIHL BLOWER</td><td>10204708</td><td>01/08/24</td><td>566.99</td><td></td></tr><tr><td>592-557.000-740.000</td><td>OPERATING EXPENSE</td><td>LINDE GAS & EQUIPMENT</td><td>CYLINDER RENTAL 10/20/2023 - 11/20</td><td>39548798</td><td>01/08/24</td><td>55.70</td><td></td></tr><tr><td>592-557.000-740.000</td><td>OPERATING EXPENSE</td><td>PARAGON LABORATORIES,</td><td>WW ANALYSIS</td><td>43488-240506</td><td>01/08/24</td><td>1,035.00</td><td></td></tr><tr><td>592-557.000-740.000</td><td>OPERATING EXPENSE</td><td>PARAGON LABORATORIES,</td><td>WW ANALYSIS</td><td>43488-232199</td><td>01/08/24</td><td>495.00</td><td></td></tr><tr><td>592-557.000-740.000</td><td>OPERATING EXPENSE</td><td>PARAGON LABORATORIES,</td><td>WW ANALYSIS</td><td>43488-230655</td><td>01/08/24</td><td>408.00</td><td></td></tr><tr><td>592-557.000-740.000</td><td>OPERATING EXPENSE</td><td>QUALITY FIRST AID & S</td><td>NITRILE GLOVES DIAMOND GRIP (10)</td><td>BF-006619</td><td>01/08/24</td><td>92.45</td><td></td></tr><tr><td>592-557.000-740.000</td><td>OPERATING EXPENSE</td><td>USA BLUE BOOK</td><td>HACH NITRIFICATION INHIBITOR</td><td>INV00222007</td><td>01/08/24</td><td>302.45</td><td></td></tr><tr><td>592-557.000-740.000</td><td>OPERATING EXPENSE</td><td>USA BLUE BOOK</td><td>JERSEY GLOVES (4) AND HACH TOTAL I</td><td>INV00224780 & 0</td><td>01/08/24</td><td>36.62</td><td></td></tr><tr><td>592-557.000-740.000</td><td>OPERATING EXPENSE</td><td>USA BLUE BOOK</td><td>TNT+ AMMONIA TESTS - ULR 25/PK (4)</td><td>INV00215594</td><td>01/08/24</td><td>348.76</td><td></td></tr><tr><td>592-557.000-801.000</td><td>PROFESSIONAL SERVICE</td><td>HUBBELL, ROTH & CLARK</td><td>PROFESSIONAL SERVICES FOR PERIOD E</td><td>0213128</td><td>01/08/24</td><td>2,455.80</td><td></td></tr></table>
 
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/1-22-24%20Council%20Packet%20Part%201%20-%20online%20only.pdf?t=202401181517400#page=34)* (read by OCR; check the original)
@@ -3494,29 +3488,29 @@ The Mosaic USA family tree illustrates the major demographic and lifestyle polar
 
 ## American Royalty A01
 
-Age: 51–65 years, $250k
+Age: 51-65 years, $250k
 
 Single Family, 5+
 
-Age of children: 13–18
+Age of children: 13-18
 
 Tech Use: Below Average
 
-Prestigious housing: Luxury living: Upscale cars: Healthy lifestyles: Charitable giving: World travelers
+Prestigious housing: Luxury living; Upscale cars; Healthy lifestyles; Charitable giving; World travelers
 
 ## Couples with Clout A05
 
-Age: 36-45, $175-$199k
+Age: 36-45, $175-$199K
 
 Single family, 2
 
 Tech Use: Excellent
 
-Affluent: Designer-brand
+Affluent; Designer-brand
 
-conscious: Politically conservative;
+conscious; Politically conservative;
 
-Risk takers: Active social lives;
+Risk takers; Active social lives;
 
 Highly educated
 
@@ -3528,7 +3522,7 @@ Multi-family, 1
 
 Tech Use: Excellent
 
-Upscale urban living: Busy social lives; Highly educated; Supporter of fine arts; Avoid NY Times readers; Politically liberal
+Upscale urban living; Busysocial lives; Highly educated; Supporter of fine arts; Avid NY Times readers; Politically liberal
 
 ## Kids and Cabernet A03
 
@@ -3538,9 +3532,15 @@ Single family, 5+
 
 Age of children: 10-12
 
-Tech Lises: Below Average
+Tech Use: Below Average
 
-Affluent young families: Foodies: Politically conservative; Saving for college; PTA members; Family vacations
+Affluent young families;
+
+Foodies; Politically conservative;
+
+Saving for college; PTA members;
+
+Family vacations
 
 ## Picture Perfect Families A04
 
@@ -3552,7 +3552,7 @@ Age of children: 13-18
 
 Tech Use: Below Average
 
-Wealthy households: Educated; Digitally plugged-In; PTA members: Practical priorities; Travel enthusiasts
+Wealthy households; Educated; Digitally plugged-In; PTA members; Practical priorities; Travel enthusiasts
 
 ## Platinum Prosperity A02
 
@@ -3562,7 +3562,13 @@ Single Family, 2
 
 Tech Use: Below Average
 
-Luxury products: Empty-nesters; Political donor; Country club members; Philanthropic; Investment-savvy
+Luxury products: Empty-nesters;
+
+Political donor: Country club
+
+members: Philanthropic;
+
+Investment-savvy
 
 ## B FLOURISHING FAMILIES
 
@@ -3576,13 +3582,13 @@ Age of children: 4-6
 
 Tech Use: Above Average
 
-Athletic activities: Engaged
+Athletic activities; Engaged
 
-Parenting: Child oriented
+Parenting; Child-oriented
 
-purchases: Large families: High
+purchases; Large families; High
 
-credit awareness: Online shoppers
+credit awareness; Online shoppers
 
 ## Cosmopolitan Achievers B10
 
@@ -3594,13 +3600,11 @@ Age of children: 13-18
 
 Tech Use: Excellent
 
-Bilingual; Luxury living; Family abroad; Status spenders;
-
-Economic literature; Progressive liberals
+Bilingual; Luxury living; Family abroad; Status spenders; Economic literature; Progressive liberals
 
 ## Family Fun-tastic B09
 
-Age: 36-45, $75-99k
+Age: 36-45, $75-99K
 
 Single Family, 5+
 
@@ -3608,7 +3612,7 @@ Age of children: 13-18
 
 Tech Use: Above Average
 
-Bargain hunters; Comfortable spending: Saving for college; Charity donor; Sports fans; Active lifestyles
+Bargain hunters; Comfortable spending; Saving for college; Charity donor; Sports fans; Active lifestyles
 
 ## Generational Soup B07
 
@@ -3636,7 +3640,7 @@ Affluent; College sports fans;
 
 Upscale housing; Highly educated;
 
-Philanthropic; Savvy investor
+Philanthropic; Sawy investor
 
 ## Boomers and Boomerangs C14
 
@@ -3652,15 +3656,13 @@ Suburbanites; Middle-class families; Politically conservative; Big spenders; Cha
 
 ## Golf Carts and Gourmets C12
 
-Age: 66-75, $100-124k
+Age: 66-73, $100-124K
 
 Single family, 2
 
 Tech Use: Below Average
 
-Resort sports: Highly educated; Luxury living: Country club
-
-members: Financially savvy; Music lover
+Resort sports; Highly educated; Luxury living; Country club members; Financially savvy; Music lover
 
 ## Silver Sophisticates C13
 
@@ -3690,7 +3692,7 @@ Age of children: 13-18
 
 Tech Use: Below Average
 
-Bilingual; Career-focused; 2nd generation success; Saving for college; Outdoor activities; Professional sports fans
+Bilingual; Career-focused; 2nd generation success; Saying for college; Outdoor activities; Professional sports fans
 
 ## Settled in Suburbia D16
 
@@ -3706,7 +3708,7 @@ Comfortable lifestyles; Diverse investments; Confident consumers; Active kids; M
 
 ## Sports Utility Families D15
 
-Age: 36-45, $75-99k
+Age: 36-45, $75-99K
 
 Single family, 5+
 
@@ -3720,7 +3722,7 @@ spending: Athletic activities:
 
 Outdoor leisure: Saving for college:
 
-Soccer moms/eds
+Soccer moms/dads
 
 ## Suburban Attainment D18
 
@@ -3732,9 +3734,9 @@ Age of children: 13-18
 
 Tech Use: Below Average
 
-Raciality diverse; Politically liberal; Power shoppers; Active lifestyles; Jazz listeners; Brick and mortar shoppers
+Racially diverse; Politically liberal; Power shoppers; Active lifestyles; Jazz listeners; Brick and mortar shoppers
 
-## E THRIVING BOOMERS
+## ETHRIVING BOOMERS
 
 ## Full Pockets, Empty Nests E19
 
@@ -3764,9 +3766,11 @@ Single family, 2
 
 Tech Use: Below Average
 
-Price conscious: Politically conservative; Do-it-yourselfers; NASCAR fentばns; Outdoor enthusiasts; Domestic travelers
+Price conscious: Politically
 
-## FPROMISING FAMILIES
+conservative: Do-it-yourselfers; NASCAR fanetics; Outdoor enthusiasts; Domestic travelers
+
+## F PROMISING FAMILIES
 
 ## Fast Track Couples F22
 
@@ -3800,13 +3804,11 @@ Credit revolver
 
 ## G YOUNG CITY SOLOS
 
-## Status Seeking Singles 024
-
-Single family, 1
+## Status Seeking Singles 024 Age: 36-45, $50-74k Single family, 1
 
 Tech Use: Above Average
 
-Single city dweller; Highly educated; Upwardly mobile; Professionals; Physically Fit; Foodies
+Single city dweller; Highly educated; Upwardly mobile; Professionals; Physically fit; Foodies
 
 ## Urban Edge G25
 
@@ -3816,7 +3818,13 @@ Multi-family: 101+, 1
 
 Tech Use: Above Average
 
-Progressive views: Urban-wellers; Environmental advocates; Ambitious; Highly educated; Exercise enthusiasts
+Progressive views: Urban-
+
+dwellers: Environmental
+
+advocates: Ambitious: Highly
+
+educated: Exercise enthusiasts
 
 H MIDDLE-CLASS MELTING POT
 
@@ -3830,11 +3838,13 @@ Age of children: 13-18
 
 Tech Use: Below Average
 
-Suburb Living: Active investors;
+Suburb living; Active investors;
 
-Comfortable spending: Yogis;
+Comfortable spending; Yogis;
 
-Charitable giving: Outdoor activities
+Charitable giving; Outdoor
+
+activities
 
 ## Destination Recreation H29
 
@@ -3846,9 +3856,9 @@ Age of children: 13-18
 
 Tech Use: Below Average
 
-Risk takers: Entrepreneurial spirit; Money isn't everything
+Risk takers; Entrepreneurial spirit; Money isn't everything
 
-Sports focused: Outdoor recreation; Price conscious
+Sports focused; Outdoor recreation; Price conscious
 
 ## Everyday Moderates H28
 
@@ -3870,21 +3880,25 @@ Middle of the road views
 
 ## Progressive Potpourri H26
 
-Age: 51-69, $50-74k
+Age: 51-65, $50-74K
 
-Single family: 2
+Single family, 2
 
 Age of children: 13-18
 
 Tech Use: Below Average
 
-Bilingual: Ethnicity diverse; Urban
+Bilingual; Ethnically diverse; Urban
 
-centric; Status spenders; Family abroad; Comfortable lifestyles
+centric; Status spenders; Family
+
+abroad; Comfortable Lifestyles
 
 ## IFAMILYUNION
 
 ## Balance and Harmony 133
+
+Age: 36-45, $50-74k
 
 Single family, 2
 
@@ -3904,7 +3918,7 @@ Age of children: 13-18
 
 Tech Use: Excellent
 
-Multi-generationat households:
+Multi-generational households:
 
 Patriotic; Middle class comfort;
 
@@ -3912,7 +3926,7 @@ Older homes; Union workers;
 
 Bargain hunters
 
-## Steudfast Conventionalists 132
+## Steadfast Conventionalists 132
 
 Single family, 5+
 
@@ -3922,6 +3936,8 @@ Tech Use: Excellent
 
 Ethnically diverse; Foreign travelers; Family abroad; Limited investments; High school educated; Health conscious
 
+## Stock Cars and State Parks 130
+
 Age: 46-50, $50-74k
 
 Single family, 5+
@@ -3930,35 +3946,35 @@ Age of children: 13-18
 
 Tech Use: Below Average
 
-Country living: Outdoor activities: Blue-collar jobs; Family-centric activities; Conservative views; Motor sports fans
+Country living; Outdoor activities; Blue-collar jobs; Family-centric activities; Conservative views; Motor sports fans
 
-## Stock Cars and State Parks 130
-
-## JAUTUMN YEARS
+## J AUTUMN YEARS
 
 ## Aging in Place J34
 
-Age: 66-75, $10-74K
+Age: 66-75, $50-74k
 
 Single family, 2
 
 Tech Use: Very Poor
 
-Retired; Fine arts appreciation;
+Retired: Fine arts appreciation;
 
-Financially secure; AARP
+Financially secure: AARP
 
-members; Arid newspaper reader;
+members: Avid newspaper reader;
 
 Republican
 
 ## Rural Escape J35
 
+Age: 66-75, $35-47K
+
 Single family, 2
 
 Tech Use: Very Poor
 
-Country living: Modest education;
+Country living: Modest educations;
 
 Risk adverse; Outdoor activities;
 
@@ -3974,11 +3990,11 @@ Single family, 2
 
 Tech Use: Very Poor
 
-Humble living: Modest spending
+Humble living; Modest spending;
 
-Limited financial savings
+Limited financial savings;
 
-Retired; Stable lifestyle
+Retired; Stable lifestyle;
 
 Limited internet activity
 
@@ -3996,9 +4012,9 @@ Apartment dwellers: Single adults;
 
 Environmentally sympathetic;
 
-Modest living: Value-conscious
+Modest living; Value-conscious
 
-shoppers: Eclectic interests
+shoppers; Eclectic interests
 
 ## Gotham Blend K38
 
@@ -4008,13 +4024,21 @@ Multi-family: 2 units, 1
 
 Tech Use: Excellent
 
-City lifestyle: Environmental donor; Bilingual: Aspirational consumers; Culturally diverse Newspaper readers
+City Lifestyle; Environmental donor;
+
+Bilingual; Aspirational consumers;
+
+Culturally diverse Newspaper
+
+readers
 
 ## Metro Fusion K39
 
-Single family: 1
+Single family, 1
 
-City apartment living: Family abroad; Ethnically diverse; Modest Investments; Digitally dependent; Youthful perseverance
+Tech Use: Excellent
+
+City apartment living; Family abroad; Ethnically diverse; Modest investments; Digitally dependent; Youthful perseverance
 
 ## Wired for Success K37
 
@@ -4026,7 +4050,7 @@ Tech Use: Above Average
 
 Conspicuous consumption; Status seekers; Digital media gurus; Value education; Liberal household; Active lifestyles
 
-## L BLUE SKY BOOMERS
+## BLUE SKY BOOMERS
 
 ## Booming and Consuming L41 Age: 51-65, $50-74k
 
@@ -4038,29 +4062,33 @@ Busy social lives; Diversified investments; Home and garden enthusiasts; Open-mi
 
 ## Homemade Happiness L43
 
-Age: 51-65, $50-74k
+Age: 57-65; $50-74k
 
 Single family, 1
 
 Tech Use: Very Poor
 
-Humble rural living: Hunting/
+Humble rural living; Hunting/
 
-Fishing: Blue-collar and agricultural jobs; Cash not credit;
+fishing; Blue-collar and
 
-Pragmatic shoppers: Traditional family values
+agricultural jobs; Cash not credit;
+
+Pragmatic shoppers; Traditional
+
+family values
 
 ## Rooted Flower Power L42
 
-Age: 61-65, $50-74k
+Age: 51-65, $50-74K
 
-Single family. 1
+Single family, 1
 
 Tech Use: Above Average
 
-Philanthropist: Deeply rooted; Single adults; Bargain hunters; Liberal; Clubs and volunteering
+Philanthropist; Deeply rooted; Single adults; Bargain hunters; Liberal; Clubs and volunteering
 
-## ༡༦༦༡ལོ།་༡༦༡ལོ་ནི།
+## ༡༧༦༩ལོར་ཁུལ་
 
 ## Diapers and Debit Cards M45
 
@@ -4070,11 +4098,11 @@ Age of children: 0-3
 
 Tech Use: Excellent
 
-Rural living: Home-based family
-
-activities: Enjoy bargain hunting; Middle of the road politics; Early childrearing years; Bowling and pool leagues
+Rural living: Home-based family activities: Enjoy bargain hunting; Middle of the road politics; Early childrearing years; Bowling and pool leagues
 
 ## Red, White and Bluegrass M44
+
+Age: 36-45, $50-74K
 
 Single family, 5+
 
@@ -4082,7 +4110,13 @@ Age of children: 4-6
 
 Tech Use: Excellent
 
-Family-centered activities: Rural communities: Working-class lifestyles: Racing fan: Modest financial investments: Country life
+Family-centered activities: Ruer
+
+communities: Working-class
+
+lifestyles: Racing fan; Modest
+
+financial investments: Country life
 
 ## N PASTORAL PRIDE
 
@@ -4096,11 +4130,13 @@ Age of children: 13-18
 
 Tech Use: Excellent
 
-Remote rural communities:
+Remote rural communities;
 
 Patriotic; Independent streak;
 
-Modest housing; Active outdoor life value; Risk take
+Modest housing; Active outdoor
+
+Ufestyles; Risk takers
 
 ## Rural Southern Bliss N48
 
@@ -4114,19 +4150,15 @@ Tech Use: Excellent
 
 Fashionable: Limited discretionary
 
-spend: Aspirational; Multigenerational households; Modest educations; Status shoppers
+spend: Aspirational;
 
-## True Grit Americans N46
+Multigenerational households;
 
-## Touch of Tradition N49
+Modest educations; Status
 
-Single family, 1
+shoppers
 
-Age of children: 13-18
-
-Tech Use: Very Poor
-
-Frugal; Working-class sensibility; Home-based activities; Sports TV; Remote settings; Hunting/Fishing
+True Gnt Americans N46
 
 Age: 36-45, $50-74k
 
@@ -4136,7 +4168,19 @@ Age of children: 13-18
 
 Tech Use: Very Poor
 
-Rural residences; Live within means; Outdoor activities; After-market buyers; Practical priorities; Cowboy values
+Rural residences; Live within
+
+means; Outdoor activities;
+
+After-market buyers; Practical
+
+priorities; Cowboy values
+
+## Touch of Tradition N49
+
+## Digital Dependents 051
+
+Colleges and Cafes 053
 
 Age: 19-24, <15k
 
@@ -4144,15 +4188,25 @@ Multi-family: 101+ units, 1
 
 Tech Use: Very Poor
 
-University towns: Single adults; Risk takers; Active lifestyles; Politically disengaged; Well-educated
+University towns: Single adults;
 
-## Colleges and Cafes 053
+Risk takers: Active lifestyles;
+
+Politically disengaged: Well-educated
+
+Age: 36-65, $35-47K
+
+Single family, 1
+
+Age of children: 13-18
+
+Tech Use: Very Poor
+
+Frugal; Working-class sensibility; Home-based activities; Sports TV; Remote settings; Hunting/fishing
 
 O SINGLES
 
-## Digital Dependents 051
-
-Age: 25-30, $35-47K
+Age: 25-30, $35-49k
 
 Single family, 1
 
@@ -4180,7 +4234,7 @@ Tech Use: Excellent
 
 Renters: Military base communities;
 
-Ethnicity diverse; Children's
+Ethnically diverse: Children's
 
 activities: Limited educations;
 
@@ -4204,13 +4258,13 @@ Multi-family: 101+ units, 1
 
 Tech Use: Excellent
 
-Career-driven: Urban-centric
+Career-driven; Urban-centric;
 
-Digitally dependent: Active social lives; Gym memberships; Music fun
+Digitally dependent; Active social lives; Gym memberships; Music fan
 
 ## Urban Ambition 052
 
-Age: 31-35, $<15k
+Age: 31-35, <15k
 
 Multi-family: 5-9 units, 1
 
@@ -4224,7 +4278,7 @@ P CULTURAL CONNECTIONS
 
 ## Expanding Horizons P59
 
-Age: 36-45, $35-47K
+Age: 36-45, $35-49k
 
 Single family, 5+
 
@@ -4232,19 +4286,19 @@ Age of children: 10-12
 
 Tech Use: Excellent
 
-Blue-collar jobs; Bilingual; Style conscious; Budget constraints; Proteens and teens; Team sports
+Blue-collar jobs; Bilingual; Style conscious; Budget constraints; Preteens and teens; Team sports
 
 ## Heritage Heights P58
 
 Age: 36-45, <$15k
 
-Multi-family: 2 units, 1
+Multi-family: 2 units; 1
 
 Age of children: 13-18
 
 Tech Use: Excellent
 
-Ethically eclectic; Fashion
+Ethnicity eclectic; Fashion
 
 forward; Artistically inclined;
 
@@ -4252,7 +4306,7 @@ Bilingual; Single parents;
 
 Appearances matter
 
-## Humbla Beginnings P61
+## Humble Beginnings P61 Age: 36-45, $<15k
 
 Multi-family: 1D1+ units, 1
 
@@ -4260,11 +4314,13 @@ Age of children: 10-12
 
 Tech Use: Excellent
 
-Rental housing: Single parents; Billingual: Driven to impress; Family abroad: Style on a budget
+Rental housing: Single parents;
 
-## Mid-scale Medley PS6
+Bilingual: Driven to impress;
 
-Age: 36-45, $50-74k
+Family abroad: Style on a budget
+
+## Mid-scale Medley P56
 
 Single family, 1
 
@@ -4280,7 +4336,7 @@ Outdoor leisure: Family abroad
 
 ## Modest Metro Means P57
 
-Age: 51-65, $<15k
+Age: 51-65; $<15k
 
 Multi-family: 2 units, 1
 
@@ -4289,6 +4345,8 @@ Age of children: 13-18
 Tech Use: Very Poor
 
 Public transportation: Ethnically diverse; Single parents; Rental housing; TV watchers; Opportunity seekers
+
+## steiving Forward P60
 
 Striving Forward P60
 
@@ -4300,7 +4358,11 @@ Age of children: 10-12
 
 Tech Use: Excellent
 
-Multi-ethnic: Ambitious; Single parents; Family activities; Active athletes; Fashionable
+Multi-ethnic: Ambitious;
+
+Single parents; Family activities;
+
+Active athletes; Fashionable
 
 ## Q GOLDEN YEAR GUARDIANS
 
@@ -4310,9 +4372,7 @@ Single family, 1
 
 Tech Use: Below Average
 
-Retirees; Epicurean; Healthy Living; Active social lives; Well-Invested; Financially secure
-
-## Town Elders Q64
+Retirees; Epicunean; Healthy Living; Active social lives; Well-Invested; Financially secure
 
 ## Reaping Rewards Q62
 
@@ -4320,7 +4380,13 @@ Single family, 2
 
 Tech Use: Very Poor
 
-Retirees; Established credit; Cruise vacations; Daytime entertainment; Brand loyal; Republican supporter
+Retirees; Established credit;
+
+Cruise vacations; Daytime entertainment; Brand loyal;
+
+Republican supporter
+
+## Town Elders Q64
 
 Single family, 1
 
@@ -4358,19 +4424,23 @@ Bilingual: Brand-conscious; Team sports: Window-shoppers
 
 ## Hope for Tomorrow R67
 
-Age: 19-24, <16x
-
 Single family, 1
 
 Age of children: 13-18
 
 Tech Use: Excellent
 
-Single parents: Striving for more; City Living: Shopping as entertainment; Swimming approval; Cash not credit
+Single parents: Striving for
+
+more; City Living: Shopping as
+
+entertainment; 5-weeking approval;
+
+Cash not credit
 
 ## S ECONOMIC CHALLENGES
 
-## Small Town Shallow Pockets S68
+## Small Town Shallow Pockets 568
 
 Age: 51-65, <$15k
 
@@ -4382,11 +4452,11 @@ Modest spenders; Rural towns;
 
 Single, empty nesters; Frequent
 
-movers; Mostest educations;
+movers; Modest educations;
 
 Status seeking purchases
 
-## Tight Money S70
+## Tight Money 570
 
 Multi-family: 20-49 units, 1
 
@@ -4394,13 +4464,17 @@ Age of children: 13-18
 
 Tech Use: Excellent
 
-Rental housing: Rural towns; Bluecollar jobs: Simple lifestyles; Bargain hunters: Status shoppers
+Rental housing: Rural towns;
+
+Bluecollar jobs: Simple lifestyles;
+
+Bargain hunters: Status shoppers
+
+## Tough Times $71
 
 Multi-family: 101+ units, 1 Tech Use: Excellent
 
 City renters: Ethnically diverse; Brand conscious: Aspirational; Limited budgets; Appearances matter
-
-## Tough Times$71
 
 ## Urban Survivors $69
 
@@ -4410,7 +4484,13 @@ Age of children: 13-18
 
 Tech Use: Excellent
 
-Modest budgets; Racially diverse; Entrepreneurial spirit; Homeowners; Materialistic aspirations; Style on a budget
+Modest budgets; Racially
+
+diverse; Entrepreneurial spirit;
+
+Homeowners; Materialistic
+
+aspirations; Style on a budget
 
 <a id="p158"></a>
 *[Page 158 of the original](https://www.southlyonmi.org/1-22-24%20Council%20Packet%20Part%201%20-%20online%20only.pdf?t=202401181517400#page=158)* (read by OCR; check the original)
@@ -5191,7 +5271,9 @@ BACKGROUND TRAFFIC VOLUMES
 
 *[Image or figure on this page; see the original.]*
 
-<table><tr><td rowspan="2">15-Min Count Period Beginning At</td><td colspan="3">Dixboro Road (Northbound)</td><td colspan="3">Dixboro Road (Southbound)</td><td colspan="3">10 Mile Road (Eastbound)</td><td colspan="3">10 Mile Road (Westbound)</td><td rowspan="2">Total</td><td rowspan="2">Hourly Totals</td></tr><tr><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td></tr><tr><td>4:00 PM</td><td>13</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>84</td><td>0</td><td>0</td><td>1</td><td>105</td><td>205</td></tr><tr><td>4:15 PM</td><td>5</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>99</td><td>3</td><td>0</td><td>0</td><td>120</td><td>231</td></tr><tr><td>4:30 PM</td><td>9</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>94</td><td>5</td><td>0</td><td>1</td><td>96</td><td>209</td></tr><tr><td>4:45 PM</td><td>1</td><td>0</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>83</td><td>3</td><td>0</td><td>2</td><td>117</td><td>213</td></tr><tr><td>5:00 PM</td><td>8</td><td>0</td><td>8</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>69</td><td>2</td><td>0</td><td>3</td><td>118</td><td>208</td></tr><tr><td>5:15 PM</td><td>2</td><td>10</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>100</td><td>4</td><td>10</td><td>6</td><td>126</td><td>242</td></tr><tr><td>5:30 PM</td><td>5</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>100</td><td>5</td><td>0</td><td>3</td><td>100</td><td>217</td></tr><tr><td>5:45 PM</td><td>5</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>90</td><td>2</td><td>0</td><td>1</td><td>102</td><td>201</td></tr><tr><td rowspan="2">Peak 15-Min Flowrates</td><td colspan="3">Northbound</td><td colspan="3">Southbound</td><td colspan="3">Eastbound</td><td colspan="3">Westbound</td><td rowspan="2" colspan="2">Total</td></tr><tr><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td></tr><tr><td>All Vehicles</td><td>8</td><td>0</td><td>16</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>400</td><td>16</td><td>0</td><td>24</td><td>504</td><td>968</td></tr><tr><td>Heavy Trucks Buses</td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>8</td><td>0</td><td></td><td>0</td><td>12</td><td>20</td></tr><tr><td>Pedestrians</td><td>0</td><td></td><td></td><td></td><td></td><td>0</td><td></td><td></td><td></td><td></td><td></td><td>0</td><td></td><td>0</td></tr><tr><td>Bicycles</td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Scooters</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+<table><tr><td rowspan="2">15-Min Count Period Beginning At</td><td colspan="4">Dixboro Road (Northbound)</td><td colspan="4">Dixboro Road (Southbound)</td><td colspan="4">10 Mile Road (Eastbound)</td><td colspan="4">10 Mile Road (Westbound)</td><td rowspan="2">Total</td><td rowspan="2">Hourly Totals</td></tr><tr><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td></tr><tr><td>4:00 PM</td><td>13</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>84</td><td>0</td><td>0</td><td>1</td><td>105</td><td>0</td><td>0</td><td>205</td><td></td></tr><tr><td>4:15 PM</td><td>5</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>99</td><td>3</td><td>0</td><td>0</td><td>120</td><td>0</td><td>0</td><td>231</td><td></td></tr><tr><td>4:30 PM</td><td>9</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>94</td><td>5</td><td>0</td><td>1</td><td>96</td><td>0</td><td>0</td><td>209</td><td></td></tr><tr><td>4:45 PM</td><td>1</td><td>0</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>83</td><td>3</td><td>0</td><td>2</td><td>117</td><td>0</td><td>0</td><td>213</td><td>858</td></tr><tr><td>5:00 PM</td><td>8</td><td>0</td><td>8</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>69</td><td>2</td><td>0</td><td>3</td><td>118</td><td>0</td><td>0</td><td>208</td><td>861</td></tr><tr><td>5:15 PM</td><td>2</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>100</td><td>4</td><td>0</td><td>6</td><td>126</td><td>0</td><td>0</td><td>242</td><td>5872</td></tr><tr><td>5:30 PM</td><td>5</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>100</td><td>5</td><td>0</td><td>3</td><td>100</td><td>0</td><td>0</td><td>217</td><td>880</td></tr><tr><td>5:45 PM</td><td>5</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>90</td><td>2</td><td>0</td><td>1</td><td>102</td><td>0</td><td>0</td><td>201</td><td>868</td></tr><tr><td rowspan="2">Peak 15-Min Flowrates</td><td colspan="4">Northbound</td><td colspan="4">Southbound</td><td colspan="4">Eastbound</td><td colspan="4">Westbound</td><td rowspan="2" colspan="2">Total</td></tr><tr><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td></tr><tr><td>All Vehicles</td><td>8</td><td>0</td><td>16</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>400</td><td>16</td><td>0</td><td>24</td><td>504</td><td>0</td><td>0</td><td colspan="2">968</td></tr><tr><td>Heavy Trucks</td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>8</td><td>0</td><td></td><td>0</td><td>12</td><td>0</td><td></td><td colspan="2">20</td></tr><tr><td>Buses</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr><tr><td>Pedestrians</td><td>0</td><td></td><td></td><td></td><td></td><td>0</td><td></td><td></td><td></td><td>0</td><td></td><td></td><td></td><td>0</td><td></td><td></td><td colspan="2">0</td></tr><tr><td>Bicycles</td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td></td><td colspan="2">0</td></tr><tr><td>Scooters</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr></table>
+
+## Comments:
 
 <a id="p192"></a>
 *[Page 192 of the original](https://www.southlyonmi.org/1-22-24%20Council%20Packet%20Part%201%20-%20online%20only.pdf?t=202401181517400#page=192)* (read by OCR; check the original)
@@ -5225,7 +5307,7 @@ BACKGROUND TRAFFIC VOLUMES
 
 *[Image or figure on this page; see the original.]*
 
-<table><tr><td rowspan="2">15-Min Count Period Beginning At</td><td colspan="3">Dixboro Rd (Northbound)</td><td colspan="3">Dixboro Rd (Southbound)</td><td colspan="3">Edenderry Dr (Eastbound)</td><td colspan="3">Edenderry Dr (Westbound)</td><td rowspan="2">Total</td><td rowspan="2">Hourly Totals</td></tr><tr><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td></tr><tr><td>4:00 PM</td><td>4</td><td>14</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>21</td><td></td></tr><tr><td>4:15 PM</td><td>0</td><td>9</td><td>0</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>13</td><td></td></tr><tr><td>4:30 PM</td><td>0</td><td>11</td><td>0</td><td>0</td><td>0</td><td>6</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>19</td><td></td></tr><tr><td>4:45 PM</td><td>1</td><td>7</td><td>0</td><td>0</td><td>0</td><td>3</td><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>13</td><td>66</td></tr><tr><td>5:00 PM</td><td>8</td><td>15</td><td>0</td><td>10</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>26</td><td>71</td></tr><tr><td>5:15 PM</td><td>0</td><td>6</td><td>0</td><td>0</td><td>0</td><td>11</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>17</td><td>75</td></tr><tr><td>5:30 PM</td><td>2</td><td>8</td><td>0</td><td>0</td><td>0</td><td>8</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>18</td><td>74</td></tr><tr><td>5:45 PM</td><td>1</td><td>6</td><td>0</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>10</td><td>71</td></tr><tr><td rowspan="2">Peak 15-Min Flowrates</td><td colspan="3">Northbound</td><td colspan="3">Southbound</td><td colspan="3">Eastbound</td><td colspan="3">Westbound</td><td rowspan="2" colspan="2">Total</td></tr><tr><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td></tr><tr><td>All Vehicles</td><td>12</td><td>60</td><td>0</td><td>0</td><td>0</td><td>20</td><td>0</td><td>0</td><td>8</td><td>0</td><td>4</td><td>0</td><td colspan="2">104</td></tr><tr><td>Heavy Trucks Buses</td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td></td><td colspan="2">0</td></tr><tr><td>Pedestrians</td><td>0</td><td></td><td></td><td></td><td>0</td><td></td><td></td><td></td><td>0</td><td></td><td>0</td><td></td><td colspan="2">0</td></tr><tr><td>Bicycles</td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td colspan="2">0</td></tr><tr><td>Scooters</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2">0</td></tr></table>
+<table><tr><td rowspan="2">15-Min Count Period Beginning At</td><td colspan="3">Dixboro Rd (Northbound)</td><td colspan="3">Dixboro Rd (Southbound)</td><td colspan="3">Edenderry Dr (Eastbound)</td><td colspan="3">Edenderry Dr (Westbound)</td><td rowspan="2">Total</td><td rowspan="2">Hourly Totals</td></tr><tr><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td></tr><tr><td>4:00 PM</td><td>4</td><td>14</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>21</td><td></td></tr><tr><td>4:15 PM</td><td>0</td><td>9</td><td>0</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>13</td><td></td></tr><tr><td>4:30 PM</td><td>0</td><td>11</td><td>0</td><td>0</td><td>0</td><td>6</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>19</td><td></td></tr><tr><td>4:45 PM</td><td>1</td><td>7</td><td>0</td><td>0</td><td>0</td><td>3</td><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>13</td><td>66</td></tr><tr><td>5:00 PM</td><td>8</td><td>15</td><td>0</td><td>10</td><td>0</td><td>2</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>26</td><td>71</td></tr><tr><td>5:15 PM</td><td>0</td><td>6</td><td>0</td><td>0</td><td>0</td><td>11</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>17</td><td>75</td></tr><tr><td>5:30 PM</td><td>2</td><td>8</td><td>0</td><td>0</td><td>0</td><td>8</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>18</td><td>74</td></tr><tr><td>5:45 PM</td><td>1</td><td>6</td><td>0</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>10</td><td>71</td></tr><tr><td rowspan="2">Peak 15-Min Flowrates</td><td colspan="3">Northbound</td><td colspan="3">Southbound</td><td colspan="3">Eastbound</td><td colspan="3">Westbound</td><td rowspan="2" colspan="2">Total</td></tr><tr><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td></tr><tr><td>All Vehicles</td><td>12</td><td>60</td><td>0</td><td>0</td><td>0</td><td>20</td><td>0</td><td>0</td><td>8</td><td>0</td><td>4</td><td>0</td><td>104</td><td></td></tr><tr><td>Heavy Trucks Buses</td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td></td></tr><tr><td>Pedestrians</td><td>0</td><td></td><td></td><td></td><td>0</td><td></td><td></td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td><td></td></tr><tr><td>Bicycles</td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr><tr><td>Scooters</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
 
 <a id="p194"></a>
 *[Page 194 of the original](https://www.southlyonmi.org/1-22-24%20Council%20Packet%20Part%201%20-%20online%20only.pdf?t=202401181517400#page=194)* (read by OCR; check the original)

@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/2-24-25%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "f1551580905480ddd24ff4830f0264442b45961dfbe9e515c85c29320d2b885b"
 source_bytes: 17152192
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 48
 ocr_pages: 48
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2025-02-24
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/2-24-25%20Council%20Packet%20-%20online%20only.pdf?t=202502201525220) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `f1551580905480dd…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/2-24-25%20Council%20Packet%20-%20online%20only.pdf?t=202502201525220) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `f1551580905480dd…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/2-24-25%20Council%20Packet%20-%20online%20only.pdf?t=202502201525220#page=1)* (read by OCR; check the original)
@@ -670,8 +670,6 @@ photo booth
 arts & crafts
 
 family friendly
-
-\(\begin{array}{l} \displaystyle \Delta \left( \frac{k}{w} \right)  =\frac{j^{8} \times \Delta x}{w} - \frac{u}{a} \times \frac{k}{x} = \frac{z - \Delta x \times \Delta y}{x} \times \Delta x - \frac{o}{x} \times \Delta x \times \Delta y = \frac{x \times \Delta x \times \Delta y}{x} \times \Delta x \div \frac{x}{x} = \frac{x \times \Delta x \times \Delta y}{x} \times \Delta x \div \frac{x}{x} = \frac{x \times \Delta x \times \Delta y}{x} \times \Delta x \div \frac{x}{x} = \frac{x \times \Delta x \times \Delta y}{x} \div \frac{x}{x} = \frac{x \times \Delta x \times \Delta y}{x} \div \frac{x}{x} = \frac{x \times \Delta x \times \Delta y}{x} \div \frac{x}{x} = \frac{x \times \Delta x \times \Delta y}{x} \div \frac{x}{x} = \frac{x \times \Delta x \times \Delta
 
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/2-24-25%20Council%20Packet%20-%20online%20only.pdf?t=202502201525220#page=23)* (read by OCR; check the original)

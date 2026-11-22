@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "813cd3cc6c0ee5482d6fd4c40006795ac0750828d4033669872289d95101dd3b"
 source_bytes: 37933780
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 91
 ocr_pages: 91
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2015-11-23
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `813cd3cc6c0ee548…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `813cd3cc6c0ee548…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570#page=1)* (read by OCR; check the original)
@@ -1986,8 +1986,6 @@ Sec. 4. (1) By a majority vote of its governing body each year, prior to the beg
 
 <a id="p66"></a>
 *[Page 66 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570#page=66)* (read by OCR; check the original)
-
-History: 2011, Act 152, Imd. Eff. Sept. 27, 2011;—Am. 2013, Act 271, Imd. Eff. Dec. 30, 2013.
 
 ### 15.565 Collective bargaining agreement or other contract in effect; inconsistent terms
 

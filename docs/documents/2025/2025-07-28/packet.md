@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/July%2028%202025%20online%20council%20p
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "647ef7eaf629cebe28a52f5612b2f5ccc5aca617f88891bd2ce8868174de7fa5"
 source_bytes: 3944996
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 40
 ocr_pages: 40
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2025-07-28
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/July%2028%202025%20online%20council%20packet%20final.pdf?t=202507251447220) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `647ef7eaf629cebe…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/July%2028%202025%20online%20council%20packet%20final.pdf?t=202507251447220) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `647ef7eaf629cebe…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/July%2028%202025%20online%20council%20packet%20final.pdf?t=202507251447220#page=1)* (read by OCR; check the original)
@@ -681,23 +681,7 @@ ___ to approve the Fire Department's request to purchase 5 new Motorola radios i
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/July%2028%202025%20online%20council%20packet%20final.pdf?t=202507251447220#page=23)* (read by OCR; check the original)
 
-amber.com/mber/1
-
 *[Image or figure on this page; see the original.]*
-
-\(2^{10} = \frac{1}{2} \times 10^{10} \times 10^{10} \times 10^{10} \times 10
-
-\(\begin{array}{c} \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \\ \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \\ \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \\ \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \\ \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \\ \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \\ \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \\ \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \\ \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \\ \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \\ \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \\ \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \\ \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \\ \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \\ \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \\ \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \text{S} \quad \
-
- $ x = \frac{d}{2} \left( \frac{x_1 + x_2}{2} \right) + \frac{x_2 - x_1}{2}  $
-
- $ x = \frac{d}{2} \left( \frac{x_1 + x_2}{2} \right) + \frac{x_2 - x_1}{2}  $
-
- $ x = \frac{d}{2} \left( \frac{x_1 + x_2}{2} \right) + \frac{x_2 - x_1}{2}  $
-
-The quick brown fox jumps over the lazy dog.
-
-\(\begin{array}{l} \displaystyle \Delta \left( \frac{o}{b} \right)  =\frac{c}{a} \cdot \frac{l}{x} = \frac{l}{x} \times \frac{q}{o} = \frac{b}{x} \div \frac{t}{d} = \frac{z}{r} + \frac{k}{a} = \frac{x}{c} + \frac{b}{a} = \frac{x}{c} \div \frac{x}{a} = \frac{x}{c} \div \frac{b}{a} = \frac{x}{c} \div \frac{b}{a} = \frac{x}{c} \div \frac{b}{a} = \frac{x}{c} \div
 
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/July%2028%202025%20online%20council%20packet%20final.pdf?t=202507251447220#page=24)* (read by OCR; check the original)

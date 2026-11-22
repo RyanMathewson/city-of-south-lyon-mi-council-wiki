@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/Council%20Online%20Packet_05-26-2026_RE
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "88b962f27be5c97af3ba5a463e2ccde82ca9d3672a2e2a36ac24dfb66484345e"
 source_bytes: 5812046
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 33
 ocr_pages: 33
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2026-05-26
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/Council%20Online%20Packet_05-26-2026_REDACTED.pdf?t=202605211458090) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `88b962f27be5c97a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/Council%20Online%20Packet_05-26-2026_REDACTED.pdf?t=202605211458090) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `88b962f27be5c97a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/Council%20Online%20Packet_05-26-2026_REDACTED.pdf?t=202605211458090#page=1)* (read by OCR; check the original)
@@ -740,7 +740,7 @@ Fax:</td></tr></table>
 
 ## Hardware
 
-<table><tr><td>Bundle BWC Unlimited with TAP 10YR BWC Unlimited with TAP 10YR Fleet 3 Advanced 10 Year</td><td>Item 73346 73348 100092</td><td>Description AXON BODY - TAP REFRESH 4 - CAMERA AXON BODY - TAP REFRESH 4 - DOCK MULTI BAY AXON FLEET - TAP REFRESH 2 - 2 CAMERA KIT</td><td>QTY 18 3 6</td><td>Shipping Location 1</td><td>Estimated Delivery Date 08/01/2036 08/01/2036 08/01/2036</td></tr></table>
+<table><tr><td>Bundle</td><td>Item</td><td>Description</td><td>QTY</td><td>Shipping Location</td><td>Estimated Delivery Date</td></tr><tr><td>BWC Unlimited with TAP 10YR</td><td>73346</td><td>AXON BODY - TAP REFRESH 4 - CAMERA</td><td>18</td><td>1</td><td>08/01/2036</td></tr><tr><td>BWC Unlimited with TAP 10YR</td><td>73348</td><td>AXON BODY - TAP REFRESH 4 - DOCK MULTI BAY</td><td>3</td><td>1</td><td>08/01/2036</td></tr><tr><td>Fleet 3 Advanced 10 Year</td><td>100092</td><td>AXON FLEET - TAP REFRESH 2 - 2 CAMERA KIT</td><td>6</td><td>1</td><td>08/01/2036</td></tr></table>
 
 <div>Software</div>
 

@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "fc68d0cb87486d011b8bab11096f594f1dd321e277303cba205bd75a10fe00cc"
 source_bytes: 1677882
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 32
 ocr_pages: 32
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2014-06-23
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC062314CCpacket6-23-14.pdf?t=202108310732580) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `fc68d0cb87486d01…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC062314CCpacket6-23-14.pdf?t=202108310732580) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `fc68d0cb87486d01…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC062314CCpacket6-23-14.pdf?t=202108310732580#page=1)* (read by OCR; check the original)
@@ -647,13 +647,13 @@ PHONE (810) 877-5501
 
 WATTS 1-800-626-7783
 
-email: dduddies@apollofire.com
+email: dduddles@apollofire.com
 
 FAX (586) 752-6907
 
-<table><tr><td rowspan="4">TO</td><td>South Lyon FD</td><td>DATE 6/16/2014</td><td>TERMS 30 days</td></tr><tr><td>217 Whipple St.</td><td colspan="2">PROPOSED SHIPPING DATE TBD</td></tr><tr><td>South Lyon, MI 48178 4</td><td colspan="2">TO BE SHIPPED VIA FedEx</td></tr><tr><td>248-437-2616</td><td colspan="2">QUOTE VALID FOR 30 days</td></tr></table>
+<table><tr><td rowspan="4">TO</td><td>South Lyon FD</td><td>DATE</td><td>6/16/2014</td><td>TERMS</td><td>30 days</td></tr><tr><td>217 Whipple St.</td><td colspan="2">PROPOSED SHIPPING DATE</td><td colspan="2">TBD</td></tr><tr><td>South Lyon, MI 48178</td><td>4</td><td>TO BE SHIPPED VIA</td><td colspan="2">FedEx</td></tr><tr><td>248-437-2616</td><td colspan="2">QUOTE VALID FOR</td><td colspan="2">30 days</td></tr></table>
 
-<table><tr><td>5</td><td>Lion V-Force coat and pant PBI Max</td><td>$1,986.00</td><td>$9,930.00</td></tr><tr><td></td><td>per your spec.</td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td>shipping included</td><td></td><td>$0.00</td></tr><tr><td></td><td>Sales tax exempt</td><td></td><td>$0.00</td></tr></table>
+<table><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>0.00</td></tr><tr><td>5</td><td>Lion V-Force coat and pant PBI Max</td><td>$1,986.00</td><td>$9,930.00</td></tr><tr><td></td><td>per your spec.</td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td></td><td></td><td>$0.00</td></tr><tr><td></td><td>shipping included</td><td></td><td>$0.00</td></tr><tr><td></td><td>Sales tax exempt</td><td></td><td>$0.00</td></tr></table>
 
 <a id="p25"></a>
 *[Page 25 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC062314CCpacket6-23-14.pdf?t=202108310732580#page=25)* (read by OCR; check the original)

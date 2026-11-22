@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "1e06d74f5a96723a515bedf06241f63d2cf2404d987370ec02c7ea426fb07bd1"
 source_bytes: 2964459
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 49
 ocr_pages: 49
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2011-11-14
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/DOC111111CCPACKET11-14-11.pdf?t=202108310733000) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `1e06d74f5a96723a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/DOC111111CCPACKET11-14-11.pdf?t=202108310733000) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `1e06d74f5a96723a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/DOC111111CCPACKET11-14-11.pdf?t=202108310733000#page=1)* (read by OCR; check the original)
@@ -549,15 +549,50 @@ The City of South Lyon
 
 <table><tr><td>Fund Department Account</td><td>GL Number Abbrev</td><td>Vendor Name Invoice Description</td><td>Check Number</td><td>Invoice Number</td><td>Due Date</td><td>Amount</td></tr><tr><td>Fund: GENERAL FUND
 Dept: DEPT. OF PUBLIC WORKS
-101-440.000-802.000</td><td>ONGOING RE</td><td>AVANA $ ^{{*}} $, INC.</td><td>0</td><td>11/11/2011</td><td>18.51</td><td>18.51</td></tr><tr><td>101-440.000-860.000</td><td>GAS & OIL</td><td>DFW PHONE SYSTEM ADVANCE AUTO PARTS OIL</td><td>0</td><td>11/14/2011</td><td>29.98</td><td>29.98</td></tr><tr><td>101-440.000-860.000</td><td>GAS & OIL</td><td>CORRIGAN OIL CO. GAS/DIESEL - OCT 2011</td><td>0</td><td>11/14/2011</td><td>1,208.28</td><td>1,208.28</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>HINES PARK FORD, INC. T-5 NEPAIR BALL JOINTS; ALIGN</td><td>0</td><td>11/14/2011</td><td>674.08</td><td>674.08</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>GREEN OAK TRE, INC. REPAIR T-5 TRE</td><td>0</td><td>11/14/2011</td><td>20.50</td><td>20.50</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>NORM'S TOTAL AUTOMOTIVE SERVICE T-5 BRAKES REPLACED</td><td>0</td><td>11/14/2011</td><td>707.93</td><td>707.93</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>SOUTHEASTERN EQUITMENT CO INC SWEEPER BROONS HUBBELL, ROTH, & CLARK, INC.</td><td>0</td><td>11/14/2011</td><td>904.38</td><td>904.38</td></tr><tr><td>101-440.000-935.000</td><td>NPDES PHAS</td><td>SWP IMPLEMENTATION - 2011 COUGAR SALES & RENTAL, INC.</td><td>0</td><td>11/14/2011</td><td>906.83</td><td>906.83</td></tr><tr><td>101-440.000-974.000</td><td>LAND IMPRO</td><td>REPAIR CONCRETE SAW HORNET CONCRETE CO, INC.</td><td>0</td><td>11/14/2011</td><td>38.85</td><td>38.85</td></tr><tr><td>101-440.000-974.000</td><td>LAND IMPRO</td><td>SIDEWALK REPAIR PETER'S TRUE VALUE HARDWARE MISC SUPPLIES; PARTS; TOOLS</td><td>0</td><td>11/14/2011</td><td>1,163.00</td><td>1,163.00</td></tr><tr><td>101-440.000-974.000</td><td>LAND IMPRO</td><td>PETER'S TRUE VALUE HARDWARE MISC SUPPLIES; PARTS; TOOLS JOHN'S SANITATION PORTA JOHNS AT PARKS 6/8-7/5</td><td>0</td><td>11/14/2011</td><td>75.60</td><td>75.60</td></tr><tr><td>Dept: PARKS AND RECREATION
-101-690.000-740.000</td><td>OPERATING</td><td>PETER'S TRUE VALUE HARDWARE MISC SUPPLIES; PARTS; TOOLS</td><td>0</td><td>11/14/2011</td><td>6,174.09</td><td>6,174.09</td></tr><tr><td>101-690.000-801.000</td><td>PROFESSION</td><td>JOHN'S SANITATION PORTA JOHNS AT PARKS 6/8-7/5</td><td>0</td><td>11/14/2011</td><td>44.02</td><td>44.02</td></tr><tr><td>Dept: HISTORICAL DEPOT
-101-732.000-931.000</td><td>BUILDING M</td><td>MARK G. POPRANSKY HIST VILLAGE SPARNKLER WINTERZ</td><td>0</td><td>11/14/2011</td><td>350.00</td><td>350.00</td></tr><tr><td>Dept: MAJOR STREETS
-Dept: STREET-ROUTINE MAINT.</td><td>OPERATING</td><td>PETER'S TRUE VALUE HARDWARE MISC SUPPLIES; PARTS; TOOLS</td><td>0</td><td>11/14/2011</td><td>394.02</td><td>394.02</td></tr><tr><td>202-463.000-740.000</td><td>REPAIR MAI</td><td>COUGAR SALES & RENTAL, INC. REPAIR CONCRETE SAW</td><td>0</td><td>11/14/2011</td><td>90.00</td><td>90.00</td></tr><tr><td>202-463.000-930.000</td><td>REPAIR MAI</td><td>RJR SERVICES STREET STRIPING STONE DEPOT LEAF DISPOSAL - 280 YARDS</td><td>0</td><td>11/14/2011</td><td>90.00</td><td>90.00</td></tr><tr><td>202-463.000-930.000</td><td>REPAIR MAI</td><td>DEPOT SNOW PLOWING OPERATING DEPOT SALT COMPANY LLC ROAD SALT - 100.22 TONS DEPOT SALT COMPANY LLC ROAD SALT - 96.6 TONS</td><td>0</td><td>11/14/2011</td><td>45,406.34</td><td>45,406.34</td></tr><tr><td>Dept: SNOW PLOWING
-202-478.000-740.000</td><td>OPERATING</td><td>DEPOT SALT COMPANY LLC ROAD SALT - 100.22 TONS DEPOT SALT COMPANY LLC ROAD SALT - 96.6 TONS</td><td>0</td><td>11/14/2011</td><td>32.47</td><td>32.47</td></tr><tr><td>202-478.000-740.000</td><td>OPERATING</td><td>DEPOT SNOW PLOWING</td><td>0</td><td>11/14/2011</td><td>46.62</td><td>46.62</td></tr><tr><td>202-478.000-740.000</td><td>OPERATING</td><td>DEPOT SALT COMPANY LLC ROAD SALT - 100.22 TONS DEPOT SALT COMPANY LLC ROAD SALT - 96.6 TONS</td><td>0</td><td>11/14/2011</td><td>2,095.00</td><td>2,095.00</td></tr><tr><td>202-478.000-740.000</td><td>OPERATING</td><td>DEPOT SALT COMPANY LLC ROAD SALT - 100.22 TONS DEPOT SALT COMPANY LLC ROAD SALT - 96.6 TONS</td><td>0</td><td>11/14/2011</td><td>420.00</td><td>420.00</td></tr><tr><td>Fund: LOCAL STREETS
-Dept: STREET-ROUTINE MAINT.</td><td>OPERATING</td><td>PETER'S TRUE VALUE HARDWARE MISC SUPPLIES; PARTS; TOOLS COUGAR SALES & RENTAL, INC. REPAIR CONCRETE SAW</td><td>0</td><td>11/14/2011</td><td>2,594.09</td><td>2,594.09</td></tr><tr><td>203-463.000-930.000</td><td>REPAIR MAI</td><td>REPAIR CONCRETE SAW STONE DEPOT LEAF DISPOSAL - 280 YARDS</td><td>0</td><td>11/14/2011</td><td>3,029.80</td><td>3,029.80</td></tr><tr><td>203-463.000-930.000</td><td>REPAIR MAI</td><td>REPAIR CONCRETE SAW STONE DEPOT SALT COMPANY LLC ROAD SALT - 100.22 TONS DEPOT SALT COMPANY LLC ROAD SALT - 96.6 TONS</td><td>0</td><td>11/14/2011</td><td>2,920.36</td><td>2,920.36</td></tr><tr><td colspan="5">Total SNOW PLOWING Fund Total</td><td>5,950.16</td><td>8,544.25</td></tr><tr><td>Fund: LOCAL STREETS
-Dept: STREET-ROUTINE MAINT.</td><td>OPERATING</td><td>PETER'S TRUE VALUE HARDWARE MISC SUPPLIES; PARTS; TOOLS COUGAR SALES & RENTAL, INC. REPAIR CONCRETE SAW</td><td>0</td><td>11/14/2011</td><td>32.47</td><td>32.47</td></tr><tr><td>203-463.000-930.000</td><td>REPAIR MAI</td><td>REPAIR CONCRETE SAW STONE DEPOT SALT COMPANY LLC ROAD SALT - 100.22 TONS DEPOT SALT COMPANY LLC ROAD SALT - 96.6 TONS</td><td>0</td><td>11/14/2011</td><td>31.08</td><td>31.08</td></tr><tr><td>203-463.000-930.000</td><td>REPAIR MAI</td><td>REPAIR CONCRETE SAW STONE DEPOT SALT COMPANY LLC ROAD SALT - 100.22 TONS DEPOT SALT COMPANY LLC ROAD SALT - 96.6 TONS</td><td>0</td><td>11/14/2011</td><td>420.00</td><td>420.00</td></tr></table>
-
-The City of South Lyon
+101-440.000-802.000</td><td>ONGOING RE</td><td>AVAVA $ ^{{*}} $, INC.
+DPW PHONE SYSTEM
+ADVANCE AUTO PARTS</td><td>0</td><td>11/11/2011</td><td>18.51</td><td>29.98</td></tr><tr><td>101-440.000-860.000</td><td>GAS & OIL</td><td>OIL CORRIGAN OIL CO.
+GAS/DIESEL - OCT 2011
+HINES PARK FORD, INC.
+T-5 REPAIR BALL JOINTS; ALIGNM
+GREEN ORK TRE, INC.
+REPAIR T-5 TRE
+NORM'S TOTAL AUTOMOTIVE SERVICE
+T-5 BRAKES REPLACED</td><td>0</td><td>11/14/2011</td><td>1,208.28</td><td>674.08</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>VEHICLE MA</td><td>GREEN ORK TRE, INC.
+REPAIR T-5 TRE
+NORM'S TOTAL AUTOMOTIVE SERVICE</td><td>0</td><td>11/14/2011</td><td>20.50</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>VEHICLE MA</td><td>SWEERER BROOMS
+HUBBELL, ROTH, & CLARK, INC.
+SWP IMPLEMENTATION - 2011</td><td>0</td><td>11/14/2011</td><td>707.93</td></tr><tr><td>101-440.000-863.000</td><td>NDES PHAS</td><td>NDES PHAS</td><td>COUGAR SALES & RENTAL, INC.
+REPAIR CONCRETE SAW</td><td>0</td><td>11/14/2011</td><td>904.38</td></tr><tr><td>101-440.000-974.000</td><td>LAND IMPRO</td><td>LAND IMPRO</td><td>HOBNET CONCRETE CO. INC.
+SIDEWALK REPAIR</td><td>0</td><td>11/14/2011</td><td>906.83</td></tr><tr><td>101-440.000-974.000</td><td>LAND IMPRO</td><td>LAND IMPRO</td><td>PETER'S TRUE VALUE HARDWARE
+MISC SUPPLIES; PARTS; TOOLS</td><td>0</td><td>11/14/2011</td><td>38.85</td></tr><tr><td>101-440.000-974.000</td><td>LAND IMPRO</td><td>LAND IMPRO</td><td>PETER'S TRUE VALUE HARDWARE
+MISC SUPPLIES; PARTS; TOOLS</td><td>0</td><td>11/14/2011</td><td>1,163.00</td></tr><tr><td>Dept: PARKS AND RECREATION
+101-690.000-740.000</td><td>OPERATING</td><td>OPERATING</td><td>MISC SUPPLIES; PARTS; TOOLS
+JOHN'S SANITATION
+PORTA JOHNS AT PARKS 6/8-7/5</td><td>0</td><td>11/14/2011</td><td>75.60</td></tr><tr><td>101-690.000-801.000</td><td>PROFESSION</td><td>PROFESSION</td><td>MARK G. PORAVSKY
+HIST VILLAGE SPRINKLER WINTER2</td><td>0</td><td>11/14/2011</td><td>6,174.09</td></tr><tr><td>Dept: HISTORICAL DEPOT
+101-732.000-931.000</td><td>BUILDING M</td><td>BUILDING M</td><td>PETER'S TRUE VALUE HARDWARE
+MISC SUPPLIES; PARTS; TOOLS</td><td>0</td><td>11/14/2011</td><td>44.02</td></tr><tr><td>Dept: MAJOR STREETS
+Dept: STREET-ROUTINE MAINT.
+202-463.000-740.000</td><td>OPERATING</td><td>OPERATING</td><td>PETER'S TRUE VALUE HARDWARE
+MISC SUPPLIES; PARTS; TOOLS</td><td>0</td><td>11/14/2011</td><td>394.02</td></tr><tr><td>202-463.000-930.000</td><td>REPAIR MAI</td><td>REPAIR MAI</td><td>COUGAR SALES & RENTAL, INC.
+REPAIR CONCRETE SAW</td><td>0</td><td>11/14/2011</td><td>90.00</td></tr><tr><td>202-463.000-930.000</td><td>REPAIR MAI</td><td>REPAIR MAI</td><td>MISC SUPPLIES; PARTS; TOOLS
+REPAIR CONCRETE SAW</td><td>0</td><td>11/14/2011</td><td>90.00</td></tr><tr><td>202-463.000-930.000</td><td>REPAIR MAI</td><td>REPAIR MAI</td><td>MISC SUPPLIES; PARTS; TOOLS
+REPAIR CONCRETE SAW</td><td>0</td><td>11/14/2011</td><td>45,406.34</td></tr><tr><td>202-463.000-930.000</td><td>REPAIR MAI</td><td>REPAIR MAI</td><td>MISC SUPPLIES; PARTS; TOOLS
+REPAIR CONCRETE SAW</td><td>0</td><td>11/14/2011</td><td>32.47</td></tr><tr><td>Dept: SNOW PLOWING
+202-478.000-740.000</td><td>OPERATING</td><td>OPERATING</td><td>DETROT SALT COMPANY LLC
+ROAD SALT - 100.22 TONS</td><td>0</td><td>11/14/2011</td><td>46.62</td></tr><tr><td>202-478.000-740.000</td><td>OPERATING</td><td>OPERATING</td><td>DETROT SALT COMPANY LLC
+ROAD SALT - 96.6 TONS</td><td>0</td><td>11/14/2011</td><td>2,093.00</td></tr><tr><td>202-478.000-740.000</td><td>REPAIR MAI</td><td>REPAIR MAI</td><td>DETROT SALT COMPANY LLC
+ROAD SALT - 96.6 TONS</td><td>0</td><td>11/14/2011</td><td>420.00</td></tr><tr><td>Fund: LOCAL STREETS
+Dept: STREET-ROUTINE MAINT.
+203-463.000-740.000</td><td>OPERATING</td><td>OPERATING</td><td>PETER'S TRUE VALUE HARDWARE
+MISC SUPPLIES; PARTS; TOOLS</td><td>0</td><td>11/14/2011</td><td>2,994.09</td></tr><tr><td>203-463.000-930.000</td><td>REPAIR MAI</td><td>REPAIR MAI</td><td>COUGAR SALES & RENTAL, INC.
+REPAIR CONCRETE SAW</td><td>0</td><td>11/14/2011</td><td>3,029.80</td></tr><tr><td>203-463.000-930.000</td><td>REPAIR MAI</td><td>REPAIR MAI</td><td>MISC SUPPLIES; PARTS; TOOLS
+REPAIR CONCRETE SAW</td><td>0</td><td>11/14/2011</td><td>2,920.36</td></tr><tr><td>203-463.000-930.000</td><td>REPAIR MAI</td><td>REPAIR MAI</td><td>MISC SUPPLIES; PARTS; TOOLS
+REPAIR CONCRETE SAW</td><td>0</td><td>11/14/2011</td><td>5,950.16</td></tr><tr><td>Fund: SNOW PLOWING
+Dept: SNOW PLOWING MAINT.</td><td>DETROT SALT COMPANY LLC
+ROAD SALT - 100.22 TONS</td><td>DETROT SALT COMPANY LLC
+ROAD SALT - 96.6 TONS</td><td>DETROT SALT COMPANY LLC</td><td>0</td><td>11/14/2011</td><td>8,544.25</td></tr><tr><td>203-463.000-740.000</td><td>REPAIR MAI</td><td>REPAIR MAI</td><td>DETROT SALT COMPANY LLC</td><td>0</td><td>11/14/2011</td><td>32.47</td></tr><tr><td>203-463.000-930.000</td><td>REPAIR MAI</td><td>REPAIR MAI</td><td>DETROT SALT COMPANY LLC</td><td>0</td><td>11/14/2011</td><td>31.08</td></tr><tr><td>203-463.000-930.000</td><td>REPAIR MAI</td><td>REPAIR MAI</td><td>DETROT SALT COMPANY LLC</td><td>0</td><td>11/14/2011</td><td>420.00</td></tr></table>
 
 <a id="p18"></a>
 *[Page 18 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/DOC111111CCPACKET11-14-11.pdf?t=202108310733000#page=18)* (read by OCR; check the original)
@@ -947,382 +982,29 @@ Beverly Dixson. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/DOC111111CCPACKET11-14-11.pdf?t=202108310733000#page=41)* (read by OCR; check the original)
 
-0334 South Lyon 1  
-  
-REGISTERED VOTERS - TOTAL ..... 2690  
-BALLOTS CAST - TOTAL ..... 567  
-BALLOTS CAST - REPUBLICAN PARTY ..... 0  
-BALLOTS CAST - DEMOCRATIC PARTY ..... 0  
-BALLOTS CAST - NONPARTISAN ..... 567  
-BALLOTS CAST - CROSSOVER ..... 0  
-VOTER TURNOUT - TOTAL ..... 21.08  
-VOTER TURNOUT - CROSSOVER ..... 0  
-  
+PRECINCT REPORT ELECTION TUESDAY, NOAKLAND CO STATISTICS  
+RUN DATE:11/08/11 08:59 PM  
+0334 South Lyon 1 VOTES PERCENT  
+REGISTERED VOTERS - TOTAL . 2690  
+BALLOTS CAST - TOTAL . 567  
+BALLOTS CAST - REPUBLICAN PARTY . 0  
+BALLOTS CAST - DEMOCRATIC PARTY . 0  
+BALLOTS CAST - NONPARTISAN . 567  
+BALLOTS CAST - CROSSOVER . 0  
+VOTER TURNOUT - TOTAL . 21.08  
+VOTER TURNOUT - CROSSOVER . 0  
 MAYOR CITY OF SOUTH LYON  
 Vote for not more than 1  
-Tedd Wallace ..... 495  
-WRITE-IN ..... 8  
-  
+Tedd Wallace . 495  
+WRITE-IN. 8 98.41  
 COUNCIL MEMBER CITY OF SOUTH LYON  
 Vote for not more than 3  
-Beverly Dixson ..... 433  
-Erin Kopkowski ..... 337  
-Carl W. Richards ..... 211  
-Linda Robinson ..... 204  
-Joseph Ryzyi ..... 272  
-WRITE-IN ..... 0  
-  
-495 98.41  
-WRITE-IN ..... 8  
-  
-433 29.72  
-Erin Kopkowski ..... 337  
-Erin Kopkowski ..... 211  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-Erin Kopkowski ..... 204  
-Erin Kopkowski ..... 272  
-E
+Beverly Dixson. 433  
+Erin Kopkowski. 337  
+Carl W. Richards . 211  
+Linda Robinson. 204  
+Joseph Ryzyi . 272  
+WRITE-IN. 0
 
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/DOC111111CCPACKET11-14-11.pdf?t=202108310733000#page=42)* (read by OCR; check the original)

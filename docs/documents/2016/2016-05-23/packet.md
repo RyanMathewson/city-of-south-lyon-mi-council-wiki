@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "4af73aacbe09f39122c8021aae388ecc11608309ded5cb3d01d1e8dcabb516c3"
 source_bytes: 4326614
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 76
 ocr_pages: 76
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2016-05-23
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket5-23-16.pdf?t=202108310732560) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `4af73aacbe09f391…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket5-23-16.pdf?t=202108310732560) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `4af73aacbe09f391…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket5-23-16.pdf?t=202108310732560#page=1)* (read by OCR; check the original)
@@ -2008,9 +2008,9 @@ Speed Coaching is back again! If you have career questions or want to get or giv
 
 ## County Administrators' Idea Exchange
 
-## A Connected Approach to Holistic Well-Being
-
 The National Association of County Administrators (NACA) will host an idea exchange—an informal roundtable discussion for county administrators to discuss issues that are important to county governance.
+
+## A Connected Approach to Holistic Well-Being
 
 Monday, Sept. 26, 11:15 a.m. - 12:30 p.m. Are you getting the most value from your benefits? Learn best practices in programs to increase employee health and productivity and decrease employee sick leave while improving your bottom line.
 
@@ -2032,13 +2032,13 @@ Make sure your jurisdiction is positioned to take full advantage of FirstNet, a 
 
 ## Get a Taste of Harvard Kennedy School Senior Executives in State and Local Government Program
 
-Monday, Sept. 26, 11:15 a.m. - 12:30 p.m.
+Monday, Sept. 26, 11:15 a.m.–12:30 p.m.
 
 Hear about the renowned and intense program directly from past graduates and ICMA scholarship recipients. Learn how the program can enhance your career, help you better serve your community, and offer real-world solutions that can enrich your residents' lives. This session is brought to you by The Ferguson Group and eCivis, sponsors of the Harvard Kennedy School Scholarship.
 
 ## ICMA Coaching Program and State Partners: Annual Planning Meeting
 
-Monday, Sept. 26, 11:15 a.m.−12:30 p.m.
+Monday, Sept. 26, 11:15 a.m.-12:30 p.m.
 
 ICMA and its state partners in the ICMA Coaching Program will review the past year and plan the educational webinars for 2017. States will share information on how they are using coaching resources to benefit their members and develop local programs. Also learn how you can tap the ICMA Career Services and other resources available through the state associations.
 
@@ -2324,15 +2324,17 @@ ICMA University workshops offer interactive, intensive training designed to deve
 
 Right Questions
 
-Saturday, Sept. 24, 8:30 a.m.–noon
+Saturday, Sept. 24, 8:30 a.m.-noon
 
 Practice Group: 3
 
 Workshop Leaders: Leonard Matarese, director of research and project development, and Tom Wieczorek, executive director, Center for Public Safety Management, LLC, Washington, D.C.
 
-How to Build Public Trust through Online Citizen Engagement
+## How to Build Public Trust through Online Citizen Engagement
 
-Saturday, Sept. 24, 8:30 a.m.-noon
+Online Citizen Engagement
+
+Saturday, Sept. 24, 8:30 a.m.–noon
 
 Practice Groups: 2, 4, 7, 9
 
@@ -2340,7 +2342,7 @@ Workshop Leader: Mike Cohen, cofounder, Peak Democracy, Trinidad, California
 
 ## Leading Change/HPO
 
-Saturday, Sept. 24, 8:30 a.m.–noon
+Saturday, Sept. 24, 8:30 a.m.-noon
 
 Practice Groups: 1, 6
 
@@ -2358,7 +2360,7 @@ Workshop Leader: Michelle Kobayashi, vice president, National Research Center, I
 
 Talent Management: The Next Phase of Succession Planning
 
-Saturday, Sept. 24, 8:30 a.m. - noon
+Saturday, Sept. 24, 8:30 a.m.–noon
 
 Practice Group: 1
 
@@ -2366,7 +2368,7 @@ Workshop Leader: Patrick Ibarra, co-founder and partner, The Mejorando Group, Gl
 
 Tools for the Balancing Act: Exploring Local Government Success Criteria and Understanding the Psychological Characteristics That Define Leaders
 
-Saturday, Sept. 24, 8:30 a.m.–noon
+Saturday, Sept. 24, 8:30 a.m.-noon
 
 Practice Groups: 1, 2, 6, 14, 18
 
@@ -2382,9 +2384,7 @@ Practice Group: 6
 
 Workshop Leader: Mike Huggins, principal, Civic Praxis, Eau Claire, Wisconsin
 
-Advanced Listening Skills That
-
-Distinguish You as a Leader
+Advanced Listening Skills That Distinguish You as a Leader
 
 Saturday, Sept. 24, 1-4:30 p.m.
 
@@ -2416,6 +2416,8 @@ Preregistration is required, and early registration is recommended as enrollment
 *[Page 60 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket5-23-16.pdf?t=202108310732560#page=60)* (read by OCR; check the original)
 
 ## Building Customer Service into Local Government Customer Service
+
+Government Customer Service
 
 Saturday, Sept. 24, 1-4:30 p.m.
 
@@ -2469,13 +2471,13 @@ consultant, and Susan R. Glaser, PhD, consultant, Glaser & Associates, Eugene, O
 
 ### Gov 2.0: What Public Leaders Need to Know
 
-Sunday, Sept. 25, 8:30 a.m.–noon
+Sunday, Sept. 25, 8:30 a.m.-noon
 
 Practice Group: 8
 
-Workshop Leaders: Pete Peterson, executive director, and Ashley Trim, assistant director, Davenport Institute for Public Engagement and Civic Leadership. Pepperdine University, Malibu, California
+Workshop Leaders: Pete Peterson, executive director, and Ashley Trim, assistant director, Davenport Institute for Public Engagement and Civic Leadership, Pepperdine University, Malibu, California
 
-## Implementing Effective Supervisory Practices in Your Organization
+Implementing Effective Supervisory Practices in Your Organization
 
 Sunday, Sept. 25, 8:30 a.m.–noon
 
@@ -2485,7 +2487,7 @@ Workshop Leaders: Hyacinth Bryant, senior human resources development manager; J
 
 ## Skillfully Building Common Ground
 
-Sunday, Sept. 25, 8:30 a.m.–noon
+Sunday, Sept. 25, 8:30 a.m.-noon
 
 Practice Groups: 6, 18
 
@@ -2499,7 +2501,7 @@ Practice Group: 18
 
 This workshop is offered through the generous support of ICMA's Strategic Partner Cigna. There is no fee.
 
-## "ICMA-RC Overview": Understanding Your Retirement Options
+## “ICMA-RC Overview”: Understanding Your Retirement Options
 
 Sunday, Sept. 25, 10 a.m.-noon
 
@@ -2517,9 +2519,7 @@ The institute requires a separate registration fee of $195. Preregistration is r
 
 ## Building Aspirational Communities That Embrace Cultural Competence and Regional Citizenship
 
-The Leadership Institute's goal is to challenge the participant to think about place making according to Kurt Lewin's sage advice. "There is nothing as practical as a good theory!" Contrary to common workshop practice, this workshop will not focus on skill building. Rather, it will assist you in building conceptual maps to help make sense of the sustainability and place-making challenges that local government managers face in terms of threshold and aspirational levels of thinking and acting, cultural competence as an element of social justice and community sustainability, and the relationship between "regional citizenship" and sustainable communities that embrace cultural competence and social justice.
-
-Practice Group 2
+The Leadership Institute's goal is to challenge the participant to think about place making according to Kurt Lewin's sage advice, "There is nothing as practical as a good theory!" Contrary to common workshop practice, this workshop will not focus on skill building. Rather, it will assist you in building conceptual maps to help make sense of the sustainability and place-making challenges that local government managers face in terms of threshold and aspirational levels of thinking and acting, cultural competence as an element of social justice and community sustainability, and the relationship between "regional citizenship" and sustainable communities that embrace cultural competence and social justice. Practice Group 2
 
 Institute Convener: John Nalbandian, professor emeritus of public administration, University of Kansas, Lawrence, Kansas
 

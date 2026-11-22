@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/7-8-19%20Council%20Packet%20-%20online%
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "1152472269815ebdda8727367d501a10e416d9197c30db2a2ecf2c24981e8bb0"
 source_bytes: 4880113
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 104
 ocr_pages: 104
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2019-07-08
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/7-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `1152472269815ebd…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/7-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `1152472269815ebd…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/7-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=1)* (read by OCR; check the original)
@@ -788,33 +788,19 @@ TSW Continued research regarding truth in taxation and budget public hearing and
 <a id="p32"></a>
 *[Page 32 of the original](https://www.southlyonmi.org/7-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=32)* (read by OCR; check the original)
 
-5/15/2019 TSW Receipt/review correspondence from Clerk regarding Notice of Budget Public Hearing  
-  
-5/15/2019 TSW Correspondence to and from City Manager regarding development project question  
-  
-5/16/2019 TSW Review of amended DDA Act and new requirements referenced in Council meeting  
-  
-5/16/2019 TSW Correspondence to and from City Manager regarding pending litigation and Zoning Board of Appeals membership  
-  
-5/16/2019 TSW Correspondence to and from City Manager regarding WWTP discharge question  
-  
-5/16/2019 TSW Begin preparation of donation and gift acceptance policy  
-  
-5/16/2019 TSW Correspondence to and from Michigan Seamless Tube attorney regarding status and scheduling  
-  
-5/16/2019 TSW Correspondence to and from City Manager regarding amended fireworks ordinance  
-  
-5/16/2019 TSW Continued preparation of donation acceptance policy; Correspondence to City Manager regarding same  
-  
-5/16/2019 TSW Review of downtown building enforcement matter and documents; Correspondence to and from Building Official regarding status  
-  
-5/16/2019 TSW Correspondence to and from Clerk regarding 825 W. Lake Street conditional rezoning status and agreement  
-  
-5/16/2019 TSW Correspondence to and from City Manager regarding budget and public hearing and notice requirements  
-  
-5/16/2019 TSW Correspondence to and from City Manager regarding pending lawsuit on Alexanders  
-  
-Hours
+5/15/2019 TSW Receipt/review correspondence from Clerk regarding Notice of Budget Public Hearing 0.10  
+TSW Correspondence to and from City Manager regarding development project question 0.10  
+TSW Review of amended DDA Act and new requirements referenced in Council meeting 0.30  
+5/16/2019 TSW Correspondence to and from City Manager regarding pending litigation and Zoning Board of Appeals membership 0.40  
+TSW Correspondence to and from City Manager regarding WWTP discharge question 0.30  
+TSW Begin preparation of donation and gift acceptance policy 0.50  
+TSW Correspondence to and from Michigan Seamless Tube attorney regarding status and scheduling 0.10  
+TSW Correspondence to and from City Manager regarding amended fireworks ordinance 0.10  
+5/21/2019 TSW Continued preparation of donation acceptance policy; Correspondence to City Manager regarding same 0.50  
+5/22/2019 TSW Review of downtown building enforcement matter and documents; Correspondence to and from Building Official regarding status 0.50  
+TSW Correspondence to and from Clerk regarding 825 W. Lake Street conditional rezoning status and agreement 0.20  
+TSW Correspondence to and from City Manager regarding budget and public hearing and notice requirements 0.10  
+TSW Correspondence to and from City Manager regarding pending lawsuit on Alexanders 0.10
 
 <a id="p33"></a>
 *[Page 33 of the original](https://www.southlyonmi.org/7-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=33)* (read by OCR; check the original)

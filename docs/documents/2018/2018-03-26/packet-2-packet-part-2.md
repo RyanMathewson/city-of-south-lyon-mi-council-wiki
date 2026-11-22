@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/3-26-18%20Council%20Packet%20part%202.p
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "de45e590ebb10f6561e1295f9551f135befbca41d79d9d9d00755fe9527bb89a"
 source_bytes: 2438826
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 54
 ocr_pages: 54
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2018-03-26
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/3-26-18%20Council%20Packet%20part%202.pdf?t=202108310733110) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `de45e590ebb10f65…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/3-26-18%20Council%20Packet%20part%202.pdf?t=202108310733110) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `de45e590ebb10f65…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/3-26-18%20Council%20Packet%20part%202.pdf?t=202108310733110#page=1)* (read by OCR; check the original)
@@ -495,6 +495,8 @@ has received written approval from the chairperson of the Michigan economic grow
 
 Rendered Wednesday, March 7, 2018
 
+© Legislative Council, State of Michigan
+
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/3-26-18%20Council%20Packet%20part%202.pdf?t=202108310733110#page=14)* (read by OCR; check the original)
 
@@ -562,7 +564,9 @@ Sec. 11. (1) Except as provided in subsections (6) and (7), there is levied upon
 
 (7) Upon application for an exemption under this subsection by a qualified start-up business, the governing body of a local tax collecting unit may adopt a resolution to exempt a speculative building, a new facility, or a replacement facility of a qualified start-up business from the collection of the industrial facility tax levied under this act in the same manner and under the same terms and conditions as provided for the exemption in section 7hh of the general property tax act, 1893 PA 206, MCL 211.7hh. The clerk of the local tax collecting unit shall notify in writing the assessor of the local tax collecting unit and the legislative body of each taxing unit that levies ad valorem property taxes in the local tax collecting unit. Before acting on the resolution, the governing body of the local tax collecting unit shall afford the assessor and a representative of the affected taxing units an opportunity for a hearing. If a resolution authorizing the exemption is adopted in the same manner as provided in section 7hh of the general property tax act, 1893 PA 206, MCL 211.7hh, a speculative building, a new facility, or a replacement facility owned or operated by a qualified start-up business is exempt from the industrial facility tax levied under this act, except for that portion of the industrial facility tax attributable to a special assessment or a tax described in section 7ff(2) of the general property tax act, 1893 PA 206, MCL 211.7ff, for the year in which the resolution is adopted. A qualified start-up business is not eligible for an exemption under this subsection for more than 5 years. A qualified start-up business may receive the exemption under this subsection in nonconsecutive years. The industrial facility tax calculated under this subsection shall be disbursed proportionately to the taxing unit or units that levied the special assessment or the tax described in section 7ff(2) of the general property tax act, 1893 PA 206, MCL 211.7ff. As used in this subsection, "qualified start-up business" means that term as defined in section 31a of the single Rendered Wednesday, March 7, 2018
 
-Page 13 Michigan Compiled Laws Complete Through PA 40 of 2018
+Page 13
+
+Michigan Compiled Laws Complete Through PA 40 of 2018
 
 © Legislative Council, State of Michigan
 

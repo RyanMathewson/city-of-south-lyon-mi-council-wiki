@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "3afe8736b6ef20f95f1dc832c9e64eb8bcd826ae368136b847b5faf9aa4dc810"
 source_bytes: 9529196
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 192
 ocr_pages: 192
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2020-01-13
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `3afe8736b6ef20f9…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `3afe8736b6ef20f9…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=1)* (read by OCR; check the original)
@@ -1161,7 +1161,11 @@ Sec. 8. (1) If the taxable value of the property proposed to be exempt pursuant 
 
 (2) The legislative body of the qualified local governmental unit shall not approve an application for a commercial rehabilitation exemption certificate unless the applicant complies with all of the following requirements:
 
-(a) Except as otherwise provided in this subdivision or subsection (3), the commencement of the rehabilitation of the qualified facility does not occur earlier than 6 months before the applicant files the application for the commercial rehabilitation exemption certificate. However, through December 31, 2009, for a qualified facility that is a qualified retail food establishment, the commencement of the rehabilitation does not occur earlier than 42 months before the applicant files the application for the commercial rehabilitation exemption certificate.
+(a) except as otherwise provided in this subdivision or subsection (3), the commencement of the rehabilitation of the qualified facility does not occur earlier than 6 months before the applicant files the application for the commercial rehabilitation exemption certificate. However, through December 31, 2009, for a qualified facility that is a qualified retail food establishment, the commencement of the rehabilitation does not occur earlier than 42 months before the applicant files the application for the commercial rehabilitation exemption certificate.
+
+Rendered Thursday, October 6, 2016
+
+□ Legislative Council, State of Michigan
 
 <a id="p50"></a>
 *[Page 50 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=50)* (read by OCR; check the original)
@@ -1367,7 +1371,7 @@ e. The applicant is not delinquent in the payment of any taxes related to the qu
 <a id="p57"></a>
 *[Page 57 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=57)* (read by OCR; check the original)
 
-## Frequently Asked Questions Commercial Rehabilitation Act (PA 210 of 2005, as amended)
+# Frequently Asked Questions Commercial Rehabilitation Act (PA 210 of 2005, as amended)
 
 Yes. A party aggrieved by the issuance, refusal to issue, revocation, transfer or modification of a Commercial Rehabilitation exemption may appeal a final decision of the State Tax Commission by filing a petition with the Michigan Tax Tribunal, www.michigan.gov/taxtrib, within 35 days. MCL 205.735a (6).
 
@@ -2846,15 +2850,15 @@ Sec. 10. (1) If the state equalized valuation of property proposed to be exempt 
 
 (2) The legislative body of the local governmental unit shall not approve an application for an exemption certificate unless the applicant complies with all of the following requirements:
 
+(b) The application relates to a construction, restoration, or replacement program which when completed constitutes a new, replacement, or restored facility within the meaning of this act and which shall be situated within a commercial redevelopment district established in a local governmental unit eligible under this act to establish such a district.
+
 (a) The commencement of the restoration, replacement, or construction of the facility does not occur before the establishment of the commercial redevelopment district. An application for an exemption certificate shall be valid if filed within 45 days after commencement of the restoration, replacement, or construction.
 
 (c) Completion of the facility is calculated to, and will at the time of issuance of the certificate have the reasonable likelihood to, increase commercial activity, create employment, retain employment, or prevent a loss of employment in the community in which the facility is situated.
 
-(b) The application relates to a construction, restoration, or replacement program which when completed constitutes a new, replacement, or restored facility within the meaning of this act and which shall be situated within a commercial redevelopment district established in a local governmental unit eligible under this act to establish such a district.
+History: 1978, Act 255, Imd. Eff. June 21, 1978.
 
 ### 207.661 Valuation of facilities and property by assessor
-
-History: 1978, Act 255, Imd. Eff. June 21, 1978.
 
 Sec. 11. The assessor of each city or township in which there is a restored facility, a new facility or a replacement facility with respect to which 1 or more commercial facilities exemption certificates are issued and in force shall determine annually as of December 31 the value of each facility separately, having the benefit of the certificates and upon receipt of notice of the filing of an application for the issuance of a certificate, shall determine and furnish to the local legislative body the value of the property to which the application pertains and other information as may be necessary to permit the local legislative body to make the determinations required by section 10(1).
 
@@ -2877,11 +2881,11 @@ Sec. 12. (1) Except as provided in subsection (9), there is levied upon every ow
 
 (5) The commercial facilities tax is an annual tax, payable at the same times, in the same installments, and to the same officer or officers as taxes imposed under the general property tax act, 1893 PA 206, MCL 211.1 to 211.155, are payable. Except as otherwise provided in this section, the officer or officers shall disburse the commercial facilities tax payments received each year to and among the state, cities, townships, villages, school districts, counties, and authorities, at the same times and in the same proportions as required by law for the disbursement of taxes collected under the general property tax act, 1893 PA 206, MCL 211.1 to 211.155.
 
-(6) Except as provided in subsection (7), for intermediate school districts receiving state aid under sections 56, 62, and 81 of the state school aid act of 1979, 1979 PA 94, MCL 388.1656, 388.1662, and 388.1681, of the amount that would otherwise be disbursed to or retained by the intermediate school district, all or a portion, to be determined on the basis of the tax rates being utilized to compute the amount of state school aid, shall be paid instead of the state treasury to the credit of the state school aid fund established by section 11 of article IX of the state constitution of 1963. If the sum of any industrial facility taxes prescribed by 1974 PA 198, 207.551 to 207.572, and the commercial facilities taxes paid to the state treasury to the credit of the state school aid fund that would otherwise be disbursed to the local or intermediate school district, under section 11 of 1974 PA 198, MCL 207.561, and this section, exceeds the amount received by the local or intermediate school district under sections 56, 62, and 81 of the state school aid act of 1979, 1979 PA 94, MCL 388.1656, 388.1662, and 388.1681, the department of treasury shall allocate to each eligible local or intermediate school district an amount equal to the difference between the sum of the industrial facility taxes and the commercial facilities taxes paid to the state treasury to the credit of the state school aid fund and the amount the local or intermediate school district received under sections 56, 62, and 81 of the state school aid act of 1979, 1979 PA 94, MCL 388.1656, 388.1662, and 388.1681. This subsection does not apply to taxes levied for either of the following:
-
-(b) An intermediate school district that is not receiving state aid under section 56 or 62 of the state school aid act of 1979, 1979 PA 94, MCL 388.1656 and 388.1662.
+(6) Except as provided in subsection (7), for intermediate school districts receiving state aid under sections 56, 62, and 81 of the state school aid act of 1979, 1979 PA 94, MCL 388.1656, 388.1662, and 388.1681, of the amount that would otherwise be disbursed to or retained by the intermediate school district, all or a portion, to be determined on the basis of the tax rates being utilized to compute the amount of state school aid, shall be paid instead to the state treasury to the credit of the state school aid fund established by section 11 of article IX of the state constitution of 1963. If the sum of any industrial facility taxes prescribed by 1974 PA 198, 207.551 to 207.572, and the commercial facilities taxes paid to the state treasury to the credit of the state school aid fund that would otherwise be disbursed to the local or intermediate school district, under section 11 of 1974 PA 198, MCL 207.561, and this section, exceeds the amount received by the local or intermediate school district under sections 56, 62, and 81 of the state school aid act of 1979, 1979 PA 94, MCL 388.1656, 388.1662, and 388.1681, the department of treasury shall allocate to each eligible local or intermediate school district an amount equal to the difference between the sum of the industrial facility taxes and the commercial facilities taxes paid to the state treasury to the credit of the state school aid fund and the amount the local or intermediate school district received under sections 56, 62, and 81 of the state school aid act of 1979, 1979 PA 94, MCL 388.1656, 388.1662, and 388.1681. This subsection does not apply to taxes levied for either of the following:
 
 (a) Mills allocated to an intermediate school district for operating purposes as provided for under the property tax limitation act, 1933 PA 62, MCL 211.201 to 211.217a.
+
+(b) An intermediate school district that is not receiving state aid under section 56 or 62 of the state school aid act of 1979, 1979 PA 94, MCL 388.1656 and 388.1662.
 
 (7) For commercial facilities taxes levied after 1993 for school operating purposes, the amount that would otherwise be disbursed to a local school district shall be paid instead of the state treasury and credited to the state school aid fund established by section 11 of article IX of the state constitution of 1963.
 

@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/3-8-21%20Council%20Packet%20-%20online%
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "978cd420db32386a1f202f0e914fdff8394c07217da2d8074e65f75eff49782e"
 source_bytes: 6323333
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 131
 ocr_pages: 131
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2021-03-08
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/3-8-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `978cd420db32386a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/3-8-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `978cd420db32386a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/3-8-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=1)* (read by OCR; check the original)
@@ -3163,6 +3163,8 @@ New style of LEVEL SENSOR
 ## 2021 Siren Test Calendar
 
 Please be advised that Oakland County Emergency Management Division will be testing the outdoor warning siren system on the following dates in 2021:
+
+*[Image or figure on this page; see the original.]*
 
 <table><tr><td>Date</td><td>Day</td><td>Time</td><td>Reason</td></tr><tr><td>March 6</td><td>Saturday</td><td>1:00 PM</td><td>First Saturday of the month test</td></tr><tr><td>March 24</td><td>Wednesday</td><td>1:00 PM</td><td>Special test in recognition of Severe Weather Awareness Week (SWAW)</td></tr><tr><td>April 3</td><td>Saturday</td><td>1:00 PM</td><td>First Saturday of the month test</td></tr><tr><td>May 1</td><td>Saturday</td><td>1:00 PM</td><td>First Saturday of the month test</td></tr><tr><td>June 5</td><td>Saturday</td><td>1:00 PM</td><td>First Saturday of the month test</td></tr><tr><td>July 3</td><td>Saturday</td><td>1:00 PM</td><td>First Saturday of the month test</td></tr><tr><td>August 7</td><td>Saturday</td><td>1:00 PM</td><td>First Saturday of the month test</td></tr><tr><td>September 4</td><td>Saturday</td><td>1:00 PM</td><td>First Saturday of the month test</td></tr><tr><td>October 2</td><td>Saturday</td><td>1:00 PM</td><td>First Saturday of the month test</td></tr><tr><td>November 6</td><td>Saturday</td><td>1:00 PM</td><td>First Saturday of the month test</td></tr></table>
 

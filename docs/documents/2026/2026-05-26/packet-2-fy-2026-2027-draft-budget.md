@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/Fiscal%20Year%202026-2027%20Draft%20Bud
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "b4137ea290eaa1f4ea49dabfc214e36d082fe90cd310bd08b3979f31ce188aae"
 source_bytes: 2412927
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 101
 ocr_pages: 101
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2026-05-26
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/Fiscal%20Year%202026-2027%20Draft%20Budget.pdf?t=202605211601520) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `b4137ea290eaa1f4…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/Fiscal%20Year%202026-2027%20Draft%20Budget.pdf?t=202605211601520) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `b4137ea290eaa1f4…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/Fiscal%20Year%202026-2027%20Draft%20Budget.pdf?t=202605211601520#page=1)* (read by OCR; check the original)
@@ -361,9 +361,9 @@ This line item is used to pay for department telephones and cellular telephone s
 
 $30,000
 
-This line item is used to pay for the fuel and oil used by the department's fleet of vehicles.
-
 ## 861 - Transportation and Mileage
+
+This line item is used to pay for the fuel and oil used by the department's fleet of vehicles.
 
 $100
 

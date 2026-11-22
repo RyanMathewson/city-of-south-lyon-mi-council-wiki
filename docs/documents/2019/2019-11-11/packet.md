@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/11-11-19%20Council%20Packet%20-%20onlin
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "82dda98de9e0288ad236eeb326ad64030f069678122eda9eb4790b4359b53901"
 source_bytes: 2949257
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 75
 ocr_pages: 75
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2019-11-11
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/11-11-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `82dda98de9e0288a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/11-11-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `82dda98de9e0288a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/11-11-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=1)* (read by OCR; check the original)
@@ -460,7 +460,9 @@ User: LISA
 
 DB: South Lyon
 
-CHECK REGISTER FOR CITY OF SOUTH LYON CHECK DATE FROM 10/17/2019 - 11/07/2019
+CHECK REGISTER FOR CITY OF SOUTH LYON
+
+CHECK DATE FROM 10/17/2019 - 11/07/2019
 
 Page: 2/6
 
@@ -470,22 +472,22 @@ PROPANE GAS</td><td>1,296.23
 3.29
 12.99</td><td>Open
 Open
-Open</td></tr><tr><td>10/17/2019</td><td>77680</td><td>PURCHASE POWER</td><td>POSTAGE & METER</td><td>1,312.51</td><td>Cleared</td></tr><tr><td>10/17/2019</td><td>77681</td><td>SCHOOLCRAFT COLLEGE</td><td>TRAINING-EMERGENCY VEHICLE OPERATION</td><td>1,854.72</td><td>Cleared</td></tr><tr><td>10/17/2019</td><td>77682</td><td>SHARE CORPORATION</td><td>TOOLS FOR WATER USE</td><td>150.00</td><td>Cleared</td></tr><tr><td>10/17/2019</td><td>77683</td><td>TOWNSHIP OF CANTON</td><td>REIMBURSE FOR REPAIRS ON OUTDOOR MOVIE</td><td>684.33</td><td>Cleared</td></tr><tr><td>10/17/2019</td><td>77684</td><td>U.S. WATER SERVICES, INC.</td><td>SERVICE ON HORIZONAL PRESSURE FILTER</td><td>97.19
-6,400.00</td><td>Cleared</td></tr><tr><td>10/17/2019</td><td>77685</td><td>WOW! BUSINESS</td><td>SOUTH LYON DEW FROM 10/01-10/31/17
+Open</td></tr><tr><td>10/17/2019</td><td>77680</td><td>PURCHASE POWER</td><td>POSTAGE & METER</td><td>1,854.72</td><td>Cleared</td></tr><tr><td>10/17/2019</td><td>77681</td><td>SCHOOLCRAFT COLLEGE</td><td>TRAINING-EMERGENCY VEHICLE OPERATION</td><td>150.00</td><td>Cleared</td></tr><tr><td>10/17/2019</td><td>77682</td><td>SHARE CORPORATION</td><td>TOOLS FOR WATER USE</td><td>684.33</td><td>Cleared</td></tr><tr><td>10/17/2019</td><td>77683</td><td>TOWNSHIP OF CANTON</td><td>REIMBURSE FOR REPAIRS ON OUTDOOR MOVIE</td><td>97.19</td><td>Cleared</td></tr><tr><td>10/17/2019</td><td>77684</td><td>U.S. WATER SERVICES, INC.</td><td>SERVICE ON HORIZONTAL PRESSURE FILTER</td><td>6,400.00</td><td>Cleared</td></tr><tr><td>10/17/2019</td><td>77685</td><td>WOW! BUSINESS</td><td>SOUTH LYON DPW FROM 10/01-10/31/17
 520 ADA ST CABLE SRV FROM 10/6-11/5/19
 335 S WARREN SERVICE 10/6 TO 11/05/19</td><td>62.00
 150.67
 46.97</td><td>Cleared
-Cleared</td></tr><tr><td>10/24/2019</td><td>77686</td><td>A1 ENGRAVING & SIGNS, INC.</td><td>LASER ENGRAVED RADIO</td><td>10.00</td><td>Open</td></tr><tr><td>10/24/2019</td><td>77687</td><td>ANN ARBOR DOOR SYSTEMS, INC.</td><td>DOOR REPAIR L-1</td><td>175.00</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77688</td><td>ARBOR SPRINGS WATER CO., INC.</td><td>QTY 4 - 5 GAL. ARTESIAN WATER</td><td>32.00</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77689</td><td>BAAKI DOUGLAS</td><td>OFFICER CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77690</td><td>AUDRA BAKER</td><td>OFFICER CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77691</td><td>JARED BAKER</td><td>OFFICER CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77692</td><td>RONALD BARBOUR</td><td>OFFICER CLEANING ALLOWANCE</td><td>100.00</td><td>Open</td></tr><tr><td>10/24/2019</td><td>77693</td><td>BASIC</td><td>OCTOBER 2019 SEC 125 FSA PLAN</td><td>86.40</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77694</td><td>BLUE CROSS BLUE SHIELD OF MICH</td><td>RETIREE PLAN COVERAGE FROM 11-1 TO 11-3
+Cleared
+Cleared</td></tr><tr><td>10/24/2019</td><td>77686</td><td>A1 ENGRAVING & SIGNS, INC.</td><td>LASER ENGGRAVED RADIO</td><td>10.00</td><td>Open</td></tr><tr><td>10/24/2019</td><td>77687</td><td>ANN ARBOR DOOR SYSTEMS, INC.</td><td>DOOR REPAIR L-1</td><td>175.00</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77688</td><td>ARBOR SPRINGS WATER CO., INC.</td><td>QTY 4 - 5 GAL. ARTESTAN WATER</td><td>32.00</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77689</td><td>BAAKI DOUGLAS</td><td>OFFICER CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77690</td><td>AUDRA BAKER</td><td>OFFICER CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77691</td><td>JARED BAKER</td><td>OFFICER CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77692</td><td>RONALD BARBOUR</td><td>OFFICER CLEANING ALLOWANCE</td><td>100.00</td><td>Open</td></tr><tr><td>10/24/2019</td><td>77693</td><td>BASIC</td><td>OCTOBER 2019 SEC 125 FSA PLAN</td><td>86.40</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77694</td><td>BLUE CROSS BLUE SHIELD OF MICH</td><td>RETIREE PLAN COVERAGE FROM 11-1 TO 11-3
 GRP #007006071 COVERAGE 11-1 TO 11/30/1</td><td>5,739.14
 33,718.73</td><td>Cleared
-Cleared</td></tr><tr><td>10/24/2019</td><td>77695</td><td>BUSCH'S</td><td>WATER & ICE FOR TRAINING INVOICE 01-251</td><td>39,457.87</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77696</td><td>KRISPEN S. CARROLL</td><td>MICHAEL J. MORITZ CASE #17-57623-PJS</td><td>44.39</td><td>Open</td></tr><tr><td>10/24/2019</td><td>77697</td><td>CITY OF SOUTH LYON</td><td>MULITIPLE LOCATIONS</td><td>57.88
-478.55</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77698</td><td>CONSUMERS ENERGY</td><td>300 DOROTHY ST #B FROM 8/31 TO 10/1/201
+Cleared</td></tr><tr><td>10/24/2019</td><td>77695</td><td>BUSCH'S</td><td>WATER & ICE FOR TRAINING INVOICE 01-251</td><td>44.39</td><td>Open</td></tr><tr><td>10/24/2019</td><td>77696</td><td>KRISPEN S. CARROLL</td><td>MICHAEL J. MORITZ CASE #17-57623-PJS</td><td>57.88</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77697</td><td>CITY OF SOUTH LYON</td><td>MULTIMPLE LOCATIONS</td><td>478.55</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77698</td><td>CONSUMERS ENERGY</td><td>300 DOROTHY ST #B FROM 8/31 TO 10/1/201
 300 DOROTHY ST FROM 8/31 TO 10/01/19
 250 DOROTHY ST FROM 8/31 TO 10/01/2019</td><td>14.53
 14.53
 14.53</td><td>Cleared
-Cleared</td></tr><tr><td>10/24/2019</td><td>77699</td><td>CORRIGAN OIL CO.</td><td>GAS & DIESEL 9/6 TO 10/3/19</td><td>4,953.61</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77700</td><td>DONAHEE ENTERPRISES, INC.</td><td>QTY 8 - PUMPKINS & QTY 6 - MUMS</td><td>82.00</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77701</td><td>DOUGLAS VARNEY</td><td>MILEAGE REIMBURSEMENT TO GULL LAKE</td><td>113.68</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77702</td><td>DTE ENERGY</td><td>200 DOROTHY ST FROM 9/19 TO 10/17/19</td><td>21.83</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77703</td><td>CHRISTOPHER FAUGHT</td><td>OFFICER CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77704</td><td>GFL ENVIRONMENTAL USA</td><td>DUMPSTER & RECYCLING 11/1-11/30/19</td><td>1,106.36</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77705</td><td>SEAN S. HOYDIC</td><td>OFFICER CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77706</td><td>INTL UNION OF OPERATING ENG</td><td>MONTHLY DUES FOR OCTOBER 2019</td><td>228.82</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77707</td><td>JAKE JACOBS</td><td>OFFICER CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77708</td><td>JONATHAN SCHNEEMANN</td><td>OFFICER CLEANING ALLOWANCE</td><td>100.00</td><td>Open</td></tr></table>
+Cleared
+Cleared</td></tr><tr><td>10/24/2019</td><td>77699</td><td>CORRIGAN OIL CO.</td><td>GAS & DIESEL 9/6 TO 10/3/19</td><td>4,953.61</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77700</td><td>DONAHEE ENTERPRISES, INC.</td><td>QTY 8 - PUMPKINS & QTY 6 - MUMS</td><td>82.00</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77701</td><td>DOUGLAS VARNERY</td><td>MILEAGE REIMBURSEMENT TO GULL LAKE</td><td>113.68</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77702</td><td>DTE ENERGY</td><td>200 DOROTHY ST FROM 9/19 TO 10/17/19</td><td>21.83</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77703</td><td>CHRISTOPHER FAUGHT</td><td>OFFICER CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77704</td><td>GFL ENVIRONMENTAL USA</td><td>DUMPSTER & RECYCLING 11/1-11/30/19</td><td>1,106.36</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77705</td><td>SEAN S. HOYDIC</td><td>OFFICER CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77706</td><td>INTL UNION OF OPERATING ENG</td><td>MONTHLY DUES FOR OCTOBER 2019</td><td>223.82</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77707</td><td>JAKE JACOBS</td><td>OFFICER CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>10/24/2019</td><td>77708</td><td>JONATHAN SCHNEEMANN</td><td>OFFICER CLEANING ALLOWANCE</td><td>100.00</td><td>Open</td></tr></table>
 
 <a id="p21"></a>
 *[Page 21 of the original](https://www.southlyonmi.org/11-11-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=21)* (read by OCR; check the original)
@@ -1351,13 +1353,13 @@ a. Processing within a person's residence. Within the person's residence, a pers
 
 b. Penalties. A person who violates this section is subject to the following penalties:
 
-i. Process more than ten ounces/12 plants. A person who processes more than ten ounces of marijuana and/or processes marijuana from more than 12 marijuana plants in violation of this section is responsible for a civil infraction and may be punished by a fine of not more than $100.00 and forfeiture of the marijuana.
+i.  $ \underline{\text{Process more than ten ounces/12 plants. A person who processes more than ten ounces of marihuana and/or processes marihuana from more than 12 marihuana plants in violation of this section is responsible for a civil infraction and may be punished by a fine of not more than 100.00 and forfeiture of the marihuana.}} $
 
 ii. Process more than 20 ounces/24 plants. A person who processes more than 20 ounces of marijuana and/or processes marijuana from more than 24 marijuana plants in violation of this section is responsible for a civil infraction and may be punished by a fine of not more than $500.00 and forfeiture of the marijuana.
 
 #### Sec. 58-268. - Transfer and/or deliver to another person
 
-a.  $ \underline{\text{Transfer and/or deliver.}} $ A person shall not transfer, give away, or deliver marihuana except in compliance with all of the following:
+a. Transfer and/or deliver. A person shall not transfer, give away, or deliver marihuana except in compliance with all of the following:
 
 i.  $ \underline{\text{The transfer and/or delivery is without remuneration.}} $
 
@@ -1417,7 +1419,7 @@ c. Penalty. A person who violates this section is guilty of a misdemeanor punish
 <a id="p59"></a>
 *[Page 59 of the original](https://www.southlyonmi.org/11-11-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=59)* (read by OCR; check the original)
 
-a. Offense. A person operating under the influence of marijuana shall be prosecuted under the Motor Vehicle Code MCL 257.1, et seq..
+a. Offense. A person operating under the influence of marijuana shall be prosecuted under the Motor Vehicle Code MCL 257.1, et seq.
 
 b. Penalties. The applicable penalties of the Motor Vehicle Code MCL 257.1, et seq., as incorporated shall apply to a person operating under the influence of marijuana.
 

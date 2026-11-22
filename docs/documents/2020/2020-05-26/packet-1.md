@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/5-26-20%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "2255ef6fac359363736172ba2949d2b343aa38ab2590f89ac13483c395912753"
 source_bytes: 3499434
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 96
 ocr_pages: 96
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2020-05-26
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/5-26-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `2255ef6fac359363…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/5-26-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `2255ef6fac359363…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/5-26-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=1)* (read by OCR; check the original)
@@ -1652,7 +1652,7 @@ PPE increased from $5.16M to $8.96M
 
 *[Image or figure on this page; see the original.]*
 
-5- 6- 16- 18- 21- 23- 24- 25- 26- 27- 30- 31- 31- 1- 2- 3- 5- 6- 8- 9- 10- 11- 13- 13- 14- 15- 16- 21- 22- 23- 24- 27- 30- 1- 7- 8- 15- Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr May May May May May
+5- 6- 16- 18- 21- 23- 24- 25- 26- 27- 30- 31- 31- 1- 2- 3- 5- 6- 8- 9- 10- 11- 13- 13- 14- 15- 16- 21- 22- 23- 24- 27- 30- 1- 7- 8- 15- Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr May May May May
 
 <a id="p64"></a>
 *[Page 64 of the original](https://www.southlyonmi.org/5-26-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=64)* (read by OCR; check the original)

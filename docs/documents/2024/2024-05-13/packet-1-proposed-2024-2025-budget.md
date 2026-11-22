@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/FY%202024-2025%20Budget%20for%20Council
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "0169943c7b2ab7629ac96faae0751aa3c96a0c4764f455856744d2c5f27b9815"
 source_bytes: 2597765
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 109
 ocr_pages: 109
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2024-05-13
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/FY%202024-2025%20Budget%20for%20Council%20Approval%205-13-2024.pdf?t=202405091639000) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `0169943c7b2ab762…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/FY%202024-2025%20Budget%20for%20Council%20Approval%205-13-2024.pdf?t=202405091639000) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `0169943c7b2ab762…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/FY%202024-2025%20Budget%20for%20Council%20Approval%205-13-2024.pdf?t=202405091639000#page=1)* (read by OCR; check the original)
@@ -345,9 +345,9 @@ This line item is used to pay for department memberships in a variety of profess
 
 ## 851 - Radio Maintenance
 
-$700
-
 This line item is used to pay for repairs to Police Department radio and electronic equipment.
+
+$700
 
 ## 853 - Telephone
 
@@ -369,23 +369,23 @@ This line item is used to reimburse staff for the use of personal vehicles on de
 
 ## 863 - Vehicle Maintenance
 
-$20,000
-
 This line item is used to provide repairs for police vehicles and equipment and pay the police department's contribution to fund the City's mechanic.
+
+$20,000
 
 ## 920 – Utilities
 
-This line item is used to pay for the cost of Consumers Power, DTE, and the South Lyon Water Department.
-
 ## 930 - Repairs and Maintenance
+
+This line item is used to pay for the cost of Consumers Power, DTE, and the South Lyon Water Department.
 
 ## $15,000
 
 This line item is used to pay for repairs to the department's small equipment not covered by contract, such as typewriters and shredders.
 
-## $1,000
-
 ## 931 - Building Maintenance
+
+## $1,000
 
 ## $10,000
 
@@ -487,6 +487,8 @@ iv. The fire engine driver puts the fire engine in pump to flow water.
 <a id="p19"></a>
 *[Page 19 of the original](https://www.southlyonmi.org/FY%202024-2025%20Budget%20for%20Council%20Approval%205-13-2024.pdf?t=202405091639000#page=19)* (read by OCR; check the original)
 
+*[OCR note: this page may contain text repeated by the OCR software; check the original.]*
+
 # FIRE DEPARTMENT
 
 v. The firefighter flakes out from the truck and then pulls the attack hose line to the front door.
@@ -504,13 +506,13 @@ c. Anytime a firefighter enters a home for any reason (EMS, CO alarm, Smoke alar
 <a id="p20"></a>
 *[Page 20 of the original](https://www.southlyonmi.org/FY%202024-2025%20Budget%20for%20Council%20Approval%205-13-2024.pdf?t=202405091639000#page=20)* (read by OCR; check the original)
 
-## FIRE DEPARTMENT
+*[OCR note: this page may contain text repeated by the OCR software; check the original.]*
 
 <div>Proposed</div>
 
 <div>Saturday & Sunday add a 2nd firefighter on shift between 6:00 am and noon; Rover shift added during week to cover vacancy.</div>
 
-<table><tr><td></td><td>Sun</td><td>Mon</td><td>Tues</td><td>Wed</td><td>Thu</td><td>Fri</td><td>Sat</td></tr><tr><td>0600-0700</td><td>FF - FF</td><td>FF</td><td>FF</td><td>FF</td><td>FF</td><td>FF</td><td>FF - FF</td></tr><tr><td>0700-0800</td><td>FF - FF</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - FF</td></tr><tr><td>0800-0900</td><td>FF - FF</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - FF</td></tr><tr><td>0900-1000</td><td>FF - FF</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - FF</td></tr><tr><td>1000-1100</td><td>FF - FF</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - FF</td></tr><tr><td>1100-1200</td><td>FF - FF</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - FF</td></tr><tr><td>1200-1300</td><td>FF - FF</td><td>FF - FF - C</td><td>FF - FF - C</td><td>FF - FF - C</td><td>FF - FF - C</td><td>FF - FF - C</td><td>FF - FF</td></tr><tr><td>1300-1400</td><td>FF - FF</td><td>FF - FF - C</td><td>FF - FF - C</td><td>FF - FF - C</td><td>FF - FF - C</td><td>FF - FF - C</td><td>FF - FF</td></tr><tr><td>1400-1500</td><td>FF - FF</td><td>FF - FF - C</td><td>FF - FF - C</td><td>FF - FF - C</td><td>FF - FF - C</td><td>FF - FF - C</td><td>FF - FF</td></tr><tr><td>1500-1600</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td>1600-1700</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td>1700-1800</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td>1800-1900</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td>1900-2000</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td>2000-2100</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td>2100-2200</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td>2200-2300</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td>2300-2400</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td>0000-0100</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td>0100-0200</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td>0200-0300</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td>0300-0400</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td>0400-0500</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td>0500-0600</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td></td><td>8,8,8,8,8</td><td>8,8,8,8,10</td><td>8,8,8,8,10</td><td>8,8,8,8,10</td><td>8,8,8,8,10</td><td>8,8,8,8,10</td><td>8,8,8,8,8</td></tr></table>
+<table><tr><td></td><td>Sun</td><td>Mon</td><td>Tues</td><td>Wed</td><td>Thu</td><td>Fri</td><td>Sat</td></tr><tr><td>0600-0700</td><td>FF - FF</td><td>FF</td><td>FF</td><td>FF</td><td>FF</td><td>FF</td><td>FF - FF</td></tr><tr><td>0700-0800</td><td>FF - FF</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - FF</td></tr><tr><td>0800-0900</td><td>FF - FF</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - FF</td></tr><tr><td>0900-1000</td><td>FF - FF</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - FF</td></tr><tr><td>1000-1100</td><td>FF - FF</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - FF</td></tr><tr><td>1100-1200</td><td>FF - FF</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - C</td><td>FF - FF</td></tr><tr><td>1200-1300</td><td>FF - FF</td><td>FF - FF - C</td><td>FF - FF - C</td><td>FF - FF - C</td><td>FF - FF - C</td><td>FF - FF - C</td><td>FF - FF</td></tr><tr><td>1300-1400</td><td>FF - FF</td><td>FF - FF - C</td><td>FF - FF - C</td><td>FF - FF - C</td><td>FF - FF - C</td><td>FF - FF - C</td><td>FF - FF</td></tr><tr><td>1400-1500</td><td>FF - FF</td><td>FF - FF - C</td><td>FF - FF - C</td><td>FF - FF - C</td><td>FF - FF - C</td><td>FF - FF - C</td><td>FF - FF</td></tr><tr><td>1500-1600</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td>1600-1700</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td>1700-1800</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td>1800-1900</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td>1900-2000</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td>2000-2100</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td>2100-2200</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td>2200-2300</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td>2300-2400</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td>0000-0100</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td>0100-0200</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td>0200-0300</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td>0300-0400</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td>0400-0500</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td>0500-0600</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td><td>FF - FF</td></tr><tr><td></td><td>8,8,8,8,8</td><td>8,8,8,8,10</td><td>8,8,8,8,10</td><td>8,8,8,8,10</td><td>8,8,8,8,10</td><td>8,8,8,8,10</td><td>8,8,8,8,8,8</td></tr></table>
 
 Saturday & Sunday
 

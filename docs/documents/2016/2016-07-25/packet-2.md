@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "7d03d73d5522eda995ee8ab08d72d5990eb98b7810c444b86392ca842953974d"
 source_bytes: 3637974
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 94
 ocr_pages: 94
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2016-07-25
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `7d03d73d5522eda9…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `7d03d73d5522eda9…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560#page=1)* (read by OCR; check the original)
@@ -1542,7 +1542,7 @@ DWG Receipt/review of email from Defendant's Attorney J. Velarde requesting adjo
 <a id="p57"></a>
 *[Page 57 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560#page=57)* (read by OCR; check the original)
 
-<table><tr><td colspan="2">Adjourn; Preparation of email correspondence to J. Velarde regarding same</td></tr><tr><td>6/8/2016 DWG Receipt/review of Judge Bondy's 6/14/16 docket</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Judge Law's 6/14/16 docket</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Judge Reeds' 6/14/16 docket</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Judge Bondy's 6/15/16 docket</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Judge Law's 6/15/16 docket</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Judge Reeds' 6/15/16 docket</td><td>0.10</td></tr><tr><td>6/9/2016 DWG Receipt/review of Notice to Appear</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Notice to Appear</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Judgment of Sentence</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Judge Batchik's 6/16/16 docket</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Judge Bondy's 6/16/16 docket</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Judge Law's 6/16/16 docket</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Judge Reeds' 6/16/16 docket</td><td>0.10</td></tr><tr><td>6/11/2016 DWG Receipt/review of Notice to Appear</td><td>(15-000562)</td></tr><tr><td>DWG Receipt/review of Judge Bondy's 6/13/16 docket</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Judge Law's 6/13/16 docket</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Judge Reeds' 6/13/16 docket</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Judge Bondy's 6/14/16 docket</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Judge Law's 6/14/16 docket</td><td>0.10</td></tr></table>
+<table><tr><td colspan="3">Adjourn; Preparation of email correspondence to J. Velarde regarding same</td></tr><tr><td>6/8/2016 DWG</td><td>Receipt/review of Judge Bondy's 6/14/16 docket</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Judge Law's 6/14/16 docket</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Judge Reeds' 6/14/16 docket</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Judge Bondy's 6/15/16 docket</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Judge Law's 6/15/16 docket</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Judge Reeds' 6/15/16 docket</td><td>0.10</td></tr><tr><td>6/9/2016 DWG</td><td>Receipt/review of Notice to Appear</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Notice to Appear</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Judgment of Sentence</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Judge Batchik's 6/16/16 docket</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Judge Bondy's 6/16/16 docket</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Judge Law's 6/16/16 docket</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Judge Reeds' 6/16/16 docket</td><td>0.10</td></tr><tr><td>6/11/2016 DWG</td><td>Receipt/review of Notice to Appear</td><td>(15-000562)</td></tr><tr><td>DWG</td><td>Receipt/review of Judge Bondy's 6/13/16 docket</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Judge Law's 6/13/16 docket</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Judge Reeds' 6/13/16 docket</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Judge Bondy's 6/14/16 docket</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Judge Law's 6/14/16 docket</td><td>0.10</td></tr></table>
 
 <a id="p58"></a>
 *[Page 58 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560#page=58)* (read by OCR; check the original)
@@ -1609,11 +1609,29 @@ DWG Receipt/review of Judge Law's 6/20/16 docket
 <a id="p63"></a>
 *[Page 63 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560#page=63)* (read by OCR; check the original)
 
-<table><tr><td></td><td></td><td>Hours</td><td>Amount</td></tr><tr><td>6/24/2016 DWG</td><td>Receipt/review of Notice to Appear</td><td>0.10</td><td></td></tr><tr><td>6/24/2016 DWG</td><td>Receipt/review of Judgment of Sentence</td><td>0.10</td><td></td></tr><tr><td>6/24/2016 DWG</td><td>Receipt/review of Order of Acquittal/Dismissal</td><td>0.10</td><td></td></tr><tr><td>6/24/2016 DWG</td><td>Preparation of Subpoenas for 7/14/16 Bench Trial</td><td>0.20</td><td></td></tr><tr><td>6/24/2016 DWG</td><td>Receipt/review of Judge Bondy's updated 6/28/16 docket</td><td>0.10</td><td></td></tr><tr><td>6/24/2016 DWG</td><td>Receipt/review of Judge Reeds' updated 6/28/16 docket</td><td>0.10</td><td></td></tr><tr><td>6/24/2016 DWG</td><td>Telephone conference with Defendant's Attorney M. Duncan regarding 6/30/16 Bench Trial</td><td>0.20</td><td></td></tr><tr><td>6/24/2016 DWG</td><td>Receipt/review of Notice to Appear</td><td>0.10</td><td></td></tr><tr><td>6/24/2016 DWG</td><td>Receipt/review of Judgment of Sentence</td><td>0.10</td><td></td></tr><tr><td>6/24/2016 DWG</td><td>Receipt/review of Judgment of Sentence</td><td>0.10</td><td></td></tr><tr><td>6/24/2016 DWG</td><td>Receipt/review of Judgment of Sentence</td><td>0.10</td><td></td></tr><tr><td>6/24/2016 DWG</td><td>Receipt/review of Notice to Appear</td><td>0.10</td><td></td></tr><tr><td>6/24/2016 DWG</td><td>Receipt/review of Judgment of Sentence</td><td>0.10</td><td></td></tr><tr><td>6/24/2016 DWG</td><td>Receipt/review of Notice to Appear</td><td>0.10</td><td></td></tr><tr><td>6/24/2016 DWG</td><td>Receipt/review of Judge Bondy's updated 6/28/16 docket</td><td>0.10</td><td></td></tr><tr><td>6/24/2016 DWG</td><td>Receipt/review of Judge Reeds' updated 6/28/16 docket</td><td>0.10</td><td></td></tr><tr><td>6/24/2016 DWG</td><td>Prosecute morning docket of Pretrial Conferences</td><td>1.30</td><td></td></tr><tr><td>6/24/2016 DWG</td><td>Telephone conference with 52/1 District Court (T. Grossman) regarding restitution for property damage accident</td><td>0.20</td><td></td></tr></table>
+6/24/2016 DWG Receipt/review of Notice to Appear 0.10  
+DWG Receipt/review of Judgment of Sentence 0.10  
+DWG Receipt/review of Order of Acquittal/Dismissal 0.10  
+DWG Preparation of Subpoenas for 7/14/16 Bench Trial 0.20  
+DWG Receipt/review of Judge Bondy's updated 6/28/16 docket 0.10  
+DWG Receipt/review of Judge Reeds' updated 6/28/16 docket 0.10  
+6/27/2016 DWG Telephone conference with Defendant's Attorney M. Duncan regarding 6/30/16 Bench Trial 0.20  
+DWG Receipt/review of Notice to Appear 0.10  
+DWG Receipt/review of Judgment of Sentence 0.10  
+DWG Receipt/review of Judgment of Sentence 0.10  
+DWG Receipt/review of Notice to Appear 0.10  
+DWG Receipt/review of Judgment of Sentence 0.10  
+DWG Receipt/review of Notice to Appear 0.10  
+DWG Receipt/review of Judge Bondy's updated 6/28/16 docket 0.10  
+DWG Receipt/review of Judge Reeds' updated 6/28/16 docket 0.10  
+6/28/2016 DWG Prosecute morning docket of Pretrial Conferences 1.30  
+DWG Telephone conference with 52/1 District Court (T. Grossman) regarding restitution for property damage 0.20  
+accident
 
 <a id="p64"></a>
 *[Page 64 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560#page=64)* (read by OCR; check the original)
 
+Hours | Amount  
 6/28/2016 DWG Receipt/review of Notice to Appear 0.10  
 DWG Receipt/review of Notice to Appear 0.10  
 DWG Receipt/review of Petition and Order for Amendment of Order of Probation 0.10  
@@ -1622,8 +1640,7 @@ DWG Receipt/review of Notice to Appear 0.10
 DWG Receipt/review of Notice to Appear 0.10  
 DWG Telephone conference with victim S. Evans regarding 0.20  
 6/30/16 Bench Trial 0.20  
-6/29/2016 DWG Review of U.S. Supreme Court decision regarding 0.30  
-warantless chemical tests on OWI arrests (Birchfield v North Dakota) 0.30  
+6/29/2016 DWG Review of U.S. Supreme Court decision regarding warrantless chemical tests on OWI arrests (Birchfield v North Dakota) 0.30  
 DWG Receipt/review of Judge Bondy's 7/5/16 docket 0.10  
 DWG Receipt/review of Judge Reeds' 7/5/16 docket 0.10  
 DWG Receipt/review of Notice to Appear 0.10  

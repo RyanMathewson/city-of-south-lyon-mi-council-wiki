@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/2-25-19%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "71a96b5d422d930ece6b2538c1029c1f9d00f4b67d4d324774abfb6f45ff6e51"
 source_bytes: 3154028
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 71
 ocr_pages: 71
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2019-02-25
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/2-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733130) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `71a96b5d422d930e…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/2-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733130) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `71a96b5d422d930e…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/2-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733130#page=1)* (read by OCR; check the original)
@@ -585,7 +585,7 @@ POSSIBLE COURSES OF ACTION: Affirm/Not affirm the re-appointments made by Mayor 
 
 RECOMMENDATION: Affirm the re-appointments made by Mayor Pelchat
 
-SUGGESTED MOTION: Motion by ___, supported by ___, to affirm the re-appointments made by Mayor Pelchat of the following:
+SUGGESTED MOTION: Motion by ___, supported by to affirm the re-appointments made by Mayor Pelchat of the following:
 
 Steven Mosier
 
@@ -634,10 +634,6 @@ DDA
 DDA
 
 Cultural Arts Commission
-
-Term Expires: March 2022
-
-Term Expires: March 2022
 
 Term Expires: March 2022
 

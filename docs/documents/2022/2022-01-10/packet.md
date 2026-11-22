@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "4bd310198030229c8a69f3dd7a15709e74cc1d4de0419bf22c6084c0b659238e"
 source_bytes: 6774603
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 159
 ocr_pages: 159
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2022-01-10
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `4bd310198030229c…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `4bd310198030229c…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=1)* (read by OCR; check the original)
@@ -1781,431 +1781,7 @@ www.shenxiigong.com
 
 *[Image or figure on this page; see the original.]*
 
-KEYNOTES
-
 GENERAL NOTES
-
-iDS
-
-1. The following information is provided by the General Notices and General Notices.
-
-2. The following information is provided by the General Notices and General Notices.
-
-3. The following information is provided by the General Notices and General Notices.
-
-4. The following information is provided by the General Notices and General Notices.
-
-5. The following information is provided by the General Notices and General Notices.
-
-6. The following information is provided by the General Notices and General Notices.
-
-7. The following information is provided by the General Notices and General Notices.
-
-8. The following information is provided by the General Notices and General Notices.
-
-9. The following information is provided by the General Notices and General Notices.
-
-10. The following information is provided by the General Notices and General Notices.
-
-11. The following information is provided by the General Notices and General Notices.
-
-12. The following information is provided by the General Notices and General Notices.
-
-13. The following information is provided by the General Notices and General Notices.
-
-14. The following information is provided by the General Notices and General Notices.
-
-15. The following information is provided by the General Notices and General Notices.
-
-16. The following information is provided by the General Notices and General Notices.
-
-17. The following information is provided by the General Notices and General Notices.
-
-18. The following information is provided by the General Notices and General Notices.
-
-19. The following information is provided by the General Notices and General Notices.
-
-20. The following information is provided by the General Notices and General Notices.
-
-21. The following information is provided by the General Notices and General Notices.
-
-22. The following information is provided by the General Notices and General Notices.
-
-23. The following information is provided by the General Notices and General Notices.
-
-24. The following information is provided by the General Notices and General Notices.
-
-25. The following information is provided by the General Notices and General Notices.
-
-26. The following information is provided by the General Notices and General Notices.
-
-27. The following information is provided by the General Notices and General Notices.
-
-28. The following information is provided by the General Notices and General Notices.
-
-29. The following information is provided by the General Notices and General Notices.
-
-30. The following information is provided by the General Notices and General Notices.
-
-31. The following information is provided by the General Notices and General Notices.
-
-32. The following information is provided by the General Notices and General Notices.
-
-33. The following information is provided by the General Notices and General Notices.
-
-34. The following information is provided by the General Notices and General Notices.
-
-35. The following information is provided by the General Notices and General Notices.
-
-36. The following information is provided by the General Notices and General Notices.
-
-37. The following information is provided by the General Notices and General Notices.
-
-38. The following information is provided by the General Notices and General Notices.
-
-39. The following information is provided by the General Notices and General Notices.
-
-40. The following information is provided by the General Notices and General Notices.
-
-41. The following information is provided by the General Notices and General Notices.
-
-42. The following information is provided by the General Notices and General Notices.
-
-43. The following information is provided by the General Notices and General Notices.
-
-44. The following information is provided by the General Notices and General Notices.
-
-45. The following information is provided by the General Notices and General Notices.
-
-46. The following information is provided by the General Notices and General Notices.
-
-47. The following information is provided by the General Notices and General Notices.
-
-48. The following information is provided by the General Notices and General Notices.
-
-49. The following information is provided by the General Notices and General Notices.
-
-50. The following information is provided by the General Notices and General Notices.
-
-51. The following information is provided by the General Notices and General Notices.
-
-52. The following information is provided by the General Notices and General Notices.
-
-53. The following information is provided by the General Notices and General Notices.
-
-54. The following information is provided by the General Notices and General Notices.
-
-55. The following information is provided by the General Notices and General Notices.
-
-56. The following information is provided by the General Notices and General Notices.
-
-57. The following information is provided by the General Notices and General Notices.
-
-58. The following information is provided by the General Notices and General Notices.
-
-59. The following information is provided by the General Notices and General Notices.
-
-60. The following information is provided by the General Notices and General Notices.
-
-61. The following information is provided by the General Notices and General Notices.
-
-62. The following information is provided by the General Notices and General Notices.
-
-63. The following information is provided by the General Notices and General Notices.
-
-64. The following information is provided by the General Notices and General Notices.
-
-65. The following information is provided by the General Notices and General Notices.
-
-66. The following information is provided by the General Notices and General Notices.
-
-67. The following information is provided by the General Notices and General Notices.
-
-68. The following information is provided by the General Notices and General Notices.
-
-69. The following information is provided by the General Notices and General Notices.
-
-70. The following information is provided by the General Notices and General Notices.
-
-71. The following information is provided by the General Notices and General Notices.
-
-72. The following information is provided by the General Notices and General Notices.
-
-73. The following information is provided by the General Notices and General Notices.
-
-74. The following information is provided by the General Notices and General Notices.
-
-75. The following information is provided by the General Notices and General Notices.
-
-76. The following information is provided by the General Notices and General Notices.
-
-77. The following information is provided by the General Notices and General Notices.
-
-78. The following information is provided by the General Notices and General Notices.
-
-79. The following information is provided by the General Notices and General Notices.
-
-80. The following information is provided by the General Notices and General Notices.
-
-81. The following information is provided by the General Notices and General Notices.
-
-82. The following information is provided by the General Notices and General Notices.
-
-83. The following information is provided by the General Notices and General Notices.
-
-84. The following information is provided by the General Notices and General Notices.
-
-85. The following information is provided by the General Notices and General Notices.
-
-86. The following information is provided by the General Notices and General Notices.
-
-87. The following information is provided by the General Notices and General Notices.
-
-88. The following information is provided by the General Notices and General Notices.
-
-89. The following information is provided by the General Notices and General Notices.
-
-90. The following information is provided by the General Notices and General Notices.
-
-91. The following information is provided by the General Notices and General Notices.
-
-92. The following information is provided by the General Notices and General Notices.
-
-93. The following information is provided by the General Notices and General Notices.
-
-94. The following information is provided by the General Notices and General Notices.
-
-95. The following information is provided by the General Notices and General Notices.
-
-96. The following information is provided by the General Notices and General Notices.
-
-97. The following information is provided by the General Notices and General Notices.
-
-98. The following information is provided by the General Notices and General Notices.
-
-99. The following information is provided by the General Notices and General Notices.
-
-100. The following information is provided by the General Notices and General Notices.
-
-101. The following information is provided by the General Notices and General Notices.
-
-102. The following information is provided by the General Notices and General Notices.
-
-103. The following information is provided by the General Notices and General Notices.
-
-104. The following information is provided by the General Notices and General Notices.
-
-105. The following information is provided by the General Notices and General Notices.
-
-106. The following information is provided by the General Notices and General Notices.
-
-107. The following information is provided by the General Notices and General Notices.
-
-108. The following information is provided by the General Notices and General Notices.
-
-109. The following information is provided by the General Notices and General Notices.
-
-110. The following information is provided by the General Notices and General Notices.
-
-111. The following information is provided by the General Notices and General Notices.
-
-112. The following information is provided by the General Notices and General Notices.
-
-113. The following information is provided by the General Notices and General Notices.
-
-114. The following information is provided by the General Notices and General Notices.
-
-115. The following information is provided by the General Notices and General Notices.
-
-116. The following information is provided by the General Notices and General Notices.
-
-117. The following information is provided by the General Notices and General Notices.
-
-118. The following information is provided by the General Notices and General Notices.
-
-119. The following information is provided by the General Notices and General Notices.
-
-120. The following information is provided by the General Notices and General Notices.
-
-121. The following information is provided by the General Notices and General Notices.
-
-122. The following information is provided by the General Notices and General Notices.
-
-123. The following information is provided by the General Notices and General Notices.
-
-124. The following information is provided by the General Notices and General Notices.
-
-125. The following information is provided by the General Notices and General Notices.
-
-126. The following information is provided by the General Notices and General Notices.
-
-127. The following information is provided by the General Notices and General Notices.
-
-128. The following information is provided by the General Notices and General Notices.
-
-129. The following information is provided by the General Notices and General Notices.
-
-130. The following information is provided by the General Notices and General Notices.
-
-131. The following information is provided by the General Notices and General Notices.
-
-132. The following information is provided by the General Notices and General Notices.
-
-133. The following information is provided by the General Notices and General Notices.
-
-134. The following information is provided by the General Notices and General Notices.
-
-135. The following information is provided by the General Notices and General Notices.
-
-136. The following information is provided by the General Notices and General Notices.
-
-137. The following information is provided by the General Notices and General Notices.
-
-138. The following information is provided by the General Notices and General Notices.
-
-139. The following information is provided by the General Notices and General Notices.
-
-140. The following information is provided by the General Notices and General Notices.
-
-141. The following information is provided by the General Notices and General Notices.
-
-142. The following information is provided by the General Notices and General Notices.
-
-143. The following information is provided by the General Notices and General Notices.
-
-144. The following information is provided by the General Notices and General Notices.
-
-145. The following information is provided by the General Notices and General Notices.
-
-146. The following information is provided by the General Notices and General Notices.
-
-147. The following information is provided by the General Notices and General Notices.
-
-148. The following information is provided by the General Notices and General Notices.
-
-149. The following information is provided by the General Notices and General Notices.
-
-150. The following information is provided by the General Notices and General Notices.
-
-151. The following information is provided by the General Notices and General Notices.
-
-152. The following information is provided by the General Notices and General Notices.
-
-153. The following information is provided by the General Notices and General Notices.
-
-154. The following information is provided by the General Notices and General Notices.
-
-155. The following information is provided by the General Notices and General Notices.
-
-156. The following information is provided by the General Notices and General Notices.
-
-157. The following information is provided by the General Notices and General Notices.
-
-158. The following information is provided by the General Notices and General Notices.
-
-159. The following information is provided by the General Notices and General Notices.
-
-160. The following information is provided by the General Notices and General Notices.
-
-161. The following information is provided by the General Notices and General Notices.
-
-162. The following information is provided by the General Notices and General Notices.
-
-163. The following information is provided by the General Notices and General Notices.
-
-164. The following information is provided by the General Notices and General Notices.
-
-165. The following information is provided by the General Notices and General Notices.
-
-166. The following information is provided by the General Notices and General Notices.
-
-167. The following information is provided by the General Notices and General Notices.
-
-168. The following information is provided by the General Notices and General Notices.
-
-169. The following information is provided by the General Notices and General Notices.
-
-170. The following information is provided by the General Notices and General Notices.
-
-171. The following information is provided by the General Notices and General Notices.
-
-172. The following information is provided by the General Notices and General Notices.
-
-173. The following information is provided by the General Notices and General Notices.
-
-174. The following information is provided by the General Notices and General Notices.
-
-175. The following information is provided by the General Notices and General Notices.
-
-176. The following information is provided by the General Notices and General Notices.
-
-177. The following information is provided by the General Notices and General Notices.
-
-178. The following information is provided by the General Notices and General Notices.
-
-179. The following information is provided by the General Notices and General Notices.
-
-180. The following information is provided by the General Notices and General Notices.
-
-181. The following information is provided by the General Notices and General Notices.
-
-182. The following information is provided by the General Notices and General Notices.
-
-183. The following information is provided by the General Notices and General Notices.
-
-184. The following information is provided by the General Notices and General Notices.
-
-185. The following information is provided by the General Notices and General Notices.
-
-186. The following information is provided by the General Notices and General Notices.
-
-187. The following information is provided by the General Notices and General Notices.
-
-188. The following information is provided by the General Notices and General Notices.
-
-189. The following information is provided by the General Notices and General Notices.
-
-190. The following information is provided by the General Notices and General Notices.
-
-191. The following information is provided by the General Notices and General Notices.
-
-192. The following information is provided by the General Notices and General Notices.
-
-193. The following information is provided by the General Notices and General Notices.
-
-194. The following information is provided by the General Notices and General Notices.
-
-195. The following information is provided by the General Notices and General Notices.
-
-196. The following information is provided by the General Notices and General Notices.
-
-197. The following information is provided by the General Notices and General Notices.
-
-198. The following information is provided by the General Notices and General Notices.
-
-199. The following information is provided by the General Notices and General Notices.
-
-200. The following information is provided by the General Notices and General Notices.
-
-201. The following information is provided by the General Notices and General Notices.
-
-202. The following information is provided by the General Notices and General Notices.
-
-203. The following information is provided by the General Notices and General Notices.
-
-204. The following information is provided by the General Notices and General Notices.
-
-205. The following information is provided by the General Notices and General Notices.
-
-206. The following information is provided by the General Notices and General Notices.
-
-207. The following information is provided by the General Notices and General Notices.
-
-208. The following information is provided by the General Notices and General Notices.
-
-209. The following information is provided by the General Notices and General Notices.
-
-210. The following information is provided by the General Not
 
 <a id="p79"></a>
 *[Page 79 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=79)* (read by OCR; check the original)
@@ -2215,11 +1791,11 @@ iDS
 <a id="p80"></a>
 *[Page 80 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=80)* (read by OCR; check the original)
 
-*[Image or figure on this page; see the original.]*
-
 South Lyon Community Schools
 
-South Lyon Administration Building
+South Lyon Administration
+
+Building
 
 335 S Warren St
 
@@ -2229,49 +1805,69 @@ South Lyon, MI 48178
 
 *[Image or figure on this page; see the original.]*
 
-CONSTRUCTION MANAGER
-
-SAITON MINDON
-
-2000 AMERICAN DRIVE
-
-SOUTHFIELD, NH 46034
-
-246-406-5800
-
-www.bristmall.com
+*[Image or figure on this page; see the original.]*
 
 INTEGRATED DESIGN SOLUTIONS
 
-with the following criterion & technology
+utilization engineering kitchen & technology
 
-1443 west long lake, state 203
+1442 west long lake, suite 200
 
-(NY, Michigan 40038)
+ley, nictigan 40098
 
-5211 caracau road SE, Lake 302
+5211 cascao toad SE, suke 300
 
-grand rapids, Michigan 49546
+grand sapids, mictigan 49546
 
-144,425,2102
+246.423.2100
 
-www.desmichigan.com
+www.ldsm.m.cn
 
-STRUCTURAL ENGINEER STRUCTURAL DESIGN INC 234 ELIERTY ST MIN ARDOR, MI 4067 724234807
+CONSTRUCTION MANAGER
+
+GARTON MALOW
+
+2850D AMERICAN DRIVE
+
+SOUTHFIELD, NM 48034
+
+248-436-5000
+
+www.barronmalaw.com
+
+PROJECT ARCHITECT & MEP ENGINEER
+
+INTEGRATED DESIGN SOLUTIONS
+
+1441 WEST LONDON O'LAKE RD., SUITE 200
+
+TROY, MI 44098
+
+246-823-2100
+
+www.jdsmichigan.com
+
+STRUCTURAL ENGINEER STRUCTURAL DESIGN INC 275 ELIBERTY ST ANN AREOR, MI 48067 734-213-6091 www.sdustrichares.com
 
 GENERAL NOTES
 
-NEW WORKPLANS
+NEW WORK PLAN
 
-A. NOCEED FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL IN�定
+A. NO =\) DO NOT BEقED TO BEقED TO BEQD DESCHLEUE AND COLONIE.
 
-B. DEVELOPMENT FOR DEVELOPMENT AND CONCENTRATION
+B. NOPETO TO SHEET TEMPORAL FEED SCHEDULE AND CRUCKS.
 
-C. DEVELOPMENT FOR DEVELOPMENT FOR INFLUENCE IN FUTURE
+C. REPEO TOURE SAFETY PLANS FOR PANTACH RATIOS.
 
-D. DEVELOPMENT FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL IN�定
+D. EAT/HAPPY WALK PAYER IS SHOWN TO SHOP THE PLANT AND THE TRAIN FOR SALE THAT IS NOT BEING STARTED TO REPRESENT A CHANCE WITH MUSEUM, LIFELY AND LESS than THE PANTACH TRAIN IS AND RECEALED.
 
-E. PROHIBITION OF THE DEVELOPMENT OF THE FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCENTRATION AND COLONIAL INFLUENCE IN FUTURE IN FUTURE FOR DEVELOPMENT FOR CONCEN
+E. PANTACH AREPON ALL REPETENT FLOOR AND WALL AND LEGAL PAPERS AS RECEIVED TO IMMIGRATED BY THE PLANT AND LEGAL PLANTS ARE NOT RECEIVED BY THE DEPARTMENT MEASURE TO TEACH/CHILLS AND TELEPHONE SHEET FOR ADDITIONAL SCORE OF WORK.
+
+F. ALL OF THE ORGANISATIONS WOULD ADDRESS THE TIME OF MEANING FOR THE PLANT OR MANAGEMENT OR DEPARTMENT IN INSOLVABLES IS SELLER FLED WITH MUSEUM OF SHARED TYPES AND TECHNOLOGIES AS�STREET OR MEANS IN OTHER TYPES OF TIME OCCURRING TO ALL LATEST EDUCATION MEASURES. FRESHS AND MALL DOCKS ARE NOT RECEIVED BY TECHNOLOGIES ASSETS FOR PERFORMANCE IN EDUCATION FOR FISH PLANT OR MEANING FOR PLANTS.
+
+G. PRODUCE MUST BE SLIRED TO ME FOR CHANGING WELL-MEETED IN THE PLANT OR MEANING FOR PLANTS.
+
+H. COCKPITES SPEED AND LOCATION OF ALL AGENTS DOORS WITH TURCINE RESEARCH/SALE, CLUBMENTS DOING DON'T DO NOT BEHAVIORAL OR ALONE. ALL ACTS DOING REPRODUCE
 
 <a id="p81"></a>
 *[Page 81 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=81)* (read by OCR; check the original)
@@ -2330,7 +1926,7 @@ South Lyon Administration
 
 *[Image or figure on this page; see the original.]*
 
-<table><tr><td>PREPARED CLATING ASSEMBLY/REMARK</td></tr><tr><td>1. RECEIPT NO. AS�MART CHANG</td></tr><tr><td>2. WEEKS FOR ENTERPRISES MENTIONED IN THE HOSE</td></tr><tr><td>3. ENDURING</td></tr><tr><td>4. RECEIPT OF WORK + ENTERPRISES</td></tr><tr><td>5. APPROVAL OF WORK IN THE HOSE</td></tr><tr><td>6. RECEIPT OF WORK IN THE STREET OF</td></tr><tr><td>7. APPROVAL OF WORK IN THE STREET OF NEW YORK</td></tr><tr><td>8. APPROVAL OF WORK IN THE STREET OF CHINA AND</td></tr><tr><td>9. ENDURING</td></tr><tr><td>10. APPROVAL OF WORK IN THE STREET OF CHINA AND THE STREET OF NEW YORK</td></tr></table>
+<table><tr><td colspan="2">PREPARED CLATING ASSEMBLY/REMARKS</td></tr><tr><td>1</td><td>MEET THE ASSET MANAGEMENT</td></tr><tr><td>2</td><td>MEET THE EQUIPMENT FOR MEET THE REQUIREMENTS OF THE HOUSE</td></tr><tr><td>3</td><td>MEET THE HOUSE</td></tr><tr><td>4</td><td>MEET THE HOUSE AND HOUSE'S HOUSE</td></tr><tr><td>5</td><td>MEET THE HOUSE AND HOUSE'S HOUSE'S HOUSE</td></tr><tr><td>6</td><td>MEET THE HOUSE AND HOUSE'S HOUSE AND HOUSE'S HOUSE AND HOUSE AND HOUSE</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
 
@@ -2346,11 +1942,11 @@ goods mits, Michigan 40206
 
 INTEGRATED DESIGN SOLUTIONS
 
-ENGINEERING INSTRUCTIONS
+RESEARCH ENGINEERING成
 
-DONG YUEZHOU ZHONGGUO, SHANGHAI, SHANGHAI, CHINA, CHINA, CHINA,
+DONG YUEZHOU ZHONGGUO, ZHONGGU
 
-<table><tr><td colspan="28">DOOR SCHEDULE</td><td></td><td></td></tr><tr><td rowspan="2">DOOR NUMBER</td><td colspan="27">GIF</td><td></td><td></td></tr><tr><td>MAUT0</td><td>L100-1</td><td>L100-2</td><td>L100-3</td><td>L100-4</td><td>T100</td><td>MAUT0/100</td><td>MAUT0/100</td><td>T100/100</td><td>T100/100</td><td>L100-L100-L100</td><td>MAUT0/100</td><td>L100-L100-L100</td><td>T100/100</td><td>L100-L100-L100</td><td>MAUT0/100</td><td>L100-L100-L100</td><td>T100/100</td><td>L100-L100-L100</td><td>L100-L100-L100</td><td>L100-L100-L100</td><td>L100-L100-L100</td><td>L100-L100-L100</td><td>L100-L100-L100</td><td>L100-L100-L100</td><td>L100-L100-L100</td><td>L100-L100-L100</td><td>L100-L100-L100</td><td>L100-L100-L100</td></tr><tr><td>G10</td><td>3-0</td><td>3-0-1</td><td>3-0-2</td><td>3-0-3</td><td>3-0-4</td><td>3-0-5</td><td>3-0-6</td><td>3-0-7</td><td>3-0-8</td><td>3-0-9</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td></td></tr><tr><td>L100</td><td>3-0</td><td>3-0-1</td><td>3-0-2</td><td>3-0-3</td><td>3-0-4</td><td>3-0-5</td><td>3-0-6</td><td>3-0-7</td><td>3-0-8</td><td>3-0-9</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td></td><td></td></tr><tr><td>L100-1</td><td>2-0</td><td>2-0-1</td><td>2-0-2</td><td>2-0-3</td><td>2-0-4</td><td>2-0-5</td><td>2-0-6</td><td>2-0-7</td><td>2-0-8</td><td>2-0-9</td><td>2-0-10</td><td>2-0-10</td><td>2-0-10</td><td>2-0-10</td><td>2-0-10</td><td>2-0-10</td><td>2-0-10</td><td>2-0-10</td><td>2-0-10</td><td>2-0-10</td><td>2-0-10</td><td>2-0-10</td><td>2-0-10</td><td>2-0-10</td><td>2-0-10</td><td>2-0-10</td><td>2-0-10</td><td></td><td></td></tr><tr><td>L100-2</td><td>3-0</td><td>3-0-1</td><td>3-0-2</td><td>3-0-3</td><td>3-0-4</td><td>3-0-5</td><td>3-0-6</td><td>3-0-7</td><td>3-0-8</td><td>3-0-9</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td></td><td></td></tr><tr><td>L100-3</td><td>3-0</td><td>3-0-1</td><td>3-0-2</td><td>3-0-3</td><td>3-0-4</td><td>3-0-5</td><td>3-0-6</td><td>3-0-7</td><td>3-0-8</td><td>3-0-9</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td></td><td></td></tr><tr><td>L100-4</td><td>3-0</td><td>3-0-1</td><td>3-0-2</td><td>3-0-3</td><td>3-0-4</td><td>3-0-5</td><td>3-0-6</td><td>3-0-7</td><td>3-0-8</td><td>3-0-9</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td>3-0-10</td><td></td><td></td></tr></table>
+<table><tr><td colspan="28">DOOR SCHEDULE</td><td></td></tr><tr><td rowspan="2">DOOR NUMBER</td><td colspan="27">GIF</td><td></td></tr><tr><td>MAUT0</td><td>L100-1</td><td>L100-2</td><td>L100-3</td><td>L100-4</td><td>T100</td><td>MAUT0/100</td><td>MAUT0/100</td><td>T100/100</td><td>T100/100</td><td>T100/L100</td><td>MAUT0/100</td><td>MAUT0/100</td><td>T100/L100</td><td>MAUT0/100</td><td>T100/L100</td><td>MAUT0/100</td><td>T100/L100</td><td>MAUT0/100</td><td>T100/L100</td><td>MAUT0/100</td><td>T100/L100</td><td>T100/L100</td><td>T100/L100</td><td>T100/L100</td><td>T100/L100</td><td>T100/L100</td><td>T100/L100</td></tr><tr><td>G10</td><td>3-0</td><td>3-1</td><td>3-2</td><td>3-3</td><td>3-4</td><td>3-5</td><td>3-6</td><td>3-7</td><td>3-8</td><td>3-9</td><td>3-10</td><td>3-11</td><td>3-12</td><td>3-13</td><td>3-14</td><td>3-15</td><td>3-16</td><td>3-17</td><td>3-18</td><td>3-19</td><td>3-20</td><td>3-21</td><td>3-22</td><td>3-23</td><td>3-24</td><td>3-25</td><td>3-26</td><td>3-27</td></tr><tr><td>L100</td><td>3-0</td><td>3-1</td><td>3-2</td><td>3-3</td><td>3-4</td><td>3-5</td><td>3-6</td><td>3-7</td><td>3-8</td><td>3-9</td><td>3-10</td><td>3-11</td><td>3-12</td><td>3-13</td><td>3-14</td><td>3-15</td><td>3-16</td><td>3-17</td><td>3-18</td><td>3-19</td><td>3-20</td><td>3-21</td><td>3-22</td><td>3-23</td><td>3-24</td><td>3-25</td><td>3-26</td><td>3-27</td></tr><tr><td>L100</td><td>2-0</td><td>2-1</td><td>2-2</td><td>2-3</td><td>2-4</td><td>2-5</td><td>2-6</td><td>2-7</td><td>2-8</td><td>2-9</td><td>2-10</td><td>2-11</td><td>2-12</td><td>2-13</td><td>2-14</td><td>2-15</td><td>2-16</td><td>2-17</td><td>2-18</td><td>2-19</td><td>2-20</td><td>2-21</td><td>2-22</td><td>2-23</td><td>2-24</td><td>2-25</td><td>2-26</td><td>2-27</td></tr><tr><td>L100</td><td>2-0</td><td>2-1</td><td>2-2</td><td>2-3</td><td>2-4</td><td>2-5</td><td>2-6</td><td>2-7</td><td>2-8</td><td>2-9</td><td>2-10</td><td>2-11</td><td>2-12</td><td>2-13</td><td>2-14</td><td>2-15</td><td>2-16</td><td>2-17</td><td>2-18</td><td>2-19</td><td>2-20</td><td>2-21</td><td>2-22</td><td>2-23</td><td>2-24</td><td>2-25</td><td>2-26</td><td>2-27</td></tr><tr><td>L100</td><td>3-0</td><td>3-1</td><td>3-2</td><td>3-3</td><td>3-4</td><td>3-5</td><td>3-6</td><td>3-7</td><td>3-8</td><td>3-9</td><td>3-10</td><td>3-11</td><td>3-12</td><td>3-13</td><td>3-14</td><td>3-15</td><td>3-16</td><td>3-17</td><td>3-18</td><td>3-19</td><td>3-20</td><td>3-21</td><td>3-22</td><td>3-23</td><td>3-24</td><td>3-25</td><td>3-26</td><td>3-27</td></tr><tr><td>L100</td><td>3-0</td><td>3-1</td><td>3-2</td><td>3-3</td><td>3-4</td><td>3-5</td><td>3-6</td><td>3-7</td><td>3-8</td><td>3-9</td><td>3-10</td><td>3-11</td><td>3-12</td><td>3-13</td><td>3-14</td><td>3-15</td><td>3-16</td><td>3-17</td><td>3-18</td><td>3-19</td><td>3-20</td><td>3-21</td><td>3-22</td><td>3-23</td><td>3-24</td><td>3-25</td><td>3-26</td><td>3-27</td></tr><tr><td>L100</td><td>3-0</td><td>3-1</td><td>3-2</td><td>3-3</td><td>3-4</td><td>3-5</td><td>3-6</td><td>3-7</td><td>3-8</td><td>3-9</td><td>3-10</td><td>3-11</td><td>3-12</td><td>3-13</td><td>3-14</td><td>3-15</td><td>3-16</td><td>3-17</td><td>3-18</td><td>3-19</td><td>3-20</td><td>3-21</td><td>3-22</td><td>3-23</td><td>3-24</td><td>3-25</td><td>3-26</td><td>3-27</td></tr><tr><td>L100</td><td>3-0</td><td>3-1</td><td>3-2</td><td>3-3</td><td>3-4</td><td>3-5</td><td>3-6</td><td>3-7</td><td>3-8</td><td>3-9</td><td>3-10</td><td>3-11</td><td>3-12</td><td>3-13</td><td>3-14</td><td>3-15</td><td>3-16</td><td>3-17</td><td>3-18</td><td>3-19</td><td>3-20</td><td>3-21</td><td>3-22</td><td>3-23</td><td><ecel></td><td></td><td></td><td></td></tr></table>
 
 <a id="p88"></a>
 *[Page 88 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=88)* (read by OCR; check the original)
@@ -2412,13 +2008,21 @@ South Lyon Administration
 
 *[Image or figure on this page; see the original.]*
 
+<table><tr><td colspan="3">GRILLE, REGISTER AND DIFFUSER SCHEDULE</td></tr></table>
+
+<table><tr><td colspan="2">FAN SCHEDULE</td></tr></table>
+
+<table><tr><td colspan="6">SHARED NATURAL GAS LOAD SUMMARY</td></tr><tr><td>HSM</td><td>GLN F/TTI</td><td>CPN</td><td colspan="2">TREASURED EVALUATION OF GLN</td><td>TOTAL CPH</td></tr><tr><td>OILLETON (ON-LINE)</td><td>1</td><td>20</td><td>45-1-10</td><td>10</td><td>312</td></tr><tr><td>KOLM</td><td>1</td><td>20</td><td>25-1-10</td><td>10</td><td>251</td></tr><tr><td>HUSK</td><td>1</td><td>20</td><td>25-1-10</td><td>10</td><td>251</td></tr><tr><td>RIP-10</td><td>1</td><td>10</td><td>45-1-10</td><td>10</td><td>100</td></tr><tr><td colspan="5">NEER TOTAL</td><td>N/A</td></tr></table>
+
 *[Image or figure on this page; see the original.]*
 
-<table><tr><td colspan="33">FAN SCHEDULE</td><td></td><td></td></tr><tr><td rowspan="2">H₂O₄</td><td rowspan="2">Liquidity</td><td rowspan="2">Alkali/Liquid</td><td rowspan="2">Ethanol/Methanol</td><td rowspan="2">Nitrate/Nitrate (pH)</td><td rowspan="2">Nitric oxide/Nitrite (pH)</td><td rowspan="2">Carbonyl Oxygen/Phosphorus (pH)</td><td rowspan="2">Ozone</td><td rowspan="2" colspan="9">Alkali/Alkali</td><td colspan="9">Alkali/Alkali</td><td colspan="8">Nitrate/Nitrate (pH)</td><td></td></tr><tr><td>ppm</td><td>ppm</td><td>ppm</td><td>ppm</td><td>ppm</td><td>ppm</td><td>ppm</td><td>ppm</td><td>ppm</td><td>ppm</td><td>ppm</td><td>ppm</td><td>ppm</td><td>ppm</td><td>ppm</td><td>ppm</td><td>ppm</td><td>ppm</td><td>ppm</td><td>ppm</td><td>ppm</td><td>ppm</td><td>ppm</td><td>ppm</td><td>ppm</td><td>ppm</td></tr><tr><td>pH =</td><td>NaOH</td><td>NaCl/NaOH</td><td>NaOH</td><td>NaCl</td><td>Na</td><td>25</td><td>0</td><td>0</td><td>0</td><td>0</td><td>145</td><td>14</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>115</td><td>100</td><td>0</td><td>0</td><td>71</td><td>71</td><td>64</td><td>60</td><td>54</td><td>54</td><td>49</td><td>49</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr><tr><td>U/C</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td></td><td></td></tr><tr><td>U/a</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td>Acetate</td><td></td><td></td></tr></table>
+1. PRODUCE WITH FOLD ORS RECEIVE FOLD ORS INFORMATION OPERATION
 
-*[Image or figure on this page; see the original.]*
+2. PRODUCE WITH FACTORY INFORMATION REGISTRATION
 
-<table><tr><td colspan="2">PACKAGED OUTDOOR, AIR HANDLING UNIT SCHEDULE</td></tr></table>
+3. PRODUCE WITH FACTORY INFORMATION INFORMATION INFORMATION INFORMATION INFORMATION IN
+
+<table><tr><td>PACKAGED, OUTDOOR, AIR HANDLING UNIT SCHEDULE</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
 
@@ -2583,37 +2187,30 @@ One Line Diagram - New Work
 
 *[Image or figure on this page; see the original.]*
 
-STRUCTURAL ENGINE STRUCTURAL DESIGN IN
+www.jd.gov.cn
 
-PROJECT ARCHITECT & MEP ENGINEER
+Boy, Michigan 48088
 
-INTEGRATED DESIGN SOLUTIONS
+5211 cascauda road SE, Suite 300
 
-141 WEST LONG LADE RD. SUITE 200
-
-TROY, MI 40088
-
-by, indigen 4808
-
-5211 occasion road SE, sula 302
-
-gandaraj, indigen 4854
+ground rapids, Michigan 49546
 
 INTEGRATED DESIGN SOLUTIONS
 
-architectural engineering literature & technology
+architecture engineering interiors & technology
 
-<table><tr><td colspan="4">CONDUT AND WIRE SCHEDULE COMPUTER
-COMPUTER SYSTEM</td></tr><tr><td colspan="4">PRODUCED AND WRITTEN BY:
-JULI
-JULI</td></tr><tr><td>NO.</td><td>NO.</td><td>NO.</td><td>NO.</td></tr><tr><td>100</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>100</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>400</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>400</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>500</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>500</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-001-2017</td></tr><tr><td>600</td><td>001-800-001-2147</td><td>2004</td><td>001-800-</td></tr></table>
+*[Image or figure on this page; see the original.]*
 
-<table><tr><td colspan="4">TRANSFORMER SECONDARY WIRE SCHEDULE</td></tr><tr><td colspan="4">OUTPUT GROWTH(DIN)</td></tr><tr><td>W-02-2024</td><td colspan="3">TRANSIT A WIRE WITH GROWTH (DIN/Dashed AMBRY)</td></tr><tr><td>T-001 (DIN)</td><td>-COP</td><td>TAD</td><td>-AS</td></tr><tr><td>15</td><td>150</td><td>TAD</td><td>400-400-1001-1001</td></tr><tr><td>20</td><td>150</td><td>100-0</td><td>400-400-1001-200</td></tr><tr><td>45</td><td>150</td><td>100-0</td><td>400-400-1001-200</td></tr><tr><td>75</td><td>200</td><td>200-0</td><td>400-400-1001-200-1000</td></tr><tr><td>100</td><td>200</td><td>200-0</td><td>400-400-1001-200-1000</td></tr><tr><td>120</td><td>400</td><td>400-0</td><td>400-400-1001-200-1000</td></tr><tr><td>150</td><td>400</td><td>400-0</td><td>400-400-1001-200-1000</td></tr><tr><td>200</td><td>400</td><td>400-0</td><td>400-400-1001-200-1000</td></tr><tr><td>250</td><td>400</td><td>400-0</td><td>400-400-1001-200-1000</td></tr><tr><td>300</td><td>400</td><td>400-0</td><td>400-400-1001-200-1000</td></tr></table>
+<table><tr><td colspan="4">TRANSFORMER SECONDARY WIRE SCHEDULE</td></tr><tr><td colspan="4">OUTPUTS CONDUCTORS</td></tr><tr><td>W1-2/2/2024</td><td colspan="3">TRANSIT A WIRE WITH GUPURANT SEE BOXED ALIMP1</td></tr><tr><td>Y3/3/3/3/3/3</td><td>COP</td><td>TAG</td><td>ALL</td></tr><tr><td>15</td><td>HDA</td><td>700K</td><td>440 MB SSD, 1000</td></tr><tr><td>30</td><td>150A</td><td>140k A</td><td>447 MB SSD, 200</td></tr><tr><td>45</td><td>150A</td><td>130k A</td><td>4000, 64000, 200</td></tr><tr><td>76</td><td>700A</td><td>250k A</td><td>4450,4000,800,1,200C</td></tr><tr><td>100</td><td>300A</td><td>2100K</td><td>40000000, 100,000,000,1000</td></tr><tr><td>120</td><td>400A</td><td>400k A</td><td>40000000, 100,000,000,1000</td></tr><tr><td>90</td><td>400A</td><td>400k A</td><td>200000000, 100,000,000,1000</td></tr><tr><td>250</td><td>600A</td><td>600k A</td><td>300000000, 100,000,000,1000</td></tr><tr><td>250</td><td>600A</td><td>600kA</td><td>200000000, 100,000,000,1000</td></tr><tr><td>250</td><td>600A</td><td>600kA</td><td>100000000, 100,000,000,1000</td></tr></table>
 
-<table><tr><td>Type: Thru Tool
-NOTE4</td><td colspan="2">Type: Thru</td></tr><tr><td>NOTE4</td><td colspan="2">NOTE4</td></tr><tr><td colspan="2">NOTE4: Controlled Ports</td><td>NOTE4: Controlled Ports</td></tr></table>
+<table><tr><td colspan="4">CONDUIT AND WIFE SCHEDULE</td></tr><tr><td colspan="4">COMPUTER CONSTRUCTION</td></tr><tr><td colspan="2">STATUS: 1984/08/01/2024-04-01</td><td colspan="2">STATUS: 1984/08/01/2024-04-01</td></tr><tr><td>TAG</td><td>TAG</td><td>TAG</td><td>TAG</td></tr><tr><td>000</td><td>000141000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</td><td></td><td></td></tr></table>
 
-1075001 BCA 90-AM B17 200-BLC1 200-GLM0510 Sub-Line AutoBuilding-2014
+<table><tr><td>NAME TENSI TOTAL
+NOTES</td><td colspan="2">TEN TEN</td></tr><tr><td>TENGEO CARTO
+NOTES</td><td colspan="2">TENGEO CARTO
+NOTES</td></tr></table>
+
+102360000010058100000002207000000016NY20191200501
 
 <a id="p105"></a>
 *[Page 105 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=105)* (read by OCR; check the original)

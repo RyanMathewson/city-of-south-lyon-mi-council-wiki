@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "ad4ae3920580ff03c4f01af4b28954db1dd31abcd38bc6fcbc317e49d0d0bd71"
 source_bytes: 9806347
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 124
 ocr_pages: 124
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2011-11-28
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/DOC112311CCpacket11-28-11.pdf?t=202108310732590) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `ad4ae3920580ff03…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/DOC112311CCpacket11-28-11.pdf?t=202108310732590) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `ad4ae3920580ff03…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/DOC112311CCpacket11-28-11.pdf?t=202108310732590#page=1)* (read by OCR; check the original)
@@ -2019,21 +2019,24 @@ DANCE PERMIT (recommendation required)
 <a id="p71"></a>
 *[Page 71 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/DOC112311CCpacket11-28-11.pdf?t=202108310732590#page=71)* (read by OCR; check the original)
 
-<table><tr><td>■</td><td>ENTERTAINMENT PERMIT (recommendation required)</td></tr><tr><td>☐</td><td>Recommended ☒ Recommended, subject to final inspection ☐ Not Recommended</td></tr><tr><td>☐</td><td>TOPLESS ACTIVITY PERMIT</td></tr><tr><td>☐</td><td>Recommended ☐ Recommended, subject to final inspection ☐ Not Recommended</td></tr><tr><td>☐</td><td>OUTDOOR SERVICE</td></tr><tr><td>☐</td><td>Recommended ☐ Recommended, subject to final inspection ☐ Not Recommended</td></tr><tr><td>☐</td><td>PARTICIPATION PERMIT</td></tr><tr><td>☐</td><td>Recommended ☐ Recommended, subject to final inspection ☐ Not Recommended</td></tr><tr><td>☐</td><td>ADDITIONAL BAR</td></tr><tr><td>☐</td><td>Recommended ☐ Recommended, subject to final inspection ☐ Not Recommended</td></tr><tr><td>☐</td><td>OTHER</td></tr><tr><td>☐</td><td>Recommended ☐ Recommended, subject to final inspection ☐ Not Recommended</td></tr></table>
+<table><tr><td>☐</td><td>ENTERTAINMENT PERMIT (recommendation required)</td></tr><tr><td>☐</td><td>Recommended ☒ Recommended, subject to final inspection ☐ Not Recommended</td></tr><tr><td>☐</td><td>TOPLESS ACTIVITY PERMIT</td></tr><tr><td>☐</td><td>Recommended ☐ Recommended, subject to final inspection ☐ Not Recommended</td></tr><tr><td>☐</td><td>OUTDOOR SERVICE</td></tr><tr><td>☐</td><td>Recommended ☐ Recommended, subject to final inspection ☐ Not Recommended</td></tr><tr><td>☐</td><td>PARTICIPATION PERMIT</td></tr><tr><td>☐</td><td>Recommended ☐ Recommended, subject to final inspection ☐ Not Recommended</td></tr><tr><td>☐</td><td>ADDITIONAL BAR</td></tr><tr><td>☐</td><td>Recommended ☐ Recommended, subject to final inspection ☐ Not Recommended</td></tr><tr><td>☐</td><td>OTHER</td></tr><tr><td>☐</td><td>Recommended ☐ Recommended, subject to final inspection ☐ Not Recommended</td></tr></table>
 
-*[Image or figure on this page; see the original.]*
+Signed:
 
 Lloyd T. Collins, Chief of Police
 
 Print Name and Title
 
-SOUTH LYON POLICE DEPARTMENT
+## SOUTH LYON POLICE DEPARTMENT
 
 Date: September 22, 2011
 
 rlb
 
-<table><tr><td>LC-1636 (Rev. 08/2008) Authority: MCL 436.1916, R 436.1105(2)(d) and R436.1403 Completion: Mandatory Penalty: No Licence and/or Permit</td><td>The Department of Licensing and Regulatory Affairs will not discriminate against any individual or group because of race, sex, religion, age, national origin, color, marital status, disability, or political beliefs. If you need help with reading, writing, hearing, etc., under the Americans with Disabilities Act, you may make your needs known to this agency.</td></tr></table>
+<table><tr><td>LC-1636 (Rev. 08/2006)
+Authority: MCL 436.1916, R 436.1105(2)(d) and R436.1403
+Completion: Mandatory
+Penalty: No License and/or Permit</td><td>The Department of Licensing and Regulatory Affairs will not discriminate against any individual or group because of race, sex, religion, age, national origin, color, marital status, disability, or political beliefs. If you need help with reading, writing, hearing, etc., under the Americans with Disabilities Act, you may make your needs known to this agency.</td></tr></table>
 
 <a id="p72"></a>
 *[Page 72 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/DOC112311CCpacket11-28-11.pdf?t=202108310732590#page=72)* (read by OCR; check the original)

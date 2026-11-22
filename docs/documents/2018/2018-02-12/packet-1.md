@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "6a3482a63478436081ec674bf89514dfbfed936b9a8029acd33558b3b7af4fdd"
 source_bytes: 7054918
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 107
 ocr_pages: 107
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2018-02-12
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `6a3482a634784360…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `6a3482a634784360…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=1)* (read by OCR; check the original)
@@ -948,305 +948,9 @@ Motion to postpone the first reading of the liquor license ordinance to the  $ 2
 
 ## NEW BUSINESS
 
-Ron Beason Chief Operator of the Water/Wastewater plant stated he is here to ask Council to waive the bidding process for pumps at Trotters Point in the station. On December 27 we had a pump failure, we immediately did a visual inspection, we didn't see anything wrong, so we took it to Hydro Dynamics and they broke it down and found a seal had moisture in it. There shouldn't be any moisture in that part of the pump. He further stated when that happened, it caused a bearing failure and did other damage. He further stated that it was an about 5-year-old pump. He further stated that he was a back-to-back pump, and it would be a back-to-back pump. The Councilmember Kennedy stated he was in theιαιγα to all our life positions. The Councilmember Kennedy stated he was in theιαιγα to all our life positions. The Councilmember Kennedy stated he was in theιαιγα to all our life positions.
+1. Replacement pump- wastewater lift station
 
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα. He was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was also in theιαιγα.
-
-The Councilmember of theιαιγα was
+Ron Beason Chief Operator of the Water/Wastewater plant stated he is here to ask Council to waive the bidding process for pumps at Trotters Point lift station. On December 27 we had a pump failure, we immediately did a visual inspection, we didn't see anything wrong, so we took it to Hydro Dynamics and they broke it down and found a seal had moisture in it. There shouldn't be any moisture in that part of the pump. He further stated when that happened, it caused a bearing failure and did other damage. He further stated that is an abs pump, and it will be a back up pump, we have back ups for all our lift stations. Councilmember Kennedy stated he spoke with Ron and these are 2 identical pumps, they aren't identical to any other installations throughout the City. They get a lot of use. Councilmember Kennedy stated the life expectancy on that pump is 5-7 years, the warranty is 5 years and it failed at 4.9 years. He spoke with Chief Collins about the possibility of gaining compensation from the insurance carrier for the City. He stated the warranty is pro-rated, but shipping it back would cost more than we would recoup. Also, there is a disagreement from the manufacturer and the insurance company of what the root cause of the problem really is. He further stated he asked Ron if the pump we are going to purchase for $12,000 is interchangeable with anything else, but it will only back up the pumps at this particular installation. He stated he spoke with Ron regarding the question what we can do going forward. We can see what happened, the seal failed, destroyed the bearings, and the stator failed, and tore up the inside of it. He then stated something caused the seal to fail, we need to do a root cause analysis to see what actually caused the seal to fail so we can avoid this in the future. Mr. Beason stated it could have been anything that caused it. Councilmember Kurtzweil stated it is her understanding the developers built the lift stations, which means the City didn't have a lot of control of what pumps they put in. She further stated they aren't going to put in the top quality equipment to make them perfect. They were never designed to last forever, they are a constant maintenance issue. Councilmember Kennedy stated we can't run with one pump, we would be in violation of DEQ requirements. Mr. Beason stated redundancy is key, we can't shut the plants down, we need the inventory and that is why each of our lift stations, we haven't had any major issues. Councilmember Kennedy stated he asked Ron when the original partner pump was installed. Mr. Beason stated he believes it was 7 years, but some pumps last for 15 years, some last 10 years. For instance, the lift station at Colonial Acres, within a 6-month span, we had both pumps in for repair. Councilmember Kennedy asked what the lead time is for this pump. Mr. Beason stated they have 1-22-18
 
 <a id="p62"></a>
 *[Page 62 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=62)* (read by OCR; check the original)
@@ -1736,17 +1440,11 @@ User: PATRICIA
 
 DB: South Lyon
 
-CHECK REGISTER FOR CITY OF SOUTH LYON CHECK DATE FROM 01/11/2018 - 02/08/2018
+CHECK REGISTER FOR CITY OF SOUTH LYON
 
-<table><tr><td>Check Date</td><td>Check</td><td>Vendor Name</td><td>Description</td><td>Amount</td><td>Status</td></tr><tr><td>01/25/2018</td><td>73360</td><td>KENNETH T. PELCHAT TRUST</td><td>UB refund for account: STAN-000364-0000</td><td>103.73</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73361</td><td>RANDY SMIRNOFF</td><td>REIMBURSE HOMEOWNER FOR MAILBOX REPAIR</td><td>47.64</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73362</td><td>ARBOR DAY FOUNDATION</td><td>TREE CITY USA MEMBERSHIP RENEWAL - 2018</td><td>15.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73363</td><td>ARBOR SPRINGS WATER CO., INC.</td><td>WATER FOR CITY HALL</td><td>19.50</td><td>Open</td></tr><tr><td></td><td></td><td></td><td>WATER</td><td>13.00</td><td>Open</td></tr><tr><td></td><td></td><td></td><td>LAB SUPPLIES</td><td>58.50</td><td>Open</td></tr><tr><td></td><td></td><td></td><td>(4) 5 - GALLON WATER</td><td>26.00</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>117.00</td><td></td></tr><tr><td>01/25/2018</td><td>73364</td><td>DOUGLIAS BAAKI</td><td>OFFICER'S CLEANING ALLOWANCE - JANUARY</td><td>100.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73365</td><td>AUDRA BAKER</td><td>OFFICER'S CLEANING ALLOWANCE - JANUARY</td><td>100.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73366</td><td>JARED BAKER</td><td>OFFICER'S CLEANING ALLOWANCE - JANUARY</td><td>100.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73367</td><td>RONALD BARBOUR</td><td>OFFICER'S CLEANING ALLOWANCE - JANUARY</td><td>100.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73368</td><td>BLUE CROSS BLUE SHIELD OF MICH</td><td>INSURANCE PREMIUM COVERAGE PERIOD FEBRU</td><td>34,588.06</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73369</td><td>TRACY BROOKS</td><td>OFFICER'S CLEANING ALLOWANCE - JANUARY</td><td>100.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73370</td><td>CAIN M. MCGOWAN</td><td>DRUG TEST AND PHYSICAL</td><td>112.36</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73371</td><td>CARL RICHARDS</td><td>MONTHLY COUNCIL PAY - JANUARY 2018</td><td>180.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73372</td><td>CE SOLUTIONS</td><td>CEU PROGRAM 2-YEAR MEMBERSHIP</td><td>129.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73373</td><td>LIOYD COLLINS</td><td>OFFICER'S CLEANING ALLOWANCE - JANUARY</td><td>100.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73374</td><td>CINDY CONRAD</td><td>EMT INSTRUCTOR/COORDINATOR LICENSE</td><td>100.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73375</td><td>CORRIGAN OIL CO.</td><td>GAS & DIESEL SERVICE PERIOD 12/07/2017</td><td>7,483.98</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73376</td><td>DANIEL PELCHAT</td><td>MONTHLY COUNCIL PAY - JANUARY 2018</td><td>220.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73377</td><td>MATTHEW EMERY</td><td>VIDEO OF SPECIAL MEETING ON 1/18/2018 A</td><td>150.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73378</td><td>CHRISTOPHER FAUGHT</td><td>OFFICER'S CLEANING ALLOWANCE - JANUARY</td><td>100.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73379</td><td>GREAT SCOTT SOCIAL MEDIA, LLC</td><td>LADIES NIGHT OUT ADVERTISEMENT GRAPHICS</td><td>175.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73380</td><td>HARLAN ELECTRIC COMPANY</td><td>PROCURE AND INSTALL (2) WOOD POLES FOR</td><td>2,967.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73381</td><td>SEAN S. HOYDIC</td><td>OFFICER'S CLEANING ALLOWANCE - JANUARY</td><td>100.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73382</td><td>HURON VALLEY AMBULANCE. INC</td><td>TRANSPORT CALL #17211290 & #17215629</td><td>100.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73383</td><td>JOHNSON, ROSATI, SCHULTz &</td><td>CITY ATTORNEY RETAINER WORK - SERVICE T
-MICHIGAN TAX TRIBUNAL MATTERS - SERVICE
-GENERAL LABOR MATTERS - WORK PROVIDED T</td><td>12,874.50
-689.00
-384.00</td><td>Open
-Open
-Open
-Open
-Open</td></tr><tr><td></td><td></td><td></td><td></td><td>13,947.50</td><td></td></tr><tr><td>01/25/2018</td><td>73384</td><td>GLENN KIVELL</td><td>MONTHLY COUNCIL PAY - JANUARY 2018</td><td>180.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73385</td><td>MARGARET KURTZWEIL</td><td>MONTHLY COUNCIL PAY - JANUARY 2018</td><td>180.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73386</td><td>LYNNE LADNER</td><td>CAR ALLOWANCE - JANUARY 2018</td><td>350.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73387</td><td>MARSHA CALUS</td><td>FACEBOOK AD FOR "LADIES NIGHT OUT" EVEN</td><td>7.99</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73388</td><td>MICHIGAN MUNICIPAL LEAGUE*</td><td>NEWLY ELECTED OFFICIALS TRAINING</td><td>95.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73389</td><td>LORI MOSIER</td><td>REIMBURSEMENT FOR DONUTS & BAGELS @ SPE</td><td>32.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73390</td><td>MARY PARISIEN</td><td>MONTHLY COUNCIL PAY - JANUARY 2018</td><td>180.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73391</td><td>PITNEY BOWES INC</td><td>(2) INK CARTRIDGES - POSTAGE MACHINE</td><td>237.98</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73392</td><td>QUICKSILVER MARKETING SOLUTIONS</td><td>PHOTO/ARTWORK & LAYOUT FOR DOWNTOWN BUS</td><td>268.55</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73393</td><td>TIMOTHY RAAP</td><td>OFFICER'S CLEANING ALLOWANCE - JANUARY</td><td>100.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73394</td><td>ROAD COMMISSION FOR OAKLAND</td><td>TRAFFIC SIGNAL MAINTENANCE - DECEMBER 2</td><td>121.45</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73395</td><td>ROSE WALTON</td><td>MONTHLY COUNCIL PAY - JANUARY 2018</td><td>180.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73396</td><td>JOSEPH RYZI</td><td>MONTHLY COUNCIL PAY - JANUARY 2018</td><td>180.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73397</td><td>SALEM-SOUTH LYON DISTRICT</td><td>TAX DISBURSEMENT - TAXES DUE TO LIBRARY</td><td>2,219.07</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73398</td><td>CHRISTOPHER SEDERLUND</td><td>OFFICER'S CLEANING ALLOWANCE - JANUARY</td><td>100.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73399</td><td>SOUTH LYON COMMUNITY SCHOOLS</td><td>TAX DISBURSEMENT - JANUARY 2018 TAXES D</td><td>14,740.02</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73400</td><td>CHRISTOPHER SOVIK</td><td>OFFICER'S CLEANING ALLOWANCE - JANUARY</td><td>100.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73401</td><td>TONY SROUPE</td><td>OFFICER'S CLEANING ALLOWANCE - JANUARY</td><td>100.00</td><td>Open</td></tr></table>
+CHECK DATE FROM 01/11/2018 - 02/08/2018
+
+<table><tr><td>Check Date</td><td>Check</td><td>Vendor Name</td><td>Description</td><td>Amount</td><td>Status</td></tr><tr><td>01/25/2018</td><td>73360</td><td>KENNETH T. PELCHAT TRUST</td><td>UB refund for account: STAN-000364-0000</td><td>103.73</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73361</td><td>RANDY SMIRNOFF</td><td>REIMBURSE HOMEOWNER FOR MAILBOX REPAIR</td><td>47.64</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73362</td><td>ARBOR DAY FOUNDATION</td><td>TREE CITY USA MEMBERSHIP RENEWAL - 2018</td><td>15.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73363</td><td>ARBOR SPRINGS WATER CO., INC.</td><td>WATER FOR CITY HALL</td><td>19.50</td><td>Open</td></tr><tr><td></td><td></td><td></td><td>WATER</td><td>13.00</td><td>Open</td></tr><tr><td></td><td></td><td></td><td>LAB SUPPLIES</td><td>58.50</td><td>Open</td></tr><tr><td></td><td></td><td></td><td>(4) 5 - GALLON WATER</td><td>26.00</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>117.00</td><td></td></tr><tr><td>01/25/2018</td><td>73364</td><td>DOUGLAS BAAKI</td><td>OFFICER'S CLEANING ALLOWANCE - JANUARY</td><td>100.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73365</td><td>AUDRA BAKER</td><td>OFFICER'S CLEANING ALLOWANCE - JANUARY</td><td>100.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73366</td><td>JARED BAKER</td><td>OFFICER'S CLEANING ALLOWANCE - JANUARY</td><td>100.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73367</td><td>RONALD BARBOUR</td><td>OFFICER'S CLEANING ALLOWANCE - JANUARY</td><td>100.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73368</td><td>BLUE CROSS BLUE SHIELD OF MICH</td><td>INSURANCE PREMIUM COVERAGE PERIOD FEERU</td><td>34,588.06</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73369</td><td>TRACY BROOKS</td><td>OFFICER'S CLEANING ALLOWANCE - JANUARY</td><td>100.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73370</td><td>CAIN M. MCGOWAN</td><td>DRUG TEST AND PHYSICAL</td><td>112.36</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73371</td><td>CARL RICHARDS</td><td>MONTHLY COUNCIL PAY - JANUARY 2018</td><td>180.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73372</td><td>CE SOLUTIONS</td><td>CEU PROGRAM 2-YEAR MEMBERSHIP</td><td>129.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73373</td><td>LLOYD COLLINS</td><td>OFFICER'S CLEANING ALLOWANCE - JANUARY</td><td>100.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73374</td><td>CINDY CONRAD</td><td>EMT INSTRUCTOR/COORDINATOR LICENSE</td><td>100.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73375</td><td>CORRIGAN OIL CO.</td><td>GAS & DIESEL SERVICE PERIOD 12/07/2017</td><td>7,483.98</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73376</td><td>DANIEL PELCHAT</td><td>MONTHLY COUNCIL PAY - JANUARY 2018</td><td>220.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73377</td><td>MATTHEW EMERY</td><td>VIDEO OF SPECIAL MEETING ON 1/16/2018 A</td><td>150.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73378</td><td>CHRISTOPHER FAUGHT</td><td>OFFICER'S CLEANING ALLOWANCE - JANUARY</td><td>100.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73379</td><td>GREAT SCOTT SOCIAL MEDIA, LLC</td><td>LADIES NIGHT OUT ADVERTISEMENT GRAPHICS</td><td>175.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73380</td><td>HARLAN ELECTRIC COMPANY</td><td>PROCURE AND INSTALL (2) WOOD POLES FOR</td><td>2,967.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73381</td><td>SEAN S. ROYDIC</td><td>OFFICER'S CLEANING ALLOWANCE - JANUARY</td><td>100.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73382</td><td>HURON VALLEY AMBULANCE. INC</td><td>TRANSPORT CALL 17211290 & #17215629</td><td>100.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73383</td><td>JOHNSON, ROSATI, SCHULTz &</td><td>CITY ATTORNEY RETAINER WORK - SERVICE T</td><td>12,874.50</td><td>Open</td></tr><tr><td></td><td></td><td></td><td>MICHIGAN TAX TRIBUNAL MATTERS - SERVICE</td><td>689.00</td><td>Open</td></tr><tr><td></td><td></td><td></td><td>GENERAL LABOR MATTERS - WORK PROVIDED T</td><td>384.00</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>13,947.50</td><td></td></tr><tr><td>01/25/2018</td><td>73384</td><td>GLENN KIVELL</td><td>MONTHLY COUNCIL PAY - JANUARY 2018</td><td>180.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73385</td><td>MARGARET KURTZWEIL</td><td>MONTHLY COUNCIL PAY - JANUARY 2018</td><td>180.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73386</td><td>LYNNE LADNER</td><td>CAR ALLOWANCE - JANUARY 2018</td><td>350.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73387</td><td>MARSHA CALUS</td><td>FACEBOOK AD FOR "LADIES NIGHT OUT" EVEN</td><td>7.99</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73388</td><td>MICHIGAN MUNICIPAL LEAGUE $ ^{{*}} $</td><td>NEWLY ELECTED OFFICIALS TRAINING</td><td>95.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73389</td><td>LORI MOSIER</td><td>REIMBURSEMENT FOR DONUTS & BAGELS @ SPE</td><td>32.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73390</td><td>MARY PARISIEN</td><td>MONTHLY COUNCIL PAY - JANUARY 2018</td><td>180.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73391</td><td>PITNEY BOWES INC</td><td>(2) INK CARTRIDGES - POSTAGE MACHINE</td><td>237.98</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73392</td><td>QUICKSILVER MARKETING SOLUTIONS</td><td>PHOTO/ARTWORK & LAYOUT FOR DOWNTOWN BUS</td><td>268.55</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73393</td><td>TIMOTHY RAAP</td><td>OFFICER'S CLEANING ALLOWANCE - JANUARY</td><td>100.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73394</td><td>ROAD COMMISSION FOR OAKLAND</td><td>TRAFFIC SIGNAL MAINTENANCE - DECEMBER 2</td><td>121.45</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73395</td><td>ROSE WALTON</td><td>MONTHLY COUNCIL PAY - JANUARY 2018</td><td>180.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73396</td><td>JOSEPH RYZI</td><td>MONTHLY COUNCIL PAY - JANUARY 2018</td><td>180.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73397</td><td>SALEM-SOUTH LYON DISTRICT</td><td>TAX DISBURSEMENT - TAXES DUE TO LIBRARY</td><td>2,219.07</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73398</td><td>CHRISTOPHER SEDERLUND</td><td>OFFICER'S CLEANING ALLOWANCE - JANUARY</td><td>100.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73399</td><td>SOUTH LYON COMMUNITY SCHOOLS</td><td>TAX DISBURSEMENT - JANUARY 2018 TAXES D</td><td>14,740.02</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73400</td><td>CHRISTOPHER SOVIK</td><td>OFFICER'S CLEANING ALLOWANCE - JANUARY</td><td>100.00</td><td>Open</td></tr><tr><td>01/25/2018</td><td>73401</td><td>TONY SROUPE</td><td>OFFICER'S CLEANING ALLOWANCE - JANUARY</td><td>100.00</td><td>Open</td></tr></table>
 
 <a id="p84"></a>
 *[Page 84 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=84)* (read by OCR; check the original)

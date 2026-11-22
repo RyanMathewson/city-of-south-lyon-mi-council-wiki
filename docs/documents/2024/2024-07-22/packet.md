@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/7-22-24%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "079d464b967f6ad8ac0dd44c9f95ffac3a5c977371759229d65606fb3c6b13db"
 source_bytes: 8042897
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 176
 ocr_pages: 176
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2024-07-22
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/7-22-24%20Council%20Packet%20-%20online%20only.pdf?t=202407181618280) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `079d464b967f6ad8…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/7-22-24%20Council%20Packet%20-%20online%20only.pdf?t=202407181618280) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `079d464b967f6ad8…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/7-22-24%20Council%20Packet%20-%20online%20only.pdf?t=202407181618280#page=1)* (read by OCR; check the original)
@@ -1168,9 +1168,9 @@ Highly educated
 
 Age: 51-65 years, $250k
 
-Multi-family: 1
+Multi-family, 1
 
-Tech Uses: Excellent
+Tech Uses Excellent
 
 Upscale urban living: Busy social lives; Highly educated; Supporter of fine arts; Avoid NY Times readers; Politically liberal
 
@@ -1270,7 +1270,7 @@ Tech Use: Below Average
 
 Environmental donor: Outdoor hobbies; Fitness club members; Rooted in the suburbs; Multigenerational households; Affluent
 
-## CH鴻MNG WITH CONFIDENCE
+## CHOOING WITH CONFIDENCE
 
 Aging of Aquarius C11
 
@@ -1298,7 +1298,7 @@ Tech Use: Below Average
 
 Suburbanites; Middle-class families; Politically conservative; Big spenders; Charitable; Multigenerational households
 
-## Golf Carts and Bournets C12
+## Golf Carts and Gourmets C12
 
 Age: 66-75, $100-124k
 
@@ -1600,7 +1600,7 @@ Republican
 
 ## Rural Escape 535
 
-Age: 66-75, $35-49k
+Ages 66-75, $35-49k
 
 Single family: 2
 
@@ -1666,7 +1666,7 @@ Tech Use: Above Average
 
 Conspicuous consumption; Status seekers; Digital media gurus; Value education; Liberal household; Active lifestyles
 
-## BLUE SKY ON GURSN
+## BLUE SKY ON GURSY
 
 ## Booming and Consuming L41
 
@@ -1716,7 +1716,7 @@ Age of children: 0-3
 
 Tech Use: Excellent
 
-Rural living: Home-based family activities: Enjoy bengam hunting; Middle of the road politics: Early childbearing years: Bowling and pool leagues
+Rural living: Home-based family activities: Enjoy bengam hunting; Middle of the road politics: Early childrearing years: Bowling and pool leagues
 
 ## Red, White and Bluegrass M44
 
@@ -1892,7 +1892,7 @@ Age of children: 10-12
 
 Tech Use: Excellent
 
-Blue-collar jobs; Billingual; Style conscious; Budget constraints; Prebene and teens; Team sports
+Blue-collar jobs; Bilingual; Style conscious; Budget constraints; Prevalence and teens; Team sports
 
 ## Heritage Heights PEB
 
@@ -1916,7 +1916,11 @@ Age of children: 10-12
 
 Tech Use: Excellent
 
-Rental housing: Single parents; Billingual: Driven to impress; Family abroad: Style on a budget
+Rental housing: Single parents;
+
+Bilingual: Driven to impress;
+
+Family abroad: Style on a budget
 
 ## Mid-scale Medley P56
 
@@ -2868,7 +2872,7 @@ FIGURE 6
 
 *[Image or figure on this page; see the original.]*
 
-<table><tr><td rowspan="2">15-Min Count Period Beginning At</td><td colspan="3">Dixboro Road (Northbound)</td><td colspan="3">Dixboro Road (Southbound)</td><td colspan="3">10 Mile Road (Eastbound)</td><td colspan="3">10 Mile Road (Westbound)</td><td rowspan="2">Total</td><td rowspan="2">Hourly Totals</td></tr><tr><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td></tr><tr><td>4:00 PM</td><td>13</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>84</td><td>0</td><td>0</td><td>105</td><td>205</td></tr><tr><td>4:15 PM</td><td>5</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>99</td><td>3</td><td>0</td><td>120</td><td>231</td></tr><tr><td>4:30 PM</td><td>9</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>94</td><td>5</td><td>0</td><td>96</td><td>209</td></tr><tr><td>4:45 PM</td><td>1</td><td>0</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>83</td><td>3</td><td>0</td><td>117</td><td>213</td></tr><tr><td>5:00 PM</td><td>8</td><td>0</td><td>8</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>69</td><td>2</td><td>0</td><td>118</td><td>208</td></tr><tr><td>5:15 PM</td><td>2</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>100</td><td>4</td><td>0</td><td>126</td><td>242</td></tr><tr><td>5:30 PM</td><td>5</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>100</td><td>5</td><td>0</td><td>100</td><td>217</td></tr><tr><td>5:45 PM</td><td>5</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>90</td><td>2</td><td>0</td><td>102</td><td>201</td></tr><tr><td rowspan="2">Peak 15-Min Flowrates</td><td colspan="3">Northbound</td><td colspan="3">Southbound</td><td colspan="3">Eastbound</td><td colspan="3">Westbound</td><td rowspan="2" colspan="2">Total</td></tr><tr><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td></tr><tr><td>All Vehicles</td><td>8</td><td>0</td><td>16</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>400</td><td>16</td><td>0</td><td>24</td><td>968</td></tr><tr><td>Heavy Trucks</td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>8</td><td>0</td><td></td><td>0</td><td>12</td><td>20</td></tr><tr><td>Buses</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Pedestrians</td><td>0</td><td></td><td></td><td></td><td>0</td><td></td><td></td><td></td><td>0</td><td></td><td></td><td>0</td><td></td><td>0</td></tr><tr><td>Bicycles</td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Scooters</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+<table><tr><td rowspan="2">15-Min Count Period Beginning At</td><td colspan="3">Dixboro Road (Northbound)</td><td colspan="3">Dixboro Road (Southbound)</td><td colspan="3">10 Mile Road (Eastbound)</td><td colspan="3">10 Mile Road (Westbound)</td><td rowspan="2">Total</td><td rowspan="2">Hourly Totals</td></tr><tr><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td></tr><tr><td>4:00 PM</td><td>13</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>84</td><td>0</td><td>0</td><td>105</td><td>205</td></tr><tr><td>4:15 PM</td><td>5</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>99</td><td>3</td><td>0</td><td>120</td><td>231</td></tr><tr><td>4:30 PM</td><td>9</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>94</td><td>5</td><td>0</td><td>96</td><td>209</td></tr><tr><td>4:45 PM</td><td>1</td><td>0</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>83</td><td>3</td><td>0</td><td>117</td><td>213</td></tr><tr><td>5:00 PM</td><td>8</td><td>0</td><td>8</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>69</td><td>2</td><td>0</td><td>118</td><td>208</td></tr><tr><td>5:15 PM</td><td>2</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>100</td><td>4</td><td>0</td><td>126</td><td>242</td></tr><tr><td>5:30 PM</td><td>5</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>100</td><td>5</td><td>0</td><td>100</td><td>217</td></tr><tr><td>5:45 PM</td><td>5</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>90</td><td>2</td><td>0</td><td>102</td><td>201</td></tr><tr><td rowspan="2">Peak 15-Min Flowrates</td><td colspan="3">Northbound</td><td colspan="3">Southbound</td><td colspan="3">Eastbound</td><td colspan="3">Westbound</td><td rowspan="2" colspan="2">Total</td></tr><tr><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td></tr><tr><td>All Vehicles</td><td>8</td><td>0</td><td>16</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>400</td><td>16</td><td>0</td><td>24</td><td>968</td></tr><tr><td>Heavy Trucks</td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td></td><td>8</td><td>0</td><td></td><td>0</td><td>12</td><td>20</td></tr><tr><td>Buses</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Pedestrians</td><td>0</td><td></td><td></td><td></td><td>0</td><td></td><td></td><td></td><td>0</td><td></td><td></td><td>0</td><td></td><td>0</td></tr><tr><td>Bicycles</td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Scooters</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
 
 Comments:
 
@@ -2904,7 +2908,7 @@ Comments:
 
 *[Image or figure on this page; see the original.]*
 
-<table><tr><td rowspan="2">15-Min Count Period Beginning At</td><td colspan="3">Dixboro Rd (Northbound)</td><td colspan="3">Dixboro Rd (Southbound)</td><td colspan="3">Edenderry Dr (Eastbound)</td><td colspan="3">Edenderry Dr (Westbound)</td><td rowspan="2">Total</td><td rowspan="2">Hourly Totals</td></tr><tr><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td></tr><tr><td>4:00 PM</td><td>4</td><td>14</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>21</td><td></td></tr><tr><td>4:15 PM</td><td>0</td><td>9</td><td>0</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>13</td><td></td></tr><tr><td>4:30 PM</td><td>0</td><td>11</td><td>0</td><td>0</td><td>0</td><td>6</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td><td>19</td><td></td></tr><tr><td>4:45 PM</td><td>1</td><td>7</td><td>0</td><td>0</td><td>0</td><td>3</td><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>13</td><td>66</td></tr><tr><td>5:00 PM</td><td>3</td><td>15</td><td>0</td><td>0</td><td>0</td><td>5</td><td>0</td><td>0</td><td>2</td><td>0</td><td>1</td><td>0</td><td>26</td><td>71</td></tr><tr><td>5:15 PM</td><td>0</td><td>6</td><td>0</td><td>0</td><td>0</td><td>11</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>17</td><td>75</td></tr><tr><td>5:30 PM</td><td>2</td><td>8</td><td>0</td><td>0</td><td>0</td><td>8</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>18</td><td>74</td></tr><tr><td>5:45 PM</td><td>1</td><td>6</td><td>0</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>10</td><td>71</td></tr><tr><td rowspan="2">Peak 15-Min Flowrates</td><td colspan="3">Northbound</td><td colspan="3">Southbound</td><td colspan="3">Eastbound</td><td colspan="3">Westbound</td><td rowspan="2" colspan="2">Total</td></tr><tr><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td></tr><tr><td>All Vehicles</td><td>12</td><td>60</td><td>0</td><td>0</td><td>0</td><td>20</td><td>0</td><td>0</td><td>8</td><td>0</td><td>4</td><td>0</td><td colspan="2">104</td></tr><tr><td>Heavy Trucks</td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td></td><td colspan="2">0</td></tr><tr><td>Buses</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr><tr><td>Pedestrians</td><td>0</td><td></td><td></td><td></td><td>0</td><td></td><td></td><td></td><td>0</td><td></td><td></td><td>0</td><td colspan="2">0</td></tr><tr><td>Bicycles</td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td colspan="2">0</td></tr><tr><td>Scooters</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr></table>
+<table><tr><td rowspan="2">15-Min Count Period Beginning At</td><td colspan="3">Dixboro Rd (Northbound)</td><td colspan="3">Dixboro Rd (Southbound)</td><td colspan="3">Edenderry Dr (Eastbound)</td><td colspan="3">Edenderry Dr (Westbound)</td><td rowspan="2">Total</td><td rowspan="2">Hourly Totals</td></tr><tr><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td></tr><tr><td>4:00 PM</td><td>4</td><td>14</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>21</td><td></td></tr><tr><td>4:15 PM</td><td>0</td><td>9</td><td>0</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>13</td><td></td></tr><tr><td>4:30 PM</td><td>0</td><td>11</td><td>0</td><td>0</td><td>0</td><td>6</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td><td>19</td><td></td></tr><tr><td>4:45 PM</td><td>1</td><td>7</td><td>0</td><td>0</td><td>0</td><td>3</td><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>13</td><td>66</td></tr><tr><td>5:00 PM</td><td>3</td><td>15</td><td>0</td><td>0</td><td>0</td><td>5</td><td>0</td><td>0</td><td>2</td><td>0</td><td>1</td><td>0</td><td>26</td><td>71</td></tr><tr><td>5:15 PM</td><td>0</td><td>6</td><td>0</td><td>0</td><td>0</td><td>11</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>17</td><td>75</td></tr><tr><td>5:30 PM</td><td>2</td><td>8</td><td>0</td><td>0</td><td>0</td><td>8</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>18</td><td>74</td></tr><tr><td>5:45 PM</td><td>1</td><td>6</td><td>0</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>10</td><td>71</td></tr><tr><td rowspan="2">Peak 15-Min Flowrates</td><td colspan="3">Northbound</td><td colspan="3">Southbound</td><td colspan="3">Eastbound</td><td colspan="3">Westbound</td><td rowspan="2" colspan="2">Total</td></tr><tr><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td></tr><tr><td>All Vehicles</td><td>12</td><td>60</td><td>0</td><td>0</td><td>0</td><td>20</td><td>0</td><td>0</td><td>8</td><td>0</td><td>4</td><td>0</td><td>104</td><td></td></tr><tr><td>Heavy Trucks</td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td></td></tr><tr><td>Buses</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Pedestrians</td><td>0</td><td></td><td></td><td></td><td></td><td>0</td><td></td><td></td><td>0</td><td></td><td></td><td>0</td><td>0</td><td></td></tr><tr><td>Bicycles</td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr><tr><td>Scooters</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
 
 <a id="p93"></a>
 *[Page 93 of the original](https://www.southlyonmi.org/7-22-24%20Council%20Packet%20-%20online%20only.pdf?t=202407181618280#page=93)* (read by OCR; check the original)

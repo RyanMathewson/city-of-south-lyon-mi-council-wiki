@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "456c3e3a59c6464937c61564e5257ab144b6d0485243679c77d010d53ef060dd"
 source_bytes: 589177
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 28
 ocr_pages: 28
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2016-07-11
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC071316ADENDUM7-11-16.pdf?t=202108310732560) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `456c3e3a59c64649…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC071316ADENDUM7-11-16.pdf?t=202108310732560) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `456c3e3a59c64649…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC071316ADENDUM7-11-16.pdf?t=202108310732560#page=1)* (read by OCR; check the original)
@@ -151,23 +151,23 @@ DWG Receipt/review of 5/9/16 arraignment docket 0.10
 <a id="p8"></a>
 *[Page 8 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC071316ADENDUM7-11-16.pdf?t=202108310732560#page=8)* (read by OCR; check the original)
 
-5/4/2016 DWG Receipt/review of Notice to Appear  
-DWG Receipt/review of Notice to Appear  
-DWG Receipt/review of Notice to Appear  
-DWG Receipt/review of Notice to Appear  
-DWG Receipt/review of Motion and/or Order to Show Cause  
-DWG Receipt/review of Order of Acquittal/Dismissal  
-DWG Receipt/review of Motion and Order for Discharge from Probation  
-DWG Receipt/review of Incident report  
-5/5/2016 DWG Receipt/review of Email from Defendant's Attorney L. Pioli with proposed Stipulated Order to modify bond; Review same; Preparation of email correspondence to L. Pioli regarding same  
-DWG Receipt/review of Notice to Appear  
-DWG Receipt/review of Judge Bondy's 5/12/16 docket  
-DWG Receipt/review of Judge Law's 5/12/16 docket  
-5/6/2016 DWG Receipt/review of Notice to Appear  
-DWG Receipt/review of Notice to Appear  
-DWG Receipt/review of Motion and/or Order to Show Cause  
-DWG Receipt/review of Judgment of Sentence  
-DWG Receipt/review of Judgment of Sentence
+5/4/2016 DWG Receipt/review of Notice to Appear 0.10  
+DWG Receipt/review of Notice to Appear 0.10  
+DWG Receipt/review of Notice to Appear 0.10  
+DWG Receipt/review of Motion and/or Order to Show Cause 0.10  
+DWG Receipt/review Motion and Summons Regarding Probation Violation 0.10  
+DWG Receipt/review of Order of Acquittal/Dismissal 0.10  
+DWG Receipt/review of Motion and Order for Discharge from Probation 0.10  
+DWG Receipt/review of incident report 0.20  
+5/5/2016 DWG Receipt/review of email from Defendant's Attorney L. Pioli with proposed Stipulated Order to modify bond; Review same; Preparation of email correspondence to L. Pioli regarding same 0.20  
+DWG Receipt/review of Notice to Appear 0.10  
+DWG Receipt/review of Judge Bondy's 5/12/16 docket 0.10  
+DWG Receipt/review of Judge Law's 5/12/16 docket 0.10  
+5/6/2016 DWG Receipt/review of Notice to Appear 0.10  
+DWG Receipt/review of Notice to Appear 0.10  
+DWG Receipt/review of Motion and/or Order to Show Cause 0.10  
+DWG Receipt/review of Judgment of Sentence 0.10  
+DWG Receipt/review of Judgment of Sentence 0.10
 
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC071316ADENDUM7-11-16.pdf?t=202108310732560#page=9)* (read by OCR; check the original)
@@ -195,60 +195,6 @@ DWG Receipt/review of Notice to Appear
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC071316ADENDUM7-11-16.pdf?t=202108310732560#page=11)* (read by OCR; check the original)
 
-5/12/2016 DWG Receipt/review of email from Defendant's Attorney L. Pioli regarding revision to proposed Stipulated Order to Modify Bond; Review same; Preparation of email correspondence in response to same  
-  
-DWG Receipt/review of Judge Bondy's updated 5/17/16 docket  
-  
-DWG Receipt/review of Judge Law's updated 5/17/16 docket  
-  
-DWG Receipt/review of Judge Reeds' updated 5/17/16 docket  
-  
-DWG Receipt/review of Notice of Release  
-  
-DWG Receipt/review of Notice of Release  
-  
-DWG Receipt/review of Judge Batchik's 5/19/16 docket  
-  
-DWG Receipt/review of Judge Bondy's 5/19/16 docket  
-  
-DWG Receipt/review of Judge Law's 5/19/16 docket  
-  
-DWG Receipt/review of Judge Reeds' 5/19/16 docket  
-  
-5/13/2016 DWG Telephone conference with victim (regarding 5/17/16 Pretrial Conference and 5/19/16 Jury Trial)  
-  
-5/16/2016 DWG Receipt/review of Judge Bondy's updated 5/17/16 docket  
-  
-DWG Receipt/review of Judge Law's updated 5/17/16 docket  
-  
-DWG Receipt/review of Judge Reeds' updated 5/17/16 docket  
-  
-DWG Receipt/review of Judge Bondy's 5/18/16 docket  
-  
-DWG Receipt/review of Judge Law's 5/18/16 docket  
-  
-DWG Receipt/review of Judge Reeds' 5/18/16 docket  
-  
-DWG Receipt/review of Judge Reeds' 5/18/16 docket  
-  
-5/12/2016 DWG Receipt/review of email from Defendant's Attorney L. Pioli regarding revision to proposed Stipulated Order to Modify Bond; Review same; Preparation of email correspondence in response to same  
-0.20  
-0.10  
-0.10  
-0.10  
-0.10  
-0.10  
-0.10  
-0.10  
-0.10  
-0.10  
-0.30  
-0.10  
-0.10  
-0.10  
-0.10  
-0.10  
-0.10  
 0.10
 
 <a id="p12"></a>
@@ -259,7 +205,7 @@ DWG Receipt/review of Judge Reeds' 5/18/16 docket
 <a id="p13"></a>
 *[Page 13 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC071316ADENDUM7-11-16.pdf?t=202108310732560#page=13)* (read by OCR; check the original)
 
-<table><tr><td colspan="3">Attorney Retainer Work</td></tr><tr><td></td><td>Hours</td><td>Amount</td></tr><tr><td>17/2016 DWG Receipt/review of Notice to Appear</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Petition and Order for Amendment of Order of Probation</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Notice to Appear</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Motion and Order for Discharge from Probation</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Notice to Appear</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Notice to Appear</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Notice to Appear</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Notice to Appear</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Notice to Appear</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Notice to Appear</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Notice to Appear</td><td>0.10</td><td></td></tr><tr><td>DWG Office conference with T. Wilhelm regarding Chief of Police's review of application for food truck license</td><td>0.20</td><td>No Charge</td></tr><tr><td>18/2016 DWG Receipt/review of 5/24/16 arraignment docket</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Judge Bondy's 5/24/16 docket</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Judge Law's 5/24/16 docket</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Judge Reeds' 5/24/16 docket</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Motion and/or Order to Show Cause</td><td>0.10</td><td></td></tr></table>
+<table><tr><td></td><td>Hours</td><td>Amount</td></tr><tr><td>17/2016 DWG</td><td>Receipt/review of Notice to Appear</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Petition and Order for Amendment of Order of Probation</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Notice to Appear</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Motion and Order for Discharge from Probation</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Notice to Appear</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Notice to Appear</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Notice to Appear</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Notice to Appear</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Notice to Appear</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Notice to Appear</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Notice to Appear</td><td>0.10</td></tr><tr><td>DWG</td><td>Office conference with T. Wilhelm regarding Chief of Police's review of application for food truck license</td><td>0.20</td></tr><tr><td>18/2016 DWG</td><td>Receipt/review of 5/24/16 arraignment docket</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Judge Bondy's 5/24/16 docket</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Judge Law's 5/24/16 docket</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Judge Reeds' 5/24/16 docket</td><td>0.10</td></tr><tr><td>DWG</td><td>Receipt/review of Motion and/or Order to Show Cause</td><td>0.10</td></tr></table>
 
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC071316ADENDUM7-11-16.pdf?t=202108310732560#page=14)* (read by OCR; check the original)
@@ -313,7 +259,7 @@ DWG Compile incident report, copy of City Code Section 58-51 and criminal histor
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC071316ADENDUM7-11-16.pdf?t=202108310732560#page=17)* (read by OCR; check the original)
 
-<table><tr><td></td><td>Hours</td><td>Amount</td></tr><tr><td>5/25/2016 DWG Receipt/review of Motion and Order for Discharge from Probation</td><td>0.10</td><td>-</td></tr><tr><td>DWG Receipt/review of 5/31/16 arraignment docket</td><td>0.10</td><td>-</td></tr><tr><td>DWG Receipt/review of Judge Bondy's 5/31/16 docket</td><td>0.10</td><td>-</td></tr><tr><td>DWG Receipt/review of Judge Law's 5/31/16 docket</td><td>0.10</td><td>-</td></tr><tr><td>DWG Receipt/review of Judge Reeds' 5/31/16 docket</td><td>0.10</td><td>-</td></tr><tr><td>5/26/2016 DWG Receipt/review of Judge Batchik's 6/2/16 docket</td><td>0.10</td><td>-</td></tr><tr><td>DWG Receipt/review of Judge Bondy's 6/2/16 docket</td><td>0.10</td><td>-</td></tr><tr><td>DWG Receipt/review of Judge Law's 6/2/16 docket</td><td>0.10</td><td>-</td></tr><tr><td>DWG Receipt/review of Judge Reeds' 6/2/16 docket</td><td>0.10</td><td>-</td></tr><tr><td>DWG Receipt/review of Sentencing Order</td><td>0.10</td><td>-</td></tr><tr><td>DWG Receipt/review of Sentencing Order</td><td>0.10</td><td>-</td></tr><tr><td>DWG Receipt/review of Notice to Appear</td><td>0.10</td><td>-</td></tr><tr><td>DWG Receipt/review of Order of Acquittal/Dismissal</td><td>0.10</td><td>-</td></tr><tr><td>DWG Receipt/review of Judgment of Sentence</td><td>0.10</td><td>-</td></tr><tr><td>DWG Receipt/review of Notice to Appear</td><td>0.10</td><td>-</td></tr><tr><td>DWG Receipt/review of Notice to Appeat</td><td>0.10</td><td>-</td></tr><tr><td>DWG Receipt/review of Judge Bondy's 6/1/16 docket</td><td>0.10</td><td>-</td></tr><tr><td>DWG Receipt/review of Judge Law's 6/1/16 docket</td><td>0.10</td><td>-</td></tr><tr><td>DWG Receipt/review of Judge Reeds' 6/1/16 docket</td><td>0.10</td><td>-</td></tr><tr><td>DWG Receipt/review of Judge Batchik's updated 6/2/16 docket</td><td>0.10</td><td>-</td></tr></table>
+<table><tr><td></td><td>Hours</td><td>Amount</td></tr><tr><td>5/25/2016 DWG Receipt/review of Motion and Order for Discharge from Probation</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of 5/31/16 arraignment docket</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Judge Bondy's 5/31/16 docket</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Judge Law's 5/31/16 docket</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Judge Reeds' 5/31/16 docket</td><td>0.10</td><td></td></tr><tr><td>5/26/2016 DWG Receipt/review of Judge Batchik's 6/2/16 docket</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Judge Bondy's 6/2/16 docket</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Judge Law's 6/2/16 docket</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Judge Reeds' 6/2/16 docket</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Sentencing Order</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Sentencing Order</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Notice to Appear</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Order of Acquittal/Dismissal</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Judgment of Sentences</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Notice to Appear</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Notice to Appear</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Judge Bondy's 6/1/16 docket</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Judge Law's 6/1/16 docket</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Judge Reeds' 6/1/16 docket</td><td>0.10</td><td></td></tr><tr><td>DWG Receipt/review of Judge Batchik's updated 6/2/16 docket</td><td>0.10</td><td></td></tr></table>
 
 <a id="p18"></a>
 *[Page 18 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC071316ADENDUM7-11-16.pdf?t=202108310732560#page=18)* (read by OCR; check the original)

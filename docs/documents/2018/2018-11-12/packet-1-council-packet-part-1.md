@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "c92bf80f1e24c3a71fc5510c2c21a31e89709a19a39c796386c444fc2b166752"
 source_bytes: 6387138
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 138
 ocr_pages: 138
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2018-11-12
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `c92bf80f1e24c3a7…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `c92bf80f1e24c3a7…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=1)* (read by OCR; check the original)
@@ -429,38 +429,16 @@ User: PATRICIA
 
 DB: South Lyon
 
-CHECK REGISTER FOR CITY OF SOUTH LYON CHECK DATE FROM 10/11/2018 - 11/08/2018
+<div>CHECK REGISTER FOR CITY OF SOUTH LYON CHECK DATE FROM 10/11/2018 - 11/08/2018</div>
 
 <table><tr><td>Check Date</td><td>Check</td><td>Vendor Name</td><td>Description</td><td>Amount</td><td>Status</td></tr><tr><td>10/18/2018</td><td>75176</td><td>EMPLOYEE HEALTH INSURANCE MGMT</td><td>CLAIMS FUNDING, AGENT & ADMIN. FEES</td><td>6,500.11</td><td>Open</td></tr><tr><td>10/18/2018</td><td>75177</td><td>LOWE'S</td><td>STEP LADDER</td><td>113.05</td><td>Open</td></tr><tr><td>10/18/2018</td><td>75178</td><td>MMTA</td><td>MEMBERSHIP DUES</td><td>50.00</td><td>Open</td></tr><tr><td>10/18/2018</td><td>75179</td><td>OAKLAND COUNTY TREASURERS</td><td>CLEMIS MEMBERSHIP FEE JULY TO SEPT. 201
-FMS DEPARTMENT FEE</td><td>4,065.25</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>1,072.31</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>5,137.56</td><td></td></tr><tr><td>10/18/2018</td><td>75180</td><td>PARAGON LABORATORIES, INC.</td><td>WATER ANALYSIS (3 LEAD AND COPERS)</td><td>75.00</td><td>Open</td></tr><tr><td>10/18/2018</td><td>75181</td><td>PURCHASE POWER</td><td>POSTAGE FEES</td><td>893.90</td><td>Open</td></tr><tr><td>10/18/2018</td><td>75182</td><td>QUICK SILVER MARKETING SOLUTIONS</td><td>SIGN FOR FARMERS MARKET 24 X 18 YARD SI</td><td>54.00</td><td>Open</td></tr><tr><td>10/18/2018</td><td>75183</td><td>R.R.R.A.S.O.C.</td><td>HAZARDOUS WASTE DAY</td><td>937.75</td><td>Open</td></tr><tr><td>10/18/2018</td><td>75184</td><td>STATE OF MICHIGAN**</td><td>AFIS - FINGERPRINT FEE</td><td>336.00</td><td>Open</td></tr><tr><td>10/18/2018</td><td>75185</td><td>WOW BUSINESS</td><td>CABLE SERVICE PERIOD 10/06/2018 TO 11/0
-SERVICE PERIOD 10/06/2018 - 11/05/2018</td><td>139.08</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>46.97</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>186.05</td><td></td></tr><tr><td>10/25/2018</td><td>75186</td><td>JEFFREY ABRAMOWICZ</td><td>MILEAGE REIMBURSEMENT FOR CLASS</td><td>68.67</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75187</td><td>ARBOR SPRINGS WATER CO., INC.</td><td>5 GAL. ARTESIAN WATER</td><td>13.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75187</td><td>BAAKI DOUGLAS</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75188</td><td>AUDRA BAKER</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75190</td><td>JARED BAKER</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75191</td><td>RONALD BARBOUR</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75192</td><td>CARL RICHARDS</td><td>MONTHLY COUNCIL PAY - OCTOBER 2018</td><td>180.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75193</td><td>KRISPEN S. CARROLL</td><td>PAYROLL DEDUCTION CASE NO. 17-57623-PJS</td><td>57.88</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75194</td><td>LLOYD COLLINS</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75195</td><td>DANIEL PELCHAT</td><td>MONTHLY COUNCIL PAY - OCTOBER 2018</td><td>220.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75196</td><td>MATTHEW EMERY</td><td>COUNCIL RECORDING - OCTOBER 22, 2018</td><td>75.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75197</td><td>CHRISTOPHER FAUGHT</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75198</td><td>GFL ENVIRONMENTAL USA</td><td>DUMPSTER AND RECYCLING FOR 11/01/2018 -</td><td>433.62</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75199</td><td>SEAN S. HOYDIC</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75200</td><td>INTL UNION OF OPERATING ENG</td><td>PAYROLL DEDUCTION - DUES FOR OCTOBER 20</td><td>171.09</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>10/25/2018</td><td>75201</td><td>JOHNSON, ROSATI, SCHULTZ &</td><td>CITY ATTORNEY RETAINER WORK PROFESSIONAL</td><td>10,400.00</td><td>Open</td></tr><tr><td></td><td></td><td></td><td>MICHIGAN TAX TRIBUNAL MATTERS FOR PROFE</td><td>803.31</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>11,203.31</td><td></td></tr><tr><td>10/25/2018</td><td>75202</td><td>GLENN KIVELL</td><td>MONTHLY COUNCIL PAY - OCTOBER 2018</td><td>180.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75203</td><td>KROPF MECHANICAL SERVICE CO.</td><td>FALL 2018 QUARTERLY HVAC MAINTENANCE IN</td><td>1,225.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75204</td><td>MARGARET KURT2WELL</td><td>MONTHLY COUNCIL PAY - OCTOBER 2018</td><td>180.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75205</td><td>L3 MOBILE VISION, INC</td><td>EXTENDED MAINTENANCE AGREEMENT COVERAGE</td><td>420.00</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>10/25/2018</td><td>75206</td><td>KEN MICHALIK</td><td>SUSTAINABLE ART SHOW PROGRAM PRINTING</td><td>1.04</td><td>Open</td></tr><tr><td></td><td></td><td></td><td>SUSTAINABLE ART SHOW - COMMAND STRIPS F</td><td>34.92</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>35.96</td><td></td></tr><tr><td>10/25/2018</td><td>75207</td><td>MISDU</td><td>PAYROLL DEDUCTION REMITTANCE ID#9129625</td><td>322.07</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75208</td><td>MARY PARISIEN</td><td>MONTHLY COUNCIL PAY - OCTOBER 2018</td><td>180.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75209</td><td>PAUL ZELENAK</td><td>CAR AND PHONE ALLOWANCE</td><td>525.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75210</td><td>PRINCIPAL FINANCIAL GROUP</td><td>DENTAL & VISION INSURANCE - NOVEMBER 20</td><td>5,761.12</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>10/25/2018</td><td>75211</td><td>PROVIDENCE OCCUPATIONAL</td><td>D.O.T. PHYSICALS</td><td>62.00</td><td>Open</td></tr></table>
+FEMS DEPARTMENT FEE</td><td>4,065.25</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>1,072.31</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>5,137.56</td><td></td></tr><tr><td>10/18/2018</td><td>75180</td><td>PARAGON LABORATORIES, INC.</td><td>WATER ANALYSIS (3 LEAD AND COPPERS)</td><td>75.00</td><td>Open</td></tr><tr><td>10/18/2018</td><td>75181</td><td>PURCHASE POWER</td><td>POSTAGE FEES</td><td>893.90</td><td>Open</td></tr><tr><td>10/18/2018</td><td>75182</td><td>QUICK SILVER MARKETING SOLUTIONS</td><td>SIGN FOR FARMERS MARKET 24 X 18 YARD SI</td><td>54.00</td><td>Open</td></tr><tr><td>10/18/2018</td><td>75183</td><td>R.R.R.A.S.O.C.</td><td>HAZARDOUS WASTE DAY</td><td>937.75</td><td>Open</td></tr><tr><td>10/18/2018</td><td>75184</td><td>STATE OF MICHIGAN $ ^{{**}} $</td><td>AFIIS - FINGERPRINT FEE</td><td>336.00</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>10/18/2018</td><td>75185</td><td>WOW BUSINESS</td><td>CABLE SERVICE PERIOD 10/06/2018 TO 11/0
+SERVICE PERIOD 10/06/2018 - 11/05/2018</td><td>139.08</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>46.97</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>186.05</td><td></td></tr><tr><td>10/25/2018</td><td>75186</td><td>JEFFREY ABRAMOWICZ</td><td>MILEAGE REIMBURSEMENT FOR CLASS</td><td>68.67</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75187</td><td>ARBOR SPRINGS WATER CO., INC.</td><td>5 GAL. ARTESIAN WATER</td><td>13.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75188</td><td>BAAKI DOUGLAS</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75189</td><td>AUDRA BAKER</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75190</td><td>JARED BAKER</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75191</td><td>RONALD BARBOUR</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75192</td><td>CARL RICHARDS</td><td>MONTHLY COUNCIL PAY - OCTOBER 2018</td><td>180.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75193</td><td>KRISPEN S. CARROLL</td><td>PAYROLL DEDUCTION CASE NO. 17-57623-PJS</td><td>57.88</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75194</td><td>LIOYD COLLINS</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75195</td><td>DANIEL PELCHAT</td><td>MONTHLY COUNCIL PAY - OCTOBER 2018</td><td>220.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75196</td><td>MATTHEW EMERY</td><td>COUNCIL RECORDING - OCTOBER 22, 2018</td><td>75.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75197</td><td>CHRISTOPHER FAUGHT</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75198</td><td>GPL ENVIRONMENTAL USA</td><td>DUMPSTER AND RECYCLING FOR 11/01/2018 -</td><td>433.62</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75199</td><td>SEAN S. HOYDIC</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75200</td><td>INTL UNION OF OPERATING ENG</td><td>PAYROLL DEDUCTION - DUES FOR OCTOBER 20</td><td>171.09</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>10/25/2018</td><td>75201</td><td>JOHNSON, ROSATI, SCHULTZ &</td><td>CITY ATTORNEY RETAINER WORK PROFESSIONAL</td><td>10,400.00</td><td>Open</td></tr><tr><td></td><td></td><td></td><td>MICHIGAN TAX TRIBUNAL MATTERS FOR PROPE</td><td>803.31</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>11,203.31</td><td></td></tr><tr><td>10/25/2018</td><td>75202</td><td>GLENN KIVELL</td><td>MONTHLY COUNCIL PAY - OCTOBER 2018</td><td>180.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75203</td><td>KROPP MECHANICAL SERVICE CO.</td><td>FALL 2018 QUARTERLY HVAC MAINTENANCE IN</td><td>1,225.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75204</td><td>MARGARET KURT2WEIL</td><td>MONTHLY COUNCIL PAY - OCTOBER 2018</td><td>180.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75205</td><td>L3 MOBILE VISION, INC</td><td>EXTENDED MAINTENANCE AGREEMENT COVERAGE</td><td>420.00</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>10/25/2018</td><td>75206</td><td>KEN MICHALIK</td><td>SUSTAINABLE ART SHOW PROGRAM PRINTING</td><td>1.04</td><td>Open</td></tr><tr><td></td><td></td><td></td><td>SUSTAINABLE ART SHOW - COMMAND STRIPS F</td><td>34.92</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>35.96</td><td></td></tr><tr><td>10/25/2018</td><td>75207</td><td>MISDU</td><td>PAYROLL DEDUCTION REMITTANCE ID#9129625</td><td>322.07</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75208</td><td>MARY PARISIEN</td><td>MONTHLY COUNCIL PAY - OCTOBER 2018</td><td>180.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75209</td><td>PAUL ZELENAK</td><td>CAR AND PHONE ALLOWANCE</td><td>525.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75210</td><td>PRINCIPAL FINANCIAL GROUP</td><td>DENTAL & VISION INSURANCE - NOVEMBER 20</td><td>5,761.12</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>10/25/2018</td><td>75211</td><td>PROVIDENCE OCCUPATIONAL</td><td>D.O.T. PHYSICALS</td><td>62.00</td><td>Open</td></tr></table>
 
 <a id="p20"></a>
 *[Page 20 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=20)* (read by OCR; check the original)
 
-<table><tr><td>Check Date</td><td>Check</td><td>Vendor Name</td><td>Description</td><td>Amount</td><td>Status</td></tr><tr><td></td><td></td><td></td><td rowspan="3">PRE-HIRE PHYSICAL - BELL-SCHAEFER NEW EMPLOYEE PHYSICAL</td><td>520.00</td><td>Open</td></tr><tr><td></td><td></td><td></td><td>86.00</td><td>Open</td></tr><tr><td></td><td></td><td></td><td>668.00</td><td></td></tr><tr><td>10/25/2018</td><td>75212</td><td>PSYBUS</td><td>PSYCHOLOGICAL EVALUATION - SCHNEEMANN</td><td>585.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75213</td><td>TIMOTHY RAAP</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75214</td><td>ROSE WALTON</td><td>MONTHLY COUNCIL PAY - OCTOBER 2018</td><td>180.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75215</td><td>SALEM-SOUTH LYON DISTRICT</td><td>TAX DISBURSEMENT/TAXES DUE TO LIBRARY</td><td>8,524.02</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75216</td><td>CHRISTOPHER SEDERLUND</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75217</td><td>SOUTH LYON COMMUNITY SCHOOLS</td><td>TAX DISBURSEMENT/TAXES DUE TO SCHOOLS</td><td>58,184.28</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75218</td><td>CHRISTOPHER SOVIK</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75219</td><td>TONY SROUFE</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75220</td><td>STANDARD INSURANCE COMPANY</td><td>DISABILITY & LIFE INSURANCE PREMIUM - N</td><td>2,502.13</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75221</td><td>STEPHEN KENNEDY</td><td>MONTHLY COUNCIL PAY - OCTOBER 2018</td><td>180.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75222</td><td>TRAVIS STEVENS</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75223</td><td>JOHN TOMANEK</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75224</td><td>VANTAGEPOINT TRANSFERS</td><td>ICMA 457 PLAN #301149 PAYROLL DEDUCTION</td><td>3,235.49</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75225</td><td>VISICOM SERVICES, INC.</td><td>WEBSITE UCC SSL CERTIFICATE</td><td>425.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75226</td><td>TIMOTHY WALTON</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75227</td><td>MICHAEL WITTROCK</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75228</td><td>WOW BUSINESS</td><td>CABLE TV SERVICE PERIOD 10/16/2018 - 11</td><td>11.55</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75229</td><td>WOW! BUSINESS</td><td>INTERNET SERVICES</td><td>710.00</td><td>Open</td></tr><tr><td>11/01/2018</td><td>75230</td><td>ARBOR SPRINGS WATER CO., INC.</td><td>WATER
-WATER
-5 GAL. ARTESIAN WATER</td><td>13.00
-45.50
-13.00</td><td>Open
-Open
-71.50</td></tr><tr><td>11/01/2018</td><td>75231</td><td>AT&T MOBILITY</td><td>SERVICE PERIOD 09/20/2018 - 10/19/2018</td><td>384.69</td><td>Open</td></tr><tr><td>11/01/2018</td><td>75232</td><td>AVAYA INC.*</td><td>DPW PHONE SYSTEM</td><td>12.58</td><td>Open</td></tr><tr><td>11/01/2018</td><td>75233</td><td>BRONNER'S COMMERCIAL DISPLAY</td><td>50 - LED ORANGE LIGHT STRINGS</td><td>833.84</td><td>Open</td></tr><tr><td>11/01/2018</td><td>75234</td><td>CONSUMERS ENERGY</td><td>23500 N. DIXBORO ROAD UTILITY BILL SERV 300 DOROTHY ST. SERVICE PERIOD 08/30/2025 300 DOROTHY ST. #3 SERVICE PERIOD 08/31/2025 DOROTHY ST. SERVICE PERIOD 08/31/20</td><td>1,299.59
-14.33
-8.62
-14.33</td><td>Open
-Open
-Open
-1,336.87</td></tr><tr><td>11/01/2018</td><td>75235</td><td>COSTCO MEMBERSHIP</td><td>COSTCO MEMBERSHIP RENEWAL</td><td>180.00</td><td>Open</td></tr><tr><td>11/01/2018</td><td>75236</td><td>DTE ENERGY</td><td>214 W. LAKE ST. SERVICE PERIOD 09/21/2021 219 WHIPPLE ST. SERVICE PERIOD SEPTEMBE 300 DOROTHY ST. SERVICE PERIOD 09/21/2021 318 W. LAKE ST. SERVICE PERIOD 09/21/2021 215 WHIPPLE ST. SERVICE PERIOD 09/21/2021 UTILITY BILL - SERVICE PERIOD SEPTEMBER 111 ELM PL. SERVICE PERIOD 09/21/2018 -</td><td>98.23
-421.32
-90.25
-37.14
-370.66
-925.33
-64.35</td><td>Open
-Open
-Open
-2,007.28</td></tr><tr><td>11/01/2018</td><td>75237</td><td>MARSHA CALUS</td><td>POSTCARDS, POSTERS, SIGNS FOR LADIES NI MISC. SUPPLIES FOR ART SHOW</td><td>275.16
-15.96</td><td>Open</td></tr><tr><td>11/01/2018</td><td>75238</td><td>KEN MICHALIK</td><td></td><td></td><td>Open</td></tr><tr><td>11/01/2018</td><td>75239</td><td>PARKSIDE CLEANERS</td><td>4 x 10 RUG; 3 x 10 RUG</td><td>43.00</td><td>Open</td></tr></table>
+<table><tr><td>Check Date</td><td>Check</td><td>Vendor Name</td><td>Description</td><td>Amount</td><td>Status</td></tr><tr><td></td><td></td><td></td><td rowspan="3">PRE-HIRE PHYSICAL - BELL-SCHAEFER NEW EMPLOYEE PHYSICAL</td><td>520.00</td><td>Open</td></tr><tr><td></td><td></td><td></td><td>86.00</td><td rowspan="2">Open</td></tr><tr><td></td><td></td><td></td><td>668.00</td></tr><tr><td>10/25/2018</td><td>75212</td><td>PSYBUS</td><td>PSYCHOLOGICAL EVALUATION - SCHNEEMANN</td><td>585.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75213</td><td>TIMOTHY RAAP</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75214</td><td>ROSE WALTON</td><td>MONTHLY COUNCIL PAY - OCTOBER 2018</td><td>180.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75215</td><td>SALEM-SOUTH LYON DISTRICT</td><td>TAX DISBURSEMENT/TAXES DUE TO LIBRARY</td><td>8,524.02</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75216</td><td>CHRISTOPHER SEDERLUND</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75217</td><td>SOUTH LYON COMMUNITY SCHOOLS</td><td>TAX DISBURSEMENT/TAXES DUE TO SCHOOLS</td><td>58,184.28</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75218</td><td>CHRISTOPHER SOVIK</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75219</td><td>TONY SROUFE</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75220</td><td>STANDARD INSURANCE COMPANY</td><td>DISABILITY & LIFE INSURANCE PREMIUM - N</td><td>2,502.13</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75221</td><td>STEPHEN KENNEDY</td><td>MONTHLY COUNCIL PAY - OCTOBER 2018</td><td>180.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75222</td><td>TRAVIS STEVENS</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75223</td><td>JOHN TOMANEK</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75224</td><td>VANTAGEPOINT TRANSFERS</td><td>ICMA 457 PLAN #301149 PAYROLL DEDUCTION</td><td>3,235.49</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75225</td><td>VISICOM SERVICES, INC.</td><td>WEBSITE UCC SSL CERTIFICATE</td><td>425.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75226</td><td>TIMOTHY WALTON</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75227</td><td>MICHAEL WITTROCK</td><td>OFFICER'S CLEANING ALLOWANCE - OCTOBER</td><td>100.00</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75228</td><td>WOW BUSINESS</td><td>CABLE TV SERVICE PERIOD 10/16/2018 - 11</td><td>11.55</td><td>Open</td></tr><tr><td>10/25/2018</td><td>75229</td><td>WOW! BUSINESS</td><td>INTERNET SERVICES</td><td>710.00</td><td>Open</td></tr><tr><td>11/01/2018</td><td>75230</td><td>ARBOR SPRINGS WATER CO., INC.</td><td>WATER</td><td>13.00</td><td>Open</td></tr><tr><td></td><td></td><td></td><td>WATER</td><td>45.50</td><td>Open</td></tr><tr><td></td><td></td><td></td><td>5 GAL. ARTESIAN WATER</td><td>13.00</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>71.50</td><td></td></tr><tr><td>11/01/2018</td><td>75231</td><td>AT&T MOBILITY</td><td>SERVICE PERIOD 09/20/2018 - 10/19/2018</td><td>384.69</td><td>Open</td></tr><tr><td>11/01/2018</td><td>75232</td><td>AVAYA INC.*</td><td>DPW PHONE SYSTEM</td><td>12.58</td><td>Open</td></tr><tr><td>11/01/2018</td><td>75233</td><td>BRONNER'S COMMERCIAL DISPLAY</td><td>50 - LED ORANGE LIGHT STRINGS</td><td>833.84</td><td>Open</td></tr><tr><td>11/01/2018</td><td>75234</td><td>CONSUMERS ENERGY</td><td>23500 N. DIXBORO ROAD UTILITY BILL SERV 300 DOROTHY ST. SERVICE PERIOD 08/30/2000</td><td>1,299.59</td><td>Open</td></tr><tr><td></td><td></td><td></td><td>300 DOROTHY ST. #B SERVICE PERIOD 08/31/2025</td><td>14.33</td><td>Open</td></tr><tr><td></td><td></td><td></td><td>250 DOROTHY ST. SERVICE PERIOD 08/31/20</td><td>8.62</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>14.33</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>1,336.87</td><td></td></tr><tr><td>11/01/2018</td><td>75235</td><td>COSTCO MEMBERSHIP</td><td>COSTCO MEMBERSHIP RENEWAL</td><td>180.00</td><td>Open</td></tr><tr><td>11/01/2018</td><td>75236</td><td>DTE ENERGY</td><td>214 W. LAKE ST. SERVICE PERIOD 09/21/20219 WHIPPLE ST. SERVICE PERIOD SEPTEMBE</td><td>98.23</td><td>Open</td></tr><tr><td></td><td></td><td></td><td>300 DOROTHY ST. SERVICE PERIOD 09/21/20</td><td>421.32</td><td>Open</td></tr><tr><td></td><td></td><td></td><td>318 W. LAKE ST. SERVICE PERIOD 09/21/20</td><td>90.25</td><td>Open</td></tr><tr><td></td><td></td><td></td><td>215 WHIPPLE ST. SERVICE PERIOD 09/21/20</td><td>37.14</td><td>Open</td></tr><tr><td></td><td></td><td></td><td>UTILITY BILL - SERVICE PERIOD SEPTEMBER 111 BLM PL. SERVICE PERIOD 09/21/2018 -</td><td>925.33</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>64.35</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>2,007.28</td><td></td></tr><tr><td>11/01/2018</td><td>75237</td><td>MARSHA CALUS</td><td>POSTCARDS, POSTERS, SIGNS FOR LADIES NI</td><td>275.16</td><td>Open</td></tr><tr><td>11/01/2018</td><td>75238</td><td>KEN MICHALIK</td><td>MISC. SUPPLIES FOR ART SHOW</td><td>15.96</td><td>Open</td></tr><tr><td>11/01/2018</td><td>75239</td><td>PARKSIDE CLEANERS</td><td>4 X 10 RUG; 3 X 10 RUG</td><td>43.00</td><td>Open</td></tr></table>
 
 <a id="p21"></a>
 *[Page 21 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=21)* (read by OCR; check the original)
@@ -476,6 +454,12 @@ CHECK DATE FROM 10/11/2018 - 11/08/2018
 <a id="p22"></a>
 *[Page 22 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=22)* (read by OCR; check the original)
 
+11/08/2018 09:34 AM
+
+User: PATRICIA
+
+DB: South Lyon
+
 <table><tr><td>Check Date</td><td>Check</td><td>Vendor Name</td><td>Description</td><td>Amount</td><td>Status</td></tr><tr><td>11/08/2018</td><td>75272</td><td>JOSEPH GALLAGHER</td><td>ELECTION INSPECTOR PAY - NOVEMBER 6, 20</td><td>160.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75273</td><td>MARY CATHERINE GALLAGHER</td><td>ELECTION INSPECTOR PAY - NOVEMBER 6, 20</td><td>160.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75274</td><td>DONALD GOTHAM</td><td>EMPLOYEE MILEAGE REIMBURSEMENT</td><td>72.48</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75275</td><td>PATRICIA ELLEN GOWAN</td><td>ELECTION INSPECTOR PAY - NOVEMBER 6, 20</td><td>160.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75276</td><td>SUZANNE HERROSCHECK</td><td>ELECTION INSPECTOR PAY - NOVEMBER 6, 20</td><td>180.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75277</td><td>HIGHLAND TREATMENT INC.</td><td>OCTOBER 2018 WWTP ROUTINE CHECKS</td><td>525.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75278</td><td>JANE ELIZABETH NELSON</td><td>ELECTION INSPECTOR PAY - NOVEMBER 6, 20</td><td>180.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75279</td><td>JUDITH BRYSON</td><td>ELECTION INSPECTOR PAY - NOVEMBER 6, 20</td><td>180.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75280</td><td>JOHN KOPACZ</td><td>ELECTION INSPECTOR PAY - NOVEMBER 6, 20</td><td>190.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75281</td><td>CARL KOSKI</td><td>ELECTION INSPECTOR PAY - NOVEMBER 6, 20</td><td>190.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75282</td><td>ELENI KONSTONTINI LAMBRECHT</td><td>ELECTION INSPECTOR PAY - NOVEMBER 6, 20</td><td>228.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75283</td><td>LINDA JANE GASPAROTT</td><td>ELECTION INSPECTOR PAY - NOVEMBER 6, 20</td><td>180.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75284</td><td>LENORE SYLVIA LITWIN</td><td>ELECTION INSPECTOR & TRAINING PAY - NOV</td><td>210.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75285</td><td>SHARON LOFTUS</td><td>ELECTION INSPECTOR PAY & TRAINING - NO</td><td>210.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75286</td><td>MARSHA CALUS</td><td>FACEBOOK ADVERTISEMENT FOR LADIES NIGHT</td><td>214.57</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75287</td><td>MARTIN'S DO IT BEST</td><td>SUPPLIES
 OCTOBER 2018 STATEMENT
 SAFETY BOOTS</td><td>39.94
@@ -489,13 +473,11 @@ SHIPPING BOXES</td><td>4.58
 3.19
 6.49
 6.49
-6.49
 7.98
 15.57</td><td>Open
 Open
 Open
-Open
-Open</td></tr><tr><td>11/08/2018</td><td>75295</td><td>JUDY PIEPER</td><td>EMPLOYEE MILEAGE REIMBURSEMENT</td><td>28.01</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75296</td><td>POLICE OFFICERS ASSOCIATION OF POLICE OFFICERS LABOR COUNCIL</td><td>PAYROLL DEDUCTION UNION DUES - NOVEMBER</td><td>584.82</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75297</td><td>PUMPKINESTOF OF THE SOUTH LYON AREA</td><td>PAYROLL DEDUCTION UNION DUES - NOVEMBER</td><td>251.25</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75298</td><td>R.R.R.A.S.O.C.</td><td>75 PUMPKINS @ 3.00 EACH AND 50 BUNDLES</td><td>475.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75299</td><td>MAXINE RINNAS</td><td>OCTOBER 27, 2018 HAZARDOUS WASTE EVENT</td><td>181.50</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75300</td><td>JEANETTE RUSSELL</td><td>ELECTION INSPECTOR PAY - NOVEMBER 6, 20</td><td>180.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75301</td><td>SALEM-SOUTH LYON DISTRICT</td><td>ELECTION INSPECTOR PAY - NOVEMBER 6, 20</td><td>160.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75302</td><td>DENISE HORVATH SEMION</td><td>TAX DISBURSEMENT/TAXES DUE TO LIBRARY</td><td>1,862.08</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75303</td><td>SHIRLEY SHINER</td><td>ELECTION INSPECTOR PAY - NOVEMBER 6, 20</td><td>180.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75304</td><td>SOUTH LYON COMMUNITY SCHOOLS</td><td>ELECTION INSPECTOR PAY - NOVEMBER 6, 20</td><td>180.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75305</td><td>STATE OF MICHIGAN</td><td>TAX DISBURSEMENT/TAXES DUE TO SCHOOLS</td><td>12,908.16</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75306</td><td>KATHLEEN SWANSON</td><td>PUBLIC WATER SUPPLY ANNUAL FEE</td><td>5,853.46</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75307</td><td>TIMOTHY DAVIDS</td><td>ELECTION INSPECTOR PAY - NOVEMBER 6, 20</td><td>190.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75308</td><td>VANTAGEPOINT TRANSFERS</td><td>FARMER'S MARKET MANAGER MONTH - OCTOBER</td><td>1,220.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75309</td><td>VERIZON WIRELESS</td><td>ICMA 457 PLAN #301149 PAYROLL DEDUCTION</td><td>3,250.18</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75310</td><td>BARBARA SUE WALKER</td><td>CELL SERVICE PERIOD SEPTEMBER 22, 2018</td><td>77.81</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75311</td><td>WINDSTREAM</td><td>ELECTION INSPECTOR PAY - NOVEMBER 6, 20</td><td>192.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75312</td><td>WINDSTREAM</td><td>SERVICE PERIOD 10/29/2018 - 11/28/2018</td><td>2,130.49</td><td>Open</td></tr></table>
+Open</td></tr><tr><td>11/08/2018</td><td>75295</td><td>JUDY PIEPER</td><td>EMPLOYEE MILEAGE REIMBURSEMENT</td><td>28.01</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75296</td><td>POLICE OFFICERS ASSOCIATION OF POLICE OFFICERS LABOR COUNCIL</td><td>PAYROLL DEDUCTION UNION DUES - NOVEMBER</td><td>584.82</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75297</td><td>PUMPKINEST OF THE SOUTH LYON AREA</td><td>PAYROLL DEDUCTION UNION DUES - NOVEMBER</td><td>251.25</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75298</td><td>R.R.R.A.S.O.C.C.</td><td>75 PUMPKINS @ 3.00 EACH AND 50 BUNDLES</td><td>475.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75299</td><td>MAXINE RINNAS</td><td>OCTOBER 27, 2018 HAZARDOUS WASTE EVENT</td><td>181.50</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75300</td><td>JEANETTE RUSSELL</td><td>ELECTION INSPECTOR PAY - NOVEMBER 6, 20</td><td>180.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75301</td><td>SALEM-SOUTH LYON DISTRICT</td><td>ELECTION INSPECTOR PAY - NOVEMBER 6, 20</td><td>160.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75302</td><td>DENISE HORVATH SEMION</td><td>TAX DISBURSEMENT/TAXES DUE TO LIBRARY</td><td>1,862.08</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75303</td><td>SHIRLEY SHINER</td><td>ELECTION INSPECTOR PAY - NOVEMBER 6, 20</td><td>180.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75304</td><td>SOUTH LYON COMMUNITY SCHOOLS</td><td>ELECTION INSPECTOR PAY - NOVEMBER 6, 20</td><td>180.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75305</td><td>STATE OF MICHIGAN</td><td>TAX DISBURSEMENT/TAXES DUE TO SCHOOLS</td><td>12,908.16</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75306</td><td>KATHLEEN SWANSON</td><td>PUBLIC WATER SUPPLY ANNUAL FEE</td><td>5,853.46</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75307</td><td>TIMOTHY DAVIDS</td><td>ELECTION INSPECTOR PAY - NOVEMBER 6, 20</td><td>190.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75308</td><td>VANTAGEPOINT TRANSFERS</td><td>FARMERS MARKET MANAGER MONTH - OCTOBER</td><td>1,220.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75309</td><td>VERIZON WIRELESS</td><td>ICMA 457 PLAN #301149 PAYROLL DEDUCTION</td><td>3,250.18</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75310</td><td>BARBARA SUE WALKER</td><td>CELL SERVICE PERIOD SEPTEMBER 22, 2018</td><td>77.81</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75311</td><td>WINDSTREAM</td><td>ELECTION INSPECTOR PAY - NOVEMBER 6, 20</td><td>192.00</td><td>Open</td></tr><tr><td>11/08/2018</td><td>75312</td><td>WINDSTREAM</td><td>SERVICE PERIOD 10/23/2018 - 11/28/2018</td><td>2,130.49</td><td>Open</td></tr></table>
 
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=23)* (read by OCR; check the original)
@@ -991,16 +973,7 @@ Should this proposal be adopted?
 <a id="p55"></a>
 *[Page 55 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=55)* (read by OCR; check the original)
 
-<table><tr><td rowspan="11">INITIATION OF LEGISLATION</td><td rowspan="2">INDICATE CITY OR TOWNSHIP IN WHICH REGISTERED TO VOTE</td><td rowspan="2">SIGNATURE</td><td rowspan="2">PRINTED NAME</td><td rowspan="2">STREET ADDRI</td><td rowspan="2">ZIP CODE</td><td colspan="3">DATE OF SIGNING</td></tr><tr><td>MO</td><td>DAY</td><td>YEAR</td></tr><tr><td>CITY OF  $ \square $
-TOWNSHIP OF  $ \square $</td><td>1.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CITY OF  $ \square $
-TOWNSHIP OF  $ \square $</td><td>2.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CITY OF  $ \square $
-TOWNSHIP OF  $ \square $</td><td>3.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CITY OF  $ \square $
-TOWNSHIP OF  $ \square $</td><td>4.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CITY OF  $ \square $
-TOWNSHIP OF  $ \square $</td><td>5.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CITY OF  $ \square $
-TOWNSHIP OF  $ \square $</td><td>6.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CITY OF  $ \square $
-TOWNSHIP OF  $ \square $</td><td>7.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CITY OF  $ \square $
-TOWNSHIP OF  $ \square $</td><td>8.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CERTIFICATE OF CIRCULAR
-The undersigned circۈster of the above petition asserts that he or she is 18 years old, and a United States citizen, that cash signature on the petition was signed in his or her presence; that he or she neither licensed nor is a sign of the other person, and that, to his or her best interest, will not be the same form as the public information of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of the date of</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+The pillion will not be counted to a file.
 
 <a id="p56"></a>
 *[Page 56 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=56)* (read by OCR; check the original)
@@ -1169,49 +1142,43 @@ a plan to promote and encourage participation in the marijuana industry by peopl
 <a id="p58"></a>
 *[Page 58 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=58)* (read by OCR; check the original)
 
-(c) prohibits a marinuana establishment from operating at a shared location of a marinuana facility operating pursuant to the medical marinuana facilities licensing act, 2016 PA 281, MCL 333.27101 to 333.27801, or prohibits a marinuana grower, marinuana processor, or marinuana retailer from operating within a single facility; or
+(c) prohibits a marijuana establishment from operating at a shared location of a marijuana facility operating pursuant to the medical marijuana facilities licensing act, 2016 PA 281, MCL 333.27101 to 333.27801, or prohibits a marhuana grower, marhuana processor, or marhuana retailer from operating within a single facility; or
 
-(d) Is unreasonably impracticable.
+(d) is unreasonably impracticable.
 
-Sec. 9. 1. Each application for a state license must be submitted to the department. Upon receipt of a complete application and application fee, the department shall forward a copy of the application to the municipality in which the marijuana establishment is to be licensed, determine whether the applicant and the premises qualify for the state license and comply with this act, and issue the appropriate state license or send the applicant a notice of rejection setting forth specific reasons why the department did not approve the state license application within 90 days.
+Sec. 9. 1. Each application for a state license must be submitted to the department. Upon receipt of a complete application and application fee, the department shall forward a copy of the application to the municipality in which the marhuana establishment is to be located, determine whether the applicant and the premises qualify for the state license and comply with this act, and issue the appropriate state license or send the applicant a notice of rejection setting forth specific reasons why the department did not approve the state license application within 90 days.
 
-2. The department shall issue the following state license types: marithuana retailer; marithuana safety compliance facility; marithuana secure transporter; marithuana processor; marithuana microbusiness; class A marithuana grower authorizing cultivation of not more than 100 marithuana plants; class B marithuana grower authorizing cultivation of not more than 500 marithuana plants; and class C marithuana grower authorizing cultivation of not more than 2,000 marithuana plants.
+2. The department shall issue the following state license types: marithuana retailer; marithuana safety compliance facility; marithuana secure trueporter; marithuana processor; marithuana microbusiness; class A marithuana grower authorizing cultivation of not more than 100 marithuana plants; class B marithuana grower authorizing cultivation of not more than 500 marithuana plants; and class C marithuana grower authorizing cultivation of not more than 2,000 marithuana plants.
 
-3. Except as otherwise provided in this section, the department shall approve a state license application and issue a state license if:
-
-3. Except as otherwise provided in this section, the department shall approve a state license application and issue a state license it.
+3. Except as otherwise provided in this section, the department shall approve a state license application and issue a state license it:
 
 (a) the applicant has submitted an application in compliance with the rules promulgated by the department, is in compliance with this act and the rules, and has paid the required fee;
 
-(b) the municipality in which the proposed mariniana establishment will be located does not notify the department that the proposed mariniana establishment is not in compliance with an ordinance consistent with section 6 of this act and in effect at the time of application;
+(b) the municipality in which the proposed marhuana establishment will be located does not notify the department that the proposed marhuana establishment is not in compliance with an ordinance consistent with section 6 of this act and in effect at the time of application;
 
-(c) the property where the proposed marituvana establishment is to be located is not within an area zoned exclusively for residential use and is not within 1,000 feet of a pre-existing public or private school providing education in kindergarten or any of grades 1 through 12, unless a municipality adopts an ordinance that reduces this distance requirement;
+(c) the property where the proposed marijuana establishment is to be located is not within an area zoned exclusively for residential use and is not within 1,000 feet of a pre-existing public or private school providing education in kindergarten or any of grades 1 through 12, unless a municipality adopts an ordinance that reduces this distance requirement;
 
-(d) no pareon who holds an ownership interest in the marhuana establishment applicant:
+(d) no person who holds an ownership interest in the manhuana establishment applicable:
 
 (1) will hold an ownership interest in both a marijuana safety compliance facility or in a marijuana secure transporter and in a marijuana prower. a marijuana processor, a marijuana retailer, or a marijuana microbusiness;
 
-(2) will hold an ownership interest in both a marithuana microbusiness and in a marithuana grower, a marithuana processor, a marithuana retailer, a marithuana safety compliance facility, or a marithuana secure transporter; and
+(2) will hold an ownership interest in both a marithuana microbusiness and in a marithuane grower, a marithuana processor, a marithuana retailer, a marithuana safety compliance facility, or a marithuana secure transporter; and
 
-(3) will hold an ownership interest in more than 5 marhuana growers or in more than 1 marhuana microbusiness, except that the department may approve a license application from a person who holds an ownership interest in more than 5 marhuana growers or more than 1
+(3) will hold an ownership interest in more than 5 marhuana growers or in more than 1 marhuana microbusiness, except that the department may approve a license application from a person who holds an ownership interest in more than 5 marhuana growers or more than 1 marhuana microbusiness if, after January 1, 2023, the department promulgates a rule authorizing an individual to hold an ownership interest in more than 5 marhuana growers or in more than 1 marhuana microbusiness.
 
-may approve a license application from a person who holds an ownership interest in more than 5 marijuana growers or more than 1 marijuana microbusiness if, after January 1, 2023, the department promulgates a rule authorizing an individual to hold an ownership interest in more than 5 marijuana growers or more than 1 marijuana microbusiness.
-
-4. If a municipality limits the number of marinums establishments that may be licensed in the municipality pursuant to section 6 of this act and that limit prevents the department from issuing a state license to all applicants who meet the requirements of subsection 3 of this section, the municipality shall decide among competing applications by a competitive process intended to select applicants who are best suited to operate in compliance with this act within the municipality.
+4. If a municipality limits the number of marijuana establishments that may be licensed in the municipality pursuant to section 6 of this act and that limit prevents the department from issuing a state license to all applicants who meet the requirements of subsection 3 of this section, the municipality shall decide among competing applications by a competitive process intended to select applicants who are best suited to operate in compliance with this act within the municipality.
 
 5. All state licenses are effective for 1 year, unless the department issues the state license for a longer term. A state license is renewed upon receipt of a complete renewal application and a renewal fee from any marhuana establishment in good standing.
 
-6. The department shall begin accepting applications for methuana establishments within 12 months after the effective date of this act. Except as otherwise provided in this section, for 24 months after the department begins to receive applications for methuana establishment, the department may only accept applications for licensure; for a class A methuana grower or for a methuana microbusiness, from persons who are residents of Michlgen; for a methuana retailer, methuana processor, class B methuana grower, class C methuana grower, or a methuana secure transporter, from persons holding a state operating license pursuant to the medical methuana facilities licensing act, 2018 PA 201, MCL 333.27101 to 333.27601; and for a methuana safety compliance facility, from any applicant. One year after the department begins to accept applications pursuant to this section, the department shall begin accepting applications from any applicant if the department determines that additional state licenses are necessary to minimize the illegal market for methuana in this state, to efficiently meet the demand for methuana, or to provide for reasonable access to methuana in rural areas.
+6. The department shall begin accepting applications for marijuana establishment within 12 months after the effective date of this act. Except as otherwise provided in this section, for 24 months after the department begins to receive applications for marijuana establishments, the department may only accept applications for licensure: for a class A marijuana grower or for a marijuana microbusiness, from persons who are residents of Michigan; for a marijuana retailer, marijuana processor, class B marijuana grower, class C marijuana grower, or a marijuana secure transporter, from persons holding a state operating license pursuant to the medical marijuana facilities licensing act, 2018 PA 201, MCL 333.27101 to 333.27601; and for a marijuana safety compliance facility, from any applicant. One year after the department begins to accept applications pursuant to this section, the department shall begin accepting applications from any applicant if the department determines that additional state licenses are necessary to minimize the illegal market for marijuana in this state, to efficiently meet the demand for marijuana, or to provide for reasonable access to marijuana in rural areas.
 
-7. Information obtained from an applicant related to licensure under this act is exempt from disclosure under the freedom of information act, 1976 PA 442, MCL 15.231 to 15.246.
+7. Information obtained from an applicant related to l censure under this act is exempt from disclosure under the freedom of Information Act, 1976 PA 442, MCL 15.231 to 15.246.
 
 Sec. 10. 1. Notwithstanding any other law or provision of this act, and except as otherwise provided in section 4 of this act or the rules promulgated thereunder, the following acts are not unlawful, are not an offense, are not grounds for seizing or forfeiting property, are not grounds for arrest, prosecution, or penalty in any manner, are not grounds for search or inspection except as authorized by this act, and are not grounds to deny any other right or privilege:
 
 (a) a marijuana grower or an agent acting on behalf of a marijuana grower who is 21 years of age or older, cultivating not more than the number of marijuana plants authorized by the state license class; possessing, packaging, storing, or testing marijuana; acquiring marijuana seeds or seedlings from a person who is 21 years of age or older; selling or otherwise transferring, purchasing or otherwise obtaining, or transporting marijuana to or from a marijuana establishment; or receiving compensation for goods or services;
 
-(b) a marijuana processor or agent acting on behalf of a marijuana processor who is 21 years of age or older, possessing, processing, packaging, storing, or testing marijuana; selling or otherwise transferring, purchasing or otherwise obtaining, or transporting marijuana to or from a marijuana establishment; or receiving compensation for goods or services;
-
-(o) a marijuana secure transporter or an agent acting on behalf of a marijuana secure transporter who is 21 years of age or older, possessing or storing marijuana; transporting marijuana to or from a marijuana establishment; or receiving compensation for services;
+(b) a methuanal processor or agent acting on behalf of a methuanal processor who is 21 years of age or older, possessing, processing, packaging, storing, or testing methuanal; selling or otherwise transferring, purchasing or otherwise obtaining, or transporting methuanal to or from a methuanal establishment; or receiving compensation for goods or services;
 
 (d) a marijuana safety compliance facility or an agent acting on behalf of a marijuana safety compliance facility who is 21 years of age or older, testing, possessing, repackaging, or storing marijuana; transferring, obtaining, or transporting marijuana to or from a marijuana establishment; or receiving compensation for services;
 
@@ -1223,7 +1190,7 @@ Sec. 10. 1. Notwithstanding any other law or provision of this act, and except a
 
 (i) possessing, cultivating, processing, obtaining, transferring, or transporting industrial hemp; or
 
-(i) providing professional services to prospective or licensed marhuana establishments related to equity under this act.
+(i) providing professional services to prospective or licensed maritiana establishments related to activity under this act.
 
 2. A person acting as an agent of a mariniana retailer who sells or otherwise transfers mariniana or mariniana accessories to a person under 21 years of age is not subject to arrest, prosecution, forfeiture of property, disciplinary action by a professional licensing board, denial of any right or privilege, or penalty in any manner, if the person reasonably verified that the recipient appeared to be 21 years of age or older by means of government-issued photograph to identification containing a date of birth, and the person complied with any rules promulgated pursuant to this act.
 
@@ -1231,26 +1198,28 @@ Sec. 10. 1. Notwithstanding any other law or provision of this act, and except a
 
 Sec. 11. (a) A marijuana establishment may not allow cultivation, processing, sale, or display of marijuana or marijuana accessories to be visible from a public place outside of the marijuana establishment without the use of binoculars, aircraft, or other optical aids.
 
-(b) A marlhuana establishment may not cultivate, process, test, or store marlhuana at any location other than a phyalcat address approved by the department and within an enclosed area that is secured in a manner that prevents access by persons not permitted by the marlhuana establishment to access the area.
+(b) A marijuana establishment may not cultivate, process, test, or store marijuana at any location other than a physical address approved by the department and within an enclosed area that is secured in a manner that prevents access by persons not permitted by the marijuana establishment to access the area.
 
 (c) A marijuana establishment shall secure every entrance to the establishment so that access to areas containing marijuana is restricted to employees and other persons permitted by the marijuana establishment to access the area and to agents of the department or state and local law enforcement officers and emergency personnel and shall secure its inventory and equipment during and after operating hours to deter and prevent theft of marijuana and marijuana accessories.
 
 (d) No marijuana establishment may refuse representatives of the department the right during the hours of operation to inspect the licensed premises or to audit the books and records of the marijuana establishment.
 
-(e) No marinuhana establishment may allow a person under 21 years of age to volunteer or work for the marinuhana establishment.
+(a) No marinuana establishment may allow a person under 21 years of age to volunteer or work for the marinuana establishment.
 
-(i) No merilhiana establishment may sell or otherwise transfer marilhiana that was not produced, distributed, and taxed in compliance with this act.
+(i) No marijuana establishment may sell or otherwise transfer marijuana that was not produced, distributed, and taxed in compliance with this act,
 
-(g) A marilhiana grower, marilhiana retailer, marilhiana processor, marilhiana microbusiness, or marilhiana testing facility or agent acting on their behalf may not transport more than 15 ounces of marilhiana or more than 60 grams of marilhiana concentrate at one time.
+(g) A marijuana grower, marijuana retailer, marijuana processor, marijuana microbusiness, or marijuana testing facility or agents acting on their
 
-(h) A methuana secure transporter may not hold title to methuana.
+behalf may not transport more than 15 ounces of marijuana or more than 60 grams of marijuana concentrate at one time.
 
-(1) No marlhuana processor may process and no marlhuana retailer may sell edible markuana-infused candy in shapes or packages that are attractive to children or that are easily confused with commercially sold candy that does not contain marlhuana.
+(h) A mahhuana secure transporter may not hold little to mahhuana.
+
+(i) No marlhuana processor may process and no marlhuana retailer may sell edible marluana-infused candy in shapes or packages that are attractive to children or that are easily confused with commercially sold candy that does not contain marluana.
 
 <a id="p59"></a>
 *[Page 59 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=59)* (read by OCR; check the original)
 
-(1) No marijuana retailer may sell or otherwise transfer marijuana that is not contained in an opaque, resealable, child-resistant package designed to be significantly difficult for children under 5 years of age to open and not difficult for normal adults to use properly as defined by 16 C.F.R. 1700.20 (1985), unless the marijuana is transferred for consumption on the premises where sold.
+(1) No marijuana retailer may sell or otherwise transfer marijuana that is not contained in an opaque, resealable, child-resistant package designed to be significantly difficult for children under 5 years of age to open and not difficult for normal adults to use properly as defined by 18 C.F.R. 1700.20 (1985), unless the marijuana is transferred for consumption on the premises where sold.
 
 (k) No methuanine establishment may sell or otherwise transfer tobacco.
 
@@ -1306,7 +1275,7 @@ Sec. 15. A person who commits any of the following acts, and is not otherwise au
 
 4. Except for a person who engaged in conduct described in section 4, a person who possesses more than twice the amount of manhuna allowed by section 5, cultivates more than twice the amount of manhuna allowed by section 5, or delivers without receiving any remuneration to a person who is at least 21 years of age more than twice the amount of manhuna allowed by section 6, shall be responsible for a misdemeanor, but shall not be subject to imprisonment unless the violation was habitual, wilful, and for a commercial purpose or the violation involved violence.
 
-Sec. 15. 1. If the department does not timely promulgate rules as required by section 6 of this act or accept or process applications in accordance with section 9 of this act, beginning one year after the effective date of this act, an applicant may submit an application for a merthuanas establishment directly to the municipality where the mathuanas establishment will be located.
+Sec. 18. 1. If the department does not timely promulgate rules as required by section 6 of this act or accept or process applications in accordance with section 9 of this act, beginning one year after the effective date of this act, an applicant may submit an application for a merthuanas establishment directly to the municipality where the mathuanas establishment will be located.
 
 2. If a marhuena establishment submits an application to a municipality under this section, the municipality shall issue a municipal license to the applicant within 90 days after receipt of the application unless the municipality finds and notifies the applicant that the applicant is not in compliance with an ordinance or rule adopted pursuant to this act.
 
@@ -2391,22 +2360,22 @@ same manner as required under section 103.
 <a id="p99"></a>
 *[Page 99 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=99)* (read by OCR; check the original)
 
-<div>ZONING INFORMATION</div>
+<div>ZONING INFORMATION:</div>
 
-<table><tr><td rowspan="7">C-10</td><td rowspan="7">PROJECT NO:14-127
-S/N:006
-31-10
-31-10</td><td colspan="2">PLM MANAGEMENT/S/NOV 2018</td><td rowspan="6">SITE PLAN</td></tr><tr><td>PLM PLN SUBTOTAL</td><td>3/7/2018</td></tr><tr><td>PLM PLN ANNUAL</td><td>6/7/2018</td></tr><tr><td>PLM PLN YEAR LIMIT</td><td>1/7/2018</td></tr><tr><td>COLOR METAR</td><td>1/7/2018</td></tr><tr><td>COLOR IN CONNITS</td><td>1/7/2018</td></tr><tr><td>PART OF THE HW 1/4, SEC. 19, TIN-R7E
-CITY OF SOUTH LYON, OAKLAND COUNTY, HICHIGAN</td><td colspan="2">THOMASVILLE SITE CONDONNISM
-PANEL NO: 21-19-1928-002
-PART OF THE HW 1/4, SEC. 19, TIN-R7E
-CITY OF SOUTH LYON, OAKLAND COUNTY, HICHIGAN</td></tr></table>
+<table><tr><td colspan="3">PLANT MANAGEMENT RESEARCH AND DEVELOPMENT COUNCIL - 3/29/2016</td><td colspan="2">DATE</td><td colspan="3">SITE PLAN</td></tr></table>
 
-<table><tr><td>BRT</td><td>Stem Tissue</td><td>Liver Tissue</td><td>Muscle Tissue</td><td>Spleen Tissue</td><td>Testis Tissue</td><td>Muscle Tissue</td><td>Prostate Tissue</td><td>Nerve Tissue</td></tr><tr><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>3</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>4</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>5</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>6</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>7</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>8</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>9</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>10</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>11</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>12</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>13</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>14</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>15</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>16</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>17</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>18</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>19</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>20</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>21</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>22</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>23</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>24</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>25</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>26</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>27</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>28</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>29</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>30</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>31</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>32</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>33</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>34</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>35</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>36</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>37</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>38</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>39</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>40</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>41</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>42</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>43</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>44</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>45</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>46</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>47</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>48</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>49</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>50</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>51</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>52</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>53</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>54</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>55</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>56</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>57</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>58</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>59</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>60</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>61</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>62</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>63</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>64</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>65</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>66</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>67</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>68</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>69</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>70</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>71</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>72</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>73</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>74</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>75</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>76</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>77</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>78</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>79</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>80</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>81</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>82</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>83</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>84</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>85</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>86</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>87</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>88</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>89</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>90</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>91</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>92</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>93</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>94</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>95</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>96</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>97</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>98</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>99</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>100</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>101</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>102</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>103</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>104</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>105</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>106</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>107</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>108</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>109</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>110</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>111</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>112</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>113</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>114</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>115</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>116</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>117</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>118</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>119</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>120</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>121</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>122</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>123</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>124</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>125</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>126</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>127</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>128</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>129</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>130</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>131</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>132</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>133</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>134</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>135</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>136</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>137</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>138</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>139</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>140</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>141</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>142</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>143</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>144</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>145</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>146</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>147</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>148</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>149</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>150</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>151</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>152</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>153</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>154</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>155</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>156</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>157</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>158</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>159</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>160</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>161</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>162</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>163</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>164</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>165</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>166</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>167</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>168</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>169</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>170</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>171</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>172</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>173</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>174</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>175</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>176</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>177</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>178</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>179</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>180</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>181</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>182</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>183</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>184</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>185</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>186</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>187</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>188</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>189</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>190</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>191</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>192</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>193</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>194</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>195</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>196</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>197</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>198</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td><ecel></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+<table><tr><td>1.</td><td>BUILDING AREAS SHOWN IN THE ADORING TABLE
+PROVIDE THE BUILDING AREST FLOOR FOOTPRINT ONLY.</td></tr><tr><td>2.</td><td>IMPROVEMENTS AREAS SHOWN IN THE ADORING AREAS SHOWN IN THE BUILDING FOOTPRINT, FORCES THE DECKS AND FLOOR SHOWN ARE THE LARGEST MODEL HOUSE THAT CAN FIT ON THE LOT SHOWN. SHOULD A SALLER MODEL BE PURCHASED LOT COVERAGE SHOULD BE REENCHED.</td></tr><tr><td>3.</td><td>HOUSE SHOWN ARE THE LARGEST HOUSE THAT CAN FIT ON THE LOT SHOWN. SHOULD A SALLER MODEL BE PURCHASED LOT COVERAGE SHOULD BE REENCHED.</td></tr><tr><td>4.</td><td>IMPROVEMENTS AREAS SHOWN ARE THE ADORING AREAS SHOWN IN THE BUILDING FOOTPRINT +40 SF.</td></tr><tr><td>4.1.</td><td>HAMPTON +1510 SF (TOOTPRINT) +40 S F POOR (POOR) +500 SF (TOOTPRINT) +1000 SF (TOTAL)</td></tr><tr><td>4.2.</td><td>DALTON +1354 SF (TOOTPRINT) +20 SF (TOOTPRINT) +200 SF (TOOTPRINT) +200 SF (DECK) =1977 SF TOTAL</td></tr><tr><td>4.3.</td><td>NEHTON +1282 SF (TOOTPRINT) +24 SF (POOR) +300 SF (DECK) =1615 SF TOTAL</td></tr><tr><td>3.</td><td>BUILDING AREA PER MODEL ARE AS FOLLOWS:</td></tr><tr><td>5.1.</td><td>HAMPTON +1310 SF (TOOTPRINT)</td></tr><tr><td>5.2.</td><td>DALTON +1354 SF (TOOTPRINT)</td></tr><tr><td>5.3.</td><td>NEHTON +1282 SF (TOOTPRINT)</td></tr><tr><td>6.</td><td>DECKS ON THE FOLLOWING LOFS ARE RESTRICTED AS FOLLOWS TO NET THE IMPERIOUS AREA REQUIREMENTS:</td></tr><tr><td>6.1.</td><td>LOT 20 MAX DECK SIZE 12' x 23'</td></tr><tr><td>6.2.</td><td>LOT 22 MAX DECK SIZE 12' x 15'</td></tr><tr><td>6.3.</td><td>LOT 32 MAX DECK SIZE 12' x 22'</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
 
-<table><tr><td>ALUMINOSAM (H=1)</td><td>2</td><td>37</td></tr></table>
+<table><tr><td>1</td><td>1</td><td>1</td></tr></table>
+
+<table><tr><td>BDT</td><td>2,000 mL N-H</td><td>2,000 mL N-H</td><td>2,000 mL N-H</td><td>2,000 mL N-H</td><td>2,</td></tr></table>
+
+*[Image or figure on this page; see the original.]*
+
+<table><tr><td>ALGEBRA/LAM (ML-1)</td><td>2</td><td>25</td><td>37</td><td>30</td><td>60</td><td>30</td><td>1 000-1000 2 000-1000 4 000-4000</td><td>MAXIMUM PERCENT OF PERMIT OF AREA AND CONCORD BY ALL BUILDINGS</td><td>MINIMUM PERCENT OF PERMIT BEING AVAILABLE</td><td>LOT WITHIN</td><td>LIMIT PERMIT</td><td>OPEN SPACE</td><td>LOT AREA</td></tr><tr><td>ALGEBRA/LAM (ML-3)</td><td>2</td><td>25</td><td>30</td><td>37</td><td>60</td><td>30</td><td>1 000-1000 2 000-1000 4 000-4000</td><td>MAXIMUM PERCENT OF PERMIT OF AREA AND CONCORD BY ALL BUILDINGS</td><td>MINIMUM PERCENT OF PERMIT BEING AVAILABLE</td><td>LOT WITHIN</td><td>LIMIT PERMIT</td><td>OPEN SPACE</td><td>LOT AREA</td></tr><tr><td>ALGEBRA/LAM (ML-4)</td><td>2</td><td>25</td><td>30</td><td>37</td><td>60</td><td>30</td><td>1 000-1000 2 000-1000 4 000-4000</td><td>MAXIMUM PERCENT OF PERMIT OF AREA AND CONCORD BY ALL BUILDINGS</td><td>MINIMUM PERCENT OF PERMIT BEING AVAILABLE</td><td>LOT WITHIN</td><td>LIMIT PERMIT</td><td>OPEN SPACE</td><td>LOT AREA</td></tr><tr><td colspan="14">TOTAL INFORMATION OF BUILDING:</td></tr></table>
 
 <a id="p100"></a>
 *[Page 100 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=100)* (read by OCR; check the original)
@@ -2924,825 +2893,8 @@ CITY OF SOUTH LYON, OAKLAND COUNTY, MICHIGAN</td><td></td></tr></table>
 <a id="p128"></a>
 *[Page 128 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=128)* (read by OCR; check the original)
 
-<table><tr><td>11th Group
-CAVALLIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIERE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE
-CAVALIRE</td></tr></table>
+<table><tr><td>ME</td><td>Group</td></tr><tr><td>278 VETERANS DRYING
+HOUSE OF LIVING</td><td>4000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
 
@@ -3769,61 +2921,32 @@ CAVALIRE</td></tr></table>
 <a id="p131"></a>
 *[Page 131 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=131)* (read by OCR; check the original)
 
-<table><tr><td colspan="5">C-11.5</td></tr></table>
+<table><tr><td rowspan="4">C-11.5</td><td>NAME OF DIRECTOR: JAPAN PHARMA</td><td>DATE OF ISSUE: 2021/10/11</td><td>CITY OF SOUTH LYON ROAD/WALK DET</td></tr><tr><td>TYPE OF BANK/BANK</td><td>DATE OF ISSUE</td><td>COUNTRY/COUNTRY IDENTIFICATION NUMBER</td></tr><tr><td>BANK OF THE WORLD</td><td>PERMIT NO.</td><td>PARCEL NO.: 21-19-126-002</td></tr><tr><td>CASH OF BANK THORWICH</td><td>DATE OF ISSUE</td><td>CITY OF SOUTH LYON, OAKLAND COUNTY, HICHIGAN</td></tr></table>
+
+*[Image or figure on this page; see the original.]*
 
 <table><tr><td>EQUIVALENT
-FLEXIBLE PAYMENT
-AGRICULTURE
-PERMIT NUMBER</td><td>TRAFFIC
+FLEXIBLE PAVEMENT
+ASPAIR WITH
+CYCLE BASE</td><td>TRAFFIC
 CLASSIFICATION
-WOTE
-PERMIT NUMBER</td></tr><tr><td>7
-PERMIT NUMBER
-PERMIT NUMBER
-PERMIT NUMBER
-PERMIT NUMBER</td><td>RESIDENTIAL
+NOTE:
+amps are not to use after
+classical use in 1989</td></tr><tr><td></td><td>RESIDENTIAL
+UP TO 20
+REDUCING INDIVIDUALS
+TRADE FOR SAFETY</td></tr><tr><td></td><td>VOLUNTOR
+up to the
+TRADE FOR GAP</td></tr><tr><td></td><td>MATERIAL
 OF THE
-PERMIT NUMBER
-PERMIT NUMBER
-PERMIT NUMBER
-PERMIT NUMBER</td></tr><tr><td>80
-PERMIT NUMBER
-PERMIT NUMBER
-PERMIT NUMBER</td><td>EXULTOR
-OF THE
-PERMIT NUMBER
-PERMIT NUMBER
-PERMIT NUMBER
-PERMIT NUMBER</td></tr><tr><td>81
-PERMIT NUMBER
-PERMIT NUMBER
-PERMIT NUMBER</td><td>INTERIAL
-OF THE
-PERMIT NUMBER
-PERMIT NUMBER
-PERMIT NUMBER
-PERMIT NUMBER</td></tr><tr><td>82
-PERMIT NUMBER
-PERMIT NUMBER
-PERMIT NUMBER</td><td>URGENTUAL
-OF THE
-PERMIT NUMBER
-PERMIT NUMBER
-PERMIT NUMBER
-PERMIT NUMBER</td></tr><tr><td>83
-PERMIT NUMBER
-PERMIT NUMBER
-PERMIT NUMBER</td><td>URGENTUAL
-OF THE
-PERMIT NUMBER
-PERMIT NUMBER
-PERMIT NUMBER
-PERMIT NUMBER</td></tr></table>
+REDUCING INDIVIDUALS
+TRADE FOR GAP</td></tr><tr><td></td><td>INDUSTRIAL
+UP TO 100
+REDUCING INDIVIDUALS
+TRADE FOR GAP</td></tr></table>
 
-<table><tr><td>LEGEND
-TIMES
-TIMES
-TIMES\</td></tr></table>
+<table><tr><td>LOCATED
+UNID</td><td>A</td><td>B</td></tr><tr><td>C</td><td>D</td><td>E</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
 

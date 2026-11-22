@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "de614631fbedd88d35afdd797947983b5cd049b55e8a501c357a127988323ae8"
 source_bytes: 2023658
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 38
 ocr_pages: 38
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2014-12-08
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket12.8.14.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `de614631fbedd88d…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket12.8.14.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `de614631fbedd88d…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket12.8.14.pdf?t=202108310732570#page=1)* (read by OCR; check the original)
@@ -355,43 +355,41 @@ ie City of South Lyon
 <a id="p19"></a>
 *[Page 19 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket12.8.14.pdf?t=202108310732570#page=19)* (read by OCR; check the original)
 
-<div>the City of South Lyon</div>
+the City of South Lyon
 
 <table><tr><td>Fund Department Account</td><td>GL Number Abbrev</td><td>Vendor Name Invoice Description</td><td>Check Number</td><td>Invoice Number</td><td>Due Date</td><td>Amount</td></tr><tr><td colspan="7">Fund: GENERAL FUND</td></tr><tr><td colspan="7">Dept: DEPT. OF PUBLIC WORKS</td></tr><tr><td>101-440.000-802.000</td><td>ONGOING RE</td><td>DUNCAN DISPOSAL SYSTEMS, LLC
-DUMFSTERS&RECYCLING-12/1/14</td><td>0</td><td></td><td>12/08/2014</td><td>118.68</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>ADVANCE AUTO PARTS
+DUMPSTERS&RECYCLING-12/1/14</td><td>0</td><td></td><td>12/08/2014</td><td>118.68</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>ADVANCE AUTO PARTS
 WIPER BLADES</td><td>0</td><td></td><td>12/08/2014</td><td>91.92</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>ADVANCE AUTO PARTS
-WIPER BLADES</td><td>0</td><td></td><td>12/08/2014</td><td>55.36</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>GREEN OAK TIR, INC.
+WIPER BLADES</td><td>0</td><td></td><td>12/08/2014</td><td>55.96</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>GREEN OAK TIR, INC.
 TIRE REPAIR T-12</td><td>0</td><td></td><td>12/08/2014</td><td>147.50</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>HINES PARK FORD, INC.
 STEP BAR ASSY T-4</td><td>0</td><td></td><td>12/08/2014</td><td>225.00</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>W.N. WILLIAMS
 PTO GASKET & COVER T-12</td><td>0</td><td></td><td>12/08/2014</td><td>15.00</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>ADVANCE AUTO PARTS
 TRAILER HITCHES</td><td>0</td><td></td><td>12/08/2014</td><td>62.28</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>ADVANCE AUTO PARTS
-TOOL CAT HEATER</td><td>0</td><td></td><td>12/08/2014</td><td>19.99</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>LANSON PRODUCTS, INC.
+TOOL CAT HEATER</td><td>0</td><td></td><td>12/08/2014</td><td>19.99</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>LAWSON PRODUCTS, INC.
 MECHANIC'S SUPPLIES</td><td>0</td><td></td><td>12/08/2014</td><td>98.33</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>SHARE CORP.
 MECHANIC'S TOOLS</td><td>0</td><td></td><td>12/08/2014</td><td>243.10</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>TIRE WHOLESALERS COMPANY, INC.
 FRONT TIRES - BACKHOE</td><td>0</td><td></td><td>12/08/2014</td><td>308.00</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>COMMERCE AUTO & RADIATOR, INC.
 RADIATOR REPAIR T-9</td><td>0</td><td></td><td>12/08/2014</td><td>165.00</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>CONTRACTORS STEEL COMPANY
 SHEET STEEL-DUMP BOX REPAIR</td><td>0</td><td></td><td>12/08/2014</td><td>789.82</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>LAWSON PRODUCTS, INC.
 MECHANIC'S SUPPLIES</td><td>0</td><td></td><td>12/08/2014</td><td>288.79</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>GREEN OAK TIR, INC.
-TIRE DISPOSAL</td><td>0</td><td></td><td>12/08/2014</td><td>44.00</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>SHARE CORP.
-PORTABLE JUMPER PACK</td><td>0</td><td></td><td>12/08/2014</td><td>80.18</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>SHARE CORP.
-MECHANIC'S SUPPLIES</td><td>0</td><td></td><td>12/08/2014</td><td>207.20</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>O'REILLY AUTO PARTS
-FILTERS FOR LOADER</td><td>0</td><td></td><td>12/08/2014</td><td>65.10</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>ROYAL TRUCK & TRAILER
-ANTI-FREEZE</td><td>0</td><td></td><td>12/08/2014</td><td>165.24</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>ADVANCE AUTO PARTS
-MARKER LIGHTS</td><td>0</td><td></td><td>12/08/2014</td><td>41.89</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>ADVANCE AUTO PARTS
-STARTING FLUID</td><td>0</td><td></td><td>12/08/2014</td><td>6.96</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>ADVANCE AUTO PARTS
-TAIL PIPE HANGER</td><td>0</td><td></td><td>12/08/2014</td><td>5.01</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>BADER & SONS CO.
-MUFFLER - JD1445 TRACTOR</td><td>0</td><td></td><td>12/08/2014</td><td>180.36</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>BADER & SONS CO.
-EXHAUST PARTS - JD1445 TRACTOR</td><td>0</td><td></td><td>12/08/2014</td><td>219.62</td></tr><tr><td>101-440.000-935.000</td><td>NPDES PHAS</td><td>HUBBELL, ROTH, & CLARK, INC.
-2013/14 STORM WTR PERMIT ASST</td><td>0</td><td></td><td>12/08/2014</td><td>1,743.44</td></tr><tr><td>101-440.000-974.000</td><td>LAND IMPRO</td><td>NORMAR LANDSCAPERS, INC.
-TREE REMOVAL</td><td>0</td><td></td><td>12/08/2014</td><td>1,325.00</td></tr><tr><td>101-440.000-974.000</td><td>LAND IMPRO</td><td>HORNET CONCRETE CO. INC.
-CONCRETE FOR SIDEWALK REPAIR</td><td>0</td><td></td><td>12/08/2014</td><td>243.00</td></tr><tr><td>101-440.000-974.000</td><td>LAND IMPRO</td><td>HUNT SIGN CO., LTD
-STREET & PARKING LOT SIGNS</td><td>0</td><td></td><td>12/08/2014</td><td>60.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>Total DEPT. OF PUBLIC WORKS</td><td>8,020.34</td></tr><tr><td>Dept: PARKS AND RECREATION
+TIRE DISPOSAL</td><td>0</td><td></td><td>12/08/2014</td><td>44.00</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>SHARE CORP.</td><td>0</td><td></td><td>12/08/2014</td><td>80.18</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>PORTABLE JUMPER PACK</td><td>0</td><td></td><td>12/08/2014</td><td>207.20</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>MECHANIC'S SUPPLIES</td><td>0</td><td></td><td>12/08/2014</td><td>65.10</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>O'REILLY AUTO PARTS
+FILTERS FOR LOADER</td><td>0</td><td></td><td>12/08/2014</td><td>165.24</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>ROYAL TRUCK & TRAILER
+ANTI-FREEZE</td><td>0</td><td></td><td>12/08/2014</td><td>41.89</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>ADVANCE AUTO PARTS
+MARKER LIGHTS</td><td>0</td><td></td><td>12/08/2014</td><td>6.96</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>ADVANCE AUTO PARTS
+STARTING FLUID</td><td>0</td><td></td><td>12/08/2014</td><td>5.01</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>ADVANCE AUTO PARTS
+TAIL PIPE HANGER</td><td>0</td><td></td><td>12/08/2014</td><td>180.36</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>BADER & SONS CO.
+MUFFLER - JD1445 TRACTOR</td><td>0</td><td></td><td>12/08/2014</td><td>219.62</td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MA</td><td>BADER & SONS CO.
+EXHAUST PARTS - JD1445 TRACTOR</td><td>0</td><td></td><td>12/08/2014</td><td>1,743.44</td></tr><tr><td>101-440.000-935.000</td><td>NPDES PHAS</td><td>HUBBELL, ROTH, & CLARK, INC.
+2013/14 STORM WTR PERMIT ASST</td><td>0</td><td></td><td>12/08/2014</td><td>1,325.00</td></tr><tr><td>101-440.000-974.000</td><td>LAND IMPRO</td><td>NORMAR LANDSCAPERS, INC.
+TREE REMOVAL</td><td>0</td><td></td><td>12/08/2014</td><td>243.00</td></tr><tr><td>101-440.000-974.000</td><td>LAND IMPRO</td><td>HORNET CONCRETS CO. INC.
+CONCRETE FOR SIDEWALK REPAIR</td><td>0</td><td></td><td>12/08/2014</td><td>60.00</td></tr><tr><td>101-440.000-974.000</td><td>LAND IMPRO</td><td>HUNT SIGN CO., LTD
+STREET & PARKING LOT SIGNS</td><td>0</td><td></td><td>12/08/2014</td><td>8,020.34</td></tr><tr><td>Dept: PARKS AND RECREATION
 101-690.000-801.000</td><td>PROFESSION</td><td>JOHN'S SANITATION
 PORTA JOHNS @ PARKS</td><td>0</td><td></td><td>12/08/2014</td><td>620.00</td></tr><tr><td>101-690.000-930.000</td><td>REPAIR MAI</td><td>COACTIVE SYSTEMS COMPANY
-SECURITY SURVEILLANCE SYS REP</td><td>0</td><td></td><td>12/08/2014</td><td>171.25</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>Total PARKS AND RECREATION</td><td>791.25</td></tr><tr><td>Dept: HISTORICAL DEPOT
+SECURITY SURVEILLANCE SYS REP</td><td>0</td><td></td><td>12/08/2014</td><td>171.25</td></tr><tr><td colspan="7">Total PARKS AND RECREATION</td></tr><tr><td>Dept: HISTORICAL DEPOT
 101-732.000-931.000</td><td>BUILDING M</td><td>MARTIN'S DO IT BEST
-HARDWARE SUPPLIES</td><td>0</td><td></td><td>12/08/2014</td><td>13.49</td></tr><tr><td>101-732.000-931.000</td><td>BUILDING M</td><td>COACTIVE SYSTEMS COMPANY
-SECURITY SURVEILLANCE SYS REP</td><td>0</td><td></td><td>12/08/2014</td><td>171.25</td></tr></table>
+HARDWARE SUPPLIES</td><td>0</td><td></td><td>12/08/2014</td><td>791.25</td></tr><tr><td>101-732.000-931.000</td><td>BUILDING M</td><td>COACTIVE SYSTEMS COMPANY
+SECURITY SURVEILLANCE SYS REP</td><td>0</td><td></td><td>12/08/2014</td><td>13.49</td></tr></table>
 
 <a id="p20"></a>
 *[Page 20 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket12.8.14.pdf?t=202108310732570#page=20)* (read by OCR; check the original)

@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/2-10-25%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "1c144aee12c9e6086f10f18d1bcdcf47355a655ed35d3f187e5c480e3f178ab0"
 source_bytes: 8539906
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 60
 ocr_pages: 60
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2025-02-10
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/2-10-25%20Council%20Packet%20-%20online%20only.pdf?t=202502061519480) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `1c144aee12c9e608…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/2-10-25%20Council%20Packet%20-%20online%20only.pdf?t=202502061519480) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `1c144aee12c9e608…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/2-10-25%20Council%20Packet%20-%20online%20only.pdf?t=202502061519480#page=1)* (read by OCR; check the original)
@@ -407,90 +407,20 @@ USED</td></tr><tr><td colspan="7">Fund 592 - WATER & SEWER</td></tr><tr><td cols
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/2-10-25%20Council%20Packet%20-%20online%20only.pdf?t=202502061519480#page=17)* (read by OCR; check the original)
 
-<table><tr><td rowspan="2">GL Number</td><td rowspan="2">GL Desc</td><td rowspan="2">Vendor</td><td>EXP CHECK RUN</td><td colspan="4">DATES 02/10/2025 - 02/10/2025
-JOURNALIZED
-OPEN</td></tr><tr><td>CHECKS TO BE APPROVED ON 2/10/2025
-Invoice Desc.</td><td>Invoice</td><td>Due Date</td><td colspan="2">Amount Check</td></tr><tr><td>Fund 101 GENERAL FUND
+<table><tr><td>GL Number</td><td>GL Desc</td><td>Vendor</td><td>Invoice Description</td><td>Invoice Date</td><td>Amount Check</td></tr><tr><td>Fund 101 GENERAL FUND
 Dept 441.000 DEPT. OF PUBLIC WORKS
 101-441.000-863.000 VEHICLE MAINTENANCE
 101-441.000-930.000 REPAIR MAINTENANCE
-101-441.000-931.000 BUILDING MAINTENANCE</td><td>NATIONAL MECHANIX WEINGARTZ
-AMAZON CAPITAL SERVICE</td><td>SEA FOAM, STARTING FLUID, PENETRAT
-CORDLESS HOOD LIGHT, ALLEN HEX BIT
-BALL JOINT SERVICE KIT AND SCRATCH
-Total For Dept 567.000 CEMETERY</td><td>POSITIVE BATTERY TERMINAL, COPPER
-KIT, GASKET, AIR FILTER, FUEL FLIT
-CORDLESS HOOD LIGHT, ALLEN HEX BIT
-Total For Dept 441.000 DEPT. OF PUBLIC WORKS</td><td>6754
-20577874-00/837
-1KFK-V77Y-F43F</td><td>02/10/25
-02/10/25
-02/10/25</td><td>700.73
-1,529.61
-154.87
-8,866.82</td><td>02/10/25
-02/10/25
-02/10/25
-19.78
-35.20
-127.31
-182.29</td></tr><tr><td>Dept 567.000 CEMETERY
+101-441.000-931.000 BUILDING MAINTENANCE</td><td>NATIONAL MECHANIX WEINGARTZ AMAZON CAPITAL SERVICE</td><td>POSITIVE BATTERY TERMINAL, COPPER KIT, GASKET, AIR FILTER, FUEL FILT, CORDLESS HOOD LIGHT, ALLEN HEX BIT Total For Dept 441.000 DEPT. OF PUBLIC WORKS</td><td>6754 20577874-00/837 1KFK-V77Y-F43F</td><td>700.73 1,529.61 154.87</td><td>8,866.82</td></tr><tr><td>Dept 567.000 CEMETERY
 101-567.000-930.000 REPAIR MAINTENANCE
-101-567.000-930.000 REPAIR MAINTENANCE
-101-567.000-930.000 REPAIR MAINTENANCE</td><td>ADVANCE AUTO PARTS
-AMAZON CAPITAL SERVICE
-GRAINGER</td><td>SEA FOAM, STARTING FLUID, PENETRAT
-CORDLESS HOOD LIGHT, ALLEN HEX BIT
-BALL JOINT SERVICE KIT AND SCRATCH
-Total For Dept 567.000 CEMETERY</td><td>8195501338696
-1KFK-V77Y-F43F
-9372965500</td><td>02/10/25
-02/10/25</td><td>19.78
-35.20
-127.31</td><td>02/10/25
-02/10/25</td><td>02/10/25
-02/10/25
-02/10/25
-41,175.00
-41,505.00</td></tr><tr><td>Dept 751.000 PARKS AND RECREATION
+101-567.000-930.000 REPAIR MAINTENANCE REPAIR MAINTENANCE</td><td>ADVANCE AUTO PARTS AMAZON CAPITAL SERVICE GRAINGER</td><td>SEA FOAM, STARTING FLUID, PENETRAT CORDLESS HOOD LIGHT, ALLEN HEX BIT BALL JOINT SERVICE KIT AND SCRATCH Total For Dept 567.000 CEMETERY</td><td>8195501338696 1KFK-V77Y-F43F 9372965500</td><td>02/10/25 19.78 02/10/25 35.20 127.31</td><td>182.29</td></tr><tr><td>Dept 751.000 PARKS AND RECREATION
 101-751.000-740.000 OPERATING EXPENSE
-101-751.000-740.000 CAPITAL EQUIPMENT</td><td>STONE DEPOT LANDSCAPE
-L.J. CONSTRUCTION INC</td><td>CALCIUM CHLORIDE 50 LB BAG (20)
-BOARDWALK REMOVAL/REPAIR - PAY EST</td><td>103350
-20240137</td><td>02/10/25</td><td>330.00
-41,175.00</td><td>02/10/25</td><td>02/10/25
-02/10/25
-02/10/25</td></tr><tr><td>Dept 803.000 HISTORICAL DEPOT
-101-803.000-972.000 CAPITAL IMPROVEMENTS</td><td>HEINANEN ENGINEERING,</td><td>HVAC UPGRADES TO HISTORICAL VILLAG</td><td>36149545</td><td>02/10/25</td><td>35,371.23
-35,371.23</td><td>02/10/25</td><td>02/10/25
-02/10/25
-02/10/25</td></tr><tr><td>Fund 202 MAJOR STREETS
-Dept 463.000 STREET-ROUTINE MAINT.
-202-463.000-740.000 OPERATING EXPENSE</td><td>DETROIT SALT COMPANY</td><td>ROCK SALT (50.16)
-Total For Dept 463.000 STREET-ROUTINE MAINT.</td><td>02/10/25</td><td>02/10/25</td><td>1,802.68
-1,802.68</td><td>02/10/25</td><td>02/10/25
-02/10/25
-02/10/25</td></tr><tr><td>Dept 478.000 SNOW PLOWING
-202-478.000-740.000 OPERATING EXPENSE</td><td>DETROIT SALT COMPANY</td><td>ROCK SALT (51.10)
-Total For Dept 478.000 SNOW PLOWING
-Total For Fund 202 MAJOR STREETS</td><td>02/10/25</td><td>02/10/25</td><td>1,836.46
-1,836.46</td><td>02/10/25</td><td>02/10/25
-02/10/25
-02/10/25</td></tr><tr><td>Fund 203 LOCAL STREETS
-Dept 463.000 STREET-ROUTINE MAINT.
-203-463.000-740.000 OPERATING EXPENSE</td><td>DETROIT SALT COMPANY</td><td>ROCK SALT (50.16)
-Total For Dept 463.000 STREET-ROUTINE MAINT.</td><td>02/10/25</td><td>02/10/25</td><td>3,639.14
-970.67
-970.67</td><td>02/10/25</td><td>02/10/25
-02/10/25
-02/10/25
-02/10/25</td></tr><tr><td>Dept 478.000 SNOW PLOWING
-203-478.000-740.000 OPERATING EXPENSE</td><td>DETROIT SALT COMPANY</td><td>ROCK SALT (51.10)
-Total For Dept 478.000 SNOW PLOWING</td><td>02/10/25</td><td>02/10/25</td><td>988.86
-988.86</td><td>02/10/25</td><td>02/10/25
-02/10/25
-02/10/25
-02/10/25</td></tr></table>
+101-751.000-978.000 CAPITAL EQUIPMENT</td><td>STONE DEPOT LANDSCAPE L.J. CONSTRUCTION INC</td><td>CALCIUM CHLORIDE 50 LB BAG (20) BOARDWALK REMOVAL/REPAIR - PAY EST Total For Dept 751.000 PARKS AND RECREATION</td><td>103350 20240137</td><td>02/10/25 41,175.00</td><td>330.00</td></tr><tr><td>Dept 803.000 HISTORICAL DEPOT
+101-803.000-972.000 CAPITAL IMPROVEMENTS</td><td>HEINANEN ENGINEERING,</td><td>HVAC UPGRADES TO HISTORICAL VILLAG Total For Dept 803.000 HISTORICAL DEPOT</td><td>36149545</td><td>02/10/25</td><td>35,371.23</td></tr><tr><td>Fund 202 MAJOR STREETS
+Dept 463.000 STREET-ROUTINE MAINT. 202-463.000-740.000 OPERATING EXPENSE</td><td>DETROIT SALT COMPANY</td><td>ROCK SALT (50.16) Total For Dept 463.000 STREET-ROUTINE MAINT.</td><td>SI25-28560</td><td>02/10/25</td><td>1,802.68</td></tr><tr><td>Dept 478.000 SNOW PLOWING
+202-478.000-740.000 OPERATING EXPENSE</td><td>DETROIT SALT COMPANY</td><td>ROCK SALT (51.10) Total For Dept 478.000 SNOW PLOWING</td><td>SI25-28326</td><td>02/10/25</td><td>1,836.46</td></tr><tr><td>Fund 203 LOCAL STREETS
+Dept 463.000 STREET-ROUTINE MAINT. 203-463.000-740.000 OPERATING EXPENSE</td><td>DETROIT SALT COMPANY</td><td>ROCK SALT (50.16) Total For Dept 463.000 STREET-ROUTINE MAINT.</td><td>SI25-28560</td><td>02/10/25</td><td>3,639.14</td></tr><tr><td>Dept 478.000 SNOW PLOWING
+203-478.000-740.000 OPERATING EXPENSE</td><td>DETROIT SALT COMPANY</td><td>ROCK SALT (51.10) Total For Dept 478.000 SNOW PLOWING</td><td>SI25-28326</td><td>02/10/25</td><td>970.67</td></tr></table>
 
 <a id="p18"></a>
 *[Page 18 of the original](https://www.southlyonmi.org/2-10-25%20Council%20Packet%20-%20online%20only.pdf?t=202502061519480#page=18)* (read by OCR; check the original)
@@ -562,7 +492,13 @@ Page: 1/6
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/2-10-25%20Council%20Packet%20-%20online%20only.pdf?t=202502061519480#page=23)* (read by OCR; check the original)
 
-<table><tr><td>Check Date</td><td>Check</td><td>Vendor Name</td><td>Description</td><td>Amount</td><td>Status</td></tr><tr><td></td><td></td><td></td><td></td><td>917.80</td><td></td></tr><tr><td>01/30/2025</td><td>92216</td><td>ASCENSION MICHIGAN EMPLOYER SOL.</td><td>PHYSICAL/DRUG & ALCOHOL SCREEN/MCOLES (SERVICE PERIOD DEC 07 - JAN 06</td><td>375.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92217</td><td>AT&T MOBILITY</td><td>SERVICE PERIOD DEC 07 - JAN 06</td><td>167.32</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92218</td><td>AT&T MOBILITY</td><td>SERVICE PERIOD DEC 07 - JAN 06</td><td>215.82</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92219</td><td>THADEUS LEVI BOGERT</td><td>JANUARY 2025 COUNCIL PAY</td><td>180.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92220</td><td>BS & A SOFTWARE</td><td>BS&A ONLINE SERVICES - ANNUAL SERVICE/S</td><td>4,104.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92221</td><td>LISA DILG</td><td>JANUARY 2025 COUNCIL PAY</td><td>180.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92222</td><td>DTE ENERGY</td><td>200 DOROTHY ST SERVICE PERIOD 12/16/202</td><td>28.97</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92223</td><td>DTE ENERGY</td><td>214 W LAKE SERVICE PERIOD 12/20/2024 -</td><td>188.25</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92224</td><td>DTE ENERGY</td><td>210 WHIPPLE ST SERVICE PERIOD 12/20/202</td><td>645.57</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92225</td><td>DTE ENERGY</td><td>250 DOROTHY ST SERVICE PERIOD 12/20/202</td><td>76.35</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92226</td><td>DTE ENERGY</td><td>300 DOROTHY ST SERVICE PERIOD 12/20/202</td><td>440.74</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92227</td><td>DTE ENERGY</td><td>SERVICE PERIOD 12/20/2024 - 1/22/2025 S</td><td>2,818.34</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92228</td><td>EASTERN MICHIGAN UNIVERSITY</td><td>CYNTHIE CONRAD EXECUTIVE LEADERSHIP PRO</td><td>3,500.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92229</td><td>ANDREW EHRESMAN</td><td>COUNCIL RECORDING 1/27/2025</td><td>75.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92230</td><td>GREATSTAFF SOLUTIONS, LLC</td><td>TEMPORARY STAFFING FOR CLERK'S DEPT AT</td><td>990.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92231</td><td>ALEX HANSEN</td><td>JANUARY 2025 COUNCIL PAY</td><td>180.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92232</td><td>HOME DEPOT CREDIT SERVICES</td><td>STATEMENT 1/13/25 FOR CLEANSER AND PAPE</td><td>90.90</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92233</td><td>HURON VALLEY GUNS</td><td>BDU PANTS FOR OSBORNE</td><td>87.99</td><td>Open</td></tr><tr><td></td><td></td><td></td><td>ATERATIONS AND SHIRT</td><td>74.99</td><td>Open</td></tr><tr><td></td><td></td><td></td><td>NAME TAG</td><td>20.00</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>182.98</td><td></td></tr><tr><td>01/30/2025</td><td>92234</td><td>IIMC</td><td>ANNUAL MEMBERSHIP FEE THROUGH 3/31/2026</td><td>220.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92235</td><td>KFD TRAINING AND CONSULTATION, LLC</td><td>LOCKUP DT INSTRUCTOR SCHOOL 5/12/25 - 5</td><td>995.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92236</td><td>GLENN KIVELL</td><td>JANUARY 2025 COUNCIL PAY</td><td>180.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92237</td><td>MARGARET KURTZWEIL</td><td>JANUARY 2025 COUNCIL PAY</td><td>180.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92238</td><td>LORI MOSIER</td><td>JANUARY 2025 COUNCIL PAY</td><td>180.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92239</td><td>OAKLAND COUNTY TREASURERS</td><td>CLEMIS MEMBER & PARTICIPATION FEES OCT-</td><td>4,770.75</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92240</td><td>PNC BANK</td><td>STATEMENT 1/19/25</td><td>7,166.97</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92241</td><td>PURE WATER PARTNERS</td><td>WATER BILLING PERIOD 11/25/2024 - 2/24/</td><td>123.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92242</td><td>SADIE (SARAH) QUAGLIOTTO</td><td>SOCIAL MEDIA MANAGER FEBRUARY 2025</td><td>2,025.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92243</td><td>SEMCOG</td><td>2025 ANNUAL MEMBERSHIP DUES</td><td>2,025.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92244</td><td>STEPHEN KENNEDY</td><td>JANUARY 2025 COUNCIL PAY</td><td>220.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92245</td><td>TOSHIBA FINANCIAL SERVICES</td><td>CONTRACT PAYMENT SERVICE PERIOD 1/15/20</td><td>1,620.73</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92246</td><td>TOSHIBA FINANCIAL SERVICES</td><td>CONTRACT PAYMENT SERVICE PERIOD 1/15/20</td><td>1,620.73</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92247</td><td>TRANSPORTATION IMPROVEMENT ASSOC.</td><td>MEMBERSHIP - GOVERNMENT 2025</td><td>264.62</td><td>Open</td></tr><tr><td>02/03/2025</td><td>92248</td><td>GRA BENEFITS GROUP</td><td>EMPLOYEE NAVIGATOR JANUARY 2025 FEES</td><td>3,958.00</td><td>Open</td></tr><tr><td>02/03/2025</td><td>92249</td><td>GUARDIAN</td><td>FEBRUARY 2025 INSURANCE PREMIUMS</td><td>89.25</td><td>Open</td></tr><tr><td>02/03/2025</td><td>92250</td><td>HUBBELL, ROTH & CLARK, INC.</td><td>PROFESSIONAL SERVICES FOR PERIOD ENDING</td><td>11,056.26</td><td>Open</td></tr><tr><td></td><td></td><td></td><td>STATEMENT 1/31/2025</td><td>61,196.69</td><td>Open</td></tr><tr><td>02/03/2025</td><td>92251</td><td>MARTIN'S DO IT BEST</td><td>STATEMENT 1/31/2025</td><td>22.98</td><td>Open</td></tr><tr><td></td><td></td><td></td><td>STATEMENT 1/31/2025</td><td>13.99</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>36.97</td><td></td></tr><tr><td>02/03/2025</td><td>92252</td><td>MML WORKERS' COMPENSATION FUND</td><td>POLICY # 5000790-23 PAYROLL AUDIT 7/1/2</td><td>28,529.00</td><td>Open</td></tr></table>
+<table><tr><td>Check Date</td><td>Check</td><td>Vendor Name</td><td>Description</td><td>Amount</td><td>Status</td></tr><tr><td></td><td></td><td></td><td></td><td>917.80</td><td></td></tr><tr><td>01/30/2025</td><td>92216</td><td>ASCENSION MICHIGAN EMPLOYER SOL.</td><td>PHYSICAL/DRUG & ALCOHOL SCREEN/MCOLES (SERVICE PERIOD DEC 07 - JAN 06</td><td>375.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92217</td><td>AT&T MOBILITY</td><td>SERVICE PERIOD DEC 07 - JAN 06</td><td>167.32</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92218</td><td>AT&T MOBILITY</td><td>SERVICE PERIOD DEC 07 - JAN 06</td><td>215.82</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92219</td><td>THADEUS LEVI BOGERT</td><td>JANUARY 2025 COUNCIL PAY</td><td>180.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92220</td><td>BS & A SOFTWARE</td><td>BS&A ONLINE SERVICES - ANNUAL SERVICE/S</td><td>4,104.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92221</td><td>LISA DILG</td><td>JANUARY 2025 COUNCIL PAY</td><td>180.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92222</td><td>DTE ENERGY</td><td>200 DOROTHY ST SERVICE PERIOD 12/18/202</td><td>28.97</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92223</td><td>DTE ENERGY</td><td>214 W LAKE SERVICE PERIOD 12/20/2024 -</td><td>188.25</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92224</td><td>DTE ENERGY</td><td>210 WHIPPLE ST SERVICE PERIOD 12/20/202</td><td>645.57</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92225</td><td>DTE ENERGY</td><td>250 DOROTHY ST SERVICE PERIOD 12/20/202</td><td>76.35</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92226</td><td>DTE ENERGY</td><td>300 DOROTHY ST SERVICE PERIOD 12/20/202</td><td>440.74</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92227</td><td>DTE ENERGY</td><td>SERVICE PERIOD 12/20/2024 - 1/22/2025 S</td><td>2,818.34</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92228</td><td>EASTERN MICHIGAN UNIVERSITY</td><td>CYNTHIE CONRAD EXECUTIVE LEADERSHIP PRO</td><td>3,500.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92229</td><td>ANDREW EHRESMAN</td><td>COUNCIL RECORDING 1/27/2025</td><td>75.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92230</td><td>GREATSTAFF SOLUTIONS, LLC</td><td>TEMPORARY STAFFING FOR CLERK'S DEPT AT</td><td>990.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92231</td><td>ALEX HANSEN</td><td>JANUARY 2025 COUNCIL PAY</td><td>180.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92232</td><td>HOME DEPOT CREDIT SERVICES</td><td>STATEMENT 1/13/25 FOR CLEANSER AND PAPE</td><td>90.90</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92233</td><td>HURON VALLEY GUNS</td><td>BDU PANTS FOR OSBORNE
+ATERATIONS AND SHIRT
+NAME TAG</td><td>87.99
+74.99
+20.00</td><td>Open
+Open
+Open</td></tr><tr><td>01/30/2025</td><td>92234</td><td>IIMC</td><td>ANNUAL MEMBERSHIP FEE THROUGH 3/31/2026</td><td>182.98</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92235</td><td>KFD TRAINING AND CONSULTATION, LLC</td><td>LOCKUP DT INSTRUCTOR SCHOOL 5/12/25 - 5</td><td>220.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92236</td><td>GLENN KIVELL</td><td>JANUARY 2025 COUNCIL PAY</td><td>995.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92237</td><td>MARGARET KURTZWEIL</td><td>JANUARY 2025 COUNCIL PAY</td><td>180.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92238</td><td>LORI MOSIER</td><td>JANUARY 2025 COUNCIL PAY</td><td>180.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92239</td><td>OAKLAND COUNTY TREASURERS</td><td>CLEMIS MEMBER & PARTICIPATION FEES OCT-</td><td>4,770.75</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92240</td><td>PNC BANK</td><td>STATEMENT 1/19/25</td><td>7,166.97</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92241</td><td>PURE WATER PARTNERS</td><td>WATER BILLING PERIOD 11/25/2024 - 2/24/</td><td>123.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92242</td><td>SADIE (SARAH) QUAGLIOTTO</td><td>SOCIAL MEDIA MANAGER FEBRUARY 2025</td><td>2,025.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92243</td><td>SEMCOG</td><td>2025 ANNUAL MEMBERSHIP DUES</td><td>2,025.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92244</td><td>STEPHEN KENNEDY</td><td>JANUARY 2025 COUNCIL PAY</td><td>220.00</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92245</td><td>TOSHIBA FINANCIAL SERVICES</td><td>CONTRACT PAYMENT SERVICE PERIOD 1/15/20</td><td>1,620.73</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92246</td><td>TOSHIBA FINANCIAL SERVICES</td><td>CONTRACT PAYMENT SERVICE PERIOD 1/15/20</td><td>264.62</td><td>Open</td></tr><tr><td>01/30/2025</td><td>92247</td><td>TRANSPORTATION IMPROVEMENT ASSOC.</td><td>MEMBERSHIP - GOVERNMENT 2025</td><td>3,958.00</td><td>Open</td></tr><tr><td>02/03/2025</td><td>92248</td><td>GRA BENEFITS GROUP</td><td>EMPLOYEE NAVIGATOR JANUARY 2025 FEES</td><td>89.25</td><td>Open</td></tr><tr><td>02/03/2025</td><td>92249</td><td>GUARDIAN</td><td>FEBRUARY 2025 INSURANCE PREMIUMS</td><td>11,056.26</td><td>Open</td></tr><tr><td>02/03/2025</td><td>92250</td><td>HUBBELL, ROTH & CLARK, INC.</td><td>PROFESSIONAL SERVICES FOR PERIOD ENDING</td><td>61,196.69</td><td>Open</td></tr><tr><td>02/03/2025</td><td>92251</td><td>MARTIN'S DO IT BEST</td><td>STATEMENT 1/31/2025</td><td>22.98</td><td>Open</td></tr><tr><td></td><td></td><td></td><td>STATEMENT 1/31/2025</td><td>13.99</td><td>Open</td></tr><tr><td>02/03/2025</td><td>92252</td><td>MML WORKERS' COMPENSATION FUND</td><td>POLICY # 5000790-23 PAYROLL AUDIT 7/1/2</td><td>36.97</td><td>Open</td></tr></table>
 
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/2-10-25%20Council%20Packet%20-%20online%20only.pdf?t=202502061519480#page=24)* (read by OCR; check the original)

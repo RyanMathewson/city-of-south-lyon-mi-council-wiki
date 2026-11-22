@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "fcc196bc506392955f136d1fd88c7aeca7599240ede57df6583707faaf24e695"
 source_bytes: 11228816
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 229
 ocr_pages: 229
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2024-01-08
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `fcc196bc50639295…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `fcc196bc50639295…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=1)* (read by OCR; check the original)
@@ -1996,11 +1996,11 @@ Families
 
 # 71 Lifestyle Clusters - The Mosaic Experian Decision Analytics; 2020-2023
 
-## A POWER ELITE
+## APOWER ELITE
 
 ## American Royalty A01
 
-Age: 61-65 years, $250x
+Age: 51-65 years, $250K
 
 Single Family, 5+
 
@@ -2008,23 +2008,23 @@ Age of children: 13-18
 
 Tech Use: Below Average
 
-Prestigious housing: Luxury living
-
-Upscale cars: Healthy lifestyles
-
-Charitable giving: World travelers
+Prestigious housing; Luxury living; Upscale cars; Healthy lifestyles; Charitable giving; World travelers
 
 ## Couples with Clout A05
 
 Age: 36-45. $175-$199k
 
-Single family: 2
+Single family, 2
 
 Tech Use: Excellent
 
-Affluent: Designer-brand
+Affluent; Designer-brand
 
-conscious: Politically conservative: Risk takers: Active social lives: Highly educated
+conscious; Politically conservative;
+
+Risk takers; Active social lives;
+
+Highly educated
 
 ## Jet Set Urbanites A06
 
@@ -2032,9 +2032,9 @@ Age: 51-65 years, $250k
 
 Multi-family, 1
 
-Tech User: Excellent
+Tech Use: Excellent
 
-Upscale urban living: Busy social lives; Highly educated; Supporter of fine arts; Avoid NY Times readers; Politically Liberal
+Upscale urban living; Busy social lives; Highly educated; Supporter of fine arts; Avoid NY Times readers; Politically Liberal
 
 ## Kids and Cabernet A03
 
@@ -2046,7 +2046,7 @@ Age of children: 10-12
 
 Tech Use: Below Average
 
-Affluent young families:
+Affluent young families;
 
 Foodies; Politically conservative;
 
@@ -2058,7 +2058,7 @@ Family vacations
 
 Age: 46–50, $125–149k
 
-Single family, 5+
+Single family: 5+
 
 Age of children: 13–18
 
@@ -2074,7 +2074,7 @@ Single Family, 2
 
 Tech Use: Below Average
 
-Luxury products: Empty-nesters: Political donon Country club members: Philanthropic: Investment-savvy
+Luxury products; Empty-nesters; Political donor; Country club members; Philanthropic; Investment-savy
 
 ## B FLOURISHING FAMILIES
 
@@ -2092,9 +2092,7 @@ Athletic activities: Engaged
 
 Parenting: Child oriented
 
-purchases: Large families; High
-
-credit awareness; Online shoppers
+purchases: Large families; High credit awareness; Online shoppers
 
 ## Cosmopolitan Achievers B10
 
@@ -2104,21 +2102,21 @@ Single family, 2
 
 Age of children: 13-18
 
-Tech Lise: Excellent
+Tech Use: Excellent
 
 Bilingual: Luxury living; Family abroad; Status spenders; Economic literature; Progressive liberals
 
 ## Family Fun-tastic B09
 
-Age: 36-45, $75-99k
+Age: 36-45, $75-99K
 
 Single Family, 5+
 
 Age of children: 13-18
 
-Tech User: Above Average
+Tech Use: Above Average
 
-Bargain hunters: Comfortable spending; Saving for college; Charity donor: Sports fans; Active lifestyles
+Bargain hunters; Comfortable spending; Saving for college; Charity donor; Sports fans; Active lifestyles
 
 ## Generational Soup B07
 
@@ -2130,7 +2128,9 @@ Age of children: 13-18
 
 Tech Use: Below Average
 
-Environmental donor: Outdoor hobbies; Fitness club members; Rooted in the suburbs; Multigenerational households; Affluent
+Environmental donor: Outdoor hobbies; Fitness club members; Rooted in the suburbs;
+
+Multigenerational households; Affluent
 
 ## C BOOMING WITH CONFIDENCE
 
@@ -2142,25 +2142,23 @@ Single family, 3
 
 Tech Use: Below Average
 
-Affluent; College sports fens;
+Affluent; College sports fans;
 
 Upscale housing; Highly educated;
 
-Philanthropic; Savvy investor
+Philanthropic; Sawy investor
 
 ## Boomers and Boomerangs C14
 
-### Age: 51-60, $75-99k Single family. 5+
+Single family, 5+
 
-Single family, b+
-
-Age of children: 13-18
+Age of children: 13-15
 
 Tech Use: Below Average
 
-Suburbanites: Middle-class families: Politically conservative; Big spenders: Charitable; Multigenerational households
+Suburbanites: Middle-class families; Politically conservative; Big spenders; Charitable; Multigenerational households
 
-## Golf Carts and Gourmels C12
+## Golf Carts and Gourmets C12
 
 Age: 66-75, $100-124k
 
@@ -2202,15 +2200,13 @@ Bilingual; Career-focused; 2nd generation success; Saving for college; Outdoor a
 
 ## Settled in Suburbia D16
 
-Age: 46-50, $75-99k
-
 Single family, 5+
 
 Age of children: 13-18
 
 Tech Use: Below Average
 
-Comfortable lifestyles: Diverse investments; Confident consumers; Active kids; Movie-goers; Theme park vacations
+Comfortable lifestyles; Diverse investments; Confident consumers; Active kids; Movie-goers; Theme park vacations
 
 ## Sports Utility Families D15
 
@@ -2224,27 +2220,33 @@ Tech Use: Below Average
 
 Suburb living: Comfortable
 
-spending: Athletic activities
+spending: Athletic activities;
 
-Outdoor leisure: Saving for college
+Outdoor leisure; Saving for college;
 
 Soccer moms/dads
 
 ## Suburban Attainment D18
 
-Age: 51–65, $50–75k
+Age: 51-65, $50-75k
 
 Single family, 3
 
-Age of children: 13–18
+Age of children: 13-18
 
 Tech Use: Below Average
 
-Recially diverse; Politically liberal; Power shoppers; Active lifestyles; Jazz listeners; Brick and mortar shoppers
+Racially diverse; Politically liberal;
+
+Power shoppers; Active lifestyles;
+
+Jazz listeners; Brick and
+
+mortar shoppers
 
 ## E THRIVING BOOMERS
 
-## Full Pockets, Empty Nests E19
+### Full Pockets. Empty Nests E19
 
 Age: 51-65, $50-74k
 
@@ -2252,7 +2254,13 @@ Single family, 1
 
 Tech Use: Below Average
 
-Empty nesters; Highly educated; City dwellers; Environmental advocates; Well-traveled; Fitness minded
+Empty nesters; Highly educated;
+
+City dwellers; Environmental
+
+advocates; Well-traveled;
+
+Fitness minded
 
 ## No Place Like Home E20
 
@@ -2264,7 +2272,7 @@ Age of children: 0-3
 
 Tech Use: Below Average
 
-Smart shoppers: Contribute to charities: Multi-generational homes: Teilgaters: Financially informed: Conservative values
+Smart shoppers; Contribute to charities; Multi-generational homes; Tailgaters; Financially informed; Conservative values
 
 ## Unspoiled Splendor E21
 
@@ -2272,13 +2280,19 @@ Single family, 2
 
 Tech Use: Below Average
 
-Price conscious: Politically conservative; Do-it-yourselfers; NASCAR families; Outdoor enthusiasts; Domestic travelers
+Price conscious: Politically
+
+conservative: Do-it-yourselfers;
+
+NASCAR fanatics: Outdoor
+
+enthusiasts: Domestic travelers
 
 ## F PROMISING FAMILIES
 
 ## Fast Track Couples F22
 
-Age: 31~35, $100-12/k
+Age: 31-35, $100-124k
 
 Single family, 2
 
@@ -2310,6 +2324,8 @@ Credit revolver
 
 ## Status Seeking Singles 024
 
+Status: Seeing Singles 0/24
+
 Age: 36-45, $50-74k
 
 Single family, 1
@@ -2320,7 +2336,7 @@ Single city dweller; Highly educated; Upwardly mobile; Professionals; Physically
 
 ## Urban Edge G25
 
-Age: 25-30, $50-74k
+Age: 25-30, $30-74K
 
 Multi-family: 101+, 1
 
@@ -2328,15 +2344,15 @@ Tech Use: Above Average
 
 Progressive views: Urban-
 
-dwellers: Environmental
+dwellers; Environmental
 
-advocates: Ambitious: Highly
+advocates; Ambitious; Highly
 
-educated: Exercise enthusiasts
+educated; Exercise enthusiasts
 
-## H MIDDLE-CLASS MELTING POT
+H MIDDLE-CLASS MELTING POT
 
-## Birkenstocks and Beemers H27
+## Birkenstocks and Beemers
 
 Age: 46-50, $50-74k
 
@@ -2346,11 +2362,11 @@ Age of children: 13-18
 
 Tech Use: Below Average
 
-Suburb Living: Active investors;
+Suburb living: Active investors;
 
-Comfortable spending: Yogis;
+Comfortable spending; Yogis;
 
-Charitable giving: Outdoor activities
+Charitable giving; Outdoor activities
 
 ## Destination Recreation H29
 
@@ -2362,21 +2378,25 @@ Age of children: 13-18
 
 Tech Use: Below Average
 
-Risk takers; Entrepreneurial spirit; Money isn't everything; Sports focused; Outdoor recreation; Price conscious
+Risk takers; Entrepreneurial spirit; Money isn't everything;
+
+Sports focused; Outdoor recreation; Price conscious
 
 ## Everyday Moderates H28
 
-Age: 51-65, $60-74K
-
-Single family: 2
+Single family, 2
 
 Age of children: 13-18
 
 Tech Use: Excellent
 
-Credit aware: Comfortable
+Credit aware; Comfortable
 
-Living: Brand conscious; Fashion orientated; Financially alert; Middle of the road views
+living; Brand conscious; Fashion
+
+orientated; Financially alert;
+
+Middle of the road views
 
 ## Progressive Potpourri H26
 
@@ -2388,13 +2408,13 @@ Age of children: 13-18
 
 Tech Use: Below Average
 
-Bilingual: Ethnically diverse; Urban
+Bilingual; Ethnically diverse; Urban
 
 centric; Status spenders; Family
 
 abroad; Comfortable lifestyles
 
-## IFAMILYUNION
+## FAMILY UNION
 
 ## Balance and Harmony [33]
 
@@ -2406,19 +2426,19 @@ Age of children: 10-12
 
 Tech Use: Excellent
 
-Bilingual households: Roots abroad; Blue-collar income; Athletic fitness; Soccer fans; Financially curious
+Bilingual households; Roots abroad; Blue-collar income; Athletic fitness; Soccer fans; Financially curious
 
 ## Blue Collar Comfort 131
 
 Age: 36-45, $50-74k
 
-Single family: 5+
+Single family, 5+
 
 Age of children: 13-18
 
 Tech Use: Excellent
 
-Multi-generational households:
+Multi-generational households;
 
 Patriotic; Middle class comfort;
 
@@ -2426,7 +2446,7 @@ Older homes; Union workers;
 
 Bargain hunters
 
-## Steodfast Conventionalists 132
+## Steadfast Conventionalists 132
 
 Age: 51-65, $50-74k
 
@@ -2436,7 +2456,7 @@ Age of children: 10-12
 
 Tech Use: Excellent
 
-Ethnically diverse: Foreign travelers; Family abroad; Limited investments; High school educated; Health conscious
+Ethnically diverse; Foreign travelers; Family abroad; Limited investments; High school educated; Health conscious
 
 ## Stock Cars and State Parks 130
 
@@ -2452,7 +2472,7 @@ Country living: Outdoor activities; Blue-collar jobs; Family-centric activities;
 
 ## JAUTUMN YEARS
 
-## Aninn in Place J34
+## Aging in Place J34
 
 Age: 66-75, $50-74k
 
@@ -2460,11 +2480,11 @@ Single family: 2
 
 Tech Use: Very Poor
 
-Retired: Fine arts appreciation
+Retired: Fine arts appreciation;
 
 Financially secure: AARP
 
-members: Avid newspaper reader
+members: Avid newspaper reader;
 
 Republican
 
@@ -2476,7 +2496,7 @@ Single family, 2
 
 Tech Use: Very Poor
 
-Country Living: Mosted educations; Risk adverse; Outdoor activities; Traditional media; Aftermarket buyers
+Country Living; Modest educations; Risk adverse; Outdoor activities; Traditional media; Aftermarket buyers
 
 ## Settled and Sensible J36
 
@@ -2484,13 +2504,17 @@ Single family, 2
 
 Tech Use: Very Poor
 
-Humble Living: Modest spending: Limited financial savings:
+Humble living; Modest spending;
 
-Retired; Stable lifestyle: Limited internet activity
+Limited financial savings;
+
+Retired; Stable lifestyle;
+
+Limited internet activity
 
 ## KSIGNIFICANTSINGLES
 
-Behemian Groove K40
+Bohemian Groove K40
 
 Age: 51-65, <$15k
 
@@ -2498,13 +2522,13 @@ Single family, 1
 
 Tech Use: Very Poor
 
-Apartment dwellers: Single adults;
+Apartment dwellers; Single adults;
 
 Environmentally sympathetic;
 
 Modest living; Value-conscious
 
-shoppers: Eclectic interests
+shoppers; Eclectic interests
 
 ## Gotham Blend K38
 
@@ -2528,7 +2552,7 @@ Single family, 1
 
 Tech Use: Excellent
 
-City apartment living: Family abroad; Ethnicity diverse; Most investments; Digitally dependent; Youthful perseverance
+City apartment living; Family abroad; Ethnically diverse; Modest Investments; Digitally dependent; Youthful perseverance
 
 ## Wired for Success K37
 
@@ -2540,9 +2564,9 @@ Tech Use: Above Average
 
 Conspicuous consumption; Status seekers; Digital media gurus; Value education; Liberal household; Active lifestyles
 
-## L BLUE SKY BOOMERS
+## BLUE SKY BOOMERS
 
-## Booming and Consuming L41 Aee:51-65 $50-76k
+## Booming and Consuming L41 Age: 51-65, $50-74k   Single family: 1
 
 Age: 51-65, $50-74k
 
@@ -2550,31 +2574,23 @@ Single family, 1
 
 Tech Use: Below Average
 
-Busy social lives; Diversified
-
-Investments; Home and garden
-
-enthusiasts; Open-minded;
-
-Balanced shoppers;
-
-Disposable income
+Busy social lives; Diversified investments; Home and garden enthusiasts; Open-minded; Balanced shoppers; Disposable income
 
 ## Homemade Happiness L43
 
-Age: 51-65, $50-74k
+Age: 51-65; $50-74k
 
-Single family. 1
+Single family, 1
 
 Tech Use: Very Poor
 
-Humble rural living: Hunting/
+Humble rural living; Hunting/
 
-fishing: Blue-collar and
+fishing; Blue-collar and
 
-agricultural jobs: Cash not credit:
+agricultural jobs; Cash not credit;
 
-Pragmatic shoppers: Traditional
+Pragmatic shoppers; Traditional
 
 family values
 
@@ -2588,9 +2604,9 @@ Tech Use: Above Average
 
 Philanthropist; Deeply rooted; Single adults; Bargain hunters; Liberal; Clubs and volunteering
 
-## CENTRAL INDUSTRIA
+## ༡༩༦༥ལོ།་༡༤༧༠ལོ།་༡༤༠༦ལོ
 
-## Diapers and Debit Cards M45
+## Diapers and Debit Cards M45 App:31-35 $35-49k
 
 Single family, 5+
 
@@ -2598,7 +2614,7 @@ Age of children: 0-3
 
 Tech Use: Excellent
 
-Rural living: Home-based family activities: Enjoy bargain hunting; Middle of the road politics: Early childrearing years; Bowling and pool leagues
+Rural living: Home-based family activities: Enjoy bargain hunting; Middle of the road politics; Early childrearing years; Bowling and pool leagues
 
 ## Red, White and Bluegrass M44
 
@@ -2614,8 +2630,6 @@ Family-centered activities: Rural communities; Working-class lifestyles; Racing 
 
 ## N PASTORAL PRIDE
 
-## Countryed Pragmatics N47
-
 Single family, 1
 
 Age of children: 13-18
@@ -2630,11 +2644,13 @@ Modest housing; Active outdoor
 
 Lifestyles; Risk takers
 
+## Countryed Pragmatics N47
+
 ## True Grit Americans N46
 
 Age: 51-65, $50-74k
 
-Single family, 5+
+Single family; 5+
 
 Age of children: 0-3
 
@@ -2646,11 +2662,9 @@ spend; Aspirational;
 
 Multigenerational households;
 
-Modest educations; Status
+Modest education; Status
 
 shoppers
-
-## Rural Southern Bliss N48
 
 Age: 36-45, $50-74k
 
@@ -2660,35 +2674,27 @@ Age of children: 13-18
 
 Tech Use: Very Poor
 
-Rural residences: Live within means; Outdoor activities; After-market buyers: Practical priorities; Cowboy values
+Rural residences; Live within
 
-## Touch of Tradition N49
+means; Outdoor activities;
+
+After-market buyers; Practical
+
+priorities; Cowboy values
+
+## Rural Southern Bliss N48
 
 Multi-family: 101+ units, 1
 
 Tech Use: Very Poor
 
-University towns: Single adults;
+University towns; Single adults; Risk takers; Active lifestyles; Politically disengaged; Well-educated
 
-Risk takers: Active lifestyles;
-
-Politically disengaged: Well-educated
-
-### Colleges and Cafes 053 Ace: 19-24. $<15k
-
-O SINGLES
-
-Age: 36-45, $35-49k
-
-Single family, 1
-
-Age of children: 13-18
-
-Tech Use: Very Poor
-
-Frugal: Working-class sensibility; Home-based activities; Sports TV; Remote settings; Hunting/fishing
+### Colleges and Cafes 053 Age: 19-24. $<15k
 
 ## Digital Dependents 051
+
+O SINGLES
 
 Single family, 1
 
@@ -2698,11 +2704,15 @@ Tech Use: Excellent
 
 Ambitious: Appearances are
 
-Important: Single adults
+Important: Single adults;
 
-Outdoor activities: Music lovers
+Outdoor activities; Music lovers;
 
 Digitally savvy
+
+## Touch of Tradition N49
+
+## Family Troopers 055
 
 Age: 25-30, <$15k
 
@@ -2722,7 +2732,17 @@ Active social lives
 
 ## Full Steam Ahead 050
 
-Age: 36-45, <$15k
+Age: 36-45, $35-49K
+
+Single family, 1
+
+Age of children: 13-18
+
+Tech Use: Very Poor
+
+Frugal: Working-class sensibility; Home-based activities; Sports TV; Remote settings; Hunting/fishing
+
+Age: 36-45, <$15K
 
 Multi-family: 101+ units, 1
 
@@ -2740,13 +2760,13 @@ Multi-family: 101+ units, 1
 
 Tech Use: Excellent
 
-Career-driven: Urban-centric;
+Career-driven; Urban-centric;
 
-Digitally dependent: Active social lives; Gym memberships; Music fan
+Digitally dependent; Active social lives; Gym memberships; Music fan
 
 ## Urban Ambition 052
 
-Age: 31-35, $<15k
+Age: 31-35, <15k
 
 Multi-family: 5-9 units, 1
 
@@ -2754,13 +2774,13 @@ Age of children: 13-18
 
 Tech Use: Very Poor
 
-Racially diverse: Singles and single parents; City apartment renters; Music hip; Technology adapting; Video games
+Racially diverse; Singles and single parents; City apartment renters; Music hip; Technology adapting; Video games
 
 P CULTURAL CONNECTIONS
 
 ## Expanding Horizons P69
 
-Age: 36-45, $35-49K
+Age: 36-45, $35-49k
 
 Single family, 5+
 
@@ -2768,27 +2788,21 @@ Age of children: 10-12
 
 Tech Use: Excellent
 
-Blue-collar jobs; Bilingual; Style conscious; Budget constraints; Proteins and teens; Team sports
+Blue-collar jobs; Bilingual; Style conscious; Budget constraints; Preteens and teens; Team sports
 
 ## Heritage Heights P58
 
 Age: 36-45, <$15k
 
-Multi-family: 2 units, 1
+Multi-family: 2 units; 1
 
 Age of children: 13-18
 
 Tech Use: Excellent
 
-Ethnically eclectic; Fashion
+Ethnically eclectic; Fashion forward; Artistically inclined; Bilingual; Single parents; Appearances matter
 
-forward; Artistically inclined;
-
-Bilingual; Single parents;
-
-Appearances matter
-
-## Humble Beginnings P61
+## Humble Beginnings P61 Age: 36-65 $≤15k
 
 Multi-family: 101+ units, 1
 
@@ -2804,15 +2818,15 @@ Family abroad; Style on a budget
 
 ## Mid-scale Medley P56
 
-Age: 36-45, $50-74K
+Age: 36-45, $50-74k
 
-Single family. 1
+Single family, 1
 
 Age of children: 13-18
 
 Tech Use: Below Average
 
-Modest living: Single adults;
+Modest living; Single adults;
 
 Trendsetters; Cash over credit;
 
@@ -2820,7 +2834,7 @@ Outdoor leisure; Family abroad
 
 ## Modest Metro Means P57
 
-Age: 51-65, <15k
+Age: 51-65, $<15k
 
 Multi-family: 2 units, 1
 
@@ -2830,9 +2844,11 @@ Tech Use: Very Poor
 
 Public transportation: Ethnically diverse; Single parents; Rental housing; TV watchers; Opportunity seekers
 
+## Striving Forward P60
+
 Striving Forward P60
 
-Age: 35-45, <15k
+Age: 36-45, $<15k
 
 Multi-family: 5-9 units, 1
 
@@ -2840,11 +2856,15 @@ Age of children: 10-12
 
 Tech Use: Excellent
 
-Multi-ethnic: Ambitious; Single parents; Family activities; Active athletes; Fashionable
+Multi-ethnic: Ambitious;
+
+Single parents; Family activities;
+
+Active athletes; Fashionable
 
 ## Q GOLDEN YEAR GUARDIANS
 
-## Footloose and Family Free Q63
+## Footlease and Family Free Q63
 
 Age: 76+, $15-24k
 
@@ -2858,11 +2878,11 @@ Active social lives; Well-Invested;
 
 Financially secure
 
-## Reaping Rewards Q62
-
 ## Town Elders Q64
 
-Single family, 2
+## Reaping Rewards Q62
+
+Single family, 2.
 
 Tech Use: Very Poor
 
@@ -2890,13 +2910,13 @@ purchases; Rural lifestyle
 
 Multi-family: 101+ units, 1 Tech Use: Very Poor
 
-Discount shoppers: Retirement residences; TV entertainment; Active leisure lives; Active health maintenance; Avoid newspaper readers
+Discount shoppers: Retirement residences; TV entertainment; Active leisure lives; Active health maintenance; Avid newspaper readers
 
-## R ASPIRATIONAL FUSION
+## RASPIRATIONAL FUSION
 
-## Dare to Dream R66
+### Dare to Dream R66 Area: 26.30 $15k
 
-Age: 26-30, <$15K
+Age: 28-30, $75K
 
 Multi-family: 5-9 units, 1
 
@@ -2904,11 +2924,13 @@ Age of children: 13-18
 
 Tech Use: Above Average
 
-Single parents: Apartment dwellers
+Single parents: Apartment dwellers;
 
 Bilingual: Brand-conscious; Team sports: Window-shoppers
 
 ## Hope for Tomorrow R67
+
+Age: 19-24, $15K
 
 Single family, 1
 
@@ -2916,17 +2938,11 @@ Age of children: 13-18
 
 Tech Use: Excellent
 
-Single parents: Striving for
-
-more; City Living: Shopping as
-
-entertainment; Seeking approval;
-
-Cash not credit
+Single parents; Striving for more; City Living; Shopping as entertainment; Seeking approval; Cash not credit
 
 ## S ECONOMIC CHALLENGES
 
-## Small Town Shallow Pockets $68
+## Small Town Shallow Packets $68
 
 Age: 51-65, <$15k
 
@@ -2950,21 +2966,29 @@ Age of children: 13-18
 
 Tech Use: Excellent
 
-Rental housing: Rural towns;
+Rental housing; Rural towns;
 
-Bluecollar jobs: Simple lifestyles;
+Bluecollar jobs; Simple lifestyles;
 
-Bargain hunters: Status shoppers
+Bargain hunters; Status shoppers
 
-## Tough Times S71
+## Tough Times 571
 
-Multi-family: 101+ units, 1 Tech Use: Excellent
+Age: 51-65, <$15k
 
-City renters: Ethnically diverse; Brand conscious; Aspirational; Limited budgets; Appearances matter
+Multi-family: 101+ units, 1
+
+Tech Use: Excellent
+
+City renters: Ethnically diverse;
+
+Brand conscious: Aspirational;
+
+Limited budgets;
+
+Appearances matter
 
 ## Urban Survivors 569
-
-Age: 51-65, <$15K
 
 Single family, 1
 
@@ -3754,7 +3778,7 @@ WEST LAKE PUD - SOUTH LYON, MI
 
 *[Image or figure on this page; see the original.]*
 
-<table><tr><td rowspan="2">15-Min Count Period Beginning At</td><td colspan="3">Dixboro Road (Northbound)</td><td colspan="3">Dixboro Road (Southbound)</td><td colspan="3">10 Mile Road (Eastbound)</td><td colspan="3">10 Mile Road (Westbound)</td><td rowspan="2">Total</td><td rowspan="2">Hourly Totals</td></tr><tr><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td></tr><tr><td>7:00 AM</td><td>0</td><td>0</td><td>76</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>163</td><td>12</td><td>0</td><td>0</td><td>250</td><td></td></tr><tr><td>7:15 AM</td><td>4</td><td>0</td><td>32</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>73</td><td>5</td><td>0</td><td>18</td><td>80</td><td>212</td></tr><tr><td>7:30 AM</td><td>2</td><td>0</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>60</td><td>3</td><td>0</td><td>3</td><td>66</td><td>141</td></tr><tr><td>7:45 AM</td><td>1</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>111</td><td>6</td><td>0</td><td>0</td><td>38</td><td>160</td></tr><tr><td>8:00 AM</td><td>1</td><td>0</td><td>4</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>87</td><td>3</td><td>0</td><td>0</td><td>55</td><td>151</td></tr><tr><td>8:15 AM</td><td>2</td><td>0</td><td>6</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>96</td><td>2</td><td>0</td><td>2</td><td>54</td><td>163</td></tr><tr><td>8:30 AM</td><td>4</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>74</td><td>3</td><td>0</td><td>3</td><td>57</td><td>145</td></tr><tr><td>8:45 AM</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>88</td><td>4</td><td>0</td><td>1</td><td>50</td><td>144</td></tr><tr><td rowspan="2">Peak 15-Min Flowrates</td><td colspan="3">Northbound</td><td colspan="3">Southbound</td><td colspan="3">Eastbound</td><td colspan="3">Westbound</td><td rowspan="2" colspan="2">Total</td></tr><tr><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td></tr><tr><td>All Vehicles</td><td>0</td><td>0</td><td>24</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>652</td><td>48</td><td>0</td><td>76</td><td>196</td><td>1000</td></tr><tr><td>Heavy Trucks Buses</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>12</td><td>12</td><td>0</td><td>20</td><td>4</td><td>48</td></tr><tr><td>Pedestrians</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Bicycles</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Scooters</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+<table><tr><td rowspan="2">15-Min Count Period Beginning At</td><td colspan="4">Dixboro Road (Northbound)</td><td colspan="4">Dixboro Road (Southbound)</td><td colspan="4">10 Mile Road (Eastbound)</td><td colspan="4">10 Mile Road (Westbound)</td><td rowspan="2">Total</td><td rowspan="2">Hourly Totals</td></tr><tr><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td></tr><tr><td>7:00 AM</td><td>0</td><td>0</td><td>6</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>10</td><td>163</td><td>12</td><td>0</td><td>19</td><td>49</td><td>1</td><td>0</td><td>250</td><td></td></tr><tr><td>7:15 AM</td><td>4</td><td>0</td><td>32</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>73</td><td>5</td><td>0</td><td>18</td><td>80</td><td>0</td><td>0</td><td>212</td><td></td></tr><tr><td>7:30 AM</td><td>2</td><td>0</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>60</td><td>3</td><td>0</td><td>3</td><td>66</td><td>0</td><td>0</td><td>141</td><td></td></tr><tr><td>7:45 AM</td><td>1</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>111</td><td>6</td><td>0</td><td>0</td><td>38</td><td>0</td><td>0</td><td>160</td><td>763</td></tr><tr><td>8:00 AM</td><td>1</td><td>0</td><td>4</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>87</td><td>3</td><td>0</td><td>0</td><td>55</td><td>0</td><td>0</td><td>151</td><td>664</td></tr><tr><td>8:15 AM</td><td>2</td><td>0</td><td>6</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>96</td><td>2</td><td>0</td><td>2</td><td>54</td><td>0</td><td>0</td><td>163</td><td>615</td></tr><tr><td>8:30 AM</td><td>4</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>74</td><td>3</td><td>0</td><td>3</td><td>57</td><td>0</td><td>0</td><td>145</td><td>619</td></tr><tr><td>8:45 AM</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>88</td><td>4</td><td>0</td><td>1</td><td>50</td><td>0</td><td>0</td><td>144</td><td>603</td></tr><tr><td rowspan="2">Peak 15-Min Flowrates</td><td colspan="4">Northbound</td><td colspan="4">Southbound</td><td colspan="4">Eastbound</td><td colspan="4">Westbound</td><td rowspan="2" colspan="2">Total</td></tr><tr><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td></tr><tr><td>All Vehicles</td><td>0</td><td>0</td><td>24</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>652</td><td>48</td><td>0</td><td>76</td><td>196</td><td>4</td><td>0</td><td colspan="2">1000</td></tr><tr><td>Heavy Trucks Buses</td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>12</td><td>12</td><td></td><td>20</td><td>4</td><td>0</td><td></td><td colspan="2">48</td></tr><tr><td>Pedestrians</td><td>0</td><td></td><td></td><td></td><td></td><td>0</td><td></td><td></td><td></td><td>0</td><td></td><td></td><td></td><td>0</td><td></td><td></td><td colspan="2">0</td></tr><tr><td>Bicycles</td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td></td><td colspan="2">0</td></tr><tr><td>Scooters</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr></table>
 
 <a id="p135"></a>
 *[Page 135 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=135)* (read by OCR; check the original)

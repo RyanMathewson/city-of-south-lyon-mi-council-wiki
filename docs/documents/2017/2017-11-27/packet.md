@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "b7b34868f2a747db426e26423c26046d3636c7cf686e7d48818fcc90549c496a"
 source_bytes: 14237300
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 142
 ocr_pages: 142
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2017-11-27
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%2011-27-17.pdf?t=202108310733100) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `b7b34868f2a747db…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%2011-27-17.pdf?t=202108310733100) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `b7b34868f2a747db…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%2011-27-17.pdf?t=202108310733100#page=1)* (read by OCR; check the original)
@@ -4254,11 +4254,21 @@ Cost data is based on actual project costs as reported by 60 HomeAdvisor members
 
 ## Roofing Contractors
 
-Find Top-Rated Roofing Pros in Your Area. Get 4 Free Bids Today.homeadvisor.com
+Find Top-Rated Roofing Pros in Your Area. Get 4 Free Bids Today!
 
-<table><tr><td colspan="6">Updated: August 2017</td></tr><tr><td>Asphalt Shingle Roofing Installation Calculator Zip Code 48178 Square Feet* Update Item details Qty Low High All American Remodeling - Asphalt Shingle Roof Cost Non-discounted retail pricing for: Asphalt composition shingle. 2.2 lbs per SF. UL Class A fire resistance and 110 mph wind resistance. 30 yr warranty. Quantity includes typical waste overage, material for repair and local delivery.</td><td>2562 square feet $2,096.49 $2,991.13 Local MI Roofing Company Asphalt. Metal Roofing. Residential Flat Roofs. 30+ years experience. Call Now! allamericanremodeling.com Roofers in Your Area Browse Professional Roofers Nearby. Enter Your Zip Search Online Now! network.com/Roofers Asphalt Shingle Roof Labor, Basic Basic labor to install asphalt shingle roof with favorable site conditions. Install drip edge/eave trim, and valley flashing. Install roofing paper / membrane. Layout, fabricate, overlap and secure asphalt shingles per manufacturer instructions. Includes planning, equipment and material acquisition, area preparation and protection, setup and cleanup.</td><td colspan="4">53.2 hrs $3,665.57 $4,443.11 Local 5-Star Roofing Pros - Free Quotes, Verified Review Find the Best Roofing Contractors in Your Hometown Get Multiple Free Quotes. hometownroofingcontractors.com/roofing Roofing Estimates Get Free Estimates From Top-Rated Roofing Contractors In Your Area. freecontractormatch.com Hiring Local Professionals Our FREE homewyse hiring helps you find and hire great quality craftsmanship at fair price on your project. Sponsored Services</td></tr><tr><td>Asphalt Shingle Roof Job Supplies Cost of related materials and supplies typically required to install asphalt shingle roof including: fasteners, underlayment, drip edges and basic flashing. Asphalt Shingle Roof Equipment Allowance Job related costs of specialty equipment used for job quality and efficiency, including: Roof jacks, pneumatic roofing nailer, shingle cutting tools. Daily rental. Consumables extra. Option: Tear Off Roof Remove existing roofing material, roof paper, vents, jacks and flashing, gutters if needed. Dispose of debris. Sweep area clean of all nails /staples. Asphalt Shingle Roof Debris Disposal</td><td>2562 square feet 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 job 1 Job 1 Job 1 Job 1 Job</td><td></td><td></td><td></td><td></td></tr></table>
+homeadvisor.com
 
-## Share
+<table><tr><td>Item details</td><td>Qty</td><td>Low</td><td>High</td><td>Share</td></tr><tr><td>Asphalt Shingle Roof Cost
+Non-discounted retail pricing for: Asphalt composition shingle.
+2.2 lbs per SF. UL Class A fire resistance and 110 mph wind resistance. 30 yr warranty. Quantity includes typical waste overage, material for repair and local delivery.</td><td>2562</td><td>$2,096.49</td><td>$2,991.13</td><td>108</td></tr><tr><td>Asphalt Shingle Roof Labor, Basic
+Basic labor to install asphalt shingle roof with favorable site conditions. Install drip edge/eave trim, and valley flashing. Install roofing paper / membrane. Layout, fabricate, overlap and secure asphalt shingles per manufacturer instructions. Includes planning, equipment and material acquisition, area preparation and protection, setup and cleanup.</td><td>53.2 hrs</td><td>$3,665.57</td><td>$4,443.11</td><td>All American Remodeling - Local MI Roofing Company
+Asphalt. Metal Roofing, Residential Flat Roofs. 30+ years experience. Call Now! allamericanremodeling.com</td></tr><tr><td>Asphalt Shingle Roof Job Supplies
+Cost of related materials and supplies typically required to install asphalt shingle roof including: fasteners, underlayment, drip edges and basic flashing.</td><td>2562</td><td>$833.67</td><td>$948.35</td><td>Roofers in Your Area
+Browse Professional Roofers Nearby. Enter Your Zip Search Online Now! networkx.com/Roofers</td></tr><tr><td>Asphalt Shingle Roof Equipment Allowance
+Job related costs of specialty equipment used for job quality and efficiency, including: Roof jacks, pneumatic roofing nailer, shingle cutting tools. Daily rental. Consumables extra.</td><td>1 job</td><td>$53.17</td><td>$87.35</td><td>Local 5-Star Roofing Pros - Free Quotes, Verified Review Find the Best Roofing Contractors in Your Hometown Get Multiple Free Quotes. hometownroofingcontractors.com/roofing</td></tr><tr><td>Option: Tear Off Roof
+Remove existing roofing material, roof paper, vents, jacks and flashing, gutters if needed. Dispose of debris. Sweep area clean of all nails /staples.</td><td>53.5 hrs</td><td>$947.71</td><td>$4,469.84</td><td>Roofing Estimates
+Get Free Estimates From Top-Rated Roofing Contractors In Your Area. freecontractormatch.com</td></tr><tr><td>Asphalt Shingle Roof Debris Disposal</td><td>2400</td><td>$531.09</td><td>$604.25</td><td>Hiring Local Professionals
+Our FREE homewyse hiring helps you find and hire greget quality craftsmanship a fair price on your project.</td></tr></table>
 
 <a id="p125"></a>
 *[Page 125 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%2011-27-17.pdf?t=202108310733100#page=125)* (read by OCR; check the original)

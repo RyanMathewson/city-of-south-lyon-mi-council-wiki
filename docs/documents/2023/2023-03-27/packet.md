@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/3-27-23%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "0ccc2d315ed4c0d9dd27260f8a821e7c6dd664e822c54ea1e00c72b6d77420b4"
 source_bytes: 10296634
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 64
 ocr_pages: 64
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2023-03-27
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/3-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202303231536190) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `0ccc2d315ed4c0d9…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/3-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202303231536190) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `0ccc2d315ed4c0d9…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/3-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202303231536190#page=1)* (read by OCR; check the original)
@@ -1453,7 +1453,7 @@ Address the needs of persons with OUD and any co-occurring SUD/MH conditions who
 
 5. Provide evidence-informed treatment, including MAT, recovery support, harm reduction, or other appropriate services to individuals with OUD and any co-occurring SUD/MH conditions who are leaving jail or prison or have recently left jail or prison, are on probation or parole, are under community corrections supervision, or are in re-entry programs or facilities.
 
-6. Support critical time interventions ("CTI"), particularly for individuals living with dual-diagnosis OUD/serious mental illness, and services for individuals who face immediate risks and service needs and risks upon release from correctional settings.
+6. Support critical time interventions (“CTP”), particularly for individuals living with dual-diagnosis OUD/serious mental illness, and services for individuals who face immediate risks and service needs and risks upon release from correctional settings.
 
 7. Provide training on best practices for addressing the needs of criminal justice-involved persons with OUD and any co-occurring SUD/MH conditions to law enforcement, correctional, or judicial personnel or to providers of treatment, recovery, harm reduction, case management, or other services offered in connection with any of the strategies described in this section.
 

@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/City%20Council%20Packet%2011-14-16%20se
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "42541c0bcae43aac8a6bca9139278f385c0f6b200d1e266156b583547c547954"
 source_bytes: 2229952
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 57
 ocr_pages: 57
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2016-11-14
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/City%20Council%20Packet%2011-14-16%20set%204.pdf?t=202108310733070) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `42541c0bcae43aac…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/City%20Council%20Packet%2011-14-16%20set%204.pdf?t=202108310733070) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `42541c0bcae43aac…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/City%20Council%20Packet%2011-14-16%20set%204.pdf?t=202108310733070#page=1)* (read by OCR; check the original)
@@ -936,7 +936,7 @@ City Attorney Retainer Work
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/City%20Council%20Packet%2011-14-16%20set%204.pdf?t=202108310733070#page=35)* (read by OCR; check the original)
 
-<table><tr><td>ity of South Lyon</td><td>Page 4</td></tr><tr><td colspan="2">ity Attorney Retainer Work</td></tr><tr><td></td><td>Hours Amount</td></tr><tr><td>9/7/2016 DWG Receipt/review of Judge Reeds' 9/14/16 docket</td><td>0.10</td></tr><tr><td>9/8/2016 DWG Receipt/review of Appearance and Request for Discovery</td><td>0.20</td></tr><tr><td>DWG Receipt/review of Notice to Appear</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Motion and/or Order to Show Cause</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Motion and Summons Regarding Probation Violation</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Judge Batchik's 9/15/16 docket</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Judge Bondy's 9/15/16 docket</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Judge Law's 9/15/16 docket</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Judge Reed's 9/15/16 docket</td><td>0.10</td></tr><tr><td>9/12/2016 DWG Receipt/review of Judge Law's 9/16/16 docket</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Notice to Appear</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Notice to Appear</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Motion to Suppress Evidence and Dismiss Charges; Preparation of email correspondence to requesting copy of any in-car video from incident</td><td>0.30</td></tr><tr><td>DWG Receipt/review of Notice to Appear</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Notice to Appear</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Notice to Appear</td><td>0.10</td></tr></table>
+<table><tr><td>ity of South Lyon</td><td>Page 4</td></tr><tr><td colspan="2">ity Attorney Retainer Work</td></tr><tr><td></td><td>Hours Amount</td></tr><tr><td>9/7/2016 DWG Receipt/review of Judge Reeds' 9/14/16 docket</td><td>0.10</td></tr><tr><td>9/8/2016 DWG Receipt/review of Appearance and Request for Discovery</td><td>0.20</td></tr><tr><td>DWG Receipt/review of Notice to Appear</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Motion and/or Order to Show Cause</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Motion and Summons Regarding Probation Violation</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Judge Batchik's 9/15/16 docket</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Judge Bondy's 9/15/16 docket</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Judge Law's 9/15/16 docket</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Judge Reeds' 9/15/16 docket</td><td>0.10</td></tr><tr><td>9/12/2016 DWG Receipt/review of Judge Law's 9/16/16 docket</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Notice to Appear</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Notice to Appear</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Motion to Suppress Evidence and Dismiss Charges; Preparation of email correspondence to ____________ requesting copy of any in-car video from incident</td><td>0.30</td></tr><tr><td>DWG Receipt/review of Notice to Appear</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Notice to Appear</td><td>0.10</td></tr><tr><td>DWG Receipt/review of Notice to Appear</td><td>0.10</td></tr></table>
 
 <a id="p36"></a>
 *[Page 36 of the original](https://www.southlyonmi.org/City%20Council%20Packet%2011-14-16%20set%204.pdf?t=202108310733070#page=36)* (read by OCR; check the original)

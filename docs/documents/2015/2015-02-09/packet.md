@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "b76005302cc528261b7063c87da182ebfc2acef86f8793b6ec757c3cd764b6a5"
 source_bytes: 2635675
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 68
 ocr_pages: 68
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2015-02-09
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC021015REVISEDCCPACKET2-9-15-02102015100119.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `b76005302cc52826…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC021015REVISEDCCPACKET2-9-15-02102015100119.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `b76005302cc52826…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC021015REVISEDCCPACKET2-9-15-02102015100119.pdf?t=202108310732570#page=1)* (read by OCR; check the original)
@@ -1105,9 +1105,9 @@ Updating the Polices and Guidelines for Granting Exemption from Payment of Prope
 
 POSSIBLE COURSES OF ACTION: Approve/do not approve the Resolution Establishing the Polices and Guidelines for Granting Exemption from Payment of Property Taxes
 
-RECOMMENDATION: Approve the Resolution Establishing the Polices and Guidelines for Granting Exemption from Payment of Property Taxes
+RECOMMENDATION: Approve the Resolution Establishing the Policies and Guidelines for Granting Exemption from Payment of Property Taxes
 
-SUGGESTED MOTION: Motion by ___, supported by ___, to approve the Resolution Establishing the Polices and Guidelines for Granting Exemption from Payment of Property Taxes
+SUGGESTED MOTION: Motion by ___, supported by ___, to approve the Resolution Establishing the Policies and Guidelines for Granting Exemption from Payment of Property Taxes
 
 <a id="p37"></a>
 *[Page 37 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC021015REVISEDCCPACKET2-9-15-02102015100119.pdf?t=202108310732570#page=37)* (read by OCR; check the original)

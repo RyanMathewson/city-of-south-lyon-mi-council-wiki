@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/Council%20packet%20May%2013%202024.pdf?
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "f68c1c8cea4998ea0a4a78d272124552c090cc1595996a21d98143a388fa6c23"
 source_bytes: 9341974
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 226
 ocr_pages: 226
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2024-05-13
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/Council%20packet%20May%2013%202024.pdf?t=202405141323120) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `f68c1c8cea4998ea…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/Council%20packet%20May%2013%202024.pdf?t=202405141323120) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `f68c1c8cea4998ea…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/Council%20packet%20May%2013%202024.pdf?t=202405141323120#page=1)* (read by OCR; check the original)
@@ -675,17 +675,17 @@ Page: 1/5
 <a id="p27"></a>
 *[Page 27 of the original](https://www.southlyonmi.org/Council%20packet%20May%2013%202024.pdf?t=202405141323120#page=27)* (read by OCR; check the original)
 
-## O
-
 05/09/2024 12:44 PM
 
 User: PATRICIA
 
 DB: South Lyon
 
-CHECK REGISTER FOR CITY OF SOUTH LYON CHECK DATE FROM 04/11/2024 - 05/09/2024
+CHECK REGISTER FOR CITY OF SOUTH LYON
 
-<table><tr><td>Check Date</td><td>Check</td><td>Vendor Name</td><td>Description</td><td>Amount</td><td>Status</td></tr><tr><td>04/18/2024</td><td>90055</td><td>CONSUMERS ENERGY</td><td>SERVICE PERIOD 3/1/2024 - 3/27/2024, VA</td><td>2,271.04</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90056</td><td>CONSUMERS ENERGY</td><td>215 WHIPPLE ST SERVICE PERIOD 3/1/2024</td><td>507.55</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90057</td><td>CONSUMERS ENERGY</td><td>215 WHIPPLE ST GENERATOR SERVICE PERIOD</td><td>16.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90058</td><td>D & G NATURES WAY LAWN CARE</td><td>FERTILIZER PAUL BAKER PARK 3/21/2024</td><td>264.15</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90059</td><td>DAVID HANCOCK</td><td>ELECTION WORK 16 HRS. @ $12/HR.</td><td>192.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90060</td><td>DTE ENERGY</td><td>SERVICE PERIOD 3/1/2024 - 4/1/2024, VAR</td><td>874.34</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90061</td><td>DTE ENERGY</td><td>STREET LIGHTS MARCH 2024</td><td>10,515.67</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90062</td><td>BRIAN HAYES</td><td>REIMBURSEMENT FOR KITCHEN PROJECT SUPPL</td><td>105.33</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90063</td><td>HURON VALLEY AMBULANCE. INC</td><td>BLOOD DRAW SERVICES 2/19/2024</td><td>65.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90064</td><td>HURON VALLEY GUNS</td><td>SHOES</td><td>895.46</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90065</td><td>INTL UNION OF OPERATING ENG</td><td>PAYROLL DEDUCTION UNION DUES APRIL 2024</td><td>222.50</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90066</td><td>WOODROW MATNEY</td><td>CUSTODIAN SERVICES AT DEPOT 2/19/2024 -</td><td>684.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90067</td><td>MISDU</td><td>PAYROLL DEDUCTION ID 913659641</td><td>467.93</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90068</td><td>MISSIONSQUARE - 301149</td><td>MISSIONSQUARE 457 PLAN # 301149 FOR PPE</td><td>3,524.40</td><td>Open</td></tr><tr><td>04/18/2024</td><td>90069</td><td>PARKSIDE CLEANERS</td><td>EMBROIDERY</td><td>45.00</td><td>Open</td></tr><tr><td>04/18/2024</td><td>90070</td><td>PETER'S TRUE VALUE HARDWARE</td><td>STATEMENT MARCH 2024</td><td>1,747.97</td><td>Open</td></tr><tr><td>04/18/2024</td><td>90071</td><td>PURCHASE POWER</td><td>POSTAGE REFILL</td><td>200.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90072</td><td>ROSATI, SCHULTZ, JOPPICH</td><td>PROFESSIONAL SERVICES RENDERED THROUGH</td><td>8,670.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90073</td><td>VC3, INC.</td><td>OFFICE 365 SOFTWARE SERVICES BILLING FO</td><td>1,423.10</td><td>Open</td></tr><tr><td>04/18/2024</td><td>90074</td><td>WOW1 BUSINESS</td><td>SERVICE PERIOD 3/27/2024 - 4/26/2024</td><td>202.93</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90075</td><td>WOW1 BUSINESS</td><td>SERVICE PERIOD 4/6/2024 - 5/5/2024</td><td>54.97</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90076</td><td>DOUGLAS BAAKI</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90077</td><td>AUDRA BAKER</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90078</td><td>JARED BAKER</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90079</td><td>RONALD BARBOUR</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90080</td><td>JOSEPH CZAPSKI</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Open</td></tr><tr><td>04/18/2024</td><td>90081</td><td>CHRISTOPHER FAUGHT</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Open</td></tr><tr><td>04/18/2024</td><td>90082</td><td>SEAN S. HOYDIC</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90083</td><td>JAKE JACOBS</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Open</td></tr><tr><td>04/18/2024</td><td>90084</td><td>TIMOTHY RAAP</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90085</td><td>CHRISTOPHER SEDERLUND</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90086</td><td>TONY SROUFE</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90087</td><td>TRAVIS STEVENS</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Open</td></tr><tr><td>04/18/2024</td><td>90088</td><td>ASHLEY TOKARSKY</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90089</td><td>JOHN TOMANER</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90090</td><td>TIMOTHY WALTON</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>04/25/2024</td><td>90091</td><td>RED WING BUSINESS ADVANTAGE ACCOUNT</td><td>BOOTS - BLANKSTROM</td><td>100.00</td><td>Cleared</td></tr><tr><td>04/25/2024</td><td>90092</td><td>ADVANCE AUTO PARTS</td><td>REPLACEMENT WIPERS FOR 281</td><td>280.49</td><td>Open</td></tr><tr><td>04/25/2024</td><td>90093</td><td>AMAZON CAPITAL SERVICES</td><td>BATTERY JUMP BOXES</td><td>26.78</td><td>Open</td></tr><tr><td>04/25/2024</td><td>90094</td><td>RONALD BEASON</td><td>MILEAGE REIMBURSEMENT FOR WATER SEMINAR</td><td>667.18</td><td>Open</td></tr><tr><td>04/25/2024</td><td>90095</td><td>THADEUS LEVI BOGERT</td><td>MONTHLY COUNCIL PAY - APRIL 2024</td><td>20.91</td><td>Cleared</td></tr><tr><td>04/25/2024</td><td>90096</td><td>BS & A SOFTWARE</td><td>CEMETERY MANAGEMENT SUPPORT FEE 5/1/202</td><td>180.00</td><td>Open</td></tr><tr><td>04/25/2024</td><td>90097</td><td>CITY OF SOUTH LYON</td><td>335 S. WARREN UTILITY BILLING SERVICE P</td><td>580.00</td><td>Cleared</td></tr><tr><td>04/25/2024</td><td>90098</td><td>CSC</td><td>SECURITY SYSTEM SERVICE CHARGE & LABOR</td><td>246.26</td><td>Cleared</td></tr><tr><td>04/25/2024</td><td>90099</td><td>CORRIGAN OIL CO.</td><td>FUEL CHARGES</td><td>425.00</td><td>Cleared</td></tr><tr><td>04/25/2024</td><td>90100</td><td>CYNERGY PRODUCTS</td><td>SPOT LIGHT REPAIR ON VEHICLE #553</td><td>1,054.79</td><td>Cleared</td></tr><tr><td>04/25/2024</td><td>90101</td><td>DEWOLF & ASSOCIATES</td><td>FRONT LINE SUPERVISION TRAINING (BAKER,</td><td>172.50</td><td>Cleared</td></tr><tr><td>04/25/2024</td><td>90102</td><td>LISA DILG</td><td>MONTHLY COUNCIL PAY - APRIL 2024</td><td>1,785.00</td><td>Cleared</td></tr></table>
+CHECK DATE FROM 04/11/2024 - 05/09/2024
+
+<table><tr><td>Check Date</td><td>Check</td><td>Vendor Name</td><td>Description</td><td>Amount</td><td>Status</td></tr><tr><td>04/18/2024</td><td>90055</td><td>CONSUMERS ENERGY</td><td>SERVICE PERIOD 3/1/2024 - 3/27/2024, VA</td><td>2,271.04</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90056</td><td>CONSUMERS ENERGY</td><td>215 WHIPPLE ST SERVICE PERIOD 3/1/2024</td><td>507.55</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90057</td><td>CONSUMERS ENERGY</td><td>215 WHIPPLE ST GENERATOR SERVICE PERIOD</td><td>16.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90058</td><td>D & G NATURES WAY LAWN CARE</td><td>FERTILIZER PAUL BAKER PARK 3/21/2024</td><td>264.15</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90059</td><td>DAVID HANCOCK</td><td>ELECTION WORK 16 HRS. @ $12/HR.</td><td>192.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90060</td><td>DTE ENERGY</td><td>SERVICE PERIOD 3/1/2024 - 4/1/2024, VAR</td><td>874.34</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90061</td><td>DTE ENERGY</td><td>STREET LIGHTS MARCH 2024</td><td>10,515.67</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90062</td><td>BRIAN HAYES</td><td>REIMBURSEMENT FOR KITCHEN PROJECT SUPPL</td><td>105.33</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90063</td><td>HURON VALLEY AMBULANCE. INC</td><td>BLOOD DRAW SERVICES 2/19/2024</td><td>65.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90064</td><td>HURON VALLEY GUNS</td><td>SHOES</td><td>895.46</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90065</td><td>INTL UNION OF OPERATING ENG</td><td>PAYROLL DEDUCTION UNION DUES APRIL 2024</td><td>222.50</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90066</td><td>WOODROW MATNEY</td><td>CUSTODIAN SERVICES AT DEPOT 2/19/2024 -</td><td>684.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90067</td><td>MISDU</td><td>PAYROLL DEDUCTION ID 913659641</td><td>467.93</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90068</td><td>MISSIONSQUARE - 301149</td><td>MISSIONSQUARE 457 PLAN # 301149 FOR PPE</td><td>3,524.40</td><td>Open</td></tr><tr><td>04/18/2024</td><td>90069</td><td>PARKSIDE CLEANERS</td><td>EMBROIDERY</td><td>45.00</td><td>Open</td></tr><tr><td>04/18/2024</td><td>90070</td><td>PETER'S TRUE VALUE HARDWARE</td><td>STATEMENT MARCH 2024</td><td>1,747.97</td><td>Open</td></tr><tr><td>04/18/2024</td><td>90071</td><td>PURCHASE POWER</td><td>POSTAGE REFILL</td><td>200.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90072</td><td>ROSATI, SCHULTZ, JOPPICH</td><td>PROFESSIONAL SERVICES RENDERED THROUGH</td><td>8,670.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90073</td><td>VC3, INC.</td><td>OFFICE 365 SOFTWARE SERVICES BILLING FO</td><td>1,423.10</td><td>Open</td></tr><tr><td>04/18/2024</td><td>90074</td><td>WOW! BUSINESS</td><td>SERVICE PERIOD 3/27/2024 - 4/26/2024</td><td>202.93</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90075</td><td>WOW! BUSINESS</td><td>SERVICE PERIOD 4/6/2024 - 5/5/2024</td><td>54.97</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90076</td><td>DOUGLAS BAKI</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90077</td><td>AUDRA BAKER</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90078</td><td>JARED BAKER</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90079</td><td>RONALD BARBOUR</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90080</td><td>JOSEPH CZAPSKI</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Open</td></tr><tr><td>04/18/2024</td><td>90081</td><td>CHRISTOPHER FAUGHT</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Open</td></tr><tr><td>04/18/2024</td><td>90082</td><td>SEAN S. HOYDIC</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90083</td><td>JAKE JACOBS</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Open</td></tr><tr><td>04/18/2024</td><td>90084</td><td>TIMOTHY RAAP</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90085</td><td>CHRISTOPHER SEDERLUND</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90086</td><td>TONY SROUFE</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90087</td><td>TRAVIS STEVENS</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Open</td></tr><tr><td>04/18/2024</td><td>90088</td><td>ASHLEY TOKARSKY</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90089</td><td>JOHN TOMANER</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>04/18/2024</td><td>90090</td><td>TIMOTHY WALTON</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>04/25/2024</td><td>90091</td><td>RED WING BUSINESS ADVANTAGE ACCOUNT</td><td>BOOTS - BLANKSTROM</td><td>280.49</td><td>Open</td></tr><tr><td>04/25/2024</td><td>90092</td><td>ADVANCE AUTO PARTS</td><td>REPLACEMENT WIPERS FOR 281</td><td>26.78</td><td>Open</td></tr><tr><td>04/25/2024</td><td>90093</td><td>AMAZON CAPITAL SERVICES</td><td>BATTERY JUMP BOXES</td><td>667.18</td><td>Open</td></tr><tr><td>04/25/2024</td><td>90094</td><td>RONALD BEASON</td><td>MILEAGE REIMBURSEMENT FOR WATER SEMINAR</td><td>20.91</td><td>Cleared</td></tr><tr><td>04/25/2024</td><td>90095</td><td>THADEUS LEVI BOGERT</td><td>MONTHLY COUNCIL PAY - APRIL 2024</td><td>180.00</td><td>Open</td></tr><tr><td>04/25/2024</td><td>90096</td><td>BS & A SOFTWARE</td><td>CEMETERY MANAGEMENT SUPPORT FEE 5/1/202</td><td>580.00</td><td>Cleared</td></tr><tr><td>04/25/2024</td><td>90097</td><td>CITY OF SOUTH LYON</td><td>335 S. WARREN UTILITY BILLING SERVICE P</td><td>246.26</td><td>Cleared</td></tr><tr><td>04/25/2024</td><td>90098</td><td>CSC</td><td>SECURITY SYSTEM SERVICE CHARG & LABOR</td><td>425.00</td><td>Cleared</td></tr><tr><td>04/25/2024</td><td>90099</td><td>CORRIGAN OIL CO.</td><td>FUEL CHARGES</td><td>1,054.79</td><td>Cleared</td></tr><tr><td>04/25/2024</td><td>90100</td><td>CYNERGY PRODUCTS</td><td>SPOT LIGHT REPAIR ON VEHICLE #553</td><td>172.50</td><td>Cleared</td></tr><tr><td>04/25/2024</td><td>90101</td><td>DEWOLF & ASSOCIATES</td><td>FRONT LINE SUPERVISION TRAINING (BAKER,</td><td>1,785.00</td><td>Cleared</td></tr><tr><td>04/25/2024</td><td>90102</td><td>LISA DILG</td><td>MONTHLY COUNCIL PAY - APRIL 2024</td><td>180.00</td><td>Open</td></tr></table>
 
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/Council%20packet%20May%2013%202024.pdf?t=202405141323120#page=28)* (read by OCR; check the original)
@@ -2447,15 +2447,11 @@ The Mosaic USA family tree illustrates the major demographic and lifestyle polar
 <a id="p112"></a>
 *[Page 112 of the original](https://www.southlyonmi.org/Council%20packet%20May%2013%202024.pdf?t=202405141323120#page=112)* (read by OCR; check the original)
 
-*[Image or figure on this page; see the original.]*
-
 ## 71 Lifestyle Clusters - The Mosaic Experian Decision Analytics; 2020-2023
 
 ## A POWER ELITE
 
 ## American Royalty A01
-
-Age: 51-65 years, $250k
 
 Single Family, 5+
 
@@ -2463,9 +2459,9 @@ Age of children: 13-18
 
 Tech Use: Below Average
 
-Prestigious housing: Luxury living: Upscale cars: Healthy lifestyles: Charitable giving: World travelers
+Prestigious housing; Luxury living: Upscale cars; Healthy lifestyles; Charitable giving; World travelers
 
-Age: 36-45. $175-$199k
+Age: 36-45. $175-$199X
 
 Single family, 2
 
@@ -2485,21 +2481,15 @@ Age: 51-65 years, $250k
 
 Multi-family, 1
 
-Tech Uses: Excellent
+Tech Use: Excellent
 
-Upscale urban living: Busysocial
-
-Lives: Highly educated; Supporter
-
-of fine arts: Avid NY Times readers;
-
-Politically Liberal
+Upscale urban living; Busy social lives; Highly educated; Supporter of fine arts; Avid NY Times readers; Politically liberal
 
 ## Kids and Cabernet A03
 
 Single family, 5+
 
-Age of children: 10–12
+Age of children: 10-12
 
 Tech Use: Below Average
 
@@ -2521,7 +2511,7 @@ Age of children: 13-18
 
 Tech Use: Below Average
 
-Wealthy households: Educated; Digitally plugged-in; PTA members: Practical priorities; Travel enthusiasts
+Wealthy households; Educated; Digitally plugged-in; PTA members; Practical priorities; Travel enthusiasts
 
 ## Platinum Prosperity A02
 
@@ -2537,11 +2527,11 @@ Political donor; Country club
 
 members; Philanthropic;
 
-Investment-savvy
+investment-savvy
 
-## B FLOURISHING FAMILIES
+## FLOURISHING FAMILIES
 
-## Babies and Bliss BOO
+## Babies and Bliss B08
 
 Age: 35-45, $100-$124k
 
@@ -2551,15 +2541,15 @@ Age of children: 4-6
 
 Tech Use: Above Average
 
-Athletic activities: Engaged
+Athletic activities; Engaged
 
-Parenting: Child-oriented
+Parenting; Child oriented
 
-purchases: Large families; High
+purchases; Large families; High
 
-credit awareness: Online shoppers
+credit awareness; Online shoppers
 
-## Cosmo-politan Achievers B10
+## Cosmopolitan Achievers B10
 
 Age: 51-65, $75-99k
 
@@ -2569,11 +2559,11 @@ Age of children: 13-18
 
 Tech Use: Excellent
 
-Bilingual: Luxury Living: Family abroad; Status spenders: Economic literature; Progressive Liberals
+Bilingual: Luxury living: Family abroad; Status spenders: Economic literature; Progressive Liberals
 
 ## Family Fun-tastic B09
 
-Age: 36-45, $75-99k
+Age: 36-45, $75-99K
 
 Single Family, 5+
 
@@ -2581,7 +2571,13 @@ Age of children: 13-18
 
 Tech Use: Above Average
 
-Bargain hunters; Comfortable spending; Saving for college; Charity donor; Sports fans; Active lifestyles
+Bargain hunters; Comfortable
+
+spending; Saving for college;
+
+Charity donor; Sports fans;
+
+Active lifestyles
 
 ## Generational Soup B07
 
@@ -2593,7 +2589,7 @@ Age of children: 13-18
 
 Tech Use: Below Average
 
-Environmental donor: Outdoor hobbies; Fitness club members; Rooted in the suburbs; Multigenerational households; Affluent
+Environmental donor; Outdoor hobbies; Fitness club members; Rooted in the suburbs; Multigenerational households; Affluent
 
 ## C BOOMING WITH CONFIDENCE
 
@@ -2605,11 +2601,11 @@ Single family, 3
 
 Tech Use: Below Average
 
-Affluent: College sports fans;
+Affluent; College sports fans;
 
-Upscale housing: Highly educated;
+Upscale housing; Highly educated;
 
-Philanthropic: Sewy investor
+Philanthropic; Savvy investor
 
 ## Boomers and Boomerangs C14
 
@@ -2621,7 +2617,7 @@ Age of children: 13-18
 
 Tech Use: Below Average
 
-Suburbanites: Middle-class families: Politically conservative; Big spenders: Charitable; Multigenerational households
+Suburbanites; Middle-class families; Politically conservative; Big spenders; Charitable; Multigenerational households
 
 ## Golf Carts and Gourmets C12
 
@@ -2633,21 +2629,25 @@ Tech Use: Below Average
 
 Resort sports; Highly educated; Luxury living; Country club members; Financially savvy; Music lover
 
-## Silver Sophisticates C13
-
-Age: 66-75, $175-199K
+## Silver Saghisticates C13
 
 Single family, 2
 
 Tech Use: Below Average
 
-Retiring in comfort; Experienced travelers; Art connoisseurs; Philanthropic; Retirement investments; Ecological lifestyles
+Retiring in comfort; Experienced
 
-## DSUBURBANSTYLE
+travelers; Art connoisseurs;
+
+Philanthropic; Retirement
+
+investments; Ecological lifestyles
+
+## SUBURBANSTYLE
 
 ## Cul de Sac Diversity D17
 
-Age: 36-40, $75-99K
+Age: 36-45, $75-99k
 
 Single family, 2
 
@@ -2655,11 +2655,11 @@ Age of children: 13-18
 
 Tech Use: Below Average
 
-Billing; Career-focused; 2nd generation success; Saving for college; Outdoor activities; Professional sports fans
+Bilingual; Career-focused; 2nd generation success; Saving for college; Outdoor activities; Professional sports fans
 
 ## Settled in Suburbia D16
 
-Age: 46-50, $75-99k
+Age: 46-50, $75-99K
 
 Single family, 5+
 
@@ -2669,7 +2669,9 @@ Tech Use: Below Average
 
 Comfortable lifestyles; Diverse investments; Confident consumers; Active kids; Movie-goers; Theme park vacations
 
-Age: 36-45, $75-99k
+## Sports Utility Families D15
+
+Age: 36-45, $75-79K
 
 Single family, 5+
 
@@ -2677,11 +2679,11 @@ Age of children: 13-18
 
 Tech Use: Below Average
 
-Suburb Living: Comfortable
+Suburb living; Comfortable
 
-spending: Athletic activities:
+spending; Athletic activities;
 
-Outdoor leisure: Saving for college:
+Outdoor leisure; Saving for college;
 
 Soccer moms/dads
 
@@ -2699,13 +2701,21 @@ Racially diverse; Politically Liberal; Power shoppers; Active lifestyles; Jazz l
 
 ## E THRIVING BOOMERS
 
-## Full Pockets, Empty Nests E19
+## Full Packets, Empty Nests E19
+
+Age: 51-65, $50-74k
 
 Single family, 1
 
 Tech Use: Below Average
 
-Empty nesters: Highly educated; City dwellers: Environmental advocates; Well-travelled; Fitness minded
+Empty nesters: Highly educated;
+
+City dwellers: Environmental
+
+advocates: Well-traveled;
+
+Fitness minded
 
 ## No Place Like Home E20
 
@@ -2717,19 +2727,27 @@ Age of children: 0-3
 
 Tech Use: Below Average
 
-Smart shoppers: Contribute to charities: Multi-generational homes: Tailgaters: Financially informed; Conservative values
+Smart shoppers; Contribute to charities; Multi-generational homes; Tailgaters; Financially informed; Conservative values
 
 ## Unspoiled Splendor E21
 
-Single family, 2
+## Age: 51-65, $30-74$ Single family, 2
 
 Tech Use: Below Average
 
-Price conscious; Politically conservative; Do-it-yourselfers; NASCAR fanatics; Outdoor enthusiasts; Domestic travelers
+Price conscious; Politically
+
+conservative; Do it yourselfers;
+
+NASCAR fanatics; Outdoor
+
+enthusiasts; Domestic travelers
 
 ## F PROMISING FAMILIES
 
 ## Fast Track Couples F22
+
+Past Track Coupons P22
 
 Age: 31-35, $100-124k
 
@@ -2739,7 +2757,7 @@ Age of children: 0-3
 
 Tech Use: Above Average
 
-Credit aware; Comfortable spend; Active lifestyles; Tech savvy; Music lovers; Football fans
+Credit aware; Comfortable spender; Active lifestyles; Tech savvy; Music lovers; Football fans
 
 ## Families Matter Most F23
 
@@ -2757,11 +2775,11 @@ vacations; PTA parents; Child
 
 related purchases; Internet active;
 
-Credit revover
+Credit revolver
 
 ## GYOUNG CITY SOLOS
 
-## Status Seeking Singles G24
+Status Seeking Singles G24
 
 Age: 36-45, $50-74k
 
@@ -2769,7 +2787,7 @@ Single family, 1
 
 Tech Use: Above Average
 
-Single city dwellers: Highly educated; Upwardly mobile; Professionals; Physically fit; Foodies
+Single city dweller; Highly educated; Upwardly mobile; Professionals; Physically fit; Foodies
 
 ## Urban Edge G25
 
@@ -2779,7 +2797,13 @@ Multi-family: 101+, 1
 
 Tech Use: Above Average
 
-Progressive views: Urban-wellers: Environmental advocates; Ambitious; Highly educated; Exercise enthusiasts
+Progressive views: Urban-
+
+dwellers: Environmental
+
+advocates: Ambitious: Highly
+
+educated: Exercise enthusiasts
 
 ## H MIDDLE-CLASS MELTING POT
 
@@ -2793,15 +2817,15 @@ Age of children: 13-18
 
 Tech Use: Below Average
 
-Suburb Living: Active investors;
+Suburb living: Active investors;
 
-Comfortable spending: Yogis;
+Comfortable spending; Yogis;
 
-Charitable giving: Outdoor activities
+Charitable giving; Outdoor activities
 
 ## Destination Recreation H29
 
-Age: 35-45, $50-74k
+Age: 36-45, $50-74k
 
 Single family, 1
 
@@ -2823,9 +2847,9 @@ Age of children: 13-18
 
 Tech Use: Excellent
 
-Credit aware: Comfortable
+Credit aware; Comfortable
 
-living: Brand conscious; Fashion
+living; Brand conscious; Fashion
 
 orientated; Financially alert;
 
@@ -2841,13 +2865,13 @@ Age of children: 13-18
 
 Tech Use: Below Average
 
-Bilingual: Ethnically diverse; Urban
+Bilingual; Ethnically diverse; Urban
 
-centric; Status spenders; Family abroad; Comfortable lifestyles
+centric; Status spenders; Family
+
+abroad; Comfortable lifestyles
 
 ## IFAMILYUNION
-
-## Balance and Harmony 133
 
 Balance and Harmony 133
 
@@ -2860,6 +2884,8 @@ Age of children: 10-12
 Tech Use: Excellent
 
 Bilingual households; Roots abroad; Blue-collar income; Athletic fitness; Soccer fans; Financially curious
+
+## Blue Collar Comfort 131
 
 Age: 36-45, $50-74k
 
@@ -2897,7 +2923,7 @@ educated; Health conscious
 
 ## Stock Cars and State Parks 130
 
-Age: 45-50, $50-74k
+Age: 46-50, $50-74k
 
 Single family, 5+
 
@@ -2909,41 +2935,53 @@ Country living: Outdoor activities; Blue-collar jobs; Family-centric activities;
 
 ## JAUTUMN YEARS
 
-## Aging in Place J34
+### Aging in Place 134 Age: 66-75. $50-74k
 
-Single family: 2
+Single family, 2
 
 Tech Use: Very Poor
 
-Retired: Fine arts appreciation;
+Retired; Fine arts appreciation;
 
-Financially secure: AARP
+Financially secure; AARP
 
-members: Avid newspaper reader;
+members; Avid newspaper reader;
 
 Republican
 
 ## Rural Escape J35
 
-Age: 66-78, $35-49k
+Age: 66-75, $35-49k
 
 Single family, 2
 
 Tech Use: Very Poor
 
-Country living: Modest education; Risk adverse; Outdoor activities; Traditional media; Aftermarket buyers
+Country living: Modest educations;
+
+Risk adverse; Outdoor activities;
+
+Traditional media; Aftermarket
+
+buyers
 
 ## Settled and Sensible J36
 
+## KSIGNIFICANT SINGLES
+
 Single family, 2
 
 Tech Use: Very Poor
 
-Humble living: Modest spending: Limited financial savings; Retired; Stable lifestyle; Limited Internet activity
+Humble living: Modest spending:
 
-## KSIGNIFICANT SINGLES
+Limited financial savings:
 
-## Bohemian Groove K40
+Retired: Stable lifestyle:
+
+Limited internet activity
+
+## Bohemian Groove K40 Age:51-65,<$15k
 
 Age: 51-65, <$15k
 
@@ -2951,23 +2989,31 @@ Single family, 1
 
 Tech Use: Very Poor
 
-Apartment dwellers: Single adults;
+Apartment dwellers; Single adults;
 
 Environmentally sympathetic;
 
-Modest living: Value-conscious
+Modest living; Value-conscious
 
-shoppers: Eclectic interests
+shoppers; Eclectic interests
 
 ## Gotham Blend K38
 
-Age: 51-65, $50-74k
+Gotham Blend K38
+
+Age: 51~65, $50~74k
 
 Multi-family: 2 units, 1
 
 Tech Use: Excellent
 
-City lifestyle: Environmental donor; Bilingual: Aspirational consumers; Culturally diverse Newspaper readers
+City lifestyle: Environmental donor;
+
+Bilingual: Aspirational consumers;
+
+Culturally diverse Newspaper readers
+
+## Metro Fusion K39
 
 Age: 36-45, $50-74k
 
@@ -2977,10 +3023,6 @@ Tech Use: Excellent
 
 City apartment living: Family abroad; Ethnically diverse; Modest investments; Digitally dependent; Youthful perseverance
 
-## Metro Fusion K39
-
-## Wired for Success K37
-
 Age: 36-45, $35-49k
 
 Multi-family: 101+, 1
@@ -2989,9 +3031,9 @@ Tech Use: Above Average
 
 Conspicuous consumption; Status seekers; Digital media gurus; Value education; Liberal household; Active lifestyles
 
-## L BLUESKY BOOMERS
+## Wired for Success K37
 
-## Booming and Consuming L41
+## BLUE SKY BOOMERS
 
 Age: 51-65, $50-74k
 
@@ -2999,11 +3041,13 @@ Single family, 1
 
 Tech Use: Below Average
 
-Busy social lives; Diversified investments; Home and garden enthusiasts; Open-minded; Balanced shoppers; Dismissable income
+Busy social lives; Diversified investments; Home and garden enthusiasts; Open-minded; Balanced shoppers; Disposable income
+
+## Booming and Consuming L41 Age: 51-65 $50-74k
 
 ## Homemade Happiness L43
 
-Age: 51-65, $30-74k
+Age: 51-65, $50-74k
 
 Single family, 1
 
@@ -3021,19 +3065,13 @@ family values
 
 ## Rooted Flower Power L42
 
-## Age: 51-65, $50-74
-
-Single family, 1
+## Age: 51–65, $50–74k Single family: 1
 
 Tech Use: Above Average
 
-Philanthropist; Deeply rooted;
+Philanthropist; Deeply rooted; Single adults; Bargain hunters; Liberal; Clubs and volunteering
 
-Single adults; Bargain hunters;
-
-Liberal; Clubs and volunteering
-
-## WFANLES NOTONE
+## MFAMLESINNOTION
 
 ## Diapers and Debit Cards M45
 
@@ -3045,53 +3083,29 @@ Age of children: 0-3
 
 Tech Use: Excellent
 
-Rural living: Home-based family activities: Enjoy bargain hunting; Middle of the road politics: Early childbearing years; Bowling and pool leagues
+Rural living: Home-based family activities: Enjoy bargain hunting; Middle of the road politics: Early childrearing years; Bowling and pool leagues
 
 ## Red, White and Bluegrass M44
 
-Age: 36–45, $50–74k
-
 Single family, 5+
 
-Age of children: 4–6
+Age of children: 4-6
 
 Tech Use: Excellent
 
-Family-centered activities: Rural communities; Working-class lifestyles; Racing fun; Modest financial investments; Country life
+Family-centered activities; Rural communities; Working-class lifestyles; Racing fan; Modest financial investments; Country life
 
 ## N PASTORAL PRIDE
 
-## Countryed Pragmatics N47 Age: 51-65, $35-49k
+## Countryed Pragmatics N47 Age: 51-65, $35-49k Single family, 1
 
 ## O SINGLES
 
-## Collegas and Cafes 053
-
 Age of children: 13-18
 
-Tech Uses: Excellent
+Tech Use: Excellent
 
-Remote rural communities:
-
-Patriotic; Independent streak;
-
-Modest housing; Active outdoor
-
-lifestyles; Risk takers
-
-Age: 19-24, <15k
-
-Multi-family: 101+ units, 1
-
-Tech Use: Very Poor
-
-University towns: Single adults;
-
-Risk takers: Active lifestyles;
-
-Politically disengaged;
-
-Well-educated
+Remote rural communities; Patriotic; Independent streak; Modest housing; Active outdoor lifestyles; Risk takers
 
 True Grit Americans N46
 
@@ -3103,29 +3117,35 @@ Age of children: 13-18
 
 Tech Use: Very Poor
 
-Rural residences; Live within
+Rural residences; Live within means; Outdoor activities; After-market buyers; Practical priorities; Cowboy values
 
-means; Outdoor activities;
+Colleges and Cafes 053
 
-After-market buyers; Practical
+Age: 19-24, $<15k
 
-priorities; Cowboy values
+Multi-family: 101+ units, 1
+
+Tech Use: Very Poor
+
+University towns; Single adults;
+
+Risk takers; Active Lifestyles;
+
+Politically disengaged;
+
+Well-educated
 
 ## Digital Dependents 051
 
 Age: 25-30, $35-49K
 
-Single family. 1
+Single family, 1
 
 Age of children: 0-3
 
 Tech Use: Excellent
 
-Ambitious: Appearances are important; Single adults; Outdoor activities; Music lovers; Digitally savy
-
-## Rural Southern Bliss N48
-
-## Family Troopers 055
+Ambitious: Appearances are important; Single adults; Outdoor activities; Music lovers; Digitally sawy
 
 Age: 51-65, $50-74k
 
@@ -3135,13 +3155,21 @@ Age of children: 0-3
 
 Tech Use: Excellent
 
-Fashionable: Limited discretionary
+Fashionable; Limited discretionary
 
-spend: Aspirational:
+spend; Aspirational;
 
-Multigenerational households:
+Multigenerational households;
 
-Modest educations: Status shoppers
+Modest educations; Status
+
+shoppers
+
+## Family Troopers 055
+
+## Rural Southern Bliss N48
+
+## Age: 30-40, 40-44 Single family: 1
 
 ## Touch of Tradition N49
 
@@ -3153,29 +3181,21 @@ Age of children: 0-3
 
 Tech Use: Excellent
 
-Renters: Military base communities;
+Renters; Military base communities;
 
 Ethnicity diverse; Children's
 
-activities: Limited educations;
+activities; Limited educations;
 
 Active social lives
 
-Single family, 1
+## Full Steam Ahead 050
 
 Age of children: 13-18
 
 Tech Use: Very Poor
 
-Frugal: Working-class sensibility;
-
-Home-based activities: Sports TV;
-
-Remote settings: Hunting/fishing
-
-## Full Steam Ahead 050
-
-Age: 36-45, <$15k
+Frugal: Working-class sensibility; Home-based activities; Sports TV; Remote settings; Hunting/fishing
 
 Multi-family: 101+ units, 1
 
@@ -3193,9 +3213,9 @@ Multi-family: 101+ units, 1
 
 Tech Use: Excellent
 
-Career-driven: Urban-centric
+Career-driven; Urban-centric;
 
-Digitally dependent: Active social lives: Gym memberships: Music fan
+Digitally dependent; Active social lives; Gym memberships; Music fan
 
 ## Urban Ambition 052
 
@@ -3213,17 +3233,17 @@ Racially diverse; Singles and single parents; City apartment renters; Music hip;
 
 ## Expanding Horizons P59
 
+Age: 36-45, $35-47K
+
 Single family, 5+
 
 Age of children: 10-12
 
 Tech Use: Excellent
 
-Blue-collar jobs: Billingual; Style conscious; Budget constraints; Proteens and teams; Team sports
+Blue-collar jobs; Billingual; Style conscious; Budget constraints; Preteens and teens; Team sports
 
 ## Heritage Heights P58
-
-Age: 36-45, <$15k
 
 Multi-family: 2 units, 1
 
@@ -3231,7 +3251,13 @@ Age of children: 13-18
 
 Tech Use: Excellent
 
-Ethnically eclectic; Fashion forward; Artistically inclined; Bilingual; Single parents; Appearances matter
+Ethnically eclectic; Fashion
+
+forward; Artistically inclined;
+
+Bilingual; Single parents;
+
+Appearances matter
 
 ## Humble Beginnings P61
 
@@ -3243,9 +3269,11 @@ Age of children: 10-12
 
 Tech Use: Excellent
 
-Rental housing: Single parents; Bilingual: Driven to Impress; Family abroad: Style on a budget
+Rental housing; Single parents; Bilingual; Driven to impress; Family abroad; Style on a budget
 
 ## Mid-scale Medley P56
+
+Age: 36-45, $50-74K
 
 Single family, 1
 
@@ -3255,13 +3283,13 @@ Tech Use: Below Average
 
 Modest living: Single adults;
 
-Transmetters; Cash over credit;
+Trendsetters; Cash over credit;
 
 Outdoor leisure; Family abroad
 
 ## Modest Metro Means P57
 
-Age: 51-65, <15k
+Age: 51-65, $<15k
 
 Multi-family: 2 units, 1
 
@@ -3269,11 +3297,9 @@ Age of children: 13-18
 
 Tech Use: Very Poor
 
-Public transportation: Ethnically diverse; Single parents; Rental housing; TV watchers; Opportunity seekers
+Public transportation; Ethnically diverse; Single parents; Rental housing; TV watchers; Opportunity seekers
 
 ## Striving Forward P60
-
-Striving Forward Pack
 
 Age: 36-45, $<15k
 
@@ -3283,27 +3309,27 @@ Age of children: 10-12
 
 Tech Use: Excellent
 
-Multi-ethnic: Ambitious
+Multi-ethnic: Ambitious; Single parents; Family activities; Active athletes; Fashionable
 
-Single parents: Family activities
-
-Active athletes: Fashionable
-
-## GOLDEN YEAR GUARDIANS
+## Q GOLDEN YEAR GUARDIANS
 
 ## Footloose and Family Free Q63
 
-Age: 76+, $15-24k  
+Age: 76+, $15-24k
 
-Single family, 1  
+Single family, 1
 
-Tech Use: Below Average  
+Tech Use: Below Average
 
-Retirees; Epicurean; Healthy Living; Active social lives; Well-invested; Financial
+Retirees; Epicurean; Healthy living;
+
+Active social lives; Well-invested;
+
+Financially secure
 
 ## Reaping Rewards Q62
 
-Single family, 2
+Single family; 2
 
 Tech Use: Very Poor
 
@@ -3323,7 +3349,7 @@ Single family, 1
 
 Tech Use: Very Poor
 
-Spiritual, Cautionary Money
+Spiritual, Cautious money
 
 managers; Seniors, Home-
 
@@ -3331,15 +3357,15 @@ centered activities; Health-related
 
 purchases; Rural lifestyle
 
-## Senior Discounts Q65
+Multi-family: 101+ units, 1 Tech Use: Very Poor
 
-Multi-family: 101+ units, 1 Tech Use: Very Poor Discount shoppers; Retirement residences; TV entertainment; Active leisure lives; Active health maintenance; Avoid newspaper readers
+Discount shoppers; Retirement residences; TV entertainment; Active leisure lives; Active health maintenance; Avid newspaper readers
 
-## R ASPIRATIONAL FUSION
+## RASPIRATIONAL FUSION
 
 ## Dare to Dream R66
 
-Age: 26-30, <$15K
+Age: 26-30, <$15k
 
 Multi-family: 5-9 units, 1
 
@@ -3351,9 +3377,7 @@ Single parents: Apartment dwellers;
 
 Bilingual: Brand-conscious; Team sports: Window-shoppers
 
-## Hope for Tomorrow R67
-
-Age: 19-24, <$15k
+## Hope far Tomorrow R67
 
 Single family, 1
 
@@ -3361,29 +3385,27 @@ Age of children: 13-18
 
 Tech Use: Excellent
 
-Single parents: Striving for
-
-more: City living: Shopping as
-
-entertainment; Seeking approval;
-
-Cash not credit
+Single parents: Striving for more; City living: Shopping as entertainment; Seeking approval; Cash not credit
 
 ## S ECONOMIC CHALLENGES
 
-## Small Town Shallow Pockets $68
+## Small Town Shallow Pockets 568
 
 Age: 51-65, <$15k
 
-Single family: 1
+Single family, 1
 
 Tech Use: Very Poor
 
-Modest spenders: Rural towns: Single, empty nesters: Frequent movers: Modest educations: Status seeking purchases
+Modest spenders; Rural towns;
+
+Single, empty nesters; Frequent
+
+movers; Modest educations;
+
+Status seeking purchases
 
 ## Tight Money $70
-
-Age: 36-45, <$15k
 
 Multi-family: 20-49 units, 1
 
@@ -3391,9 +3413,9 @@ Age of children: 13-18
 
 Tech Use: Excellent
 
-Rental housing: Rural towns; Bluecollar jobs; Simple lifestyles; Bargain hunters; Status shoppers
+Rental housing; Rural towns; Bluecollar jobs; Simple lifestyles; Bargain hunters; Status shoppers
 
-## Tough Times $71
+## Tough Times$71
 
 Age: 51-65, <$15k
 
@@ -3407,7 +3429,7 @@ Brand conscious; Aspirational;
 
 Limited budgets;
 
-Appearance matter
+Appearances matter
 
 ## Urban Survivors $69
 
@@ -3417,11 +3439,13 @@ Age of children: 13-18
 
 Tech Use: Excellent
 
-Modest budgets: Racially
+Modest budgets; Racially
 
-diverse: Entrepreneurial spirit;
+diverse; Entrepreneurial spirit;
 
-Homeswinners: Materialistic aspirations: Style on a budget
+Homosowners; Materialistic
+
+aspirations; Style on a budget
 
 <a id="p113"></a>
 *[Page 113 of the original](https://www.southlyonmi.org/Council%20packet%20May%2013%202024.pdf?t=202405141323120#page=113)* (read by OCR; check the original)
@@ -4886,6 +4910,8 @@ DIXBORO ROAD
 
 93' FULL WIDTH (FUTURE 120')
 
+10 MILE ROAD (W. LAKE STREET, 93° FULL WIDTH (FUTURE 120°))
+
 SEE ENLARGED
 
 REVISED CROSSING
@@ -4894,89 +4920,109 @@ DETAIL
 
 SCALE
 
-(0 in 327)
+Horizontal Scale: 1 inch - 60 ft
 
-Horizontal Scales 1 mm - 60%
+7. Jubilating Concerns in Mid-Family Areas: 2.10 A6.24 4th A6. = R6196
 
-Site Data
+8. Unilability of Ingluc. J. Studies
 
-1. See Annual Weekly 31.17 Home Site (July 31, 2014)
+9. See Leishawage Plan for Woodlands information.
 
-2. Industrial Area
+10. "Tooth Contourism by Clampers.
 
-3. All-Area Site
+1. At work on the Street and Dover Road staff be in accordance with the level
 
-4. Small-City Area, 30th-Area
+Commission for Quality, Quality immold to specifications.
 
-5. Small-Family Residential Area
+12. Drawings will apply to the approvals and by having an average start point by the
 
-6. Small-Industrial Area
+editing side to enter system that is in respect to the place it uses. See also:
 
-7. Small-Home
+excluding initial in the West End Industrial Park will be followed.
 
-8. Worked Area 7-8 hours
+13. Sustains new service and will be provided by counseling to the Office of Regulatory Review and
 
-9. Building Coverage to 500-ft. by 2014-2014 in A.C. 1405
+by the existing low-pressure cover in the West End Industrial Park, Name of the work
 
-10. Building (Single): 300 m
+personnel must be completed.
 
-11. New Building (The Top Westside) references
+14. Room water will be selected to be setting storm water dependent for all that will be
 
-12. High-Level Buildings for Development
+initially in the Dover Road length. Some of the warm season will be constructed as
 
-13. High-Level Buildings for Building
+part of the West End Industrial Park will be employed and received.
 
-14. Construction for Building
+15. All electric power, electric power, gas, and vehicle relevant for this visit be actual
 
-15. Construction for Building (The North Side) and the second-level building for building
+environmental.
 
-16. Disasters in Supply, the Approvals and Buildings for the next year (by the existing border sector year that is the hospital)
+16. Overhead loss of water and can be slated to a liquidation height of 14-60" above the
 
-17. Building (the North Side) for the Construction Phase (with the School of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First National University of the First
+road for the entire road to ensure
+
+17. Dover Roads 225 (2012-240) Area = 10 by which it is free.
+
+18. Area into port between 1,200-1600 ft = 2,300 ft; Port
+
+19. Unit Street = 1 Dashroom Unit; (00-664) 202 (Dover Road) Street: 760-447 STC: 301 Tentroom: 976 STC.
 
 Proposed Public Improvements
 
-3. A penetration will result in commercial using Link Project between Uthene and the lenders. Real is non-white like ending with the lends is downward.
+724 final feet.
 
-4. The cutting-edge is the strong approach to the 1-point-to-point method in order to improve the traffic safety.
+A perksain sillowatt shall be determined along Lake Street between Lixboro Road to
 
-FIRE DEPARTMENT NOTES:
+Haysville Road to comment to the existing sidements will lead to downstream
 
-1. THE LANC-NO PARTNIG" SON WILL BE MONDED AT THE ONE OF FINAL SIDE PLAN APPROVAL.
+The existing Lake Street strategy approach to the 1 ft all the remnants to order to
 
-2. CASH BUNDLE SINGL INCLUDE A WAL OF 8" HIGH LITTLES OF CONTAUSTING COLORS AND DE CLEARLY VISBLE FROM THE SINEZT, LOCATIONS AND SOCI SHALL BE VENDED PROVT TO INSTALLATION
+improve on the safety.
 
-3. BUILDINGS SIML DE PROVICO WITH AN AUTOMATIC PRINCIPAL STATION ACCOUNTANCE WITH OTHER NIPA 13 DE NIPA FOR
+1. THE LANE-NO PARKING SIGN WILL BE PROVIDED AT THE TIME OF FINAL SILE PLAN APPROVAL.
+
+2. EACH BUILDING SHALL INCLUDE A HINL OF B' HIGH LETTERS OF CONTRASTING COLORS AND BE CLEARLY VISIBLE FROM THE SINEET. LOCATIONS AND SIZE SHALL BE VENIFIED PROOF TO INSTALLATION.
+
+3. BUILDINGS SHALL DE PROVIDE WITH AN AUTOMATIC SPRINGLER SYSTEM IN ACCORDANCE WITH EIDER NPFA 15 OR NPFA 13R.
 
 LEGEND
 
-FLAVIDIT (ASPHALT)
+PAYMENT (ASPHALT)
 
-SOCI MACK (COHONZETE)
+SOE MAIL (CONCORTE)
 
-CONCENTE OUNS AND CARTER
+CONCORTE CURS AND CUTTER
 
-STORM SENIOR
+STOOM BETTER
 
-SHATARK FORTON MAN
+SUMMARY FORCE MAIN
 
 WESTLAKE
 
-⑧ ECATIONAL BUILDING PLANNING NATIONAL RENDCING
+8 RESIDENTIAL BUILDING NUMBER
 
-SECTION 10 & 30, TOWN 1 NORTH, RANGE 7 EAST CITY OF SOUTHE LYON, OAKLAND COUNTY, MICHIGAN
+1 INDUSTRIAL CIVIL CAND AMADEN
+
+SECTION 10 & 30, TOWN 1 NORTH, RANGE 7 EAST CITY OF SOUTH LYON, OAKLAND COUNTY, MICHIGAN
 
 NO. DESCRIPTION DATE
 
-1. COLLES IS LINTS BLOO FOR GWNER 6-56-31
+1. DELETE 12 UNITS BLDG. PER OWNER 6-28-23
 
-2. ONLINE PAPER OPTION POI OWDER 11-7-32
+2. DELETE PUD OPTION PER OWNER 11-7-25
 
 SITE PLAN
 
-SKL SEIBER KEAST LEHNER ENGINEERING | SURVEYING
+SKL SEIER KEAST LEHNER ENGINEERING | SURVEYING
 
-5 SHEET
+Quartier Tannern-par Dorf (Nachbar)
+
+Pflanzbronn Hals Dorf (Nachbar)
+
+Dorf (Nachbar) Hals Hals, North 2
+
+Amtli Dalsarby (Lid) Dals, North 20
+
+Clarifel Tannervh. AB 4000
 
 <a id="p191"></a>
 *[Page 191 of the original](https://www.southlyonmi.org/Council%20packet%20May%2013%202024.pdf?t=202405141323120#page=191)* (read by OCR; check the original)

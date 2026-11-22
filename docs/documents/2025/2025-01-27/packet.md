@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/1-27-25%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "e74e92a02c3122f2e6c497025fd00ba9ac1fd71c56af6d8e068529dc44eef476"
 source_bytes: 13690531
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 34
 ocr_pages: 34
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2025-01-27
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/1-27-25%20Council%20Packet%20-%20online%20only.pdf?t=202501231503000) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `e74e92a02c3122f2…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/1-27-25%20Council%20Packet%20-%20online%20only.pdf?t=202501231503000) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `e74e92a02c3122f2…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/1-27-25%20Council%20Packet%20-%20online%20only.pdf?t=202501231503000#page=1)* (read by OCR; check the original)
@@ -517,40 +517,26 @@ PRICING BASED GRANITE COLOR, INTERIOR CONSTRUCTION TYPE, NUMBER OF NICHS, NICHE 
 <a id="p20"></a>
 *[Page 20 of the original](https://www.southlyonmi.org/1-27-25%20Council%20Packet%20-%20online%20only.pdf?t=202501231503000#page=20)* (read by OCR; check the original)
 
-*[Image or figure on this page; see the original.]*
+<div>CFS-E-SY-11895</div>
 
 *[Image or figure on this page; see the original.]*
 
-Item:inch
+*[Image or figure on this page; see the original.]*
 
-A:86*86*4H
+D:8 (22.75*2*80H)
 
-B:86*86*4H
-
-C:16(12.75*1.75*80H)
-
-D:8(22.75*2*80H)
+E:48 (11*0.75*12H)
 
 F1:40(23.75*12*1H)
 
-G: 96 (12*0.4*12H)
-
-F2:16(23.75*12.75*1.5H)
-
 H:48(23.75*0.75*13H)
 
-J:8(6.52*2*80H)
-
 *[Image or figure on this page; see the original.]*
-
-$$\mathrm{d}f=\frac{1}{2}\left(\begin{array}{c}1-\sqrt{2}x^{2}-x^{4}+x^{6}+x^{8}+x^{12}+x^{16}+x^{20}+x^{24}+x^{28}+x^{32}+x^{36}+x^{40}+x^{44}+x^{48}+x^{52}+x^{56}+x^{60}+x^{64}+x^{68}+x^{72}+x^{76}+x^{80}+x^{84}+x^{88}+x^{92}+x^{96}+x^{100}+x^{104}+x^{108}+x^{112}+x^{116}+x^{120}+x^{124}+x^{128}+x^{132}+x^{136}+x^{140}+x^{144}+x^{148}+x^{152}+x^{156}+x^{160}+x^{164}+x^{168}+x^{172}+x^{176}+x^{180}+x^{184}+x^{188}+x^{192}+x^{196}+x^{200}+x^{204}+x^{208}+x^{212}+x^{216}+x^{220}+x^{224}+x^{228}+x^{232}+x^{236}+x^{240}+x^{244}+x^{248}+x^{252}+x^{256}+x^{260}+x^{264}+x^{268}+x^{272}+x^{276}+x^{280}+x^{284}+x^{288}+x^{292}+x^{296}+x^{300}+x^{304}+x^{308}+x^{312}+x^{316}+x^{320}+x^{324}+x^{328}+x^{332}+x^{336}+x^{340}+x^{344}+x^{348}+x^{352}+x^{356}+x^{360}+x^{364}+x^{368}+x^{372}+x^{376}+x^{380}+x^{384}+x^{388}+x^{392}+x^{396}+x^{400}+x^{404}+x^{408}+x^{412}+x^{416}+x^{420}+x^{424}+x^{428}+x^{432}+x^{436}+x^{440}+x^{444}+x^{448}+x^{452}+x^{456}+x^{460}+x^{464}+x^{468}+x^{472}+x^{476}+x^{480}+x^{484}+x^{488}+x^{492}+x^{496}+x^{500}+x^{504}+x^{508}+x^{512}+x^{516}+x^{520}+x^{524}+x^{528}+x^{532}+x^{536}+x^{540}+x^{544}+x^{548}+x^{552}+x^{556}+x^{560}+x^{564}+x^{568}+x^{572}+x^{576}+x^{580}+x^{584}+x^{588}+x^{592}+x^{596}+x^{600}+x^{604}+x^{608}+x^{612}+x^{616}+x^{620}+x^{624}+x^{628}+x^{632}+x^{636}+x^{640}+x^{644}+x^{648}+x^{652}+x^{656}+x^{660}+x^{664}+x^{668}+x^{672}+x^{676}+x^{680}+x^{684}+x^{688}+x^{692}+x^{696}+x^{700}+x^{704}+x^{708}+x^{712}+x^{716}+x^{720}+x^{724}+x^{728}+x^{732}+x^{736}+x^{740}+x^{744}+x^{748}+x^{752}+x^{756}+x^{760}+x^{764}+x^{768}+x^{772}+x^{776}+x^{780}+x^{784}+x^{788}+x^{792}+x^{796}+x^{800}+x^{804}+x^{808}+x^{812}+x^{816}+x^{820}+x^{824}+x^{828}+x^{832}+x^{836}+x^{840}+x^{844}+x^{848}+x^{852}+x^{856}+x^{860}+x^{864}+x^{868}+x^{872}+x^{876}+x^{880}+x^{884}+x^{888}+x^{892}+x^{896}+x^{900}+x^{904}+x^{908}+x^{912}+x^{916}+x^{920}+x^{924}+x^{928}+x^{932}+x^{936}+x^{940}+x^{944}+x^{948}+x^{952}+x^{956}+x^{960}+x^{964}+x^{968}+x^{972}+x^{976}+x^{980}+x^{984}+x^{988}+x^{992}+x^{996}+x^{1000}+x^{1004}+x^{1008}+x^{1012}+x^{1016}+x^{1020}+x^{1024+x^{1028}+x^{1032}+x^{1036}+x^{1040}+x^{1044}+x^{1048}+x^{1052}+x^{1056}+x^{1060}+x^{1064}+x^{1068}+x^{1072}+x^{1076}+x^{1080}+x^{1084}+x^{1088}+x^{1092}+x^{1096}+x^{1100}+x^{1104}+x^{1108}+x^{1112}+x^{1116}+x^{1120}+x^{1124}+x^{1128}+x^{1132}+x^{1136}+x^{1140}+x^{1144}+x^{1148}+x^{1152}+x^{1156}+x^{1160}+x^{1164}+x^{1168}+x^{1172}+x^{1176}+x^{1180}+x^{1184}+x^{1188}+x^{1192}+x^{1196}+x^{1200}+x^{1204}+x^{1208}+x^{1212}+x^{1216}+x^{1220}+x^{1224}+x^{1228}+x^{1232}+x^{1236}+x^{1240}+x^{1244}+x^{1248}+x^{1252}+x^{1256}+x^{1260}+x^{1264}+x^{1268}+x^{1272}+x^{1276}+x^{1280}+x^{1284}+x^{1288}+x^{1300}+x^{1304}+x^{1308}+x^{1312}+x^{1316}+x^{1320}+x^{1324}+x^{1328}+x^{1332}+x^{1336}+x^{1340}+x^{1344}+x^{1348}+x^{1352}+x^{1356}+x^{1360}+x^{1364}+x^{1368}+x^{1372}+x^{1376}+x^{1380}+x^{1384}+x^{1388}+x^{1392}+x^{1396}+x^{1400}+x^{1404}+x^{1408}+x^{1412}+x^{1416}+x^{1420}+x^{1424+x^{1428}+x^{1432}+x^{1436}+x^{1440}+x^{1444}+x^{1448}+x^{1452}+x^{1456}+x^{1460}+x^{1464}+x^{1468}+x^{1472}+x^{1476}+x^{1480}+x^{1484}+x^{1488}+x^{1492}+x^{1496}+x^{1500}+x^{1504}+x^{1508}+x^{1512}+x^{1516}+x^{1520}+x^{1524+x^{1528}+x^{1532}+x^{1536}+x^{1540}+x^{1544}+x^{1548}+x^{1552}+x^{1556}+x^{1560}+x^{1564}+x^{1568}+x^{1572}+x^{1576}+x^{1580}+x^{1584+x^{1588}+x^{1592}+x^{1596}+x^{1600}+x^{1604}+x^{1608}+x^{1612}+x^{1616}+x^{1620}+x^{1624+x^{1628}+x^{1632}+x^{1636}+x^{1640}+x^{1644}+x^{1648}+x^{1652}+x^{1656}+x^{1660}+x^{1664}+x^{1668}+x^{1672}+x^{1676}+x^{1680}+x^{1684+x^{1688}+x^{1692}+x^{1696}+x^{1700}+x^{1704}+x^{1708}+x^{1712}+x^{1716}+x^{1720}+x^{1724+x^{1728}+x^{1732}+x^{1736}+x^{1740}+x^{1744}+x^{1748}+x^{1752}+x^{1756}+x^{1760}+x^{1764+x^{1768}+x^{1772}+x^{1776}+x^{1780}+x^{1784+x^{1788}+x^{1792}+x^{1796}+x^{1800}+x^{1804+x^{1808}+x^{1812}+x^{1816}+x^{1820}+x^{1824+x^{1828}+x^{1832}+x^{1836}+x^{1840}+x^{1844+x^{1848}+x^{1852}+x^{1856}+x^{1860}+x^{1864+x^{1868}+x^{1872}+x^{1876}+x^{1880}+x^{1884+x^{1888}+x^{1892}+x^{1896}+x^{1900}+x^{1904+x^{1908}+x^{1912}+x^{1916}+x^{1920}+x^{1924+x^{1928}+x^{1932}+x^{1936}+x^{1940}+x^{1944+x^{1948}+x^{1952}+x^{1956}+x^{1960}+x^{1964+x^{1968}+x^{1972}+x^{1976}+x^{1980}+x^{1984+x^{1988}+x^{1992}+x^{1996}+x^{2000}+x^{2004+x^{2008}+x^{2012}+x^{2016}+x^{2020}+x^{2024+x^{2028}+x^{2032}+x^{2036}+x^{2040}+x^{2044+x^{2048}+x^{2052}+x^{2056}+x^{2060}+x^{2064+x^{2068}+x^{2072}+x^{2076}+x^{2080}+x^{2084+x^{2088}+x^{2092}+x^{2096}+x^{2100}+x^{2104+x^{2098}+x^{2104}+x^{2108}+x^{2112}+x^{2116}+x^{2120}+x^{2124+x^{2096}+x^{2104}+x^{2108}+x^{2112}+x^{2116}+x^{2120}+x^{2124+x^{2092}+x^{2104}+x^{2108}+x^{2112}+x^{2116}+x^{2120}+x^{2124+x^{2086}+x^{2104}+x^{2108}+x^{2112}+x^{2116}+x^{2120}+x^{2124+x^{2082}+x^{2104}+x^{2108}+x^{2112}+x^{2116}+x^{2120}+x^{2124+x^{2076}+x^{2104}+x^{2108}+x^{2112}+x^{2116}+x^{2120}+x^{2124+x^{2066}+x^{2104}+x^{2108}+x^{2112}+x^{2116}+x^{2120}+x^{2124+x^{2056}+x^{2104}+x^{2108}+x^{2112}+x^{2116}+x^{2120}+x^{2124+x^{2046}+x^{2104}+x^{2108}+x^{2112}+x^{2116}+x^{2120}+x^{2124+x^{2036}+x^{2104}+x^{2108}+x^{2112}+x^{2116}+x^{2120}+x^{2124+x^{2026}+x^{2104}+x^{2108}+x^{2112}+x^{2116}+x^{2120}+x^{2124+x^{2016}+x^{2104}+x^{2108}+x^{2112}+x^{2116}+x^{2120}+x^{2124+x^{2006}+x^{2104}+x^{2108}+x^{2112}+x^{2116}+x^{2120}+x^{2124+x^{2002}+x^{2104}+x^{2108}+x^{2112}+x^{2
 
 <a id="p21"></a>
 *[Page 21 of the original](https://www.southlyonmi.org/1-27-25%20Council%20Packet%20-%20online%20only.pdf?t=202501231503000#page=21)* (read by OCR; check the original)
 
 *[Image or figure on this page; see the original.]*
-
-$$\text { The } \mathrm{pH} \text { of } \mathrm{NaOH} = \mathrm{pH} + \mathrm{Na}_{2} \mathrm{SO}_{4} + \mathrm{NaOH} + \mathrm{H}_{2} \mathrm{O} + \mathrm{H}_{2} \mathrm{O} + \mathrm{NaOH} = \mathrm{NaOH} + \mathrm{H}_{2} \mathrm{SO}_{4} + \mathrm{NaOH} + \mathrm{H}_{2} \mathrm{O} + \mathrm{H}_{2} \mathrm{O} + \mathrm{NaOH} + \mathrm{H}_{2} \mathrm{SO}_{4} + \mathrm{H}_{2} \mathrm{O} + \mathrm{H}_{2} \mathrm{O} + \mathrm{NaOH} = \mathrm{NaOH} + \mathrm{H}_{2} \mathrm{SO}_{4} + \mathrm{Na}_{2} \mathrm{SO}_{4} + \mathrm{H}_{2} \mathrm{O} + \mathrm{H}_{2} \mathrm{O} + \mathrm{H}_{2} \mathrm{SO}_{4} + \mathrm{H}_{2} \mathrm{O} + \mathrm{H}_{2} \mathrm{O} + \mathrm{H}_{2} \mathrm{SO}_{4} + \mathrm{H}_{2} \mathrm{O} + \mathrm{H}_{2} \mathrm{SO}_{4} + \mathrm{H}_{2} \mathrm{O} + \mathrm{H}_{2} \mathrm{SO}_{4} + \mathrm{H}_{2} \mathrm{O} + \mathrm{H}_{2} \mathrm{SO}_{4} + \mathrm{H}_{2} \mathrm{O} + \mathrm{H}_{2} \mathrm{SO}_{4} + \mathrm{H}_{2} \mathrm{SO}_{4} + \mathrm{H}_{2} \mathrm{O} + \mathrm{H}_{2} \mathrm{SO}_{4} + \mathrm{H}_{2} \mathrm{SO}_{4} + \mathrm{H}_{2} \mathrm{SO}_{4}
 
 <a id="p22"></a>
 *[Page 22 of the original](https://www.southlyonmi.org/1-27-25%20Council%20Packet%20-%20online%20only.pdf?t=202501231503000#page=22)* (read by OCR; check the original)

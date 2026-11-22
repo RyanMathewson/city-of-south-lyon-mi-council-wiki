@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/2-12-24%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "7fc210da75ebeb1944cc6cdebe7d76e9c75d910fc32b1f80b5725bf7ae4037af"
 source_bytes: 11417417
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 244
 ocr_pages: 244
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2024-02-12
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/2-12-24%20Council%20Packet%20-%20online%20only.pdf?t=202402090926490) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `7fc210da75ebeb19…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/2-12-24%20Council%20Packet%20-%20online%20only.pdf?t=202402090926490) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `7fc210da75ebeb19…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/2-12-24%20Council%20Packet%20-%20online%20only.pdf?t=202402090926490#page=1)* (read by OCR; check the original)
@@ -563,7 +563,7 @@ Page: 2/6
 <a id="p22"></a>
 *[Page 22 of the original](https://www.southlyonmi.org/2-12-24%20Council%20Packet%20-%20online%20only.pdf?t=202402090926490#page=22)* (read by OCR; check the original)
 
-<table><tr><td>GL Number</td><td>GL Desc</td><td>Vendor</td><td>Invoice Description</td><td>Invoice Date</td><td>Amount Check</td></tr><tr><td colspan="6">Fund 202 MAJOR STREETS</td></tr><tr><td colspan="6">Dept 463.000 STREET-ROUTINE MAINT.</td></tr><tr><td>202-463.000-930.000</td><td>REPAIR MAINTENANCE</td><td>ROAD COMMISSION FOR O TRANS-TEK TRANSPORT,</td><td>LONG LINE PAVEMENT MARKINGS FOR 20 STREET SWEEPINGS 12/11/2023</td><td>13229</td><td>2,920.24</td></tr><tr><td>202-463.000-930.000</td><td>REPAIR MAINTENANCE</td><td></td><td>Total For Dept 463.000 STREET-ROUTINE MAINT.</td><td></td><td>4,025.24</td></tr><tr><td colspan="6">Dept 478.000 SNOW PLOWING</td></tr><tr><td>202-478.000-740.000</td><td>OPERATING EXPENSE</td><td>DETROIT SALT COMPANY</td><td>ROCK SALT (100.99)</td><td>SI24-24700</td><td>3,473.19</td></tr><tr><td>202-478.000-740.000</td><td>OPERATING EXPENSE</td><td>DETROIT SALT COMPANY</td><td>ROCK SALT (51.96)</td><td>SI24-23959</td><td>1,786.98</td></tr><tr><td>202-478.000-740.000</td><td>OPERATING EXPENSE</td><td>DETROIT SALT COMPANY</td><td>ROCK SALT (48.80)</td><td>SI24-24159</td><td>1,678.30</td></tr><tr><td>202-478.000-740.000</td><td>OPERATING EXPENSE</td><td>DETROIT SALT COMPANY</td><td>ROCK SALT (51.07)</td><td>SI24-23520</td><td>1,756.37</td></tr><tr><td></td><td></td><td></td><td>Total For Dept 478.000 SNOW PLOWING</td><td></td><td>8,694.84</td></tr><tr><td></td><td></td><td></td><td>Total For Fund 202 MAJOR STREETS</td><td></td><td>12,720.08</td></tr><tr><td colspan="6">Fund 203 LOCAL STREETS</td></tr><tr><td colspan="6">Dept 463.000 STREET-ROUTINE MAINT.</td></tr><tr><td>203-463.000-930.000</td><td>REPAIR MAINTENANCE</td><td>CASH SOD FARM</td><td>LEAF DISPOSAL (1,762 CUBIC YDS)</td><td>24028</td><td>7,488.50</td></tr><tr><td>203-463.000-930.000</td><td>REPAIR MAINTENANCE</td><td>ROAD COMMISSION FOR O TRANS-TEK TRANSPORT,</td><td>COLD PATCH (5 TON)</td><td>103872</td><td>861.10</td></tr><tr><td>203-463.000-930.000</td><td>REPAIR MAINTENANCE</td><td></td><td>STREET SWEEPINGS 12/11/2023</td><td>13229</td><td>595.00</td></tr><tr><td></td><td></td><td></td><td>Total For Dept 463.000 STREET-ROUTINE MAINT.</td><td></td><td>8,944.60</td></tr><tr><td colspan="6">Dept 474.000 TRAFFIC SERVICES</td></tr><tr><td>203-474.000-740.000</td><td>OPERATING EXPENSE</td><td>HUNT SIGN COMPANY</td><td>STOP SIGN (3), STREET NAME SIGNS ( Total For Dept 474.000 TRAFFIC SERVICES )</td><td>92289</td><td>343.60</td></tr><tr><td colspan="6">Dept 478.000 SNOW PLOWING</td></tr><tr><td>203-478.000-740.000</td><td>OPERATING EXPENSE</td><td>DETROIT SALT COMPANY</td><td>ROCK SALT (49.64)</td><td>SI24-24434</td><td>2,626.45</td></tr><tr><td>203-478.000-740.000</td><td>OPERATING EXPENSE</td><td>DETROIT SALT COMPANY</td><td>ROCK SALT (100.99)</td><td>SI24-24700</td><td>1,870.19</td></tr><tr><td>203-478.000-740.000</td><td>OPERATING EXPENSE</td><td>DETROIT SALT COMPANY</td><td>ROCK SALT (51.96)</td><td>SI24-23959</td><td>962.22</td></tr><tr><td>203-478.000-740.000</td><td>OPERATING EXPENSE</td><td>DETROIT SALT COMPANY</td><td>ROCK SALT (48.80)</td><td>SI24-24159</td><td>903.71</td></tr><tr><td>203-478.000-740.000</td><td>OPERATING EXPENSE</td><td>DETROIT SALT COMPANY</td><td>ROCK SALT (51.07)</td><td>SI24-23520</td><td>7,308.31</td></tr><tr><td></td><td></td><td></td><td>Total For Dept 478.000 SNOW PLOWING</td><td></td><td>16,596.51</td></tr><tr><td colspan="6">Fund 248 DOWNTOWN DEVELOPMENT AUTHORITY</td></tr><tr><td colspan="6">Dept 000.000</td></tr><tr><td>248-000.000-740.200</td><td>SEASONAL IMPROVEMENTS</td><td>K & J ELECTRIC, INC.</td><td>TROUBLESHOOTING STREET LIGHTS</td><td>10860</td><td>375.00</td></tr><tr><td></td><td></td><td></td><td>Total For Dept 000.000</td><td></td><td>375.00</td></tr><tr><td></td><td></td><td></td><td>Total For Fund 248 DOWNTOWN DEVELOPMENT AUTHORIT</td><td></td><td>375.00</td></tr><tr><td colspan="6">Fund 592 WATER & SEWER</td></tr></table>
+<table><tr><td>GL Number</td><td>GL Desc</td><td>Vendor</td><td>Invoice Description</td><td>Invoice Date</td><td>Amount Check</td></tr><tr><td colspan="6">Fund 202 MAJOR STREETS</td></tr><tr><td colspan="6">Dept 463.000 STREET-ROUTINE MAINT.</td></tr><tr><td>202-463.000-930.000</td><td>REPAIR MAINTENANCE</td><td>ROAD COMMISSION FOR O TRANS-TEK TRANSPORT,</td><td>LONG LINE PAVEMENT MARKINGS FOR 20 STREET SWEEPINGS 12/11/2023</td><td>13229</td><td>2,920.24</td></tr><tr><td>202-463.000-930.000</td><td>REPAIR MAINTENANCE</td><td>ROCK SALT (100.99)</td><td>SI24-24700</td><td>02/12/24</td><td>1,105.00</td></tr><tr><td colspan="6">Dept 478.000 SNOW PLOWING</td></tr><tr><td>202-478.000-740.000</td><td>OPERATING EXPENSE</td><td>DETROIT SALT COMPANY</td><td>ROCK SALT (51.96)</td><td>24028</td><td>3,473.19</td></tr><tr><td>202-478.000-740.000</td><td>OPERATING EXPENSE</td><td>DETROIT SALT COMPANY</td><td>ROCK SALT (48.80)</td><td>103872</td><td>1,786.98</td></tr><tr><td>202-478.000-740.000</td><td>OPERATING EXPENSE</td><td>DETROIT SALT COMPANY</td><td>ROCK SALT (51.07)</td><td>13229</td><td>1,756.37</td></tr><tr><td>202-478.000-740.000</td><td>OPERATING EXPENSE</td><td colspan="3">TOTAL For Dept 463.000 STREET-ROUTINE MAINT.</td><td>4,025.24</td></tr><tr><td colspan="6">Fund 203 LOCAL STREETS</td></tr><tr><td colspan="6">Dept 463.000 STREET-ROUTINE MAINT.</td></tr><tr><td>203-463.000-930.000</td><td>REPAIR MAINTENANCE</td><td>CASH SOD FARM</td><td>LEAF DISPOSAL (1,762 CUBIC YDS)</td><td>24028</td><td>7,488.50</td></tr><tr><td>203-463.000-930.000</td><td>REPAIR MAINTENANCE</td><td>ROAD COMMISSION FOR O TRANS-TEK TRANSPORT,</td><td>COLD PATCH (5 TON)</td><td>13229</td><td>861.10</td></tr><tr><td>203-463.000-930.000</td><td>REPAIR MAINTENANCE</td><td>TRANS-TEK TRANSPORT,</td><td>STREET SWEEPINGS 12/11/2023</td><td>13229</td><td>595.00</td></tr><tr><td colspan="6">Dept 474.000 TRAFFIC SERVICES</td></tr><tr><td>203-474.000-740.000</td><td>OPERATING EXPENSE</td><td>HUNT SIGN COMPANY</td><td>STOP SIGN (3), STREET NAME SIGNS ( Total For Dept 474.000 TRAFFIC SERVICES )</td><td>92289</td><td>8,944.60</td></tr><tr><td colspan="6">Dept 478.000 SNOW PLOWING</td></tr><tr><td>203-478.000-740.000</td><td>OPERATING EXPENSE</td><td>DETROIT SALT COMPANY</td><td>ROCK SALT (49.64)</td><td>24024-24434</td><td>2,626.45</td></tr><tr><td>203-478.000-740.000</td><td>OPERATING EXPENSE</td><td>DETROIT SALT COMPANY</td><td>ROCK SALT (100.99)</td><td>24024-24700</td><td>1,870.19</td></tr><tr><td>203-478.000-740.000</td><td>OPERATING EXPENSE</td><td>DETROIT SALT COMPANY</td><td>ROCK SALT (51.96)</td><td>24024-23959</td><td>962.22</td></tr><tr><td>203-478.000-740.000</td><td>OPERATING EXPENSE</td><td>DETROIT SALT COMPANY</td><td>ROCK SALT (48.80)</td><td>24024-24159</td><td>903.71</td></tr><tr><td>203-478.000-740.000</td><td>OPERATING EXPENSE</td><td>DETROIT SALT COMPANY</td><td>ROCK SALT (51.07)</td><td>24024-23520</td><td>7,308.31</td></tr><tr><td colspan="6">Fund 248 DOWNTOWN DEVELOPMENT AUTHORITY</td></tr><tr><td colspan="6">Dept 000.000</td></tr><tr><td>248-000.000-740.200</td><td>SEASONAL IMPROVEMENTS</td><td>K & J ELECTRIC, INC.</td><td colspan="2">TOTAL For Dept 478.000 SNOW PLOWING</td><td>16,596.51</td></tr><tr><td colspan="6">Total For Dept 248 DOWNTOWN DEVELOPMENT AUTHORITY</td></tr><tr><td colspan="6">Fund 592 WATER & SEWER</td></tr></table>
 
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/2-12-24%20Council%20Packet%20-%20online%20only.pdf?t=202402090926490#page=23)* (read by OCR; check the original)
@@ -625,17 +625,19 @@ DB: South Lyon
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/2-12-24%20Council%20Packet%20-%20online%20only.pdf?t=202402090926490#page=28)* (read by OCR; check the original)
 
-User: PATRICIA
-
 02/08/2024 09:50 AM
+
+User: PATRICIA
 
 DB: South Lyon
 
-CHECK REGISTER FOR CITY OF SOUTH LYON CHECK DATE FROM 01/11/2024 - 02/08/2024
+CHECK REGISTER FOR CITY OF SOUTH LYON
+
+CHECK DATE FROM 01/11/2024 - 02/08/2024
 
 Page: 3/6
 
-<table><tr><td>Check Date</td><td>Check</td><td>Vendor Name</td><td>Description</td><td>Amount</td><td>Status</td></tr><tr><td>01/25/2024</td><td>89361</td><td>AMAZON CAPITAL SERVICES</td><td>BATTERIES FOR WEAPONS SIGHTS</td><td>166.59</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89362</td><td>AT&T MOBILITY</td><td>SERVICE PERIOD DEC 07 - JAN 06</td><td>167.26</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89363</td><td>DOUGLAS BAAKI</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89364</td><td>AUDRA BAKER</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89365</td><td>JARED BAKER</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89366</td><td>RONALD BARBOUR</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Open</td></tr><tr><td>01/25/2024</td><td>89367</td><td>BLUE CROSS BLUE SHIELD OF MICH</td><td>FEBRUARY 2024 HEALTH INSURANCE PREMIUMS</td><td>49,919.07</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89368</td><td>BLUE CROSS BLUE SHIELD OF MICH</td><td>FEBRUARY 2024 RETIREE INSURANCE PREMIUM</td><td>5,113.87</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89369</td><td>THADEUS LEVI BOGERT</td><td>MONTHLY COUNCIL PAY</td><td>180.00</td><td>Open</td></tr><tr><td>01/25/2024</td><td>89370</td><td>BS & A SOFTWARE</td><td>ONLINE ANNUAL SERVICE/SUPPORT FEE 2/1/2</td><td>3,981.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89371</td><td>JARRETT CASEY</td><td>REIMBURSEMENT FOR CDL PERMIT FEE</td><td>25.52</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89372</td><td>CITY OF NORTHVILLE</td><td>SOUTH OAKLAND MAYORS/MANAGERS ASSOC. DI</td><td>287.00</td><td>Open</td></tr><tr><td>01/25/2024</td><td>89373</td><td>CITY OF SOUTH LYON</td><td>SCHOOL ADMIN/CITY HALL BLDG WATER SERVI</td><td>280.93</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89374</td><td>JOSEPH CZAPSKI</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89375</td><td>LISA DEATON</td><td>MILAGE REIMBURSEMENT FOR CLERKS CLASS</td><td>32.16</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89376</td><td>DIPONIO CONTRACTING, LLC</td><td>HAGADORN PAVING PROJECT ESTIMATE #7, M</td><td>54,367.68</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89377</td><td>DTE ENERGY</td><td>STREETLIGHTS DECEMBER 2023</td><td>10,355.53</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89378</td><td>DTE ENERGY</td><td>200 DOROTHY ST SERVICE PERIOD 12/19/202</td><td>28.82</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89379</td><td>MICHAEL EHRESMAN</td><td>COUNCIL RECORDING 1/22/2024</td><td>75.00</td><td>Open</td></tr><tr><td>01/25/2024</td><td>89380</td><td>EMBASSY TITLE AGENCY, INC.</td><td>REFUND OF TAX OVERPAYMENT ID #80-21-20</td><td>25.94</td><td>Open</td></tr><tr><td>01/25/2024</td><td>89381</td><td>CHRISTOPHER FAUGHT</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89382</td><td>GFL ENVIRONMENTAL USA</td><td>DUMPSTER & RECYCLING FEBRUARY 2024</td><td>1,498.85</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89383</td><td>GUARDIAN</td><td>FEBRUARY 2024 INSURANCE PREMIUMS</td><td>11,399.46</td><td>Open</td></tr><tr><td>01/25/2024</td><td>89384</td><td>ALEX HANSEN</td><td>MONTHLY COUNCIL PAY</td><td>180.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89385</td><td>BRIAN HAYES</td><td>REIMBURSEMENT FOR KITCHEN ELECTRICAL FR</td><td>140.55</td><td>Open</td></tr><tr><td>01/25/2024</td><td>89386</td><td>HOME DEPOT CREDIT SERVICES</td><td>STATEMENT 1/12/24</td><td>651.49</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89387</td><td>SEAN S. HOYDIC</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89388</td><td>IIMC</td><td>ANNUAL MEMBERSHIP FEE THROUGH 3/31/2025</td><td>210.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89389</td><td>INTL UNION OF OPERATING ENG</td><td>PAYROLL DEDUCTION UNION DUES JANUARY 20</td><td>222.50</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89390</td><td>JAKE JACOES</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89391</td><td>GLENN KIVELL</td><td>MONTHLY COUNCIL PAY</td><td>180.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89392</td><td>MARGARET KURTZWEIL</td><td>MONTHLY COUNCIL PAY</td><td>180.00</td><td>Open</td></tr><tr><td>01/25/2024</td><td>89393</td><td>LISA DILG</td><td>MONTHLY COUNCIL PAY</td><td>180.00</td><td>Open</td></tr><tr><td>01/25/2024</td><td>89394</td><td>LYON AUTO WASH</td><td>CAR WASHES OCT - DEC 2023</td><td>770.00</td><td>Open</td></tr><tr><td>01/25/2024</td><td>89395</td><td>MICHIGAN ASSOCIATION OF MAYORS</td><td>2024 MEMBERSHIP DUES</td><td>110.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89396</td><td>MISDU</td><td>PAYROLL DEDUCTION ID 913659641</td><td>467.93</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89397</td><td>MISSIONSQUARE - 301149</td><td>MISSIONSQUARE PLAN # 301149 457 PPE 1/2</td><td>3,538.21</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89398</td><td>LORI MOSIER</td><td>MONTHLY COUNCIL PAY</td><td>180.00</td><td>Open</td></tr><tr><td>01/25/2024</td><td>89399</td><td>NEC FINANCIAL SERVICES, LLC</td><td>PHONE MAINTENANCE</td><td>177.81</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89400</td><td>OAKLAND COUNTY TREASURERS</td><td>CLEMS FEES OCT-DEC 2023, LIVESCAN AND</td><td>4,259.50</td><td>Open</td></tr><tr><td>01/25/2024</td><td>89401</td><td>PETER'S TRUE VALUE HARDWARE</td><td>STATEMENT 12/31/23 ACCOUNT # 200004</td><td>1,162.28</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89402</td><td>PRINTING SYSTEMS, INC.</td><td>ELECTION SUPPLIES (QUAD AV APP POSTCARD</td><td>1,287.77</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89403</td><td>TIMOTHY RAAP</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89404</td><td>SALEM-SOUTH LYON DISTRICT</td><td>TAX DISBURSEMENT/TAXES DUE TO LIBRARY</td><td>1,272.33</td><td>Open</td></tr><tr><td>01/25/2024</td><td>89405</td><td>SCOTT BRANDON</td><td>ELECTION INSPECTOR HOURS 15 HRS @ $14/H</td><td>210.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89406</td><td>CHRISTOPHER SEDERLUND</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89407</td><td>SEMCG</td><td>2024 ANNUAL MEMBERSHIP</td><td>1,958.00</td><td>Open</td></tr><tr><td>01/25/2024</td><td>89408</td><td>SINGH HOMES LLC</td><td>BD PAYMENT REFUND</td><td>500.00</td><td>Open</td></tr></table>
+<table><tr><td>Check Date</td><td>Check</td><td>Vendor Name</td><td>Description</td><td>Amount</td><td>Status</td></tr><tr><td>01/25/2024</td><td>89361</td><td>AMAZON CAPITAL SERVICES</td><td>BATTERIES FOR WEAPONS SIGHTS</td><td>166.59</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89362</td><td>AT&T MOBILITY</td><td>SERVICE PERIOD DEC 07 - JAN 06</td><td>167.26</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89363</td><td>DOUGLAS BAARI</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89364</td><td>AUDRA BAKER</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89365</td><td>JARED BAKER</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89366</td><td>RONALD BARBOUR</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Open</td></tr><tr><td>01/25/2024</td><td>89367</td><td>BLUE CROSS BLUE SHIELD OF MICH</td><td>FEBRUARY 2024 HEALTH INSURANCE PREMIUMS</td><td>49,919.07</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89368</td><td>BLUE CROSS BLUE SHIELD OF MICH</td><td>FEBRUARY 2024 RETIRE INSURANCE PREMIUM</td><td>5,113.87</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89369</td><td>THADEUS LEVI BOGERT</td><td>MONTHLY COUNCIL PAY</td><td>180.00</td><td>Open</td></tr><tr><td>01/25/2024</td><td>89370</td><td>BS & A SOFTWARE</td><td>ONLINE ANNUAL SERVICE/SUPPORT FEE 2/1/2</td><td>3,981.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89371</td><td>JARRETT CASEY</td><td>REIMBURSEMENT FOR CDL PERMIT FEE</td><td>25.52</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89372</td><td>CITY OF NORTHVILLE</td><td>SOUTH OAKLAND MAYORS/MANAGERS ASSOC. DI</td><td>287.00</td><td>Open</td></tr><tr><td>01/25/2024</td><td>89373</td><td>CITY OF SOUTH LYON</td><td>SCHOOL ADMIN/CITY HALL BLDG WATER SERVI</td><td>280.93</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89374</td><td>JOSEPH CZAPSKI</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89375</td><td>LISA DEATON</td><td>MILEAGE REIMBURSEMENT FOR CLERKS CLASS</td><td>32.16</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89376</td><td>DIPONIO CONTRACTING, LLC</td><td>HAGADORN PAVING PROJECT ESTIMATE # 7, M</td><td>54,367.68</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89377</td><td>DTE ENERGY</td><td>STREETLIGHTS DECEMBER 2023</td><td>10,355.53</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89378</td><td>DTE ENERGY</td><td>200 DOROTHY ST SERVICE PERIOD 12/19/202</td><td>29.82</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89379</td><td>MICHAEL EHRESMAN</td><td>COUNCIL RECORDING 1/22/2024</td><td>75.00</td><td>Open</td></tr><tr><td>01/25/2024</td><td>89380</td><td>EMBASSY TITLE AGENCY, IND.</td><td>REFUND OF TAX OVERPAYMENT ID # 80-21-20</td><td>25.94</td><td>Open</td></tr><tr><td>01/25/2024</td><td>89381</td><td>CHRISTOPHER FAUGHT</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89382</td><td>GFL ENVIRONMENTAL USA</td><td>DUMPSTER & RECYCLING FEBRUARY 2024</td><td>1,498.85</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89383</td><td>GUARDIAN</td><td>FEBRUARY 2024 INSURANCE PREMIUMS</td><td>11,399.46</td><td>Open</td></tr><tr><td>01/25/2024</td><td>89384</td><td>ALEX HANSEN</td><td>MONTHLY COUNCIL PAY</td><td>180.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89385</td><td>BRIAN HAYES</td><td>REIMBURSEMENT FOR KITCHEN ELECTRICAL FR</td><td>140.55</td><td>Open</td></tr><tr><td>01/25/2024</td><td>89386</td><td>HOME DEPOT CREDIT SERVICES</td><td>STATEMENT 1/12/24</td><td>651.49</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89387</td><td>SEAN S. HOYDIC</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89388</td><td>IIMC</td><td>ANNUAL MEMBERSHIP FEE THROUGH 3/31/2025</td><td>210.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89389</td><td>INTL UNION OF OPERATING ENG</td><td>PAYROLL DEDUCTION UNION DUES JANUARY 20</td><td>222.50</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89390</td><td>JAKE JACOBS</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89391</td><td>GLENN KIVELL</td><td>MONTHLY COUNCIL PAY</td><td>180.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89392</td><td>MARGARET KURTZWEIL</td><td>MONTHLY COUNCIL PAY</td><td>180.00</td><td>Open</td></tr><tr><td>01/25/2024</td><td>89393</td><td>LISA DILG</td><td>MONTHLY COUNCIL PAY</td><td>180.00</td><td>Open</td></tr><tr><td>01/25/2024</td><td>89394</td><td>LYON AUTO WASH</td><td>CAR WASHES OCT - DEC 2023</td><td>770.00</td><td>Open</td></tr><tr><td>01/25/2024</td><td>89395</td><td>MICHIGAN ASSOCIATION OF MAYORS</td><td>2024 MEMBERSHIP DUES</td><td>110.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89396</td><td>MISDU</td><td>PAYROLL DEDUCTION ID 913659641</td><td>467.93</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89397</td><td>MISSIONSQUARE - 301149</td><td>MISSIONSQUARE PLAN # 301149 457 PPE 1/2</td><td>3,538.21</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89398</td><td>LORI MOSIER</td><td>MONTHLY COUNCIL PAY</td><td>180.00</td><td>Open</td></tr><tr><td>01/25/2024</td><td>89399</td><td>NEC FINANCIAL SERVICES, LLC</td><td>PHONE MAINTENANCE</td><td>177.81</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89400</td><td>OAKLAND COUNTY TREASURERS</td><td>CLEMTS FEES OCT-DEC 2023, LIVESCAN AND</td><td>4,259.50</td><td>Open</td></tr><tr><td>01/25/2024</td><td>89401</td><td>PETER'S TRUE VALUE HARDWARE</td><td>STATEMENT 12/31/23 ACCOUNT # 200004</td><td>1,162.28</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89402</td><td>PRINTING SYSTEMS, INC.</td><td>ELECTION SUPPLIES (QUAD AV APP POSTCARD</td><td>1,287.77</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89403</td><td>TIMOTHY RAAP</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89404</td><td>SALEM-SOUTH LYON DISTRICT</td><td>TAX DISBURSEMENT/TAXES DUE TO LIBRARY</td><td>1,272.33</td><td>Open</td></tr><tr><td>01/25/2024</td><td>89405</td><td>SCOTT BRANDON</td><td>ELECTION INSPECTOR HOURS 15 HRS @ $14/H</td><td>210.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89406</td><td>CHRISTOPHER SEDERLUND</td><td>OFFICER'S CLEANING ALLOWANCE</td><td>100.00</td><td>Cleared</td></tr><tr><td>01/25/2024</td><td>89407</td><td>SEMCOG</td><td>2024 ANNUAL MEMBERSHIP</td><td>1,958.00</td><td>Open</td></tr><tr><td>01/25/2024</td><td>89408</td><td>SINGH HOMES LLC</td><td>BD PAYMENT REFUND</td><td>500.00</td><td>Open</td></tr></table>
 
 <a id="p29"></a>
 *[Page 29 of the original](https://www.southlyonmi.org/2-12-24%20Council%20Packet%20-%20online%20only.pdf?t=202402090926490#page=29)* (read by OCR; check the original)
@@ -1945,9 +1947,9 @@ Age of children: 13-18
 
 Tech Use: Below Average
 
-Prestigious housing: Luxury living; Upscale cars: Healthy lifestyles; Charitable giving: World travelers
+Prestigious housing; Luxury living; Upscale cars; Healthy lifestyles; Charitable giving; World travelers
 
-## Couples with Clout AOS
+## Couples with Clout A05
 
 Age: 36-45, $175-$199k
 
@@ -1955,11 +1957,11 @@ Single family, 2
 
 Tech Use: Excellent
 
-Affluent: Designer-brand
+Affluent; Designer-brand
 
-conscious: Politically conservative;
+conscious; Politically conservative;
 
-Risk takers: Active social lives;
+Risk takers; Active social lives;
 
 Highly educated
 
@@ -1971,7 +1973,7 @@ Multi-family, 1
 
 Tech Use: Excellent
 
-Upscale urban living: Busy social lives; Highly educated; Supporter of line arts; Avoid NY Times readers; Politically liberal
+Upscale urban living; Busy social lives; Highly educated; Supporter of fine arts; Avid NY Times readers; Politically liberal
 
 ## Kids and Cabernet A03
 
@@ -2005,21 +2007,21 @@ Wealthy households; Educated; Digitally plugged-in; PTA members; Practical prior
 
 ## Platinum Prosperity A02
 
-Age: 61-66 years, $250k
+Age: 51-65 years, $250k
 
 Single Family, 2
 
 Tech Use: Below Average
 
-Luxury products: Empty-nesters; Political donor; Country club members; Philanthropic; Investment-savy
+Luxury products; Empty-nesters; Political donor; Country club members; Philanthropic; Investment-savy
 
 ## B FLOURISHING FAMILIES
 
-## Babies and Bliss B09
+## Babies and Bliss B08
 
 Age: 35-45, $100-$124k
 
-Single family: 6+
+Single family, 5+
 
 Age of children: 4-6
 
@@ -2029,7 +2031,7 @@ Athletic activities: Engaged
 
 Parenting: Child oriented
 
-purchases: Large families: High credit awareness; Online shoppers
+purchases: Large families; High credit awareness; Online shoppers
 
 ## Cosmopolitan Achievers B10
 
@@ -2041,27 +2043,21 @@ Age of children: 13-18
 
 Tech Use: Excellent
 
-Bilingual; Luxury living; Family abroad; Status spenders; Economic literature; Progressive liberals
+Bilingual: Luxury living; Family abroad; Status spenders; Economic literature; Progressive liberals
 
 ## Family Fun-tastic B09
 
 Age: 36-45, $75-99k
 
-Single Family: 5+
+Single Family, 5+
 
 Age of children: 13-18
 
 Tech Use: Above Average
 
-Bargain hunters: Comfortable
+Bargain hunters; Comfortable spending; Saving for college; Charity donor; Sports fans; Active lifestyles
 
-spending: Saving for college:
-
-Charity donor: Sports fans:
-
-Active lifestyles
-
-## Generational Soup B07
+## Generational Scup B07
 
 Age: 51-65, $125-149k
 
@@ -2071,11 +2067,11 @@ Age of children: 13-18
 
 Tech Use: Below Average
 
-Environmental donor: Outdoor hobbies: Fitness club members: Rooted in the suburbs: Multigenerational households: Affluent
+Environmental donor: Outdoor hobbies; Fitness club members; Rooted in the suburbs; Multigenerational households; Affluent
 
-## 100000000000 
+## (
 
-## Aging of Aquarius C11
+Aging of Aquarius C11
 
 Age: 51-65, $75-99k
 
@@ -2101,7 +2097,7 @@ Tech Use: Below Average
 
 Suburbanites; Middle-class families; Politically conservative; Big spenders; Charitable; Multigenerational households
 
-## Golf Carts and Bourmels C12
+## Golf Carts and Gourmels C12
 
 Age: 66-75, $100-124k
 
@@ -2149,17 +2145,19 @@ Single family, 5+
 
 Age of children: 13-18
 
-Tech: Use: Below Average
+Tech Use: Below Average
 
-Comfortable lifestyles: Diverse
+Comfortable lifestyles; Diverse
 
-Investments: Confident consumers:
+Investments; Confident consumers;
 
-Active kids: Movie-goers: Theme park vacations
+Active kids; Movie-goers; Theme
+
+park vacations
 
 ## Sports Utility Families D15
 
-Age: 34-45, $75-99k
+Age: 36-45, $75-99k
 
 Single family, 5+
 
@@ -2167,11 +2165,11 @@ Age of children: 13-18
 
 Tech Use: Below Average
 
-Suburb Living: Comfortable
+Suburb living; Comfortable
 
-spending: Athletic activities:
+spending; Athletic activities;
 
-Outdoor leisure: Saving for college:
+Outdoor leisure; Saving for college;
 
 Soccer moms/dads
 
@@ -2189,9 +2187,11 @@ Racially diverse; Politically liberal;
 
 Power shoppers; Active lifestyles;
 
-Jazz listeners; Brick and mortar shoppers
+Jazz listeners; Brick and
 
-## THRUNODOOMERS
+mortar shoppers
+
+### KETRVINGOOMERS.N
 
 ## Full Pockets, Empty Nests E19
 
@@ -2201,25 +2201,29 @@ Single family, 1
 
 Tech Use: Below Average
 
-Empty nesters; Highly educated; City dwellers; Environmental advocates; Well-traveled; Fitness minded
+Empty nesters; Highly educated;
+
+City dwellers; Environmental
+
+advocates; Well-traveled;
+
+Fitness minded
 
 ## No Place Like Home E20
-
-Age: 51-65, $75-99k
 
 Single family, 5+
 
 Age of children: 0-3
 
-Tech User: Below Average
+Tech Use: Below Average
 
-Smart shoppers: Contribute to
+Smart shoppers; Contribute to
 
-charities: Multi-generational
+charities; Multi-generation
 
-homes: Tailgaters: Financially
+homes; Tailgaters; Financially
 
-Informed: Conservative values
+informed; Conservative values
 
 ## Unspoiled Splendor E21
 
@@ -2229,7 +2233,7 @@ Single family, 2
 
 Tech Use: Below Average
 
-Price conscious: Politically conservative; Do-it-yourselfers: NASCAR fanetics; Outdoor enthusiasts: Domestic travelers
+Price conscious; Politically conservative; Do-it-yourselfers; NASCAR fanatics; Outdoor enthusiasts; Domestic travelers
 
 ## F PROMISING FAMILIES
 
@@ -2265,15 +2269,13 @@ Credit revolver
 
 ## G YOUNG CITY SOLOS
 
-## Status Seeking Singles 624
-
-Single family, 1
+## Status Seeking Singles G24 Age: 36-45/$50-74k
 
 Tech Use: Above Average
 
 Single city dweller; Highly educated; Upwardly mobile; Professionals; Physically fit; Foodies
 
-## Urban Edge G25
+## Urban Edge G26
 
 Age: 25-30, $50-74k
 
@@ -2281,19 +2283,13 @@ Multi-family: 101+, 1
 
 Tech Use: Above Average
 
-Progressive Views: Urban-
-
-wellers; Environmental
-
-advocates; Ambitious; Highly
-
-educated; Exercise enthusiasts
+Progressive views: Urban-wellers; Environmental advocates; Ambitious; Highly educated; Exercise enthusiasts
 
 ## H MIDDLE-CLASS MELTING POT
 
 ## Birkenstocks and Beemers H27
 
-Age: 46-50, $10-74k
+Age: 46-50, $50-74k
 
 Single family, 1
 
@@ -2301,7 +2297,7 @@ Age of children: 13-18
 
 Tech Use: Below Average
 
-Suburb Living: Active Investors;
+Suburb living: Active Investors;
 
 Comfortable spending: Yogis;
 
@@ -2317,9 +2313,11 @@ Age of children: 13-18
 
 Tech Use: Below Average
 
-Risk takers; Entrepreneurial spirit; Money isn't everything; Sports focused; Outdoor recreation; Price conscious
+Risk takers; Entrepreneurial spirit; Money isn't everything;
 
-## Everyday Moderates H2&
+Sports focused; Outdoor recreation; Price conscious
+
+## Everyday Moderates H28
 
 Age: 51-65, $50-74k
 
@@ -2329,9 +2327,9 @@ Age of children: 13-18
 
 Tech Use: Excellent
 
-Credit aware: Comfortable
+Credit aware; Comfortable
 
-living: Brand conscious; Fashion
+living; Brand conscious; Fashion
 
 orientated; Financially alert;
 
@@ -2351,11 +2349,11 @@ Bilingual; Ethnically diverse; Urban
 
 centric; Status spenders; Family
 
-abroad; Comfortable lifestyles
+abroad; Comfortable Lifestyles
 
 ## FAMILYUNION
 
-## Balance and Harmony 133
+## Balance and Harmony133
 
 Age: 36-45, $50-74k
 
@@ -2365,7 +2363,7 @@ Age of children: 10-12
 
 Tech Use: Excellent
 
-Bilingual households: Roots abroad; Blue-collar income; Athletic fitness; Soccer fans; Financially curious
+Bilingual households: Roots abroad; Blue-collar Income; Athletic fitness; Soccer fans; Financially curious
 
 ## Blue Collar Comfort 131
 
@@ -2401,21 +2399,21 @@ Ethnically diverse; Foreign travelers; Family abroad; Limited investments; High 
 
 Age: 46-50, $50-74k
 
-Single family, 6+
+Single family, 5+
 
 Age of children: 13-18
 
 Tech Use: Below Average
 
-Country Living: Outdoor activities; Blue-collar jobs; Family-centric activities; Conservative views; Motor sports fans
+Country living: Outdoor activities; Blue-collar jobs; Family-centric activities; Conservative views; Motor sports fans
 
-## J AUTUMN YEARS
+## JAUTUMNYEARS
 
-## Aging in Place J34
+Aging in Place 334
 
 Age: 66~75, $50~74k
 
-Singla family, 2
+Single family, 2
 
 Tech Use: Very Poor
 
@@ -2423,27 +2421,33 @@ Retired; Fine arts appreciation;
 
 Financially secure; AARP
 
-members; Aid newspaper readers
+members; Avid newspaper reader;
 
 Republican
 
 ## Rural Escape J35
 
-Age: 66-75, $35-49k
-
 Single family, 2
 
 Tech Use: Very Poor
 
-Country living: Modest educations; Risk adverse; Outdoor activities; Traditional media; Aftermarket buyers
+Country living; Modest educations;
+
+Risk adverse; Outdoor activities;
+
+Traditional media; Aftermarket
+
+buyers
+
+## Settled and Sensible J36
 
 Age: 51-65, $50-74k
 
-Single family, 2
+Single family: 2
 
 Tech Use: Very Poor
 
-Humble living; Modest spending;
+Humble living: Modest spending;
 
 Limited financial savings;
 
@@ -2451,9 +2455,7 @@ Retired; Stable lifestyle;
 
 Limited internet activity
 
-## Settled and Sensible J36
-
-## CONFIQUE
+## KSIGNIFOANTSINGOLEG
 
 ## Bohemian Groove K40
 
@@ -2461,21 +2463,21 @@ Age: 51-65, <$15k
 
 Single family, 1
 
-Tech: Use: Very Poor
+Tech User: Very Poor
 
 Apartment dwellers: Single adults;
 
 Environmentally sympathetic;
 
-Modest living: Values-conscious
+Modest living: Value-conscious
 
-shoppers: Eclectic interests
+shoppers: Eclectic Interests
 
 ## Gotham Blend K38
 
 Age: 51-65, $50-74k
 
-Multifamily: 2 units, 1
+Multi-family: 2 units, 1
 
 Tech Use: Excellent
 
@@ -2489,9 +2491,9 @@ Culturally diverse Newspaper readers
 
 Single family, 1
 
-Tech Uses: Excellent
+Tech User: Excellent
 
-City apartment Living; Family abroad; Ethnically diverse; Modest investments; Digitally dependent; Youthful perseverance
+City apartment living; Family abroad; Ethnically diverse; Modest investments; Digitally dependent; Youthful perseverance
 
 ## Wired for Success K37
 
@@ -2501,37 +2503,49 @@ Multi-family: 101+, 1
 
 Tech Use: Above Average
 
-Conspicuous consumption Status seekers; Digital media gurus; Value education; Liberal household; Active lifestyles
+Conspicuous consumption; Status seekers; Digital media gurus; Value education; Liberal household; Active lifestyles
 
-## L BLUESKY BOOMERS
+## BLUE SKY BOOMERS
 
 ## Booming and Consuming L41
 
-Age: 51-65, $50-74k
+Age: 51-65, $50-74X
 
 Single family, 1
 
 Tech Use: Below Average
 
-Busy social lives; Diversified investments; Home and garden enthusiasts; Open-minded; Balanced shoppers; Disposable income
+Busy social lives; Diversified
+
+Investments; Home and garden
+
+enthusiasts; Open-minded;
+
+Balanced shoppers;
+
+Disposable income
 
 ## Homemade Happiness L43
+
+Age: 51-65, $50-74K.
 
 Single family, 1
 
 Tech Use: Very Poor
 
-Humble rural living: Hunting/
+Humble rural living; Hunting/
 
-fishing: Blue-collar and
+fishing; Blue-collar and
 
-agricultural jobs: Cash not credit;
+agricultural jobs; Cash not credit;
 
-Pragmatic shoppers: Traditional family values
+Pragmatic shoppers; Traditional
 
-## Rooted Flower Power L42
+family values
 
-Age: 51-65, $50-74k
+## Rooted Flower Power 142
+
+Age: 51-65, $50-74K
 
 Single family, 1
 
@@ -2539,35 +2553,35 @@ Tech Use: Above Average
 
 Philanthropist; Deeply rooted; Single adults; Bargain hunters; Liberal; Clubs and volunteering
 
-## ИТАЛИСТНУСПОТН
+## MFAMIESINCTION
 
 ## Diapers and Debit Cards M45
 
-Single family; 5+
+Single family, 5+
 
 Age of children: 0-3
 
 Tech Use: Excellent
 
-Rural living: Home-based family activities; Enjoy bargain hunting; Middle of the road politics; Early childrearing years; Bowling and pool leagues
+Rural living; Home-based family activities; Enjoy bargain hunting; Middle of the road politics; Early childrearing years; Bowling and pool leagues
 
 ## Red, White and Bluegrass M44
 
-Age: 36-65, $50-74k
+Age: 36-45, $50-74k
 
 Single family, 5+
 
 Age of children: 4-6
 
-Tech Uses: Excellent
+Tech Use: Excellent
 
 Family-centered activities: Rural communities; Working-class lifestyles; Racing fan; Modest financial investments; Country life
 
 ## N PASTORAL PRIDE
 
-## Countified Pragmatics N47
+### Countified Pragmatics N47 Age: 51-65. $35-49k
 
-Age: 51-65, $35-49k
+Age: 51-65, $35-49K
 
 Single family, 1
 
@@ -2575,7 +2589,7 @@ Age of children: 13-18
 
 Tech Use: Excellent
 
-Remote rural communities;
+Remote rural communities:
 
 Patriotic; Independent streak;
 
@@ -2595,11 +2609,19 @@ Tech Use: Excellent
 
 Fashionable: Limited discretionary
 
-spend: Aspirational; Multigenerational households; Modest educations; Status shoppers
+spend: Aspirational;
 
-## Touch of Tradition N49
+Multigenerational households;
+
+Modest educations; Status
+
+shoppers
+
+## Touch of Tradition H49
 
 ## True Grit Americans N46
+
+Age: 36-45, $35-49k
 
 Single family, 1
 
@@ -2607,15 +2629,7 @@ Age of children: 13-18
 
 Tech Use: Very Poor
 
-Frugal: Working-class sensitivity; Home-based activities: Sports TV; Remote settings: Hunting/fishing
-
-Age: 19-24, 5<15K
-
-Multi-family: 101+ units, 1
-
-Tech Use: Very Poor
-
-University towns: Single adults; Risk takers; Active lifestyles; Politically disengaged; Well-educated
+Frugal; Working-class sensibility; Home-based activities; Sports TV; Remote settings; Hunting/fishing
 
 Age: 36-45, $50-74k
 
@@ -2631,6 +2645,14 @@ Rural residences; Live within means; Outdoor activities; After-market buyers; Pr
 
 ## O SINGLES
 
+Age: 19-24, $<15k
+
+Multi-family: 101+ units, 1
+
+Tech Use: Very Poor
+
+University towns: Single adults; Risk takers; Active lifestyles; Politically disengaged; Well-educated
+
 ## Colleges and Cafes 053
 
 Age: 25-30, $35-49K
@@ -2641,11 +2663,11 @@ Age of children: 0-3
 
 Tech Use: Excellent
 
-Ambitious: Appearances are
+Ambitious; Appearances are
 
-Important: Single adults
+important; Single adults;
 
-Outdoor activities: Music levers
+Outdoor activities; Music lovers;
 
 Digitally savvy
 
@@ -2657,11 +2679,17 @@ Multi-family: 5-9 units, 2
 
 Age of children: 0-3
 
-Tech Uses: Excellent
+Tech Use: Excellent
 
-Renters: Military base communities; Ethnicity diverse; Children's activities; Limited educations; Active social lives
+Renters: Military base communities;
 
-## Full Steam Ahead C50
+Ethnically diverse; Children's
+
+activities; Limited educations;
+
+Active social lives
+
+## Full Steam Ahead 050
 
 Age: 36-45, <$15k
 
@@ -2677,13 +2705,11 @@ Busy lives: Television fans; Single adults; Informed shopper; Leaning Liberal; C
 
 Multi-family: 101+ units, 1
 
-Tech Uses: Excellent
+Tech Use: Excellent
 
-Career-driven: Urban-centric
+Career-driven: Urban-centric;
 
-Digitally dependent: Active social
-
-Lives: Gym memberships: Music fan
+Digitally dependent: Active social lives; Gym memberships; Music fan
 
 ## Urban Ambition 052
 
@@ -2695,7 +2721,7 @@ Age of children: 13-18
 
 Tech Use: Very Poor
 
-Racist/ly diverse; Singles and single parents; City apartment renters; Music hip; Technology adapting; Video games
+Racially diverse; Singles and single parents; City apartment renters; Music hip; Technology adapting; Video games
 
 P CULTURAL CONNECTIONS
 
@@ -2709,7 +2735,7 @@ Age of children: 10-12
 
 Tech Use: Excellent
 
-Blue-collar jobs; Bilingual; Style conscious; Budget constraints; Proteens and teams; Team sports
+Blue-collar jobs; Bilingual; Style conscious; Budget constraints; Preteens and teens; Team sports
 
 ## Heritage Heights P58
 
@@ -2721,11 +2747,15 @@ Age of children: 13-18
 
 Tech Use: Excellent
 
-Ethnically eclectic; Fashion
+Ethically eclectic; Fashion
 
-forward; Artistically inclined; Billingual; Single parents; Appearances matter
+forward; Artistically inclined;
 
-## Humble Beginnings P61
+Bilingual; Single parents;
+
+Appearances matter
+
+## Humble Beginnings P61 Age: 36-45 $<15k
 
 Multi-family: 101+ units, 1
 
@@ -2733,11 +2763,11 @@ Age of children: 10-12
 
 Tech Use: Excellent
 
-Rental housing: Single parents;
+Rental housing; Single parents;
 
-Bilingual: Driven to impress;
+Bilingual; Driven to Impress;
 
-Family abroad: Style on a budget
+Family abroad; Style on a budget
 
 ## Mid-scale Medley P56
 
@@ -2747,11 +2777,11 @@ Age of children: 13-18
 
 Tech Use: Below Average
 
-Modest living: Single adults;
+Modest living; Single adults;
 
-Trendsetters: Cash over credit;
+Trendsetters; Cash over credit;
 
-Outdoor leisure: Family abroad
+Outdoor leisure; Family abroad
 
 ## Modest Metro Means P57
 
@@ -2763,15 +2793,9 @@ Age of children: 13-18
 
 Tech Use: Very Poor
 
-Public transportation; Ethnicity
+Public transportation; Ethnically diverse; Single parents; Rental housing; TV watchers; Opportunity seekers
 
-diverse; Single parents; Rental
-
-housing; TV watchers;
-
-Opportunity seekers
-
-Striving Forward P60
+## Striving Forward P60
 
 Age: 36-45, $<15k
 
@@ -2789,9 +2813,7 @@ Active athletes; Fashionable
 
 ## Q GOLDEN YEAR GUARDIANS
 
-## Footloose and Family Free Q63
-
-Age: 76+, $15-24K
+## Footbase and Family Free Q63
 
 Single family, 1
 
@@ -2799,19 +2821,19 @@ Tech Use: Below Average
 
 Retirees; Epicurean; Healthy Living; Active social lives; Well-Invested; Financially secure
 
+## Reaping Rewards Q62
+
 Single family, 2
 
 Tech Use: Very Poor
 
-Retirees; Established credits;
+Retirees; Established credit;
 
 Cruise vacations; Daytime
 
-entertainment; Brand loyals;
+entertainment; Brand loyal;
 
 Republican supporter
-
-## Roaping Rewards Q62
 
 ## Town Elders Q64
 
@@ -2829,21 +2851,13 @@ purchases; Rural lifestyle
 
 ## Senior Discounts Q65
 
-Age: 76+, <$15k
+Age: 76+, <$15K
 
-Multi-family 101+ units, 1
+Multi-family: 101+ units, 1
 
 Tech Use: Very Poor
 
-Discount shoppers; Retirement
-
-residences; TV entertainment;
-
-Active leisure lives; Active health
-
-maintenance; Avoid newspaper
-
-readers
+Discount shoppers: Retirement residences; TV entertainment; Active leisure lives; Active health maintenance; Avoid newspaper readers
 
 ## RASPIRATIONAL FUSION
 
@@ -2857,9 +2871,7 @@ Age of children: 13-18
 
 Tech Use: Above Average
 
-Single parents: Apartment dwellers
-
-Bilingual: Brand-conscious; Team sports; Window shoppers
+Single parents: Apartment dwellers; Bilingual; Brand-conscious; Team sports; Window-shoppers
 
 ## Hope for Tomorrow R67
 
@@ -2871,7 +2883,13 @@ Age of children: 13-18
 
 Tech Use: Excellent
 
-Single parents: Striving for more; City living; Shopping as entertainment; Seeking approval; Cash not credit
+Single parents; Striving for
+
+more; City living; Shopping as
+
+entertainment; Seeking approval;
+
+Cash not credit
 
 ## S ECONOMIC CHALLENGES
 
@@ -2879,15 +2897,21 @@ Single parents: Striving for more; City living; Shopping as entertainment; Seeki
 
 Age: 51-65, <$15k
 
-Single family: 1
+Single family, 1
 
 Tech Use: Very Poor
 
-Modest spenders; Rural towns; Single, empty nesters; Frequent movers; Modest educations; Status seeking purchases
+Modest spenders; Rural towns;
 
-## Tight Money $70
+Single, empty nesters; Frequent
 
-Age: 36-45, <$15k
+movers; Modest educations;
+
+Status seeking purchases
+
+## Tight Maney $70
+
+Age: 36-45, <$15K
 
 Multi-family: 20-49 units, 1
 
@@ -2895,15 +2919,13 @@ Age of children: 13-18
 
 Tech Use: Excellent
 
-Rental housing: Rural towns;
+Rental housing; Rural towns;
 
-Bluecollar jobs: Simple lifestyles;
+Bluecollar jobs; Simple lifestyles;
 
-Bargain hunters: Status shoppers
+Bargain hunters; Status shoppers
 
-## Tough Times 571
-
-Age: 51-65, <$15k
+## Tough Times $71
 
 Multi-family: 101+ units, 1
 
@@ -2925,13 +2947,13 @@ Age of children: 13-18
 
 Tech Use: Excellent
 
-Modest budgets: Racially
+Modest budgets; Racially
 
-diverse; Entrepreneurial spirit:
+diverse; Entrepreneurial spirit;
 
-Homeowners: Materialistic
+Homeowners; Materialistic
 
-aspirations: Style on a budget
+aspirations; Style on a budget
 
 <a id="p100"></a>
 *[Page 100 of the original](https://www.southlyonmi.org/2-12-24%20Council%20Packet%20-%20online%20only.pdf?t=202402090926490#page=100)* (read by OCR; check the original)
@@ -3595,7 +3617,7 @@ UNSIGNALIZED INTERSECTION
 <a id="p126"></a>
 *[Page 126 of the original](https://www.southlyonmi.org/2-12-24%20Council%20Packet%20-%20online%20only.pdf?t=202402090926490#page=126)* (read by OCR; check the original)
 
-<table><tr><td rowspan="2">10 MILE ROAD</td><td>407/352 → 27/14</td><td>← 234/461 → 40/14</td></tr><tr><td>← 51/23 → 7/16 → 67/28 → 0/0 → 58/39 → 0/0 → 58/39 → 0/0 → 58/39 → 0/0 → 54/35 → 0/0 → 4/4 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/0 → 54/35 → 0/</td><td></td></tr></table>
+<table><tr><td rowspan="5">10 MILE ROAD</td><td>407/352 → 27/14</td><td>← 234/461 → 40/14</td></tr><tr><td>← 51/23 → 7/16</td><td>← 458/375 → 0/0</td></tr><tr><td>← 58/39 → 0/0 → 0/0</td><td>← 458/375 → 0/0 → 0/0</td></tr><tr><td>← 58/39 → 0/0 → 0/0</td><td>← 458/375 → 0/0 → 0/0</td></tr><tr><td>← 58/39 → 0/0 → 0/0</td><td>← 458/375 → 0/0 → 0/0</td></tr><tr><td rowspan="2">EDENDERRY DRIVE</td><td>4/4 → 0/0 → 3/2</td><td>← 4/4 → 0/0 → 54/35</td></tr><tr><td>← 4/4 → 0/0 → 54/35 → 0/0</td><td>← 4/4 → 0/0 → 54/35 → 0/0 → 54/35</td></tr><tr><td colspan="2">FIGURE 3</td><td>LEGEND → ROADS → PROPOSED ROADS → TRAFFIC VOLUMES → TRAFFIC VOLUMES (AMPM) → NORTH</td></tr><tr><td>*[Image or figure on this page; see the original.]*</td><td colspan="2">EXISTING TRAFFIC VOLUMES</td></tr></table>
 
 <a id="p127"></a>
 *[Page 127 of the original](https://www.southlyonmi.org/2-12-24%20Council%20Packet%20-%20online%20only.pdf?t=202402090926490#page=127)* (read by OCR; check the original)
@@ -3697,7 +3719,7 @@ Comments:
 
 *[Image or figure on this page; see the original.]*
 
-<table><tr><td rowspan="2">15-Min Count Period Beginning At</td><td colspan="3">Dixboro Road (Northbound)</td><td colspan="3">Dixboro Road (Southbound)</td><td colspan="3">10 Mile Road (Eastbound)</td><td colspan="3">10 Mile Road (Westbound)</td><td rowspan="2">Total</td><td rowspan="2">Hourly Totals</td></tr><tr><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td></tr><tr><td>4:00 PM</td><td>13</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>84</td><td>0</td><td>0</td><td>1</td><td>205</td><td></td></tr><tr><td>4:15 PM</td><td>5</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>99</td><td>3</td><td>0</td><td>0</td><td>231</td><td></td></tr><tr><td>4:30 PM</td><td>9</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>94</td><td>5</td><td>0</td><td>1</td><td>209</td><td></td></tr><tr><td>4:45 PM</td><td>1</td><td>0</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>83</td><td>3</td><td>0</td><td>2</td><td>213</td><td>858</td></tr><tr><td>5:00 PM</td><td>8</td><td>0</td><td>8</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>69</td><td>2</td><td>0</td><td>3</td><td>208</td><td>861</td></tr><tr><td>5:15 PM</td><td>2</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>100</td><td>4</td><td>0</td><td>6</td><td>242</td><td>872</td></tr><tr><td>5:30 PM</td><td>5</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>100</td><td>5</td><td>0</td><td>3</td><td>217</td><td>880</td></tr><tr><td>5:45 PM</td><td>5</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>90</td><td>2</td><td>0</td><td>1</td><td>201</td><td>868</td></tr><tr><td rowspan="2">Peak 15-Min Flowrates</td><td colspan="3">Northbound</td><td colspan="3">Southbound</td><td colspan="3">Eastbound</td><td colspan="3">Westbound</td><td rowspan="2" colspan="2">Total</td></tr><tr><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td></tr><tr><td>All Vehicles</td><td>8</td><td>0</td><td>16</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>400</td><td>16</td><td>0</td><td>24</td><td>504</td><td>968</td></tr><tr><td>Heavy Trucks</td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>8</td><td>0</td><td></td><td>0</td><td>12</td><td>20</td></tr><tr><td>Buses</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Pedestrians</td><td>0</td><td></td><td></td><td></td><td>0</td><td></td><td></td><td></td><td>0</td><td></td><td></td><td>0</td><td></td><td>0</td></tr><tr><td>Bicycles</td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Scooters</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+<table><tr><td rowspan="2">15-Min Count Period Beginning At</td><td colspan="3">Dixboro Road (Northbound)</td><td colspan="3">Dixboro Road (Southbound)</td><td colspan="3">10 Mile Road (Eastbound)</td><td colspan="3">10 Mile Road (Westbound)</td><td rowspan="2">Total</td><td rowspan="2">Hourly Totals</td></tr><tr><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td></tr><tr><td>4:00 PM</td><td>13</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>84</td><td>0</td><td>0</td><td>105</td><td>205</td></tr><tr><td>4:15 PM</td><td>5</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>99</td><td>3</td><td>0</td><td>0</td><td>120</td><td>231</td></tr><tr><td>4:30 PM</td><td>9</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>94</td><td>5</td><td>0</td><td>1</td><td>96</td><td>209</td></tr><tr><td>4:45 PM</td><td>1</td><td>0</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>83</td><td>3</td><td>0</td><td>2</td><td>117</td><td>213</td></tr><tr><td>5:00 PM</td><td>8</td><td>0</td><td>8</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>69</td><td>2</td><td>0</td><td>3</td><td>118</td><td>208</td></tr><tr><td>5:15 PM</td><td>2</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>100</td><td>4</td><td>0</td><td>6</td><td>126</td><td>242</td></tr><tr><td>5:30 PM</td><td>5</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>100</td><td>5</td><td>0</td><td>3</td><td>100</td><td>217</td></tr><tr><td>5:45 PM</td><td>5</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>90</td><td>2</td><td>0</td><td>1</td><td>102</td><td>201</td></tr><tr><td rowspan="2">Peak 15-Min Flowrates</td><td colspan="3">Northbound</td><td colspan="3">Southbound</td><td colspan="3">Eastbound</td><td colspan="3">Westbound</td><td rowspan="2" colspan="2">Total</td></tr><tr><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td><td>Left</td><td>Thru</td><td>Right</td><td>U</td></tr><tr><td>All Vehicles</td><td>8</td><td>0</td><td>16</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>400</td><td>16</td><td>0</td><td>24</td><td>504</td><td>968</td></tr><tr><td>Heavy Trucks</td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td></td><td>8</td><td>0</td><td></td><td>0</td><td>12</td><td>20</td></tr><tr><td>Buses</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Pedestrians</td><td>0</td><td></td><td></td><td></td><td>0</td><td></td><td></td><td></td><td>0</td><td></td><td></td><td>0</td><td></td><td>0</td></tr><tr><td>Bicycles</td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td></tr><tr><td>Scooters</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
 
 <a id="p133"></a>
 *[Page 133 of the original](https://www.southlyonmi.org/2-12-24%20Council%20Packet%20-%20online%20only.pdf?t=202402090926490#page=133)* (read by OCR; check the original)
@@ -4486,7 +4508,7 @@ Sheet No.
 <a id="p184"></a>
 *[Page 184 of the original](https://www.southlyonmi.org/2-12-24%20Council%20Packet%20-%20online%20only.pdf?t=202402090926490#page=184)* (read by OCR; check the original)
 
-<table><tr><td>Tree List</td><td>Wood and Summary</td><td>ALLENDESIGN</td><td>Staff</td></tr><tr><td></td><td>Tea</td><td>Wood and Wooden Woodwood</td><td rowspan="8">Wood and Wooden Woodwood</td></tr><tr><td></td><td>Wood and Woodwood</td><td>Wood and Woodwood Woodwoodwood</td></tr><tr><td></td><td>Wood and Woodwood</td><td>Wood and Woodwood Woodwood</td></tr><tr><td></td><td>Wood and Woodwood</td><td>Wood and Woodwood Woodwood</td></tr><tr><td></td><td>Wood and Woodwood</td><td>Wood and Woodwood</td></tr><tr><td></td><td>Wood and Woodwood</td><td>Wood and Woodwood</td></tr><tr><td></td><td>Wood and Woodwood</td><td>Wood and Woodwood</td></tr><tr><td></td><td>Wood and Woodwood</td><td>Wood and Woodwood</td></tr></table>
+<table><tr><td colspan="3">Wood and Summary</td></tr></table>
 
 <a id="p185"></a>
 *[Page 185 of the original](https://www.southlyonmi.org/2-12-24%20Council%20Packet%20-%20online%20only.pdf?t=202402090926490#page=185)* (read by OCR; check the original)
@@ -4833,6 +4855,8 @@ Attachments
 
 <a id="p198"></a>
 *[Page 198 of the original](https://www.southlyonmi.org/2-12-24%20Council%20Packet%20-%20online%20only.pdf?t=202402090926490#page=198)* (read by OCR; check the original)
+
+*[OCR note: this page may contain text repeated by the OCR software; check the original.]*
 
 <div>Crash Severity</div>
 

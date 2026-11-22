@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%201.p
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "f1f5f270aa38103a0427f712db64a23042ed84774b33b37cb2ea996041a45dc7"
 source_bytes: 3319055
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 86
 ocr_pages: 86
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2018-09-10
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%201.pdf?t=202108310733130) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `f1f5f270aa38103a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%201.pdf?t=202108310733130) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `f1f5f270aa38103a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%201.pdf?t=202108310733130#page=1)* (read by OCR; check the original)
@@ -873,160 +873,37 @@ Hours
 7/20/2018 TSW Review of 825 W Lake Street conditional rezoning file; Begin preparation of conditional rezoning agreement and zoning ordinance amendment  
 7/23/2018 TSW Attention to eligibility criteria for DNR park land grants  
 7/24/2018 TSW Attention to Michigan Stability Board Best Practices and Strategies  
-7/25/2018 TSW Attention to Knolls business registration for First Amendment to Planned Development Agreement  
-7/26/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/27/2018 TSW Correspondence to and from DPW regarding Comcast cable installation  
-7/28/2018 TSW Review of Ajax Paving Asphalt Cold Patch Credit Agreement and correspondence to City regarding same  
-7/29/2018 TSW Correspondence to Interim City Manager regarding review of Visicom proposal for IT Services Agreement  
-7/30/2018 TSW Correspondence to and from ASTI regarding availability of reports on groundwater  
-7/31/2018 TSW Review of Carriage Trace Quit Claim Deed of park  
-7/32/2018 TSW Review of conditional rezoning request for 825 W Lake - LV Holdings and prop of Conditional Rezoning Agreement and Ordinance Amendment; Correspondence to Planning Director and consultant regarding same  
-7/33/2018 TSW Review of Conditional rezoning request for 825 W Lake - LV Holdings and prop of Conditional Rezoning Agreement and Ordinance Amendment; Correspondence to Planning Director and consultant regarding same  
-7/34/2018 TSW Review of Carriage Trace Quit Claim Deed of park  
-7/35/2018 TSW Attention to issues relating to potential property acquisition  
-7/36/2018 TSW Research regarding closed meeting issue  
-7/37/2018 TSW Attention to issues relating to City Manager search process  
-7/38/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/39/2018 TSW Review of Carriage Trace Quit Claim Deed of park  
-7/40/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/41/2018 TSW Review of Carriage Trace Quit Claim Deed of park  
-7/42/2018 TSW Attention to Issues relating to Potential property acquisition  
-7/43/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/44/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/45/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/46/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/47/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/48/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/49/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/50/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/51/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/52/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/53/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/54/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/55/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/56/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/57/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/58/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/59/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/60/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/61/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/62/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/63/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/64/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/65/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/66/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/67/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/68/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/69/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/70/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/71/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/72/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/73/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/74/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/75/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/76/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/77/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/78/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/79/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/80/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/81/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/82/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/83/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/84/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/85/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/86/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/87/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/88/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/89/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/90/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/91/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/92/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/93/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/94/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/95/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/96/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/97/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/98/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/99/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/10/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/11/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/12/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/13/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/14/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/15/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/16/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/17/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/18/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/19/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/20/2018 TSW Review of 825 W Lake Street conditional rezoning file; Begin preparation of conditional rezoning agreement and zoning ordinance amendment  
-7/21/2018 TSW Review of 825 W Lake Street conditional rezoning file; Begin preparation of conditional rezoning agreement and zoning ordinance amendment  
-7/22/2018 TSW Review of 825 W Lake Street conditional rezoning file; Begin preparation of conditional rezoning agreement and zoning ordinance amendment  
-7/23/2018 TSW Attention to Eligibility criteria for DNR park land grants  
-7/24/2018 TSW Attention to Eligibility criteria for DNR park land grants  
-7/25/2018 TSW Attention to Michigan Stability Board Best Practices and Strategies  
-7/26/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/27/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/28/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/30/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/31/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/32/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/33/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/34/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/35/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/36/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/37/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/38/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/39/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/40/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/41/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/42/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/43/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/44/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/45/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/46/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/47/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/48/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/49/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/50/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/51/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/52/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/53/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/54/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/55/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/56/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/57/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/58/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/59/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/60/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/61/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/62/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/63/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/64/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/65/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/66/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/67/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/68/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/69/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/70/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/71/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/72/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/73/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/74/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/75/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/76/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/77/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/78/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/79/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/80/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/81/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/82/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/83/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/84/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/85/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/86/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/87/2018 TSW Attention to Amendment to First Amendment to Planned Development Agreement  
-7/88/2018 TSW Attention to Carriage Trace Quit Claim Deed of park  
-7/89/2018 TSW Attention to Amendment to First Amendment to Pl
+7/24/2018 TSW Attention to Knolls business registration for First Amendment to Planned Development Agreement  
+7/24/2018 TSW Correspondence to and from DPW regarding Comcast cable installation  
+7/24/2018 TSW Review of Ajax Paving Asphalt Cold Patch Credit Agreement and correspondence to City regarding same  
+7/24/2018 TSW Correspondence to Interim City Manager regarding review of Visicom proposal for IT Services Agreement  
+7/24/2018 TSW Correspondence to and from ASTI regarding availability of reports on groundwater  
+7/24/2018 TSW Review of Carriage Trace Quit Claim Deed of park  
+7/24/2018 TSW Review of conditional rezoning request for 825 W Lake - LV Holdings and prop of Conditional Rezoning Agreement and Ordinance Amendment; Correspondence to Planning Director and consultant regarding same  
+7/24/2018 TSW Attention to issues relating to potential property acquisition  
+7/24/2018 TSW Research regarding closed meeting issue  
+7/24/2018 TSW Attention to issues relating to City Manager search process  
+7/24/2018 TSW Review of Carriage Trace Quit Claim Deed of park  
+7/24/2018 TSW Attention to Knolls business registration for First Amendment to Planned Development Agreement  
+7/24/2018 TSW Correspondence to and from DPW regarding Comcast cable installation  
+7/24/2018 TSW Review of Ajax Paving Asphalt Cold Patch Credit Agreement and correspondence to City regarding same  
+7/24/2018 TSW Correspondence to Interim City Manager regarding review of Visicom proposal for IT Services Agreement  
+7/24/2018 TSW Correspondence to and from ASTI regarding availability of reports on groundwater  
+7/24/2018 TSW Review of Carriage Trace Quit Claim Deed of park  
+7/24/2018 TSW Attention to Knolls business registration for First Amendment to Planned Development Agreement  
+7/24/2018 TSW Correspondence to and from DPW regarding Comcast cable installation  
+7/24/2018 TSW Attention to Interim City Manager regarding review of Visicom proposal for IT Services Agreement  
+7/24/2018 TSW Correspondence to and from ASTI regarding availability of reports on groundwater  
+7/24/2018 TSW Attention to Kools business registration for First Amendment to Planned Development Agreement  
+7/24/2018 TSW Correspondence to and from ASTI regarding availability of reports on groundwater  
+7/24/2018 TSW Attention to Dao's business registration for First Amendment to Planned Development Agreement  
+7/24/2018 TSW Correspondence to and from ASTI regarding availability of reports on groundwater  
+7/24/2018 TSW Attention to Dao's Management Search process  
+7/24/2018 TSW Attention to Koo's Management Search process  
+7/24/2018 TSW Attention to Interim City Manager Information Management and Compliance  
+7/24/2018 TSW Attention to Dao's Management Search process  
+7/24/2018 TSW Attention to Koo's Management Search process  
+7/24/2018 TSW Attention to Interim City Manager Information Management and Compliance
 
 <a id="p36"></a>
 *[Page 36 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%201.pdf?t=202108310733130#page=36)* (read by OCR; check the original)

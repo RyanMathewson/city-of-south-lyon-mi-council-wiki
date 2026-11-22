@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/12-14-20%20Council%20Packet%20-%20onlin
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "8fa1efdb6bda5aa4b3a7e69b45a6aa69f9aab84bc2b86cb96891bc53bf988578"
 source_bytes: 5337445
-retrieved: "2026-10-28"
+retrieved: "2026-11-22"
 pages: 138
 ocr_pages: 138
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2020-12-14
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/12-14-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-28; SHA-256 `8fa1efdb6bda5aa4…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/12-14-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `8fa1efdb6bda5aa4…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/12-14-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=1)* (read by OCR; check the original)
@@ -394,15 +394,9 @@ Page: 1/1
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/12-14-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=16)* (read by OCR; check the original)
 
-12/09/2020 01:09 PM
+<table><tr><td>12/09/2020 01:09 PM</td><td>CHECK REGISTER FOR CITY OF SOUTH LYON</td><td>Page: 1/9</td></tr><tr><td>User: PATRICIA</td><td>CHECK DATE FROM 11/12/2020 - 12/10/2020</td><td></td></tr><tr><td>DB: South Lyon</td><td></td><td></td></tr></table>
 
-User: PATRICIA
-
-DB: South Lyon
-
-<table><tr><td colspan="2">CHECK REGISTER FOR CITY OF SOUTH LYON</td><td>Page: 1/9</td></tr><tr><td colspan="2">CHECK DATE FROM 11/12/2020 - 12/10/2020</td><td></td></tr></table>
-
-<table><tr><td>Check Date</td><td>Check</td><td>Vendor</td><td>Vendor Name</td><td>Description</td><td>Amount</td><td>Status</td></tr><tr><td>Bank 01 GEN</td><td>FUND CHECKING</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>11/12/2020</td><td>80653</td><td>2666</td><td>DAVID ALLEN</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80654</td><td>0642</td><td>RITA ALLEN</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80655</td><td>4295</td><td>AMAZON CAPITAL SERVICES</td><td>SHIPPING LABELS</td><td>62.96</td><td>Cleared</td></tr><tr><td></td><td></td><td></td><td></td><td>FLASHING LED HANDHELD TRAFFIC STOP SI</td><td>159.99</td><td>Cleared</td></tr><tr><td></td><td></td><td></td><td></td><td>SMOKE ALARM, CUPS, COFFEE</td><td>274.52</td><td>Cleared</td></tr><tr><td></td><td></td><td></td><td></td><td>THERMOENTER</td><td>89.99</td><td>Cleared</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>587.46</td><td></td></tr><tr><td>11/12/2020</td><td>80656</td><td>4578</td><td>ANY BAKER</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80657</td><td>4574</td><td>ANTHONY FACIONE</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80658</td><td>4581</td><td>ASHLEY FISHER</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80659</td><td>4068</td><td>AT&T</td><td>PHONE SERVICE</td><td>340.22</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80660</td><td>1747</td><td>ANNE BADARAK</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80661</td><td>11083</td><td>RONALD BROCK</td><td>GLAD STORAGE BAGS, CORNER ANGLE FOR P</td><td>43.56</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80662</td><td>4580</td><td>CAROL FELDMAN</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80663</td><td>4571</td><td>CHERYL DANIELS</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80664</td><td>4588</td><td>CHRISTOPHER HUGHES</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80665</td><td>3935</td><td>CIB PLANNING</td><td>PLANNING CONSULTANT & ENGINEERING FEE</td><td>5,190.50</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80666</td><td>5922</td><td>FRANCES CODY</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80667</td><td>5923</td><td>GERALD CODY</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80668</td><td>3165</td><td>CONSUMERS ENERGY</td><td>GAS SERVICE</td><td>143.09</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80669</td><td>3165</td><td>CONSUMERS ENERGY</td><td>GAS SERVICE</td><td>89.84</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80670</td><td>4582</td><td>DAVID HANCOCK</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80671</td><td>4454</td><td>DENNIS SEYBERT</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80672</td><td>0584</td><td>DTE ENERGY</td><td>ELECTRIC SERVICE</td><td>403.86</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80673</td><td>0584</td><td>DTE ENERGY</td><td>ELECTRIC SERVICE</td><td>144.27</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80674</td><td>4256</td><td>EILEEN DABLIZ</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80675</td><td>3455</td><td>EMPLOYEE HEALTH INSURANCE MGMT</td><td>OCTOBER 2020 MEDICAL WRAP PROCESSING</td><td>869.50</td><td>Cleared</td></tr><tr><td></td><td></td><td></td><td></td><td>OCTOBER 2020 CLAIMS FUNDING</td><td>8,873.96</td><td>Cleared</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>9,743.46</td><td></td></tr><tr><td>11/12/2020</td><td>80676</td><td>4583</td><td>EVE IRELAND</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80677</td><td>4128</td><td>GARY BEASLEY</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80678</td><td>2415</td><td>HURON VALLEY AMBULANCE. INC</td><td>GIGI BOEHLE 8/08/2020</td><td>65.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80679</td><td>4282</td><td>JANE ELIZABETH NELSON</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80680</td><td>4587</td><td>JOHN DOYLE</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80681</td><td>4253</td><td>JUDITH BRYSON</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80682</td><td>4310</td><td>JUDITH MALINOWSKI LLP</td><td>PSYCHOLOGICAL EVALUATION: CZAPSKI</td><td>500.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80683</td><td>4455</td><td>JUDITH SEYBERT</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80684</td><td>4515</td><td>JUDY MATTESON</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80685</td><td>4394</td><td>KATHLEEN SHEPHERD</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80686</td><td>4589</td><td>KATHY LONG</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80687</td><td>4105</td><td>AMBER LYNN KING</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr></table>
+<table><tr><td>Check Date</td><td>Check</td><td>Vendor</td><td>Vendor Name</td><td>Description</td><td>Amount</td><td>Status</td></tr><tr><td>Bank 01 GEN</td><td>FUND CHECKING</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>11/12/2020</td><td>80653</td><td>2666</td><td>DAVID ALLEN</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80654</td><td>0642</td><td>RITA ALLEN</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80655</td><td>4295</td><td>AMAZON CAPITAL SERVICES</td><td>SHIPPING LABELS</td><td>62.96</td><td>Cleared</td></tr><tr><td></td><td></td><td></td><td></td><td>FLASHING LED HANDHELD TRAFFIC STOP SI</td><td>159.99</td><td>Cleared</td></tr><tr><td></td><td></td><td></td><td></td><td>SMOKE ALARM, CUPS, COFFEE</td><td>274.52</td><td>Cleared</td></tr><tr><td></td><td></td><td></td><td></td><td>THERMOMTER</td><td>89.99</td><td>Cleared</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>587.46</td><td></td></tr><tr><td>11/12/2020</td><td>80656</td><td>4578</td><td>AMY BAKER</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80657</td><td>4574</td><td>ANTHONY FACIONE</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80658</td><td>4581</td><td>ASHLEY FISHER</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80659</td><td>4068</td><td>AT&T</td><td>PHONE SERVICE</td><td>340.22</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80660</td><td>1747</td><td>ANNE BADARAK</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80661</td><td>11083</td><td>RONALD BROCK</td><td>GLAD STORAGE BAGS, CORNER ANGLE FOR P</td><td>43.56</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80662</td><td>4580</td><td>CAROL FELDMAN</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80663</td><td>4571</td><td>CHERYL DANIELS</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80664</td><td>4588</td><td>CHRISTOPHER HUGHES</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80665</td><td>3935</td><td>CIB PLANNING</td><td>PLANNING CONSULTANT & ENGINEERING FEE</td><td>5,190.50</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80666</td><td>5922</td><td>FRANCES CODY</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80667</td><td>5923</td><td>GERALD CODY</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80668</td><td>3165</td><td>CONSUMERS ENERGY</td><td>GAS SERVICE</td><td>143.09</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80669</td><td>3165</td><td>CONSUMERS ENERGY</td><td>GAS SERVICE</td><td>89.84</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80670</td><td>4582</td><td>DAVID HANCOCK</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80671</td><td>4454</td><td>DENNIS SEYBERT</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80672</td><td>0584</td><td>DTE ENERGY</td><td>ELECTRIC SERVICE</td><td>403.86</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80673</td><td>0584</td><td>DTE ENERGY</td><td>ELECTRIC SERVICE</td><td>144.27</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80674</td><td>4256</td><td>EILEEN DABLIZ</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80675</td><td>3455</td><td>EMPLOYEE HEALTH INSURANCE MGMT</td><td>OCTOBER 2020 MEDICAL WRAP PROCESSING</td><td>869.50</td><td>Cleared</td></tr><tr><td></td><td></td><td></td><td></td><td>OCTOBER 2020 CLAIMS FUNDING</td><td>8,873.96</td><td>Cleared</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>9,743.46</td><td></td></tr><tr><td>11/12/2020</td><td>80676</td><td>4583</td><td>EVE IRELAND</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80677</td><td>4128</td><td>GARY BEASLEY</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80678</td><td>2415</td><td>HURON VALLEY AMBULANCE. INC</td><td>GIGI BORHLE 8/08/2020</td><td>65.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80679</td><td>4282</td><td>JANE ELIZABETH NELSON</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80680</td><td>4587</td><td>JOHN DOYLE</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80681</td><td>4253</td><td>JUDITH BRYSON</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80682</td><td>4310</td><td>JUDITH MALINOWSKI LLP</td><td>PSYCHOLOGICAL EVALUATION: CZAPSKI</td><td>500.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80663</td><td>4455</td><td>JUDITH SEYBERT</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80684</td><td>4515</td><td>JUDY MATTESON</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80685</td><td>4384</td><td>KATHLEEN SHEPHERD</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80686</td><td>4589</td><td>KATHY LONG</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80687</td><td>4105</td><td>AMBER LYNN KING</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr></table>
 
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/12-14-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=17)* (read by OCR; check the original)
@@ -413,11 +407,11 @@ User: PATRICIA
 
 DB: South Lyon
 
-CHECK REGISTER FOR CITY OF SOUTH LYON CHECK DATE FROM 11/12/2020 - 12/10/2020
+CHECK REGISTER FOR CITY OF SOUTH LYON
 
-Page: 2/9
+CHECK DATE FROM 11/12/2020 - 12/10/2020
 
-<table><tr><td>Check Date</td><td>Check</td><td>Vendor</td><td>Vendor Name</td><td>Description</td><td>Amount</td><td>Status</td></tr><tr><td>11/12/2020</td><td>80688</td><td>2273</td><td>JOHN KOPACZ</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80689</td><td>2333</td><td>CARL KOSKI</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80690</td><td>2148</td><td>DOROPHY KOSKI</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80691</td><td>4573</td><td>KRISTY BASTINE</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80692</td><td>4385</td><td>LAURA KATHERINE WALKER</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80693</td><td>4579</td><td>LEAH DAILY</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80694</td><td>4382</td><td>LINDA JANE BENSON</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80695</td><td>4281</td><td>LINDA JANE GASPAROTT</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80696</td><td>4584</td><td>LISA SPRATKE</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80697</td><td>4393</td><td>LISA WOOD</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80698</td><td>4575</td><td>MARGARET HOLYCROSS</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80699</td><td>4391</td><td>MARK STANLEY FLOWERS</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80700</td><td>4586</td><td>MARY CONNOLLY</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80701</td><td>4283</td><td>MARY LOUISE KORR</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80702</td><td>9834</td><td>WOODROW MATNEY</td><td>CUSTODIAL SERVICES AT WITCH'S HAT 8/3</td><td>684.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80703</td><td>4246</td><td>MCW PARTNERS, LLC</td><td>21 WATER COOLER QUARTERLY RENTAL</td><td>120.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80704</td><td>4516</td><td>MICHELE DARKET</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80705</td><td>4577</td><td>MICHELLE WALKUP</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80706</td><td>4033</td><td>MICHIGAN ASSOC OF CHIEFS OF POLICE</td><td>AMT SESSIONS - SOVIK, BAAKI, SEDERLUN</td><td>75.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80707</td><td>4457</td><td>NANCY DURBIN</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80708</td><td>5183</td><td>OAKLAND COUNTY TREASURERS</td><td>CLEMIS MEMBERSHIP & PARTICIPATION FEE</td><td>4,093.25</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80709</td><td>0462</td><td>PETER'S TRUE VALUE HARDWARE</td><td>HOSE BUTLER</td><td>10.99</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>TIRE CLEANER, SEAL, TAPE, VALVE</td><td>23.26</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>34.25</td><td></td></tr><tr><td>11/12/2020</td><td>80710</td><td>4572</td><td>PHYLLIS GOODMAN</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80711</td><td>2419</td><td>QUICK SILVER MARKETING SOLUTIONS</td><td>HATS</td><td>330.91</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80712</td><td>4591</td><td>REBECCA STILLWELL</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80713</td><td>4453</td><td>RICHARD CADICAMO</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80714</td><td>0302</td><td>JEANETTE RUSSELL</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80715</td><td>4585</td><td>RYAN CARTMILL</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80716</td><td>4590</td><td>SAGAR SHIRISH SHAH</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80717</td><td>5554</td><td>SALEM-SOUTH LYON DISTRICT</td><td>TAX DISBURSEMENT/TAXES DUE</td><td>1,521.23</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80718</td><td>4106</td><td>DENISE HORVATH SEMION</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80719</td><td>4576</td><td>SHAMN PERTTUNEN</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80720</td><td>4254</td><td>SHIRLEY SHINER</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80721</td><td>0461</td><td>SOUTH LYON COMMUNITY SCHOOLS</td><td>TAX DISBURSEMENT/TAXES DUE</td><td>10,518.55</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80722</td><td>3100</td><td>STATE OF MICHIGAN $ ^{{**}} $</td><td>FINGERPRINTS</td><td>2,335.50</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80723</td><td>4593</td><td>THE GALLERY COLLECTION</td><td>CHRISTMAS CARDS</td><td>112.92</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80724</td><td>4239</td><td>THE HOWARD E NYHART COMPANY INC.</td><td>OPEB NORMAL COST EXHIBIT ADDITION TO</td><td>250.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80725</td><td>4388</td><td>THERESA ANN SZARAMA</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80726</td><td>3675</td><td>TOSHIBA FINANCIAL SERVICES</td><td>COPIER CONTRACT MAIN POLICE BLDG</td><td>115.72</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80727</td><td>3675</td><td>TOSHIBA FINANCIAL SERVICES</td><td>CONTRACT PAYMENT</td><td>96.97</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80728</td><td>4595</td><td>VERITA TELECOMMUNICATIONS CORP.</td><td>CASH BOND REFUND COMCAST INSTALLATION</td><td>15,000.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80729</td><td>2770</td><td>VICTORY LANE</td><td>OIL CHANGE - VEHICLES 251 AND 252</td><td>73.46</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80730</td><td>4386</td><td>WAYNE WILLIAM NUNEZ</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80731</td><td>4592</td><td>WILLIAM STONE</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr></table>
+<table><tr><td>Check Date</td><td>Check</td><td>Vendor</td><td>Vendor Name</td><td>Description</td><td>Amount</td><td>Status</td></tr><tr><td>11/12/2020</td><td>80688</td><td>2273</td><td>JOHN KOPACZ</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80689</td><td>2333</td><td>CARL KOSKI</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80690</td><td>2148</td><td>DOROPHY KOSKI</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80691</td><td>4573</td><td>KRISTY BASTINE</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80692</td><td>4385</td><td>LAURA KATHERINE WALKER</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80693</td><td>4579</td><td>LEAH DAILEY</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80694</td><td>4382</td><td>LINDA JANE BENSON</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80695</td><td>4281</td><td>LINDA JANE GASPAROTT</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80696</td><td>4584</td><td>LISA SPRATKE</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80697</td><td>4393</td><td>LISA WOOD</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80698</td><td>4575</td><td>MARGARET HOLYCROSS</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80699</td><td>4391</td><td>MARK STANLEY FLOWERS</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80700</td><td>4586</td><td>MARY CONNOLLY</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80701</td><td>4283</td><td>MARY LOUISE KORR</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80702</td><td>9834</td><td>WOODROW MATNEY</td><td>CUSTODIAL SERVICES AT WITCH'S HAT 8/3</td><td>684.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80703</td><td>4246</td><td>MCW PARTNERS, LLC</td><td>21 WATER COOLER QUARTERLY RENTAL</td><td>120.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80704</td><td>4516</td><td>MICHELE DARKET</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80705</td><td>4577</td><td>MICHELLE WALKUP</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80706</td><td>4033</td><td>MICHIGAN ASSOC OF CHIEFS OF POLICE</td><td>AMT SESSIONS - SOVIK, BAAKI, SEDERLUN</td><td>75.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80707</td><td>4457</td><td>NANCY DURBIN</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80708</td><td>5183</td><td>OAKLAND COUNTY TREASURERS</td><td>CLEMIS MEMBERSHIP & PARTICIPATION FEE</td><td>4,093.25</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80709</td><td>0462</td><td>PETER'S TRUE VALUE HARDWARE</td><td>HOSE BUTLER</td><td>10.99</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>TIRE CLEANER, SEAL, TAPE, VALVE</td><td>23.26</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>34.25</td><td></td></tr><tr><td>11/12/2020</td><td>80710</td><td>4572</td><td>PHYLLIS GOODMAN</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80711</td><td>2419</td><td>QUICK SILVER MARKETING SOLUTIONS</td><td>HATS</td><td>330.91</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80712</td><td>4591</td><td>REBECCA STILLWELL</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80713</td><td>4453</td><td>RICHARD CADICAMO</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80714</td><td>0302</td><td>JEANETTE RUSSELL</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80715</td><td>4585</td><td>RYAN CARTMILL</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80716</td><td>4590</td><td>SAGAR SHIRISH SHAH</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80717</td><td>5554</td><td>SALEM-SOUTH LYON DISTRICT</td><td>TAX DISBURSEMENT/TAXES DUE</td><td>1,521.23</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80718</td><td>4106</td><td>DENISE HORVATH SEMION</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80719</td><td>4576</td><td>SHAWN PERTTUNEN</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80720</td><td>4254</td><td>SHIRLEY SHINER</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80721</td><td>0461</td><td>SOUTH LYON COMMUNITY SCHOOLS</td><td>TAX DISBURSEMENT/TAXES DUE</td><td>10,518.55</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80722</td><td>3100</td><td>STATE OF MICHIGAN $ ^{{**}} $</td><td>FINGERPRINTS</td><td>2,335.50</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80723</td><td>4593</td><td>THE GALLERY COLLECTION</td><td>CHRISTMAS CARDS</td><td>112.92</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80724</td><td>4239</td><td>THE HOWARD E NYHART COMPANY INC.</td><td>OPEB NORMAL COST EXHIBIT ADDITION TO</td><td>250.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80725</td><td>4388</td><td>THERESA ANN SZARAMA</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>11/12/2020</td><td>80726</td><td>3675</td><td>TOSHIBA FINANCIAL SERVICES</td><td>COPIER CONTRACT MAIN POLICE BLDG</td><td>115.72</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80727</td><td>3675</td><td>TOSHIBA FINANCIAL SERVICES</td><td>CONTRACT PAYMENT</td><td>96.97</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80728</td><td>4595</td><td>VERITA TELECOMMUNICATIONS CORP.</td><td>CASH BOND REFUND COMCAST INSTALLATION</td><td>15,000.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80729</td><td>2770</td><td>VICTORY LANE</td><td>OIL CHANGE - VEHICLES 251 AND 252</td><td>73.46</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80730</td><td>4386</td><td>WAYNE WILLIAM NUNEZ</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Cleared</td></tr><tr><td>11/12/2020</td><td>80731</td><td>4592</td><td>WILLIAM STONE</td><td>NOVEMBER ELECTION HAZARD PAY</td><td>50.00</td><td>Open</td></tr></table>
 
 <a id="p18"></a>
 *[Page 18 of the original](https://www.southlyonmi.org/12-14-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=18)* (read by OCR; check the original)
@@ -498,7 +492,9 @@ User: PATRICIA
 
 DB: South Lyon
 
-CHECK REGISTER FOR CITY OF SOUTH LYON CHECK DATE FROM 11/12/2020 - 12/10/2020
+CHECK REGISTER FOR CITY OF SOUTH LYON
+
+CHECK DATE FROM 11/12/2020 - 12/10/2020
 
 <table><tr><td>Check Date</td><td>Check</td><td>Vendor</td><td>Vendor Name</td><td>Description</td><td>Amount</td><td>Status</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>8,156.25</td><td></td></tr><tr><td>12/02/2020</td><td>80858</td><td>1199</td><td>PNC BANK</td><td>CREDIT CARD BILLING SERVICE PERIOD 10</td><td>1,793.62</td><td>Open</td></tr><tr><td>12/02/2020</td><td>80859</td><td>5141</td><td>POLICE OFFICERS ASSOC. OF MICHIGAN</td><td>MONTHLY DUES FOR DECEMBER 2020</td><td>609.88</td><td>Open</td></tr><tr><td>12/02/2020</td><td>80860</td><td>0559</td><td>POLICE OFFICERS LABOR COUNCIL</td><td>MONTHLY DUES FOR DECEMBER 2020</td><td>251.25</td><td>Open</td></tr><tr><td>12/02/2020</td><td>80861</td><td>1634</td><td>TIMOTHY RAAP</td><td>OFFICER'S UNIFORM ALLOWANCE</td><td>375.00</td><td>Open</td></tr><tr><td>12/02/2020</td><td>80862</td><td>4218</td><td>ROBERT VOGEL</td><td>REIMBURSEMENT SOM EMS LICENSE RENEWAL</td><td>25.00</td><td>Open</td></tr><tr><td>12/02/2020</td><td>80863</td><td>3009</td><td>SCHINDLER ELEVATOR CORP.</td><td>ELEVATOR MAINTENANCE</td><td>1,107.84</td><td>Open</td></tr><tr><td>12/02/2020</td><td>80864</td><td>0236</td><td>CHRISTOPHER SEDERLUND</td><td>OFFICER'S UNIFORM ALLOWANCE</td><td>375.00</td><td>Open</td></tr><tr><td>12/02/2020</td><td>80865</td><td>2405</td><td>CHRISTOPHER SOVIK</td><td>OFFICER'S UNIFORM ALLOWANCE</td><td>375.00</td><td>Open</td></tr><tr><td>12/02/2020</td><td>80866</td><td>4443</td><td>SPECTRUM PRINTERS, INC.</td><td>TEST DECKS FOR 11/3/2020 ELECTION</td><td>153.96</td><td>Open</td></tr><tr><td>12/02/2020</td><td>80867</td><td>0831</td><td>TONY SROUFE</td><td>OFFICER'S UNIFORM ALLOWANCE</td><td>375.00</td><td>Open</td></tr><tr><td>12/02/2020</td><td>80868</td><td>9800</td><td>TRAVIS STEVENS</td><td>OFFICER'S UNIFORM ALLOWANCE</td><td>375.00</td><td>Open</td></tr><tr><td>12/02/2020</td><td>80869</td><td>0768</td><td>JOHN TOMANEK</td><td>OFFICER'S UNIFORM ALLOWANCE</td><td>375.00</td><td>Open</td></tr><tr><td>12/02/2020</td><td>80870</td><td>3675</td><td>TOSHIBA FINANCIAL SERVICES</td><td>CONTRACT PAYMENTS 11/15/2020-12/15/20</td><td>1,404.55</td><td>Open</td></tr><tr><td>12/02/2020</td><td>80871</td><td>3675</td><td>TOSHIBA FINANCIAL SERVICES</td><td>CONTRACT PAYMENT FOR 11/16/2020 - 12/</td><td>96.97</td><td>Open</td></tr><tr><td>12/02/2020</td><td>80872</td><td>3675</td><td>TOSHIBA FINANCIAL SERVICES</td><td>CONTRACT PAYMENT FOR 11/15/2020 - 12/</td><td>109.73</td><td>Open</td></tr><tr><td>12/02/2020</td><td>80873</td><td>0062</td><td>VANTAGEPOINT TRANSFERS</td><td>ICMA 457 PLAN #301149 PAYROLL DEDUCTI</td><td>3,540.54</td><td>Open</td></tr><tr><td>12/02/2020</td><td>80874</td><td>4247</td><td>VERIZON WIRELESS</td><td>MONTHLY CELLULAR SERVICE</td><td>97.85</td><td>Open</td></tr><tr><td>12/02/2020</td><td>80875</td><td>1211</td><td>TIMOTHY WALTON</td><td>OFFICER'S UNIFORM ALLOWANCE</td><td>375.00</td><td>Open</td></tr><tr><td>12/02/2020</td><td>80876</td><td>3854</td><td>SUSAN L. WINTERS</td><td>FILE #3-337227 PAYROLL DEDUCTION FOR</td><td>197.29</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80877</td><td>4543</td><td>A&E DIAMOND JEWELERS</td><td>PATRONICITY GRANT FUNDING</td><td>162.50</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80878</td><td>4557</td><td>AIA SERVICES, LLC</td><td>PP EQUIPMENT, WINTER MASK/NECK GAITER</td><td>339.39</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80879</td><td>4540</td><td>ALERO MARATHON</td><td>PATRONICITY GRANT FUNDS</td><td>162.50</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80880</td><td>4295</td><td>AMAZON CAPITAL SERVICES</td><td>GRILL TOP</td><td>28.00</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>ALL PURPOSE CLEANER, PAPER TOWELS, KE</td><td>81.49</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>109.49</td><td></td></tr><tr><td>12/09/2020</td><td>80881</td><td>4606</td><td>BRIGHTON AREA FIRE AUTHORITY</td><td>LIVINGTON COUNTY FIREFIGHTER TRAINING</td><td>50.00</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80882</td><td>1061</td><td>BRIGHTON CLEANING SUPPLIES & SVCS.</td><td>C-FOLD TOWELS</td><td>107.42</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80883</td><td>5264</td><td>BUSCH'S</td><td>SUPPLIES</td><td>35.96</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80884</td><td>3935</td><td>CIB PLANNING</td><td>PLANNING CONSULTANT & ENGINEERING FEE</td><td>6,444.00</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80885</td><td>3165</td><td>CONSUMERS ENERGY</td><td>GAS SERVICE 300 DOROTHY ST</td><td>61.15</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>GAS SERVICE 219 WHIPPLE ST</td><td>220.98</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>282.13</td><td></td></tr><tr><td>12/09/2020</td><td>80886</td><td>3165</td><td>CONSUMERS ENERGY</td><td>GAS SERVICE, VARIOUS LOCATIONS</td><td>88.04</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80887</td><td>3165</td><td>CONSUMERS ENERGY</td><td>GAS SERVICE 215 WHIPPLE ST</td><td>268.42</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80888</td><td>3165</td><td>CONSUMERS ENERGY</td><td>GAS SERVICE 215 WHIPPLE ST GENERATOR</td><td>17.39</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80889</td><td>3165</td><td>CONSUMERS ENERGY</td><td>GAS SERVICE 214 W LAKE ST</td><td>238.54</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80890</td><td>3165</td><td>CONSUMERS ENERGY</td><td>GAS SERVICE 25678 LEXINGTON DR</td><td>17.71</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80891</td><td>3165</td><td>CONSUMERS ENERGY</td><td>GAS SERVICE 335 S WARREN</td><td>290.44</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80892</td><td>0584</td><td>DTE ENERGY</td><td>ELECTRIC SERVICE - 300 DOROTHY ST</td><td>149.14</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80893</td><td>0584</td><td>DTE ENERGY</td><td>ELECTRIC SERVICE - 250 DOROTHY ST</td><td>30.95</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80894</td><td>0584</td><td>DTE ENERGY</td><td>ELECTRIC SERVICE, VARIOUS LOCATIONS</td><td>874.89</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80895</td><td>4545</td><td>E2 HAIR STUDIO</td><td>PATRONICITY GRANT FUNDING</td><td>162.50</td><td>Open</td></tr></table>
 
@@ -511,9 +507,20 @@ User: PATRICIA
 
 DB: South Lyon
 
-CHECK REGISTER FOR CITY OF SOUTH LYON CHECK DATE FROM 11/12/2020 - 12/10/2020
+CHECK REGISTER FOR CITY OF SOUTH LYON
 
-<table><tr><td>Check Date</td><td>Check</td><td>Vendor</td><td>Vendor Name</td><td>Description</td><td>Amount</td><td>Status</td></tr><tr><td>12/09/2020</td><td>80896</td><td>4537</td><td>EAST LAKE DENTAL</td><td>PATRONICITY GRANT FUNDING</td><td>162.50</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80897</td><td>4542</td><td>GRANDE TRUNKE HOME</td><td>PATRONICITY GRANT FUNDING</td><td>162.50</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80898</td><td>4394</td><td>GREAT LAKES ACE HARDWARE</td><td>TORCH KIT, CIMP METER, SCREWDRIVER, C</td><td>126.67</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80899</td><td>4539</td><td>HAMLIN & CLARK, LLC</td><td>PATRONICITY GRANT FUNDING</td><td>162.50</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80900</td><td>6121</td><td>HEINANEN ENGINEERING, INC.</td><td>PATRONICITY GRANT FUNDING</td><td>162.50</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80901</td><td>3140</td><td>HINES PARK FORD, INC.</td><td>LABOR TO BALANCE TIRES</td><td>89.95</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80902</td><td>4240</td><td>HURON VALLEY GUNS</td><td>UNIFORMS AND PINS - CZARPSKI SHIRT - ARMSTRONG</td><td>860.86</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>WEIR SHIRT, CORCORAN PANTS</td><td>79.99</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>120.98</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1,061.83</td><td></td></tr><tr><td>12/09/2020</td><td>80903</td><td>4998</td><td>KV SPORTS</td><td>PATRONICITY GRANT FUNDING</td><td>162.50</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80904</td><td>4026</td><td>LB OFFICE PRODUCTS</td><td>OFFICE SUPPLIES</td><td>282.11</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80905</td><td>1509</td><td>MARTIN'S DO IT BEST</td><td>SUPPLIES</td><td>16.89</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>ICICLE LIGHTS AND ADJUSTABLE PHOTO CO</td><td>63.95</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>NOVEMBER 2020 STATEMENT</td><td>591.73</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>672.57</td><td></td></tr><tr><td>12/09/2020</td><td>80906</td><td>4427</td><td>MAXI - BRIGHTON</td><td>TAIL LIGHT FOR T7</td><td>19.00</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>BATTERY FOR WATER PLANT GENERATOR</td><td>157.95</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>176.95</td><td></td></tr><tr><td>12/09/2020</td><td>80907</td><td>3109</td><td>MICHIGAN STATE POLICE $ ^{{*}} $</td><td>AFIS ELECTRONIC SUBMISSIONS SOUTH LYO</td><td>389.25</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80908</td><td>4607</td><td>MMTA</td><td>MMTA MEMBERSHIP FEE</td><td>75.00</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80909</td><td>4317</td><td>NEC FINANCIAL SERVICES, LLC</td><td>JAN BILLINGS WW & DPW PHONE SYSTEM</td><td>177.81</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80910</td><td>2646</td><td>OAKLAND CTY ASSOC CHIEFS OF POLICE</td><td>2021 DUES</td><td>60.00</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80911</td><td>0218</td><td>PARKSIDE CLEANERS</td><td>CITY COUNCIL NAME TAGS</td><td>70.00</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>RUGS</td><td>43.00</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>113.00</td><td></td></tr><tr><td>12/09/2020</td><td>80912</td><td>0462</td><td>PETER'S TRUE VALUE HARDWARE</td><td>ROPE FOR HANGING BANNER OVER ROAD</td><td>10.99</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>ELECTRIC REPAIRS</td><td>47.45</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>ROPE</td><td>27.98</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>86.42</td><td></td></tr><tr><td>12/09/2020</td><td>80913</td><td>3946</td><td>PITNEY BOWES $ ^{{*}} $</td><td>MAIL MACHINE</td><td>682.62</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80914</td><td>4563</td><td>PROLIGHTING</td><td>LED LIGHTS</td><td>164.70</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80915</td><td>2419</td><td>QUICK SILVER MARKETING SOLUTIONS</td><td>WINDOW DECALS/STICKERS FOR FM 2021 SP</td><td>198.50</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80916</td><td>2507</td><td>R.R.R.A.S.O.C.</td><td>NOV. 2020 HAZARDOUS WASTE</td><td>215.40</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80917</td><td>5893</td><td>SAFEBUILT, LLC</td><td>NOV. TECH AND PERMIT FEES</td><td>18,071.10</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80918</td><td>4546</td><td>SOUTH LYON CHIROPRACTIC</td><td>PATRONICITY GRANT FUNDING</td><td>162.50</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80919</td><td>4536</td><td>SOUTH LYON MOTORS</td><td>PATRONICITY GRANT FUNDING</td><td>162.50</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80920</td><td>0383</td><td>SOUTH LYON VILLAGE BAKERY</td><td>PATRONICITY GRANT FUNDING</td><td>162.50</td><td>Open</td></tr></table>
+CHECK DATE FROM 11/12/2020 - 12/10/2020
+
+<table><tr><td>Check Date</td><td>Check</td><td>Vendor</td><td>Vendor Name</td><td>Description</td><td>Amount</td><td>Status</td></tr><tr><td>12/09/2020</td><td>80896</td><td>4537</td><td>EAST LAKE DENTAL</td><td>PATRONICITY GRANT FUNDING</td><td>162.50</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80897</td><td>4542</td><td>GRANDE TRUNKE HOME</td><td>PATRONICITY GRANT FUNDING</td><td>162.50</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80898</td><td>4394</td><td>GREAT LAKES ACE HARDWARE</td><td>TORCH KIT, CIMP METER, SCREWDRIVER, C</td><td>126.67</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80899</td><td>4539</td><td>HAMLIN & CLARK, LLC</td><td>PATRONICITY GRANT FUNDING</td><td>162.50</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80900</td><td>6121</td><td>HEINANEN ENGINEERING, INC.</td><td>PATRONICITY GRANT FUNDING</td><td>162.50</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80901</td><td>3140</td><td>HINES PARK FORD, INC.</td><td>LABOR TO BALANCE TIRES</td><td>89.95</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80902</td><td>4240</td><td>HURON VALLEY GUNS</td><td>UNIFORMS AND PINS - CZARPSKI SHIRT - ARMSTRONG WEIR SHIRT, CORCORAN PANTS</td><td>860.86
+79.99
+120.98</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80903</td><td>4998</td><td>KV SPORTS</td><td>PATRONICITY GRANT FUNDING</td><td>162.50</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80904</td><td>4026</td><td>LB OFFICE PRODUCTS</td><td>OFFICE SUPPLIES</td><td>282.11</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80905</td><td>1509</td><td>MARTIN'S DO IT BEST</td><td>SUPPLIES</td><td>16.89</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>ICICLE LIGHTS AND ADJUSTABLE PHOTO CO</td><td>63.95</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td>NOVEMBER 2020 STATEMENT</td><td>591.73</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>672.57</td><td></td></tr><tr><td>12/09/2020</td><td>80906</td><td>4427</td><td>MAXI - BRIGHTON</td><td>TAIL LIGHT FOR T7
+BATTERY FOR WATER PLANT GENERATOR</td><td>19.00
+157.95</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>176.95</td><td></td></tr><tr><td>12/09/2020</td><td>80907</td><td>3109</td><td>MICHIGAN STATE POLICE $ ^{{*}} $</td><td>AFIS ELECTRONIC SUBMISSIONS SOUTH LYO</td><td>389.25</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80908</td><td>4607</td><td>MMTA</td><td>MMTA MEMBERSHIP FEE</td><td>75.00</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80909</td><td>4317</td><td>NEC FINANCIAL SERVICES, LLC</td><td>JAN BILLINGS WW & DPW PHONE SYSTEM</td><td>177.81</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80910</td><td>2646</td><td>OAKLAND CTY ASSOC CHIEFS OF POLICE</td><td>2021 DUES</td><td>60.00</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80911</td><td>0218</td><td>PARKSIDE CLEANERS</td><td>CITY COUNCIL NAME TAGS
+RUGS</td><td>70.00
+43.00</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>113.00</td><td></td></tr><tr><td>12/09/2020</td><td>80912</td><td>0462</td><td>PETER'S TRUE VALUE HARDWARE</td><td>ROPE FOR HANGING BANNER OVER ROAD
+ELECTRIC REPAIRS ROPE</td><td>10.99
+47.45
+27.98</td><td>Open</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>86.42</td><td></td></tr><tr><td>12/09/2020</td><td>80913</td><td>3946</td><td>PITNEY BOWES $ ^{{*}} $</td><td>MAIL MACHINE</td><td>682.62</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80914</td><td>4563</td><td>PROLIGHTING</td><td>LED LIGHTS</td><td>164.70</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80915</td><td>2419</td><td>QUICK SILVER MARKETING SOLUTIONS</td><td>WINDOW DECALS/STICKERS FOR FM 2021 SP</td><td>198.50</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80916</td><td>2507</td><td>R.R.R.A.S.O.C.</td><td>NOV. 2020 HAZARDOUS WASTE</td><td>215.40</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80917</td><td>5893</td><td>SAFEBUILT, LLC</td><td>NOV. TECH AND PERMIT FEES</td><td>18,071.10</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80918</td><td>4546</td><td>SOUTH LYON CHIROPRACTIC</td><td>PATRONICITY GRANT FUNDING</td><td>162.50</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80919</td><td>4536</td><td>SOUTH LYON MOTORS</td><td>PATRONICITY GRANT FUNDING</td><td>162.50</td><td>Open</td></tr><tr><td>12/09/2020</td><td>80920</td><td>0383</td><td>SOUTH LYON VILLAGE BAKERY</td><td>PATRONICITY GRANT FUNDING</td><td>162.50</td><td>Open</td></tr></table>
 
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/12-14-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=24)* (read by OCR; check the original)
@@ -551,6 +558,8 @@ Total of 279 Disbursements:
 User: PATRICIA
 
 DB: South Lyon
+
+<div>INVOICE GL DISTRIBUTION REPORT FOR CITY OF SOUTH LYON EXP CHECK RUN DATES 12/14/2020 - 12/14/2020 JOURNALIZED OPEN</div>
 
 <table><tr><td>GL Number</td><td>Invoice Line Desc</td><td>Vendor</td><td>Invoice Description</td><td>Amount</td><td>Check #</td></tr><tr><td>Fund 101 GENERAL FUND</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Dept 440.000 DEPT. OF PUBLIC WORKS</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>BANDIT INDUSTRIES, INC.</td><td>FLY WHEEL FOR DPW CHIPPER</td><td>626.45</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>FLEETSOFT</td><td>ANNUAL MAINTENANCE SUPPORT THROUGH NO</td><td>344.67</td><td></td></tr><tr><td>101-440.000-863.000</td><td>VEHICLE MAINTENANCE</td><td>GREEN OAK TIRE, INC.</td><td>TIRE DISPOSAL & TIRES FOR DPW</td><td>382.21</td><td></td></tr><tr><td>101-440.000-923.000</td><td>STREET LIGHTING EXPENSE</td><td>HUBBELL, ROTH & CLARK, I</td><td>PROFESSIONAL SERVICES FOR PERIOD ENDI</td><td>285.08</td><td></td></tr><tr><td>101-440.000-923.000</td><td>STREET LIGHTING EXPENSE</td><td>HUBBELL, ROTH & CLARK, I</td><td>PROFESSIONAL SERVICES FOR PERIOD ENDI</td><td>550.72</td><td></td></tr><tr><td>101-440.000-974.000</td><td>LAND IMPROVEMENTS</td><td>HORNET CONCRETE CO. INC.</td><td>CONCRETE</td><td>437.50</td><td></td></tr><tr><td>101-440.000-977.000</td><td>EQUIPMENT</td><td>SKID STEER SOLUTIONS INC</td><td>5' ETERRA SICKLE BAR, BOBCAT EXCHANGE</td><td>4,340.00</td><td></td></tr><tr><td></td><td></td><td>Total For Dept 440.000 DEPT. OF PUBLIC WORKS</td><td></td><td>11,989.94</td><td></td></tr><tr><td>Dept 690.000 PARKS AND RECREATION</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>101-690.000-801.000</td><td>PROFESSIONAL SERVICE</td><td>JOHN'S SANITATION</td><td>PORTA JOHNS @ MCHATTIE PARK</td><td>230.00</td><td></td></tr><tr><td>101-690.000-930.000</td><td>REPAIR MAINTENANCE</td><td>ZERO WASTE USA, INC.</td><td>BAGS FOR DOG WASTE STATIONS</td><td>215.07</td><td></td></tr><tr><td></td><td></td><td>Total For Dept 690.000 PARKS AND RECREATION</td><td></td><td>445.07</td><td></td></tr><tr><td></td><td></td><td>Total For Fund 101 GENERAL FUND</td><td></td><td>33,616.46</td><td></td></tr><tr><td>Fund 202 MAJOR STREETS</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Dept 451.000 STREET CONSTRUCTION</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>202-451.000-801.000</td><td>PROFESSIONAL SERVICE</td><td>HUBBELL, ROTH & CLARK, I</td><td>PROFESSIONAL SERVICES FOR PERIOD ENDI</td><td>6,674.18</td><td></td></tr><tr><td>202-451.000-801.000</td><td>PROFESSIONAL SERVICE</td><td>HUBBELL, ROTH & CLARK, I</td><td>PROFESSIONAL SERVICES FOR PERIOD ENDI</td><td>622.07</td><td></td></tr><tr><td>202-451.000-802.100</td><td>CONTRACTUAL SERVICES (MAJOR STR)</td><td>GM & SONS</td><td>LIBERTY STREET PAVING</td><td>52,244.35</td><td></td></tr><tr><td></td><td></td><td>Total For Dept 451.000 STREET CONSTRUCTION</td><td></td><td>59,540.60</td><td></td></tr><tr><td></td><td></td><td>Total For Fund 202 MAJOR STREETS</td><td></td><td>59,540.60</td><td></td></tr><tr><td>Fund 203 LOCAL STREETS</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Dept 451.000 STREET CONSTRUCTION</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>203-451.000-801.000</td><td>PROFESSIONAL SERVICE</td><td>HUBBELL, ROTH & CLARK, I</td><td>PROFESSIONAL SERVICES FOR PERIOD ENDI</td><td>93.10</td><td></td></tr><tr><td>203-451.000-801.000</td><td>PROFESSIONAL SERVICE</td><td>HUBBELL, ROTH & CLARK, I</td><td>PROFESSIONAL SERVICES FOR PERIOD ENDI</td><td>334.97</td><td></td></tr><tr><td></td><td></td><td>Total For Dept 451.000 STREET CONSTRUCTION</td><td></td><td>428.07</td><td></td></tr><tr><td>Dept 474.000 TRAFFIC SERVICES</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>203-474.000-740.000</td><td>OPERATING EXPENSE</td><td>CONTRACTORS CONNECTION</td><td>ROAD BARRICADES & PAINT</td><td>498.60</td><td></td></tr><tr><td></td><td></td><td>Total For Dept 474.000 TRAFFIC SERVICES</td><td></td><td>498.60</td><td></td></tr><tr><td></td><td></td><td>Total For Fund 203 LOCAL STREETS</td><td></td><td>926.67</td><td></td></tr><tr><td>Fund 265 DRUG LAW ENFORCEMENT FUND</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Dept 000.000</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>265-000.000-964.000</td><td>CAPITAL EXPENDITURE</td><td>BOTACH INC.</td><td>BALLISTIC SHIELDS AND CARRYING CASE</td><td>909.98</td><td></td></tr><tr><td></td><td></td><td>Total For Dept 000.000</td><td></td><td>909.98</td><td></td></tr></table>
 
@@ -1180,445 +1189,15 @@ FIELDSTONE
 <a id="p58"></a>
 *[Page 58 of the original](https://www.southlyonmi.org/12-14-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=58)* (read by OCR; check the original)
 
-<table><tr><td>811.</td></tr><tr><td>Know what's below.
-Call before you sign.</td></tr><tr><td>The information for the曜日 is the
-information for the common
-people and the common use
-of the product. For the common to
-get a call or to the team, or by
-your name, please contact us at
-contact@example.com. For any
-other information, please
-check out the website.</td></tr><tr><td>The information on the曜日 is
-provided by the company.</td></tr><tr><td>The information on the phone may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the phone may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The information on the plan may
-find the complete information
-provided by the company.</td></tr><tr><td>The</td></tr></table>
+<table><tr><td>FIELDSTONE SITE CONDOMINIUM</td><td>THE UMLOR GROUP LAND DEVELOPMENT SERVICES</td></tr><tr><td>PUITE HOMES OF MICHIGAN, LLC
+2800 LYVERODS ROAD, BUILDING D, SUITE 320
+TRV, MICHIGAN 48083</td><td>PUITE HOMES OF MICHIGAN, LLC
+2800 LYVERODS ROAD, BUILDING D, SUITE 320
+TRV, MICHIGAN 48083</td></tr><tr><td>COVER SHEET</td><td>COUNTY OF SOUTH LYON</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
 
-<table><tr><td>FIELDSTONE SITE CONDOMINIUM</td><td colspan="4">THE CORREN SECTOR 19</td><td rowspan="4">The UMLOR GROUP</td></tr><tr><td>PLUTE HOMES OF MICHIGAN, LLC
-2600 LYERHOS ROAD, BUILDING D, STATE 320
-THRY, MICHIGAN 440083</td><td colspan="4">TOWN OF NORTH, RANGE 07 EAST</td></tr><tr><td>COVER SHEET</td><td colspan="4">CITY OF SOUTH LYON</td></tr><tr><td></td><td colspan="4">LAND AND COUNTY, MICHIGAN</td></tr></table>
-
-<div>LOCATION MAP: v - 2,0007</div>
+<div>LOCATION MAP, 1 - 2,000</div>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1630,17 +1209,15 @@ THRY, MICHIGAN 440083</td><td colspan="4">TOWN OF NORTH, RANGE 07 EAST</td></tr>
 
 *[Image or figure on this page; see the original.]*
 
-SITE MAP
+SITE MAP  $ \tau = 10\Delta $
 
 *[Image or figure on this page; see the original.]*
 
 ## LEGAL DESCRIPTION
 
-*[Image or figure on this page; see the original.]*
-
-*[Image or figure on this page; see the original.]*
-
 ## Parcel Tax Number: 21-19-126-002
+
+*[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
 
@@ -1886,11 +1463,13 @@ FRONT ELEVATION
 <a id="p70"></a>
 *[Page 70 of the original](https://www.southlyonmi.org/12-14-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=70)* (read by OCR; check the original)
 
-<table><tr><td>Hianland Pr</td><td>Car Print Entry</td><td>Front Elevation, Parch Sections and Details</td></tr><tr><td>PRECIED BY</td><td>HANGO</td><td>HANGO, CHINA</td></tr><tr><td>BRAND STREET</td><td>BRAND STREET</td><td>BRAND STREET, CHINA</td></tr><tr><td>BRAND ROOM</td><td>BRAND ROOM</td><td>BRAND ROOM, CHINA</td></tr><tr><td>ALL FARES / RESORTS</td><td>ALL FARES / RESORTS</td><td>ALL FARES / RESORTS</td></tr><tr><td>ALL FARES / RESORTS</td><td>ALL FARES / RESORTS</td><td>ALL FARES / RESORTS</td></tr><tr><td>ALL FARES / RESORTS</td><td>ALL FARES / RESORTS</td><td>ALL FARES / RESORTS</td></tr><tr><td>ALL FARES / RESORTS</td><td>ALL FARE</td><td></td></tr></table>
-
-*[Image or figure on this page; see the original.]*
+<table><tr><td>Heartland ZP</td><td>2 Car Front Entry</td><td>Front Elevation, Pitch Sections and Details</td></tr><tr><td colspan="3">PRECAUTION MANAGER</td></tr><tr><td>Bill Sexton</td><td>Bill Platt</td><td>Bill Platt</td></tr><tr><td>Bill Platt</td><td>Bill Platt</td><td>Bill Platt</td></tr><tr><td>Bill Platt</td><td>Bill</td><td></td></tr></table>
 
 FRONT ELEVATION
+
+SALE 1/6 - 1.5
+
+*[Image or figure on this page; see the original.]*
 
 <a id="p71"></a>
 *[Page 71 of the original](https://www.southlyonmi.org/12-14-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=71)* (read by OCR; check the original)
@@ -1927,461 +1506,7 @@ FRONT ELEVATION
 <a id="p74"></a>
 *[Page 74 of the original](https://www.southlyonmi.org/12-14-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=74)* (read by OCR; check the original)
 
-<table><tr><td>A3-HR2K
-295.3</td><td>A5-Spire
-150-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-300
-750-30</td></tr></table>
+<table><tr><td>2 Car Front Entry</td><td>Front Elevation, Pitch Sections and Details</td></tr><tr><td>2 Car Front Entry</td><td>Front Elevation, Pitch Sections and Details</td></tr><tr><td>2 Car Front Entry</td><td>Product Manager</td></tr><tr><td>INTELLIGENCE</td><td>DATE</td></tr><tr><td>BECU</td><td>DATE/DESCRIPTION</td></tr><tr><td>△</td><td>DATE</td></tr><tr><td>△</td><td>DATE</td></tr><tr><td>△</td><td>DATE</td></tr><tr><td>△</td><td>DATE</td></tr><tr><td>△</td><td>DATE</td></tr><tr><td>△</td><td>DATE</td></tr><tr><td>△</td><td>DATE</td></tr><tr><td>PRODUCT TYPE</td><td>Single Family</td></tr><tr><td>DESCRIPTION LEVEL</td><td>—</td></tr><tr><td>PLAN NAME</td><td>Aspire</td></tr><tr><td>WTS CHILD ALUMER</td><td>156,300</td></tr><tr><td>SHEET</td><td>A3-HR2K</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
 
@@ -2472,11 +1597,13 @@ SONG 1/2 - 1/3
 <a id="p84"></a>
 *[Page 84 of the original](https://www.southlyonmi.org/12-14-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=84)* (read by OCR; check the original)
 
-<table><tr><td>C.A.S.C.R.H.H.H.P.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S.S</td></tr></table>
+<table><tr><td>Cafman ZH</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
 
 FRONT ELEVATION
+
+SALE 1/4 = 1.2
 
 <a id="p85"></a>
 *[Page 85 of the original](https://www.southlyonmi.org/12-14-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=85)* (read by OCR; check the original)

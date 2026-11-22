@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/10.23.17%20packet%20part%201.pdf?t=2021
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "13e73f88e11cf9743cb763d2ac85645e81a8e1c1d1664d6f971e83fd3cf65ddf"
 source_bytes: 3526883
-retrieved: "2026-10-27"
+retrieved: "2026-11-22"
 pages: 73
 ocr_pages: 73
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2017-10-23
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/10.23.17%20packet%20part%201.pdf?t=202108310733100) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `13e73f88e11cf974…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/10.23.17%20packet%20part%201.pdf?t=202108310733100) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `13e73f88e11cf974…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/10.23.17%20packet%20part%201.pdf?t=202108310733100#page=1)* (read by OCR; check the original)
@@ -979,7 +979,7 @@ Sec. 319. (1) The secretary of state shall immediately suspend a person's licens
 
 (iv) The vehicle was necessary for the commission of the felony.
 
-(e) A violation of section 602a(2) or (3) of this act or section 479a(2) or (3) of the Michigan penal code, 1981 PA 328, MCL 750.479a.
+(e) A violation of section 602a(2) or (3) of this act or section 479a(2) or (3) of the Michigan penal code, 1931 PA 328, MCL 750.479a.
 
 (f) Beginning October 31, 2010, a violation of section 601d.
 
@@ -989,11 +989,11 @@ Sec. 319. (1) The secretary of state shall immediately suspend a person's licens
 
 (b) A violation of section 601b(2), section 601c(1), section 653a(3), section 626 before October 31, 2010, or beginning October 31, 2010, section 626(2).
 
-(c) Malicious destruction resulting from the operation of a vehicle under section 882(1)(b), (c), or (d) of the Michigan penal code, 1931 PA 328, MCL 750.882.
+(c) Malicious destruction resulting from the operation of a vehicle under section 382(1)(b), (c), or (d) of the Michigan penal code, 1931 PA 328, MCL 750.382.
 
 (d) A violation of section 703(2) of the Michigan liquor control code of 1998, 1998 PA 58, MCL 436.1703.
 
-(4) The secretary of state shall suspend the person's license for 80 days for malicious destruction resulting from the operation of a vehicle under section 382(1)(a) of the Michigan penal code, 1931 PA 328, MCL 750.882.
+(4) The secretary of state shall suspend the person's license for 80 days for malicious destruction resulting from the operation of a vehicle under section 382(1)(a) of the Michigan penal code, 1931 PA 328, MCL 750.382.
 
 (5) For perjury or making a false certification to the secretary of state under any law requiring the registration of a motor vehicle or regulating the operation of a vehicle on a highway, or for conduct prohibited under section 324(1) or a local ordinance substantially corresponding to section 324(1), the secretary of state shall suspend the person's license as follows:
 
@@ -1001,13 +1001,13 @@ Sec. 319. (1) The secretary of state shall immediately suspend a person's licens
 
 (b) If the person has 1 or more prior convictions for an offense described in this subsection within 7 years, for 1 year.
 
-(6) For a violation of section 414 of the Michigan penal code, 1931 PA 328, MCL 750.414, the secretary of state shall suspend the person's license as follows:
+(6) For a violation of section 414 of the Michigan penal code, 1981 PA 328, MCL 750.414, the secretary of state shall suspend the person's license as follows:
 
 (a) If the person has no prior conviction for that offense within 7 years, for 90 days.
 
 (b) If the person has 1 or more prior convictions for that offense within 7 years, for 1 year.
 
-(7) For a violation of section 624a or 624b of this act or section 703(1) of the Michigan liquor control code of 1998, 1998 PA 58, MCL 436.1703, the secretary of state shall suspend the person's license as follows:
+(7) For a violation of section 624a or 624b of this act or section 703(1) of the Michigan liquor control code of 1998, 1998 PA 58. MCL 436.1703, the secretary of state shall suspend the person's license as follows:
 
 (a) Subject to subsection (24), if the person has 1 prior conviction for an offense described in section 624a or 624b of this act or section 33b(1) of former 1933 (Ex Sess) PA 8, for 90 days. The secretary of state may issue the person a restricted license after the first 30 days of suspension.
 
@@ -1015,11 +1015,11 @@ Sec. 319. (1) The secretary of state shall immediately suspend a person's licens
 
 (8) The secretary of state shall suspend the person's license for a violation of section 625 or 625m as follows:
 
-(a) For 180 days for a violation of section 625(1) or (8) before October 31, 2010 or beginning October 31, 2010, section 625(1)(a) or (b) or (8) if the person has no prior convictions within 7 years. The secretary of state may issue the person a restricted license during a specified portion of the suspension, except that the secretary of state shall not issue a restricted license during the first 30 days of suspension.
+(a) For 180 days for a violation of section 625(1) or (8) before October 31, 2010 or, beginning October 31, 2010, section 625(1)(a) or (b) or (8) if the person has no prior convictions within 7 years. The secretary of state may issue the person a restricted license during a specified portion of the suspension, except that the secretary of state shall not issue a restricted license during the first 30 days of suspension.
 
 (b) For 90 days for a violation of section 625(3) if the person has no prior convictions within 7 years. However, if the person is convicted of a violation of section 625(3), for operating a vehicle when, due to the consumption of a controlled substance or a combination of alcoholic liquor and a controlled substance, the person's ability to operate the vehicle was visibly impaired, the secretary of state shall suspend the person's license under this subdivision for 180 days. The secretary of state may issue the person a restricted license during all or a specified portion of the suspension.
 
-(c) For 80 days for a violation of section 625(6) if the person has no prior convictions within 7 years. The secretary of state may issue the person a restricted license during all or a specified portion of the suspension.
+(c) For 30 days for a violation of section 625(6) if the person has no prior convictions within 7 years. The secretary of state may issue the person a restricted license during all or a specified portion of the suspension.
 
 <a id="p38"></a>
 *[Page 38 of the original](https://www.southlyonmi.org/10.23.17%20packet%20part%201.pdf?t=202108310733100#page=38)* (read by OCR; check the original)
