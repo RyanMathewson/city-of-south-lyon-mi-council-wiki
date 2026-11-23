@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "90b0b128bf369fece9a7ae4a865d96ec25e9bbbe9386c636247761f4105a4782"
 source_bytes: 13485073
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 183
 ocr_pages: 183
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2014-11-10
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC110714CCPACKET11-10-14.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `90b0b128bf369fec…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC110714CCPACKET11-10-14.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `90b0b128bf369fec…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC110714CCPACKET11-10-14.pdf?t=202108310732570#page=1)* (read by OCR; check the original)
@@ -223,6 +223,11 @@ Mayor Wallace stated he attended the South Lyon versus Brighton game, it was an 
 <a id="p7"></a>
 *[Page 7 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC110714CCPACKET11-10-14.pdf?t=202108310732570#page=7)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Motion by Kramer, supported by Dixson
 
 Motion to adjourn meeting at 8:55 p.m.
@@ -236,6 +241,8 @@ Respectfully submitted,
 Tedd Wallace Mayor
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p8"></a>
 *[Page 8 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC110714CCPACKET11-10-14.pdf?t=202108310732570#page=8)* (read by OCR; check the original)
@@ -1749,6 +1756,11 @@ The rezoning and proposed uses and development shall be subject to the following
 <a id="p65"></a>
 *[Page 65 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC110714CCPACKET11-10-14.pdf?t=202108310732570#page=65)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <table><tr><td>KEYNOTE 20</td><td>TOTAL</td><td>SOUTH</td><td>MAX</td><td>7</td><td>EASI</td><td>TOTAL</td><td>KNOOLS</td><td>FINAL</td><td>OAKLAND 40 LLC</td><td>WASHTEN</td><td>AWARDS</td><td>LNG</td><td>KNOOLS</td><td>WASH</td></tr><tr><td>KEYNOTE 21</td><td>TOTAL</td><td>SOUTH</td><td>LNG</td><td>100</td><td>200</td><td>200</td><td>OF SOUTH LYON</td><td>SITE PLAN</td><td>286 SOUTH WAN STREET
 PL, WOUTH, W 44170
 PRICE: 734-216-1833
@@ -1768,6 +1780,8 @@ www.food.gov.pl/www.com</td><td></td><td></td></tr></table>
 <table><tr><td>C00N00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p66"></a>
 *[Page 66 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC110714CCPACKET11-10-14.pdf?t=202108310732570#page=66)* (read by OCR; check the original)
@@ -2362,14 +2376,26 @@ HRC; J. VanDeCreek, J. Booth, File
 <a id="p84"></a>
 *[Page 84 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC110714CCPACKET11-10-14.pdf?t=202108310732570#page=84)* (read by OCR; check the original)
 
-*[Image or figure on this page; see the original.]*
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+*[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p85"></a>
 *[Page 85 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC110714CCPACKET11-10-14.pdf?t=202108310732570#page=85)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # Carwell Plan
 
@@ -2383,8 +2409,15 @@ FIRST FLOOR PLAN
 
 TOTAL: 2275 SQ. FT.
 
+</details>
+
 <a id="p86"></a>
 *[Page 86 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC110714CCPACKET11-10-14.pdf?t=202108310732570#page=86)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -2402,8 +2435,15 @@ TOTAL: 2425 SQ. FT.
 
 Artis randomges and floor plans are for Australian purposes only and are subject to change. These plans are not to be reproduced, changed, or copied in any form or manner whatsoever. Nor are they to be assigned to any third party without final obtaining the express written permission of TSI Design Group, LLC.
 
+</details>
+
 <a id="p87"></a>
 *[Page 87 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC110714CCPACKET11-10-14.pdf?t=202108310732570#page=87)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # Essex Plan
 
@@ -2414,6 +2454,8 @@ SECOND FLOOR PLAN
 FIRST FLOOR PLAN
 
 TOTAL: 2000 SQ. FT.
+
+</details>
 
 <a id="p88"></a>
 *[Page 88 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC110714CCPACKET11-10-14.pdf?t=202108310732570#page=88)* (read by OCR; check the original)
@@ -2975,6 +3017,11 @@ Notary Public
 <a id="p113"></a>
 *[Page 113 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC110714CCPACKET11-10-14.pdf?t=202108310732570#page=113)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 My Commission Expires: ___
 
 Drafted by:
@@ -3001,15 +3048,31 @@ South Lyon, MI 48178
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p114"></a>
 *[Page 114 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC110714CCPACKET11-10-14.pdf?t=202108310732570#page=114)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p115"></a>
 *[Page 115 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC110714CCPACKET11-10-14.pdf?t=202108310732570#page=115)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p116"></a>
 *[Page 116 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC110714CCPACKET11-10-14.pdf?t=202108310732570#page=116)* (read by OCR; check the original)
@@ -3835,6 +3898,11 @@ www.woshtenowengineering.com
 <a id="p163"></a>
 *[Page 163 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC110714CCPACKET11-10-14.pdf?t=202108310732570#page=163)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ATTENTION: COUNTY REGISTER OF DEEDS
 
 THE CONDOMINIUM SUBDIVISION PLAN NUMBER
@@ -3901,10 +3969,19 @@ SHEET INDEX
 
 10. UTILITY PLAN UNITS 37, 43-52 AND 72-75
 
+</details>
+
 <a id="p164"></a>
 *[Page 164 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC110714CCPACKET11-10-14.pdf?t=202108310732570#page=164)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p165"></a>
 *[Page 165 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC110714CCPACKET11-10-14.pdf?t=202108310732570#page=165)* (read by OCR; check the original)
@@ -3949,6 +4026,11 @@ SHEET INDEX
 <a id="p173"></a>
 *[Page 173 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC110714CCPACKET11-10-14.pdf?t=202108310732570#page=173)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 WASHTENAW ENGINEERING
@@ -3970,6 +4052,8 @@ weco@wengco.com
 www.woshtenowengineering.com
 
 <table><tr><td colspan="2">CLIENT: OAKLAND FORTY GROUP, LLC</td></tr><tr><td colspan="2">TOWN 1 SOUTH * RANGE 7 EAST CITY OF SOUTH LYON OAKLAND COUNTY * MICHIGAN</td></tr><tr><td>DATE 10-9-14</td><td>REV.</td></tr><tr><td>DRAWN DJH</td><td>JOB 31064</td></tr><tr><td>CHECK RJW</td><td>F.B. -</td></tr><tr><td>SHEET 1 OF 1</td><td>FILE NO. R-9747</td></tr></table>
+
+</details>
 
 <a id="p174"></a>
 *[Page 174 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC110714CCPACKET11-10-14.pdf?t=202108310732570#page=174)* (read by OCR; check the original)

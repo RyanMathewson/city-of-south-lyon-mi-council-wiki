@@ -127,6 +127,11 @@ VOTE: ___
 <a id="p5"></a>
 *[Page 5 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket09.28.15.pdf?t=202108310732570#page=5)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Councilman Kramer stated our Fire Chief was a presenter at a conference in Atlanta and he paid for the seminar himself. He feels he was representing the City and he feels the City should reimburse him for the cost. Mayor Wallace stated that could be added to the agenda at the next meeting.
 
 ## ADJOURNMENT
@@ -142,6 +147,8 @@ Respectfully submitted,
 *[Image or figure on this page; see the original.]*
 
 Tedd Wallace Mayor
+
+</details>
 
 <a id="p6"></a>
 *[Page 6 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket09.28.15.pdf?t=202108310732570#page=6)* (read by OCR; check the original)
@@ -320,6 +327,11 @@ Motion by Kramer, supported by Dixson
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket09.28.15.pdf?t=202108310732570#page=14)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Respectfully submitted,
 
 Tedd Wallace, Mayor
@@ -327,6 +339,8 @@ Tedd Wallace, Mayor
 Lisa Deaton Clerk/Treasurer
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket09.28.15.pdf?t=202108310732570#page=15)* (read by OCR; check the original)

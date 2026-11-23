@@ -332,6 +332,11 @@ projections account for the past investment experience that will continue to aff
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/11-13-23%20Council%20Packet%20-%20online%20only.pdf?t=202311091621400#page=14)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>Notes: ___</div>
@@ -345,6 +350,8 @@ The green indicator lines have been added at 60% funded and 18 years following t
 <div>Notes: ___</div>
 
 <div>All projected contributions are shown with no phase-in.</div>
+
+</details>
 
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/11-13-23%20Council%20Packet%20-%20online%20only.pdf?t=202311091621400#page=15)* (read by OCR; check the original)

@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/April%2013%202026%20REVISED%20ONLINE%20
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "62d368dbcaa59e1aafcdae338c8c2f6d7fa0ef0b47e9c4ba96bf9d15f26f5ccc"
 source_bytes: 6334251
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 75
 ocr_pages: 75
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2026-04-13
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/April%2013%202026%20REVISED%20ONLINE%20Copy.pdf?t=202604101014580) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `62d368dbcaa59e1a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/April%2013%202026%20REVISED%20ONLINE%20Copy.pdf?t=202604101014580) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `62d368dbcaa59e1a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/April%2013%202026%20REVISED%20ONLINE%20Copy.pdf?t=202604101014580#page=1)* (read by OCR; check the original)
@@ -227,6 +227,11 @@ Mayor Kennedy reminded everyone about the Kiwanis Easter Egg Scramble that will 
 <a id="p8"></a>
 *[Page 8 of the original](https://www.southlyonmi.org/April%2013%202026%20REVISED%20ONLINE%20Copy.pdf?t=202604101014580#page=8)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 CM 3-4-26 MOTION TO ADJOURN
 
 Motion by Kurtzweil, supported by Hansen
@@ -240,6 +245,8 @@ Respectfully submitted.
 Mayor Steve Kennedy
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/April%2013%202026%20REVISED%20ONLINE%20Copy.pdf?t=202604101014580#page=9)* (read by OCR; check the original)
@@ -934,7 +941,14 @@ New Hudson</td><td rowspan="2">MI 48165</td><td>SHOULD ANY OF THE ABOVE DESCRIBE
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/April%2013%202026%20REVISED%20ONLINE%20Copy.pdf?t=202604101014580#page=41)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/April%2013%202026%20REVISED%20ONLINE%20Copy.pdf?t=202604101014580#page=42)* (read by OCR; check the original)
@@ -989,7 +1003,14 @@ We thank the South Lyon City Council, South Lyon Police and Fire Departments, De
 <a id="p45"></a>
 *[Page 45 of the original](https://www.southlyonmi.org/April%2013%202026%20REVISED%20ONLINE%20Copy.pdf?t=202604101014580#page=45)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p46"></a>
 *[Page 46 of the original](https://www.southlyonmi.org/April%2013%202026%20REVISED%20ONLINE%20Copy.pdf?t=202604101014580#page=46)* (read by OCR; check the original)
@@ -1012,6 +1033,11 @@ SUGGESTED MOTION: Motion by ___, supported by to approve the Crossroads Communit
 
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/April%2013%202026%20REVISED%20ONLINE%20Copy.pdf?t=202604101014580#page=47)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 Crossroads Community Care 5K Route
 
@@ -1036,6 +1062,8 @@ Right on 9 Mile back to Millennium Parking lot
 Finish on track (go left at entrance and follow track around to finish line)
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p48"></a>
 *[Page 48 of the original](https://www.southlyonmi.org/April%2013%202026%20REVISED%20ONLINE%20Copy.pdf?t=202604101014580#page=48)* (read by OCR; check the original)
@@ -1336,6 +1364,11 @@ pc: City of South Lyon; D. Baaki HRC; R. Alix, T. Pozan, File
 <a id="p60"></a>
 *[Page 60 of the original](https://www.southlyonmi.org/April%2013%202026%20REVISED%20ONLINE%20Copy.pdf?t=202604101014580#page=60)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Pic 1. West Secondary Clarifier</div>
 
 *[Image or figure on this page; see the original.]*
@@ -1348,8 +1381,15 @@ pc: City of South Lyon; D. Baaki HRC; R. Alix, T. Pozan, File
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p61"></a>
 *[Page 61 of the original](https://www.southlyonmi.org/April%2013%202026%20REVISED%20ONLINE%20Copy.pdf?t=202604101014580#page=61)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1368,6 +1408,8 @@ pc: City of South Lyon; D. Baaki HRC; R. Alix, T. Pozan, File
 <div>Pic 7. Aerial View of West Clarifier</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p62"></a>
 *[Page 62 of the original](https://www.southlyonmi.org/April%2013%202026%20REVISED%20ONLINE%20Copy.pdf?t=202604101014580#page=62)* (read by OCR; check the original)
@@ -1485,6 +1527,11 @@ Email:  $ \underline{\text{fun@willygoat.com}} $
 <a id="p67"></a>
 *[Page 67 of the original](https://www.southlyonmi.org/April%2013%202026%20REVISED%20ONLINE%20Copy.pdf?t=202604101014580#page=67)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
@@ -1497,12 +1544,21 @@ Age Group: 2-5
 
 Color as shown
 
+</details>
+
 <a id="p68"></a>
 *[Page 68 of the original](https://www.southlyonmi.org/April%2013%202026%20REVISED%20ONLINE%20Copy.pdf?t=202604101014580#page=68)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 MCHATTIE PARK
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p69"></a>
 *[Page 69 of the original](https://www.southlyonmi.org/April%2013%202026%20REVISED%20ONLINE%20Copy.pdf?t=202604101014580#page=69)* (read by OCR; check the original)

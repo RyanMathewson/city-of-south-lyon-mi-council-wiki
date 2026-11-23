@@ -487,9 +487,16 @@ Date
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/9-23-24%20Council%20Packet%20-%20online%20only.pdf?t=202409191537030#page=17)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>ROAD CLOSURE REQUEST: LAFAYETTE ST. FROM WHIPPLE ST. TO LIBERTY ST. # 10 MILE FROM LAFAYETTE (AT 4 COZNEWS) TO WELLS ST.</div>
+
+</details>
 
 <a id="p18"></a>
 *[Page 18 of the original](https://www.southlyonmi.org/9-23-24%20Council%20Packet%20-%20online%20only.pdf?t=202409191537030#page=18)* (read by OCR; check the original)
@@ -589,7 +596,14 @@ Date
 <a id="p21"></a>
 *[Page 21 of the original](https://www.southlyonmi.org/9-23-24%20Council%20Packet%20-%20online%20only.pdf?t=202409191537030#page=21)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p22"></a>
 *[Page 22 of the original](https://www.southlyonmi.org/9-23-24%20Council%20Packet%20-%20online%20only.pdf?t=202409191537030#page=22)* (read by OCR; check the original)
@@ -771,16 +785,30 @@ ASHLEY ADAMS
 <a id="p29"></a>
 *[Page 29 of the original](https://www.southlyonmi.org/9-23-24%20Council%20Packet%20-%20online%20only.pdf?t=202409191537030#page=29)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p30"></a>
 *[Page 30 of the original](https://www.southlyonmi.org/9-23-24%20Council%20Packet%20-%20online%20only.pdf?t=202409191537030#page=30)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <table><tr><td colspan="2">HRC</td></tr><tr><td colspan="2">Habitat: South & South Inc.</td></tr><tr><td colspan="2">RESEARCH AREA: CONSTRUCTION INFORMATION</td></tr><tr><td colspan="2">RESEARCH AREA: FAS SOFT BIOTECHNOLOGY AND EXPANSION</td></tr><tr><td colspan="2">RESEARCH AREA: FAS SOFT BIOTECHNOLOGY AND EXPANSION</td></tr><tr><td colspan="2">RESEARCH AREA: CONSTRUCTION INFORMATION</td></tr><tr><td colspan="2">RESEARCH AREA: CONSTRUCTION INFORMATION</td></tr><tr><td colspan="2">RESEARCH AREA: RESEARCH INFORMATION</td></tr><tr><td colspan="2">RESEARCH AREA: RESEARCH INFORMATION</td></tr><tr><td colspan="2">RESEARCH AREA: RESEARCH INFORMATION</td></tr><tr><td colspan="2">RESEARCH AREA: RESEARCH INFORMATION</td></tr><tr><td colspan="2">RESEARCH AREA: RESEARCH INFORMATION</td></tr><tr><td colspan="2">RESEARCH AREA: RESEARCH INFORMATION</td></tr><tr><td colspan="2">LOCATION PLAN</td></tr><tr><td colspan="2">RESEARCH AREA</td></tr><tr><td colspan="2">CITY OF SOUTH LYON</td></tr><tr><td colspan="2">WASTE WATER TREATMENT PLANT UPGRADE AND EXPANSION IMPROVEMENTS</td></tr><tr><td colspan="2">CITY OF SOUTH LYON NORTH MALL FLORO AREA RENOVATION</td></tr><tr><td colspan="2">CITY OF SOUTH LYON</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p31"></a>
 *[Page 31 of the original](https://www.southlyonmi.org/9-23-24%20Council%20Packet%20-%20online%20only.pdf?t=202409191537030#page=31)* (read by OCR; check the original)

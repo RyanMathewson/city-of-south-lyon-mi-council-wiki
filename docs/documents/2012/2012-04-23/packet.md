@@ -634,9 +634,16 @@ DATE
 <a id="p18"></a>
 *[Page 18 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC041912CCPACKET4-23-12.pdf?t=202108310732590#page=18)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # Book's Trilogy Map.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p19"></a>
 *[Page 19 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC041912CCPACKET4-23-12.pdf?t=202108310732590#page=19)* (read by OCR; check the original)

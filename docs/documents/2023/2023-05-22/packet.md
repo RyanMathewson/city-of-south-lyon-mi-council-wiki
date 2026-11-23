@@ -1152,6 +1152,11 @@ SUGGESTED MOTION: Motion by ___, supported by ___, to approve the purchase of mu
 <a id="p32"></a>
 *[Page 32 of the original](https://www.southlyonmi.org/5-22-23%20Council%20Packet%20with%20resolutions%20-%20online%20only.pdf?t=202305190952580#page=32)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
@@ -1166,13 +1171,27 @@ Snider Recreation, Inc.
 
 SL Music 050423-1
 
+</details>
+
 <a id="p33"></a>
 *[Page 33 of the original](https://www.southlyonmi.org/5-22-23%20Council%20Packet%20with%20resolutions%20-%20online%20only.pdf?t=202305190952580#page=33)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/5-22-23%20Council%20Packet%20with%20resolutions%20-%20online%20only.pdf?t=202305190952580#page=34)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # PlayEnsemble Supine Chimes Hue
 
@@ -1184,8 +1203,15 @@ Capacity: 2
 
 Fall Height: 0"
 
+</details>
+
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/5-22-23%20Council%20Packet%20with%20resolutions%20-%20online%20only.pdf?t=202305190952580#page=35)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Burke Basics BB-2321
 
@@ -1194,6 +1220,8 @@ IMAGES
 TOP VIEW
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p36"></a>
 *[Page 36 of the original](https://www.southlyonmi.org/5-22-23%20Council%20Packet%20with%20resolutions%20-%20online%20only.pdf?t=202305190952580#page=36)* (read by OCR; check the original)
@@ -1707,10 +1735,22 @@ Siding Type:
 <a id="p57"></a>
 *[Page 57 of the original](https://www.southlyonmi.org/5-22-23%20Council%20Packet%20with%20resolutions%20-%20online%20only.pdf?t=202305190952580#page=57)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p58"></a>
 *[Page 58 of the original](https://www.southlyonmi.org/5-22-23%20Council%20Packet%20with%20resolutions%20-%20online%20only.pdf?t=202305190952580#page=58)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 Window Frame Color: No Windows
 
@@ -1729,4 +1769,6 @@ How to load?: Garage Door to Truck
 Note:
 
 The shed customizer does not have the ability to show the no floor option, but we have that on the quote. The garage door height will be adjusted to be level with the concrete.
+
+</details>
 

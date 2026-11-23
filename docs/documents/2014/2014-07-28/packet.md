@@ -1994,6 +1994,11 @@ We ask that all guests respect the Troy Historic Village as a unique site that p
 <a id="p57"></a>
 *[Page 57 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC072514CCpacket7-28-14.pdf?t=202108310732580#page=57)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 environments. Guests may blow bubbles outdoors, but are asked not to release balloons, throw rice, confetti, flower petals or bird seed.
@@ -2003,6 +2008,8 @@ environments. Guests may blow bubbles outdoors, but are asked not to release bal
 - We do not schedule multiple or overlapping weddings.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p58"></a>
 *[Page 58 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC072514CCpacket7-28-14.pdf?t=202108310732580#page=58)* (read by OCR; check the original)

@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/April%2023%202026%20Online%20Copy_REVIS
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "3d1161eec41253b2bd8295dc8acdfbdd4f0a4215a8c758711441406179fb42a6"
 source_bytes: 6662556
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 59
 ocr_pages: 58
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2026-04-27
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/April%2023%202026%20Online%20Copy_REVISED%20Redacted.pdf?t=202604241359370) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `3d1161eec41253b2…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/April%2023%202026%20Online%20Copy_REVISED%20Redacted.pdf?t=202604241359370) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `3d1161eec41253b2…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/April%2023%202026%20Online%20Copy_REVISED%20Redacted.pdf?t=202604241359370#page=1)*
@@ -921,12 +921,24 @@ South Lyon Mi 48178</td><td colspan="3">SHOULD ANY OF THE ABOVE DESCRIBED POLICI
 <a id="p33"></a>
 *[Page 33 of the original](https://www.southlyonmi.org/April%2023%202026%20Online%20Copy_REVISED%20Redacted.pdf?t=202604241359370#page=33)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Parade will stop at the intersection of Lafayette St. and Lake St. to perform taps and the Pledge of Allegiance, then move forward to the end of the route at the South Lyon Cemetery. Police, Fire, and EMS will have parking for those who wish to enter the cemetery. Those who wish not to enter will break the route at Reynold Sweet Blvd and Stryker St.
 
+</details>
+
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/April%2023%202026%20Online%20Copy_REVISED%20Redacted.pdf?t=202604241359370#page=34)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Alternative Memorial Day Parade Route May 25, 2026
 
@@ -935,6 +947,8 @@ Parade traffic will enter from S. Lafayette Street, East onto Detroit Street, Tu
 Parade will enter on Reese Street, then head south onto 10 Mile Road. Turning south onto Reynold Sweet Parkway, then entering Stryker Street following it down to the dead end, and heading East into the cemetery where the Memorial Day service will be held.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/April%2023%202026%20Online%20Copy_REVISED%20Redacted.pdf?t=202604241359370#page=35)* (read by OCR; check the original)
@@ -1102,7 +1116,14 @@ Date
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/April%2023%202026%20Online%20Copy_REVISED%20Redacted.pdf?t=202604241359370#page=40)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/April%2023%202026%20Online%20Copy_REVISED%20Redacted.pdf?t=202604241359370#page=41)* (read by OCR; check the original)
@@ -1233,6 +1254,11 @@ Date
 <a id="p45"></a>
 *[Page 45 of the original](https://www.southlyonmi.org/April%2023%202026%20Online%20Copy_REVISED%20Redacted.pdf?t=202604241359370#page=45)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>LAFAYETTE</div>
@@ -1242,6 +1268,8 @@ Date
 <div>LIBERTY</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p46"></a>
 *[Page 46 of the original](https://www.southlyonmi.org/April%2023%202026%20Online%20Copy_REVISED%20Redacted.pdf?t=202604241359370#page=46)* (read by OCR; check the original)

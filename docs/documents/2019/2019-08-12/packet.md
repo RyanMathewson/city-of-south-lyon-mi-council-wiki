@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/8-12-19%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "4a89a12945d5b3b664749d0ef56c3d5103fcf60e6a766101b06d448610da2537"
 source_bytes: 3257263
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 82
 ocr_pages: 82
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2019-08-12
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/8-12-19%20Council%20Packet%20-%20online%20only%20corrected.pdf?t=202108310733140) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `4a89a12945d5b3b6…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/8-12-19%20Council%20Packet%20-%20online%20only%20corrected.pdf?t=202108310733140) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `4a89a12945d5b3b6…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/8-12-19%20Council%20Packet%20-%20online%20only%20corrected.pdf?t=202108310733140#page=1)* (read by OCR; check the original)
@@ -971,6 +971,11 @@ Signature
 <a id="p43"></a>
 *[Page 43 of the original](https://www.southlyonmi.org/8-12-19%20Council%20Packet%20-%20online%20only%20corrected.pdf?t=202108310733140#page=43)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## 2019 Fury For A Feast
 
 Saturday, August 24 Noon to Midnight
@@ -980,6 +985,8 @@ Saturday, August 24 Noon to Midnight
 For Blessings In A Backpack & Gleaners
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/8-12-19%20Council%20Packet%20-%20online%20only%20corrected.pdf?t=202108310733140#page=44)* (read by OCR; check the original)
@@ -1768,6 +1775,11 @@ PORTANT - This invoice is governed by and subject to TERMS AND CONDITIONS OF SAL
 <a id="p68"></a>
 *[Page 68 of the original](https://www.southlyonmi.org/8-12-19%20Council%20Packet%20-%20online%20only%20corrected.pdf?t=202108310733140#page=68)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ### ITEM 1.3 – PHOTOS OF EQUIPMENT
 
 UV BALLASTS
@@ -1781,6 +1793,8 @@ UV BALLASTS
 # ULTRA VIOLET MODULES (BULBS AND PROTECTIVE COATING WITH WIPER SYSTEM)
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p69"></a>
 *[Page 69 of the original](https://www.southlyonmi.org/8-12-19%20Council%20Packet%20-%20online%20only%20corrected.pdf?t=202108310733140#page=69)* (read by OCR; check the original)
@@ -1841,7 +1855,14 @@ Balance Due 5,258.00
 <a id="p71"></a>
 *[Page 71 of the original](https://www.southlyonmi.org/8-12-19%20Council%20Packet%20-%20online%20only%20corrected.pdf?t=202108310733140#page=71)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p72"></a>
 *[Page 72 of the original](https://www.southlyonmi.org/8-12-19%20Council%20Packet%20-%20online%20only%20corrected.pdf?t=202108310733140#page=72)* (read by OCR; check the original)
@@ -2213,7 +2234,14 @@ ALL kids must be in socks to participate in the inflatables!
 <a id="p81"></a>
 *[Page 81 of the original](https://www.southlyonmi.org/8-12-19%20Council%20Packet%20-%20online%20only%20corrected.pdf?t=202108310733140#page=81)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p82"></a>
 *[Page 82 of the original](https://www.southlyonmi.org/8-12-19%20Council%20Packet%20-%20online%20only%20corrected.pdf?t=202108310733140#page=82)* (read by OCR; check the original)

@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/3-27-23%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "0ccc2d315ed4c0d9dd27260f8a821e7c6dd664e822c54ea1e00c72b6d77420b4"
 source_bytes: 10296634
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 64
 ocr_pages: 64
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2023-03-27
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/3-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202303231536190) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `0ccc2d315ed4c0d9…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/3-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202303231536190) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `0ccc2d315ed4c0d9…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/3-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202303231536190#page=1)* (read by OCR; check the original)
@@ -627,7 +627,14 @@ Tammy Hawes</td></tr></table>
 <a id="p21"></a>
 *[Page 21 of the original](https://www.southlyonmi.org/3-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202303231536190#page=21)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p22"></a>
 *[Page 22 of the original](https://www.southlyonmi.org/3-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202303231536190#page=22)* (read by OCR; check the original)
@@ -816,7 +823,14 @@ The applicant/organization must provide a separate hold harmless agreement and c
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/3-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202303231536190#page=28)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p29"></a>
 *[Page 29 of the original](https://www.southlyonmi.org/3-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202303231536190#page=29)* (read by OCR; check the original)
@@ -1037,7 +1051,14 @@ The applicant/organization must provide a separate hold harmless agreement and c
 <a id="p37"></a>
 *[Page 37 of the original](https://www.southlyonmi.org/3-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202303231536190#page=37)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p38"></a>
 *[Page 38 of the original](https://www.southlyonmi.org/3-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202303231536190#page=38)* (read by OCR; check the original)
@@ -1737,12 +1758,26 @@ Date
 <a id="p63"></a>
 *[Page 63 of the original](https://www.southlyonmi.org/3-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202303231536190#page=63)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Depot DAY Step. 9, 2023
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p64"></a>
 *[Page 64 of the original](https://www.southlyonmi.org/3-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202303231536190#page=64)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 

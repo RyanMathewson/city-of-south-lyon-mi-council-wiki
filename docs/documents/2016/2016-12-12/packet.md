@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "d1a7528eafae61b0e8df915f50b3e88c6ec33ef198817723d51998c238856a24"
 source_bytes: 3989622
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 114
 ocr_pages: 114
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2016-12-12
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/City%20Council%20Packet%2012-12-16.pdf?t=202108310733070) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `d1a7528eafae61b0…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/City%20Council%20Packet%2012-12-16.pdf?t=202108310733070) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `d1a7528eafae61b0…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/City%20Council%20Packet%2012-12-16.pdf?t=202108310733070#page=1)* (read by OCR; check the original)
@@ -302,6 +302,11 @@ Councilmember Ryzyi stated this is about the unfair treatment by our City Attorn
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/City%20Council%20Packet%2012-12-16.pdf?t=202108310733070#page=14)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## ADJOURNMENT
 
 Mayor Galeas adjourned the meeting before the Agenda was completed at 10:47 p.m.
@@ -313,6 +318,8 @@ Respectfully submitted,
 Mayor John Galeas
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/City%20Council%20Packet%2012-12-16.pdf?t=202108310733070#page=15)* (read by OCR; check the original)
@@ -2388,6 +2395,11 @@ Fax to: 517-373-4202
 <a id="p82"></a>
 *[Page 82 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/City%20Council%20Packet%2012-12-16.pdf?t=202108310733070#page=82)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # 2016 After Xmas 5 Year Anniversary Party
 
 Monday, December 26 Noon to Midnight Indoor and outdoor party with outdoor heated tent, bonfire pit food truck and Live Music.
@@ -2395,6 +2407,8 @@ Monday, December 26 Noon to Midnight Indoor and outdoor party with outdoor heate
 Parking will be held across the street and in public lots.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p83"></a>
 *[Page 83 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/City%20Council%20Packet%2012-12-16.pdf?t=202108310733070#page=83)* (read by OCR; check the original)

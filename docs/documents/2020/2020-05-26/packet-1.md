@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/5-26-20%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "2255ef6fac359363736172ba2949d2b343aa38ab2590f89ac13483c395912753"
 source_bytes: 3499434
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 96
 ocr_pages: 96
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2020-05-26
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/5-26-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `2255ef6fac359363…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/5-26-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `2255ef6fac359363…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/5-26-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=1)* (read by OCR; check the original)
@@ -990,7 +990,14 @@ Commercial Rehabilitation Exemption Certificate for Qualified Retail Food Establ
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/5-26-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=34)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/5-26-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=35)* (read by OCR; check the original)
@@ -1483,7 +1490,14 @@ AREAS WITH 30 TON 1100L BASE/ CAP WIDTH WITH 1 ½" 36A TOP ASPHALT. (6100 SQ. FT
 <a id="p53"></a>
 *[Page 53 of the original](https://www.southlyonmi.org/5-26-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=53)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p54"></a>
 *[Page 54 of the original](https://www.southlyonmi.org/5-26-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=54)* (read by OCR; check the original)
@@ -1511,6 +1525,11 @@ SUGGESTED MOTION: Motion by ___, supported by ___, to approve the award of Phase
 <a id="p55"></a>
 *[Page 55 of the original](https://www.southlyonmi.org/5-26-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=55)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
@@ -1520,6 +1539,8 @@ SUGGESTED MOTION: Motion by ___, supported by ___, to approve the award of Phase
 *[Image or figure on this page; see the original.]*
 
 エエ
+
+</details>
 
 <a id="p56"></a>
 *[Page 56 of the original](https://www.southlyonmi.org/5-26-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=56)* (read by OCR; check the original)
@@ -1596,18 +1617,32 @@ Unemployment Insurance information
 <a id="p59"></a>
 *[Page 59 of the original](https://www.southlyonmi.org/5-26-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=59)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## COVID-19 Response Status Update: 5/15/2020
 
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p60"></a>
 *[Page 60 of the original](https://www.southlyonmi.org/5-26-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=60)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## COVID-19 EXPENDITURES 5/15/20
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p61"></a>
 *[Page 61 of the original](https://www.southlyonmi.org/5-26-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=61)* (read by OCR; check the original)
@@ -1648,11 +1683,18 @@ PPE increased from $5.16M to $8.96M
 <a id="p63"></a>
 *[Page 63 of the original](https://www.southlyonmi.org/5-26-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=63)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Pandemic Response Appropriation – 3/5/20 thru 5/15/20
 
 *[Image or figure on this page; see the original.]*
 
 5- 6- 16- 18- 21- 23- 24- 25- 26- 27- 30- 31- 31- 1- 2- 3- 5- 6- 8- 9- 10- 11- 13- 13- 14- 15- 16- 21- 22- 23- 24- 27- 30- 1- 7- 8- 15- Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr Apr May May May May
+
+</details>
 
 <a id="p64"></a>
 *[Page 64 of the original](https://www.southlyonmi.org/5-26-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=64)* (read by OCR; check the original)
@@ -1744,11 +1786,18 @@ Oakland County Fund Balance use of $1.85 million to create the Small Business St
 <a id="p69"></a>
 *[Page 69 of the original](https://www.southlyonmi.org/5-26-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=69)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # City of South Lyon Utility Rate Model
 
 *[Image or figure on this page; see the original.]*
 
 FY2021 to FY2030
+
+</details>
 
 <a id="p70"></a>
 *[Page 70 of the original](https://www.southlyonmi.org/5-26-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=70)* (read by OCR; check the original)
@@ -1816,9 +1865,16 @@ Total Cost/Poo1
 <a id="p75"></a>
 *[Page 75 of the original](https://www.southlyonmi.org/5-26-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=75)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Rate Model – Step 4 (Multi-Year Models)
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p76"></a>
 *[Page 76 of the original](https://www.southlyonmi.org/5-26-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=76)* (read by OCR; check the original)
@@ -1941,11 +1997,18 @@ Model assumes future sales will be consistent with 2 year average (FY18 and FY19
 <a id="p84"></a>
 *[Page 84 of the original](https://www.southlyonmi.org/5-26-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=84)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Rate Model – Step 4 (Multi-Year Models)
 
 *[Image or figure on this page; see the original.]*
 
 Strength annual increases over several years to achieve a target working capital
+
+</details>
 
 <a id="p85"></a>
 *[Page 85 of the original](https://www.southlyonmi.org/5-26-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=85)* (read by OCR; check the original)

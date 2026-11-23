@@ -1063,6 +1063,11 @@ Green = Trust
 <a id="p36"></a>
 *[Page 36 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC010816CCPACKET2.pdf?t=202108310732570#page=36)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
@@ -1118,6 +1123,8 @@ The field work was completed on
 Peter P. Polzynski, P.S.
 
 Professional Lend Surveyor £30000
+
+</details>
 
 <a id="p37"></a>
 *[Page 37 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC010816CCPACKET2.pdf?t=202108310732570#page=37)* (read by OCR; check the original)
@@ -1357,12 +1364,26 @@ JUDICIAL FORECLOSURE HEARING - Scheduled for February 18, 2015 at 10am in front 
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC010816CCPACKET2.pdf?t=202108310732570#page=44)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p45"></a>
 *[Page 45 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC010816CCPACKET2.pdf?t=202108310732570#page=45)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p46"></a>
 *[Page 46 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC010816CCPACKET2.pdf?t=202108310732570#page=46)* (read by OCR; check the original)
@@ -1438,9 +1459,16 @@ T1N, R7E, SEC 29 ASSESSOR'S PLAT NO 1 LOT 32, ALSO 1/2 OF VAC ALLEY ADJ TO SAMEE
 <a id="p49"></a>
 *[Page 49 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC010816CCPACKET2.pdf?t=202108310732570#page=49)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 11326 McCable Brighton, MI 48116
+
+</details>
 
 <a id="p50"></a>
 *[Page 50 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC010816CCPACKET2.pdf?t=202108310732570#page=50)* (read by OCR; check the original)
@@ -1697,6 +1725,11 @@ Firestone</td><td></td></tr></table>
 <a id="p56"></a>
 *[Page 56 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC010816CCPACKET2.pdf?t=202108310732570#page=56)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Search by  $ \underline{\text{PIN or Property Address}} $  $ \underline{\text{Help}} $
 
 2129101013
@@ -1743,15 +1776,31 @@ DFIRM Overview
 
 © 2014, All Rights Reserved, Oakland County Michigan County Home Online Services Privacy/ Legal Help Contact Us
 
+</details>
+
 <a id="p57"></a>
 *[Page 57 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC010816CCPACKET2.pdf?t=202108310732570#page=57)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p58"></a>
 *[Page 58 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC010816CCPACKET2.pdf?t=202108310732570#page=58)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p59"></a>
 *[Page 59 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC010816CCPACKET2.pdf?t=202108310732570#page=59)* (read by OCR; check the original)
@@ -1897,12 +1946,24 @@ Chief of Police
 <a id="p64"></a>
 *[Page 64 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC010816CCPACKET2.pdf?t=202108310732570#page=64)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 驚き、すぐわった。
 
+</details>
+
 <a id="p65"></a>
 *[Page 65 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC010816CCPACKET2.pdf?t=202108310732570#page=65)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 Have a wonderful Christmas!
 
@@ -1916,8 +1977,15 @@ Happy Year
 
 何撫
 
+</details>
+
 <a id="p66"></a>
 *[Page 66 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC010816CCPACKET2.pdf?t=202108310732570#page=66)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 Have a wonderful Christmas!
 
@@ -1928,4 +1996,6 @@ New Year
  $ 75 + 75 $
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 

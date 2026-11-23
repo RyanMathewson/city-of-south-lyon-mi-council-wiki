@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "3afe8736b6ef20f95f1dc832c9e64eb8bcd826ae368136b847b5faf9aa4dc810"
 source_bytes: 9529196
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 192
 ocr_pages: 192
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2020-01-13
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `3afe8736b6ef20f9…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `3afe8736b6ef20f9…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=1)* (read by OCR; check the original)
@@ -1279,7 +1279,14 @@ History: 2005, Act 210, Imd. Eff. Nov. 17, 2005; Am. 2015, Act 218, Imd. Eff. De
 <a id="p53"></a>
 *[Page 53 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=53)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p54"></a>
 *[Page 54 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=54)* (read by OCR; check the original)
@@ -1472,12 +1479,26 @@ Copies of certificates acted upon by the State Tax Commission after January 1, 2
 <a id="p62"></a>
 *[Page 62 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=62)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p63"></a>
 *[Page 63 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=63)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p64"></a>
 *[Page 64 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=64)* (read by OCR; check the original)
@@ -1714,7 +1735,14 @@ The Michigan Legislature Website is a free service of the Legislative Service Bu
 <a id="p69"></a>
 *[Page 69 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=69)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p70"></a>
 *[Page 70 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=70)* (read by OCR; check the original)
@@ -1770,7 +1798,14 @@ Qualified Facility. Properties eligible for this program would be facilities dev
 <a id="p73"></a>
 *[Page 73 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=73)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p74"></a>
 *[Page 74 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=74)* (read by OCR; check the original)
@@ -1835,7 +1870,14 @@ PA 210 of 2005: Commercial Rehabilitation Act
 <a id="p76"></a>
 *[Page 76 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=76)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p77"></a>
 *[Page 77 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=77)* (read by OCR; check the original)
@@ -2014,7 +2056,14 @@ Comment [TW1]: This is awkward language – and appears to infer that all proper
 <a id="p83"></a>
 *[Page 83 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=83)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p84"></a>
 *[Page 84 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=84)* (read by OCR; check the original)
@@ -2134,7 +2183,14 @@ All certificates that are issued by the City of South Lyon will be issued under 
 <a id="p87"></a>
 *[Page 87 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=87)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p88"></a>
 *[Page 88 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=88)* (read by OCR; check the original)
@@ -2299,7 +2355,14 @@ City Clerk sign when complete
 <a id="p94"></a>
 *[Page 94 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=94)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p95"></a>
 *[Page 95 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=95)* (read by OCR; check the original)
@@ -3160,7 +3223,14 @@ Copies of certificates acted upon by the State Tax Commission after January 1, 2
 <a id="p123"></a>
 *[Page 123 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=123)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p124"></a>
 *[Page 124 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=124)* (read by OCR; check the original)
@@ -3200,7 +3270,14 @@ The Michigan Legislature Website is a free service of the Legislative Service Bu
 <a id="p126"></a>
 *[Page 126 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=126)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p127"></a>
 *[Page 127 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=127)* (read by OCR; check the original)
@@ -3277,7 +3354,14 @@ PA 255 of 1978: Commercial Redevelopment Act
 <a id="p129"></a>
 *[Page 129 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=129)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p130"></a>
 *[Page 130 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=130)* (read by OCR; check the original)
@@ -3315,7 +3399,14 @@ pass a resolution providing for walkable, non-motorized interconnections, includ
 <a id="p131"></a>
 *[Page 131 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=131)* (read by OCR; check the original)
 
-*No readable text on this page. See the original.*
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
+*No text read.*
+
+</details>
 
 <a id="p132"></a>
 *[Page 132 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=132)* (read by OCR; check the original)
@@ -3372,7 +3463,14 @@ Clerk
 <a id="p134"></a>
 *[Page 134 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=134)* (read by OCR; check the original)
 
-*No readable text on this page. See the original.*
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
+*No text read.*
+
+</details>
 
 <a id="p135"></a>
 *[Page 135 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=135)* (read by OCR; check the original)
@@ -3465,7 +3563,14 @@ If you have questions, need additional information or sample documents, call (51
 <a id="p138"></a>
 *[Page 138 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=138)* (read by OCR; check the original)
 
-*No readable text on this page. See the original.*
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
+*No text read.*
+
+</details>
 
 <a id="p139"></a>
 *[Page 139 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=139)* (read by OCR; check the original)
@@ -3487,7 +3592,14 @@ Effective immediately, all Public Act 255 of 1978 Commercial Redevelopment appli
 <a id="p140"></a>
 *[Page 140 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=140)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p141"></a>
 *[Page 141 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=141)* (read by OCR; check the original)
@@ -3605,7 +3717,14 @@ RP - Expiration N/RP/RS Certificate Iss
 <a id="p147"></a>
 *[Page 147 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=147)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p148"></a>
 *[Page 148 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=148)* (read by OCR; check the original)
@@ -4216,6 +4335,11 @@ CC: KES
 <a id="p162"></a>
 *[Page 162 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=162)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <View all Flygt N-Technology Water & Wastewater Pumps
 
 *[Image or figure on this page; see the original.]*
@@ -4240,10 +4364,19 @@ N 3102
 
 • Flexible and modular design
 
+</details>
+
 <a id="p163"></a>
 *[Page 163 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=163)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p164"></a>
 *[Page 164 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=164)* (read by OCR; check the original)
@@ -4310,6 +4443,11 @@ Instructor Jen Redfern leading students in a game of Quidditch
 <a id="p168"></a>
 *[Page 168 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=168)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## SLARA Board of Directors
 
 *[Image or figure on this page; see the original.]*
@@ -4356,15 +4494,29 @@ Supervisor
 
 The SLARA Board of Directors consists of one member selected by the governing body of each participating municipality, each of whom is either an elected or appointed official of said participating municipality.
 
+</details>
+
 <a id="p169"></a>
 *[Page 169 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=169)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>SLARA Organizational Chart</div>
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p170"></a>
 *[Page 170 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=170)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Meet the SLARA - Full Time Staff!
 
@@ -4400,8 +4552,15 @@ Manager
 
 Employee Since 2018
 
+</details>
+
 <a id="p171"></a>
 *[Page 171 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=171)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # Meet the SLARA – Part Time Staff!
 
@@ -4428,6 +4587,8 @@ Mary Stchur
 Administrative Assistant
 
 Employee Since 2014
+
+</details>
 
 <a id="p172"></a>
 *[Page 172 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=172)* (read by OCR; check the original)
@@ -4476,6 +4637,11 @@ SLARA Marketing/Social Media Manager, Kristi Hoskins & SLARA Aquatics Manager, K
 <a id="p174"></a>
 *[Page 174 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=174)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## SLARA Programs - Aquatics
 
 *[Image or figure on this page; see the original.]*
@@ -4511,6 +4677,8 @@ Scuba Diving
 • Diving Classes
 
 Middle School Swim and more!
+
+</details>
 
 <a id="p175"></a>
 *[Page 175 of the original](https://www.southlyonmi.org/1-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=175)* (read by OCR; check the original)

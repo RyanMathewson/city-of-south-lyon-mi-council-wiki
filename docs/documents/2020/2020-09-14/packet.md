@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/9-14-20%20Council%20packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "dd56660079c4ebf4fb495a6c5c597c8f8da9d4a9811888879accfe7c73c644d4"
 source_bytes: 8898055
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 56
 ocr_pages: 56
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2020-09-14
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/9-14-20%20Council%20packet%20-%20online%20only.pdf?t=202108310733170) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `dd56660079c4ebf4…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/9-14-20%20Council%20packet%20-%20online%20only.pdf?t=202108310733170) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `dd56660079c4ebf4…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/9-14-20%20Council%20packet%20-%20online%20only.pdf?t=202108310733170#page=1)* (read by OCR; check the original)
@@ -444,8 +444,6 @@ A/C CONDENSOR FOR W3 AND FILTERS FOR</td><td>6.50
 <a id="p21"></a>
 *[Page 21 of the original](https://www.southlyonmi.org/9-14-20%20Council%20packet%20-%20online%20only.pdf?t=202108310733170#page=21)* (read by OCR; check the original)
 
-*[OCR note: this page may contain text repeated by the OCR software; check the original.]*
-
 <table><tr><td>Check Date</td><td>Check</td><td>Vendor</td><td>Vendor Name</td><td>Description</td><td>Amount</td><td>Status</td></tr><tr><td>09/03/2020</td><td>79986</td><td>0584</td><td>DTE ENERGY</td><td>UTILITY SERVICE 215 WHIPPLE</td><td>475.55</td><td>Open</td></tr><tr><td>09/03/2020</td><td>79987</td><td>0584</td><td>DTE ENERGY</td><td>UTILITY SERVICE 219 WHIPPLE</td><td>716.37</td><td>Open</td></tr><tr><td>09/03/2020</td><td>79988</td><td>0584</td><td>DTE ENERGY</td><td>UTILITY SERVICE 214 W LAKE</td><td>258.27</td><td>Open</td></tr><tr><td>09/03/2020</td><td>79989</td><td>0584</td><td>DTE ENERGY</td><td>UTILITY SERVICE - CITY</td><td>1,989.00</td><td>Open</td></tr><tr><td>09/03/2020</td><td>79990</td><td>4256</td><td>EILEEN DABLIZ</td><td>ELECTION WORK HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>09/03/2020</td><td>79991</td><td>4421</td><td>FIREWRENCH OF MICHIGAN</td><td>ENGINE 2 REPAIRS</td><td>281.25</td><td>Open</td></tr><tr><td>09/03/2020</td><td>79992</td><td>4045</td><td>FRANK FOGARTY</td><td>ELECTION WORK HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>09/03/2020</td><td>79993</td><td>4460</td><td>FRESH STATE MARKETING, LLC.</td><td>PARKS AND REC COMMISSION BRIDGE WALK</td><td>600.00</td><td>Open</td></tr><tr><td>09/03/2020</td><td>79994</td><td>4128</td><td>GARY BEASLEY</td><td>ELECTION WORK HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>09/03/2020</td><td>79995</td><td>4394</td><td>GREAT LAKES ACE HARDWARE</td><td>BATTERIES, CHARGER, VELCRO FOR ENGINE</td><td>293.15</td><td>Open</td></tr><tr><td>09/03/2020</td><td>79996</td><td>4282</td><td>JANE ELIZABETH NELSON</td><td>ELECTION WORK HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>09/03/2020</td><td>79997</td><td>4525</td><td>JANNINA KERN</td><td>WITNESS FEES</td><td>8.80</td><td>Open</td></tr><tr><td>09/03/2020</td><td>79998</td><td>4455</td><td>JUDITH SEYBERT</td><td>ELECTION WORK HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>09/03/2020</td><td>79999</td><td>4514</td><td>JUDY BRYSON</td><td>ELECTION WORK HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>09/03/2020</td><td>80000</td><td>4456</td><td>JUDY KEELING</td><td>ELECTION WORK HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>09/03/2020</td><td>80001</td><td>4384</td><td>KATHLEEN SHEPHERD</td><td>ELECTION WORK HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>09/03/2020</td><td>80002</td><td>4105</td><td>AMBER LYNN KING</td><td>ELECTION WORK HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>09/03/2020</td><td>80003</td><td>2273</td><td>JOHN KOPACZ</td><td>ELECTION WORK HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>09/03/2020</td><td>80004</td><td>2333</td><td>CARL KOSKI</td><td>ELECTION WORK HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>09/03/2020</td><td>80005</td><td>2148</td><td>DOROTHY KOSKI</td><td>ELECTION WORK HAZARD PAY</td><td>50.00</td><td>Open</td></tr><tr><td>09/03/2020</td><td>80006</td><td>4026</td><td>LB OFFICE PRODUCTS</td><td>SOAP
 STAMP</td><td>12.58
 89.00</td><td>Open
@@ -642,6 +640,11 @@ Traffic Engineer
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/9-14-20%20Council%20packet%20-%20online%20only.pdf?t=202108310733170#page=34)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Legend – McHattie Street between S. Warren Street and Washington Street
@@ -650,8 +653,15 @@ Parking spaces (Number to be determined) on north side of McHattie Street extend
 
 New traffic line, 12 feet from south curb and 20 feet from north curb to allow for parking spaces on north side of street No Parking Signs on south side of McHattie Street (Number of signs to be determined)
 
+</details>
+
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/9-14-20%20Council%20packet%20-%20online%20only.pdf?t=202108310733170#page=35)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -662,6 +672,8 @@ Parking spaces (Number to be determined) on north side of McHattie Street extend
 New traffic line, 12 feet from south curb and 20 feet from north curb to allow for parking spaces on north side of street
 
 No Parking Signs on south side of McHattie Street (Number of signs to be determined)
+
+</details>
 
 <a id="p36"></a>
 *[Page 36 of the original](https://www.southlyonmi.org/9-14-20%20Council%20packet%20-%20online%20only.pdf?t=202108310733170#page=36)* (read by OCR; check the original)
@@ -1197,20 +1209,48 @@ SOUTH LYON POLICE DEPT. 219 WHIPPLE BLVD. SOUTH LYON, MI - REMOVE SOUTH AND WEST
 <a id="p53"></a>
 *[Page 53 of the original](https://www.southlyonmi.org/9-14-20%20Council%20packet%20-%20online%20only.pdf?t=202108310733170#page=53)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p54"></a>
 *[Page 54 of the original](https://www.southlyonmi.org/9-14-20%20Council%20packet%20-%20online%20only.pdf?t=202108310733170#page=54)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p55"></a>
 *[Page 55 of the original](https://www.southlyonmi.org/9-14-20%20Council%20packet%20-%20online%20only.pdf?t=202108310733170#page=55)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p56"></a>
 *[Page 56 of the original](https://www.southlyonmi.org/9-14-20%20Council%20packet%20-%20online%20only.pdf?t=202108310733170#page=56)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 

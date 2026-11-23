@@ -309,6 +309,11 @@ Mayor Wallace stated that Welcome Home Vets is having a function this Wednesday 
 <a id="p7"></a>
 *[Page 7 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/packet.pdf?t=202108310733000#page=7)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Motion by Selden, supported by Kramer
 
 To adjourn meeting at 8:08 p.m.
@@ -328,6 +333,8 @@ Julie C. Zemke
 City Clerk/Treasurer
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p8"></a>
 *[Page 8 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/packet.pdf?t=202108310733000#page=8)* (read by OCR; check the original)

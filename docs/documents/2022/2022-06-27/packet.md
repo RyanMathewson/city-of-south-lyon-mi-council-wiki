@@ -447,14 +447,26 @@ Dated: June 15, 2022
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/6-27-22%20Council%20Packet%20-%20online%20only.pdf?t=202206231457130#page=15)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Liberty Street TCO 22-03
 
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/6-27-22%20Council%20Packet%20-%20online%20only.pdf?t=202206231457130#page=16)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 Google Maps East Liberty between Reynold Sweet Parkway and South Mill Street
 
@@ -464,8 +476,15 @@ Map data ©2022, Map data ©2022 20 ft
 
 <div>Measure distance Total distance: 251.46 ft (76.64 m)</div>
 
+</details>
+
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/6-27-22%20Council%20Packet%20-%20online%20only.pdf?t=202206231457130#page=17)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 Google Maps East Liberty between Retnold Sweet Parkway and South Mill Street
 
@@ -475,20 +494,43 @@ Imagery ©2022 Maxar Technologies, Map data ©2022 20 ft
 
 <div>Measure distance Total distance: 251.46 ft (76.64 m)</div>
 
+</details>
+
 <a id="p18"></a>
 *[Page 18 of the original](https://www.southlyonmi.org/6-27-22%20Council%20Packet%20-%20online%20only.pdf?t=202206231457130#page=18)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p19"></a>
 *[Page 19 of the original](https://www.southlyonmi.org/6-27-22%20Council%20Packet%20-%20online%20only.pdf?t=202206231457130#page=19)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p20"></a>
 *[Page 20 of the original](https://www.southlyonmi.org/6-27-22%20Council%20Packet%20-%20online%20only.pdf?t=202206231457130#page=20)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p21"></a>
 *[Page 21 of the original](https://www.southlyonmi.org/6-27-22%20Council%20Packet%20-%20online%20only.pdf?t=202206231457130#page=21)* (read by OCR; check the original)
@@ -678,6 +720,11 @@ b. Thirty (30) days have lapsed since the notice described in subparagraph a, ab
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/6-27-22%20Council%20Packet%20-%20online%20only.pdf?t=202206231457130#page=28)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 11. In the event that a portion or provision of this Agreement is deemed to be unlawful or unenforceable, the unlawful or unenforceable provision shall be stricken and the remaining portions and provisions shall be fully enforced.
 
 12. This Agreement shall in all respects be governed by, and construed in accordance with, the laws of the State of Michigan.
@@ -693,6 +740,8 @@ Dated: ___
 By: ___ Its: ___
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p29"></a>
 *[Page 29 of the original](https://www.southlyonmi.org/6-27-22%20Council%20Packet%20-%20online%20only.pdf?t=202206231457130#page=29)* (read by OCR; check the original)
@@ -1167,7 +1216,14 @@ Date
 <a id="p51"></a>
 *[Page 51 of the original](https://www.southlyonmi.org/6-27-22%20Council%20Packet%20-%20online%20only.pdf?t=202206231457130#page=51)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p52"></a>
 *[Page 52 of the original](https://www.southlyonmi.org/6-27-22%20Council%20Packet%20-%20online%20only.pdf?t=202206231457130#page=52)* (read by OCR; check the original)

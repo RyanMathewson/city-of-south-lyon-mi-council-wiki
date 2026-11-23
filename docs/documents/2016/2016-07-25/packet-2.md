@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "7d03d73d5522eda995ee8ab08d72d5990eb98b7810c444b86392ca842953974d"
 source_bytes: 3637974
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 94
 ocr_pages: 94
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2016-07-25
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `7d03d73d5522eda9…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `7d03d73d5522eda9…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560#page=1)* (read by OCR; check the original)
@@ -676,7 +676,14 @@ Shuts all doors and stay inside until advised by officials that it is safe to le
 <a id="p20"></a>
 *[Page 20 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560#page=20)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p21"></a>
 *[Page 21 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560#page=21)* (read by OCR; check the original)
@@ -772,9 +779,16 @@ Chief Loyd T. Collins, Chief of Police 06/08/16
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560#page=24)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## PARADE ROUTE
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p25"></a>
 *[Page 25 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560#page=25)* (read by OCR; check the original)
@@ -1006,6 +1020,11 @@ UNITED STATES
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560#page=34)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # Proforma Invoice
 
 PHYSIO-CONTROL, INC.
@@ -1031,6 +1050,8 @@ Invoice
 Q:00023408.1-DM STUEBER APPROVED PRICING
 
 ATTN:
+
+</details>
 
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560#page=35)* (read by OCR; check the original)
@@ -1107,9 +1128,16 @@ Important Disclosure and Safety Information
 <a id="p37"></a>
 *[Page 37 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560#page=37)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p38"></a>
 *[Page 38 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560#page=38)* (read by OCR; check the original)
@@ -1967,14 +1995,26 @@ Did Your City Make the List? Click  $ \underline{\text{here}} $ to get the badge
 <a id="p82"></a>
 *[Page 82 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560#page=82)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 A township in Wayne County, Grosse Ile sits on several islands in the Detroit River. Home to 10,300 residents, the community is connected to the mainland by a toll bridge and has been named by Money magazine as one of the top 100 places to live in the U.S. It is also the safest place to live in Michigan, with a violent crime rate of 9.7 and the chance of being affected by property crime here just .08%.
 
 ## #2 Plymouth
 
+</details>
+
 <a id="p83"></a>
 *[Page 83 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560#page=83)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1982,8 +2022,15 @@ Located in Wayne County, the township of Plymouth is home to 27,500 residents. T
 
 #3 Grosse Pointe Woods
 
+</details>
+
 <a id="p84"></a>
 *[Page 84 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560#page=84)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1991,8 +2038,15 @@ Also located in Wayne County, the city of Grosse Pointe Woods is home to 16,100 
 
 #4 South Lyon
 
+</details>
+
 <a id="p85"></a>
 *[Page 85 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560#page=85)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -2001,6 +2055,8 @@ A city in Oakland County, South Lyon is home to 11,300 residents. Just 19 miles 
 <div>#5 Milford</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p86"></a>
 *[Page 86 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560#page=86)* (read by OCR; check the original)
@@ -2031,6 +2087,11 @@ A township in Berrien County, Lincoln is home to 14,600 residents. The village o
 <a id="p88"></a>
 *[Page 88 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560#page=88)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 residents have a 1.2% chance of being involved in a property crime.
 
 ## #9 West Bloomfield
@@ -2041,8 +2102,15 @@ A township in Oakland County, West Bloomfield is home to 64,600 residents. The a
 
 #10 Berkley
 
+</details>
+
 <a id="p89"></a>
 *[Page 89 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560#page=89)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -2053,6 +2121,8 @@ Also located in Oakland County, Berkley has a current population of 14,900 resid
 *[Image or figure on this page; see the original.]*
 
 Another Oakland County gem, Novi is a city that is home to 55,200 residents. Located just 25 miles northwest
+
+</details>
 
 <a id="p90"></a>
 *[Page 90 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560#page=90)* (read by OCR; check the original)
@@ -2070,14 +2140,26 @@ A city in Oakland County, Rochester is home to 12,700 residents. Considered a su
 <a id="p91"></a>
 *[Page 91 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560#page=91)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Located in Oakland County, the city of Troy is has a current population of 80,900 residents. Considered a part of the Detroit area, Troy is a major business and shopping destination and was named by CNN Money on its list of best places to live in the U.S. The violent crime rate in Troy is 73.6, and the chance of being affected by property crime here is 2%.
 
 ## #14 Northville
 
+</details>
+
 <a id="p92"></a>
 *[Page 92 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560#page=92)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -2085,8 +2167,15 @@ Located in Wayne County, Northville is a township that is home to 28,400 residen
 
 #15 Grandville
 
+</details>
+
 <a id="p93"></a>
 *[Page 93 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560#page=93)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -2098,8 +2187,15 @@ A city in Kent County, Grandville is home to 15,300 residents. Part of the Grand
 
 A village in Southfield Township in Oakland County, Beverly Hills is home to 10,200 residents. Considered a suburb of Detroit, it is the most populous village in the state and sits on the main branch of the Rouge River. Living here is a safe choice, with a violent crime rate of 77.4, and the chance of being involved in a property
 
+</details>
+
 <a id="p94"></a>
 *[Page 94 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/RoadClosures.pdf?t=202108310732560#page=94)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 crime in Beverly Hills is just 1%.
 
@@ -2110,4 +2206,6 @@ crime in Beverly Hills is just 1%.
 Located in Oakland County, White Lake is a township that is home to 30,000 residents. Just 19 miles northwest of Detroit, the township contains three unincorporated communities and 21 lakes within its borders. The violent crime rate in White Lake is 79.4, and residents have a 1.4% chance of being affected by property crime.
 
 #18 New Baltimore
+
+</details>
 

@@ -408,7 +408,14 @@ Lisa Deaton Clerk/Treasurer
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/agenda/CouncilPacketApril14.pdf?t=202108310732580#page=14)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/agenda/CouncilPacketApril14.pdf?t=202108310732580#page=15)* (read by OCR; check the original)
@@ -1039,6 +1046,11 @@ Fibertech's Certificate of Authority from the Public Service Commission.
 <a id="p48"></a>
 *[Page 48 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/agenda/CouncilPacketApril14.pdf?t=202108310732580#page=48)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 # Fibertech networks
@@ -1054,6 +1066,8 @@ THESE MAPS CONTAIN CONFIDENTIAL AND COMMERCIALLY SENSITIVE INFORMATION
 Data use subject to license.
 
 <table><tr><td>0</td><td>80</td><td>160</td><td>240</td><td>320</td><td>400</td><td>Rm</td></tr><tr><td>0</td><td>20</td><td>40</td><td>50</td><td>80</td><td>100</td><td></td></tr></table>
+
+</details>
 
 <a id="p49"></a>
 *[Page 49 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/agenda/CouncilPacketApril14.pdf?t=202108310732580#page=49)* (read by OCR; check the original)

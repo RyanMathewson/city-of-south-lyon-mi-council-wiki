@@ -275,7 +275,14 @@ Respectfully submitted,
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/4-27-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=9)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/4-27-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=10)* (read by OCR; check the original)
@@ -756,9 +763,16 @@ Members of Council should refrain from argument with a member of the public or s
 <a id="p32"></a>
 *[Page 32 of the original](https://www.southlyonmi.org/4-27-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=32)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 the Council. Personal opinions and comments may be expressed only if the Council member clarifies that these statements do not represent the position of the City Council.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p33"></a>
 *[Page 33 of the original](https://www.southlyonmi.org/4-27-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=33)* (read by OCR; check the original)
@@ -1105,6 +1119,11 @@ Appointment is required: Call 1-800-848-5533, Nurse on Call
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/4-27-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=47)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 HEALTH DIVISION
 
 DAVID COULTER
@@ -1114,6 +1133,8 @@ OAKLAND COUNTY EXECUTIVE
 ## OAKLAND COUNTY COVID-19 DRIVE THROUGH TESTING SERVICES MAP
 
 Follow the orange arrows on the map to get to the testing location
+
+</details>
 
 <a id="p48"></a>
 *[Page 48 of the original](https://www.southlyonmi.org/4-27-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=48)* (read by OCR; check the original)

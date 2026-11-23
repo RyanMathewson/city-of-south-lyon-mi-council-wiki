@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "7ea293c0b49fb8f1e4a60f3a917ce79da1429900e24ed7849426d4d900d9f627"
 source_bytes: 3725404
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 122
 ocr_pages: 122
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2016-08-22
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC081816CCpacket8-22-16B.pdf?t=202108310732560) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `7ea293c0b49fb8f1…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC081816CCpacket8-22-16B.pdf?t=202108310732560) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `7ea293c0b49fb8f1…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC081816CCpacket8-22-16B.pdf?t=202108310732560#page=1)* (read by OCR; check the original)
@@ -414,14 +414,28 @@ Volunteers will be given specific instructions and the Car Show committee and th
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC081816CCpacket8-22-16B.pdf?t=202108310732560#page=16)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC081816CCpacket8-22-16B.pdf?t=202108310732560#page=17)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # Downtown South Lyon
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p18"></a>
 *[Page 18 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC081816CCpacket8-22-16B.pdf?t=202108310732560#page=18)* (read by OCR; check the original)
@@ -450,7 +464,14 @@ Volunteers will be given specific instructions and the Car Show committee and th
 <a id="p20"></a>
 *[Page 20 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC081816CCpacket8-22-16B.pdf?t=202108310732560#page=20)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p21"></a>
 *[Page 21 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC081816CCpacket8-22-16B.pdf?t=202108310732560#page=21)* (read by OCR; check the original)

@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "faa40157a1f119d9a0bd8298400905b92943e3cc6c8067aa1a758641b8ad45be"
 source_bytes: 3407071
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 58
 ocr_pages: 58
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2013-02-11
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC020713CCPacket2-11-13.pdf?t=202108310732590) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `faa40157a1f119d9…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC020713CCPacket2-11-13.pdf?t=202108310732590) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `faa40157a1f119d9…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC020713CCPacket2-11-13.pdf?t=202108310732590#page=1)* (read by OCR; check the original)
@@ -644,18 +644,32 @@ RRRASOC
 <a id="p32"></a>
 *[Page 32 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC020713CCPacket2-11-13.pdf?t=202108310732590#page=32)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>Budgeted Municipal Solid Waste Expenditures Per Capita FY 2012 - 2013</div>
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p33"></a>
 *[Page 33 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC020713CCPacket2-11-13.pdf?t=202108310732590#page=33)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>Municipal Solid Waste Service Contract Costs (per household per year) FY 2012 - 2013</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC020713CCPacket2-11-13.pdf?t=202108310732590#page=34)* (read by OCR; check the original)
@@ -1230,18 +1244,32 @@ Date: 9/24/2012</td></tr><tr><td colspan="6">Check all boxes that apply to indic
 <a id="p57"></a>
 *[Page 57 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC020713CCPacket2-11-13.pdf?t=202108310732590#page=57)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>PrintForm Reset Form</div>
 
 <div>C5X729026</div>
 
+</details>
+
 <a id="p58"></a>
 *[Page 58 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC020713CCPacket2-11-13.pdf?t=202108310732590#page=58)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>Print Form Reset Form</div>
 
 <div>CSX729026</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 

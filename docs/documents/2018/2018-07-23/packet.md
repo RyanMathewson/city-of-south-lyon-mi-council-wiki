@@ -672,6 +672,11 @@ Sean Klein
 <a id="p22"></a>
 *[Page 22 of the original](https://www.southlyonmi.org/July%2023%202018%20council%20packet.pdf?t=202108310733120#page=22)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 SEAN KLEIN
@@ -679,6 +684,8 @@ SEAN KLEIN
 4615 PONTIAC TRAIL
 
 ANN ARBOR, MI 48105
+
+</details>
 
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/July%2023%202018%20council%20packet.pdf?t=202108310733120#page=23)* (read by OCR; check the original)

@@ -543,6 +543,11 @@ Realistic Looks Are No Accident. The quality of our ingredients, formulations, m
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/9-26-22%20Council%20Packet%20-%20online%20only.pdf?t=202209221353350#page=17)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 # Polish Flooring Proposal
@@ -566,6 +571,8 @@ Western Michigan Academy
 Gatesburg, Michigan 40015
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p18"></a>
 *[Page 18 of the original](https://www.southlyonmi.org/9-26-22%20Council%20Packet%20-%20online%20only.pdf?t=202209221353350#page=18)* (read by OCR; check the original)
@@ -1040,5 +1047,12 @@ Availability
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/9-26-22%20Council%20Packet%20-%20online%20only.pdf?t=202209221353350#page=28)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 

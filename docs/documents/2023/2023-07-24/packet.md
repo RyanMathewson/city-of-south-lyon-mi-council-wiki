@@ -861,7 +861,14 @@ NO
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/7-24-23%20Council%20Packet%20-%20online%20only.pdf?t=202307201600050#page=23)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/7-24-23%20Council%20Packet%20-%20online%20only.pdf?t=202307201600050#page=24)* (read by OCR; check the original)
@@ -908,14 +915,28 @@ W\201801\20180112\C\30=10\70=502079
 <a id="p26"></a>
 *[Page 26 of the original](https://www.southlyonmi.org/7-24-23%20Council%20Packet%20-%20online%20only.pdf?t=202307201600050#page=26)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 BOSCH
 
+</details>
+
 <a id="p27"></a>
 *[Page 27 of the original](https://www.southlyonmi.org/7-24-23%20Council%20Packet%20-%20online%20only.pdf?t=202307201600050#page=27)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/7-24-23%20Council%20Packet%20-%20online%20only.pdf?t=202307201600050#page=28)* (read by OCR; check the original)
@@ -1298,6 +1319,11 @@ Was this page helpful?
 <a id="p52"></a>
 *[Page 52 of the original](https://www.southlyonmi.org/7-24-23%20Council%20Packet%20-%20online%20only.pdf?t=202307201600050#page=52)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 LANDSCAPE AND GARDEN MAINTENANCE | 4 min read
 
 May 2023
@@ -1309,6 +1335,8 @@ Monique Allen & Nina O'Brien
 *[Image or figure on this page; see the original.]*
 
 Front lawn - Organic Turf & Dutch White Clover Blend
+
+</details>
 
 <a id="p53"></a>
 *[Page 53 of the original](https://www.southlyonmi.org/7-24-23%20Council%20Packet%20-%20online%20only.pdf?t=202307201600050#page=53)* (read by OCR; check the original)
@@ -2254,6 +2282,11 @@ d. PEX will maintain upon its vehicles appropriate signage or markings so that "
 <a id="p91"></a>
 *[Page 91 of the original](https://www.southlyonmi.org/7-24-23%20Council%20Packet%20-%20online%20only.pdf?t=202307201600050#page=91)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # 2023 PEX SERVICE AREA MAP
 
 People's Express Inc.
@@ -2279,6 +2312,8 @@ Qualifying residents living in Milford, Commerce, Lyon, Wolverine Lake, South Ly
 ## Driving Boundary
 
 PEX provides transportation services for qualifying residents to eligible destinations located within the driving boundary 7.5.2023
+
+</details>
 
 <a id="p92"></a>
 *[Page 92 of the original](https://www.southlyonmi.org/7-24-23%20Council%20Packet%20-%20online%20only.pdf?t=202307201600050#page=92)* (read by OCR; check the original)

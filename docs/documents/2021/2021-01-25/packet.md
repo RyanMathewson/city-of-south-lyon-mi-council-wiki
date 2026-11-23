@@ -408,9 +408,16 @@ SUGGESTED MOTION(s): Motion by _____, supported by _____ to approve the RoboBear
 <a id="p12"></a>
 *[Page 12 of the original](https://www.southlyonmi.org/1-25-21%20Council%20Packet%20Revised%20-%20online%20only.pdf?t=202108310733170#page=12)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>The Bartlett RoboBears</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p13"></a>
 *[Page 13 of the original](https://www.southlyonmi.org/1-25-21%20Council%20Packet%20Revised%20-%20online%20only.pdf?t=202108310733170#page=13)* (read by OCR; check the original)
@@ -467,16 +474,30 @@ Sometimes there will be a separate video or picture for these activities.
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/1-25-21%20Council%20Packet%20Revised%20-%20online%20only.pdf?t=202108310733170#page=17)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 This is a piece of 1" thick wood that is 5" tall and 3.5" wide with a laminated sign on it.
 
 It will have holes in the corner of the wood and attach to a sign or fence pole with zip ties.
 
+</details>
+
 <a id="p18"></a>
 *[Page 18 of the original](https://www.southlyonmi.org/1-25-21%20Council%20Packet%20Revised%20-%20online%20only.pdf?t=202108310733170#page=18)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p19"></a>
 *[Page 19 of the original](https://www.southlyonmi.org/1-25-21%20Council%20Packet%20Revised%20-%20online%20only.pdf?t=202108310733170#page=19)* (read by OCR; check the original)
@@ -492,11 +513,18 @@ Each year FIRST gives us a new game theme and a problem to solve. This year the 
 <a id="p20"></a>
 *[Page 20 of the original](https://www.southlyonmi.org/1-25-21%20Council%20Packet%20Revised%20-%20online%20only.pdf?t=202108310733170#page=20)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Timeline of our game
 
 We are going to open our game around late January to early February.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p21"></a>
 *[Page 21 of the original](https://www.southlyonmi.org/1-25-21%20Council%20Packet%20Revised%20-%20online%20only.pdf?t=202108310733170#page=21)* (read by OCR; check the original)
@@ -549,14 +577,28 @@ Volleyball courts - zip tie near the empty sign right inside the courts
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/1-25-21%20Council%20Packet%20Revised%20-%20online%20only.pdf?t=202108310733170#page=23)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>4 Proposed Locations in McHattie Park</div>
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/1-25-21%20Council%20Packet%20Revised%20-%20online%20only.pdf?t=202108310733170#page=24)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p25"></a>
 *[Page 25 of the original](https://www.southlyonmi.org/1-25-21%20Council%20Packet%20Revised%20-%20online%20only.pdf?t=202108310733170#page=25)* (read by OCR; check the original)
@@ -922,7 +964,14 @@ Cover removed. Air leak repair has been attempted multiple times. The air leak i
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/1-25-21%20Council%20Packet%20Revised%20-%20online%20only.pdf?t=202108310733170#page=35)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p36"></a>
 *[Page 36 of the original](https://www.southlyonmi.org/1-25-21%20Council%20Packet%20Revised%20-%20online%20only.pdf?t=202108310733170#page=36)* (read by OCR; check the original)

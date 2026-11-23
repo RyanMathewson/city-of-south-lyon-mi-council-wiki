@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "4629461e1067dbb65a86190ec6453d2acdfdf756e56c5790cc553a86e8713b36"
 source_bytes: 4855275
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 73
 ocr_pages: 73
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2013-05-13
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC051313cc5-13-13packet1.pdf?t=202108310732580) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `4629461e1067dbb6…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC051313cc5-13-13packet1.pdf?t=202108310732580) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `4629461e1067dbb6…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC051313cc5-13-13packet1.pdf?t=202108310732580#page=1)* (read by OCR; check the original)
@@ -752,7 +752,14 @@ Responsible Party's SIGNATURE
 <a id="p33"></a>
 *[Page 33 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC051313cc5-13-13packet1.pdf?t=202108310732580#page=33)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC051313cc5-13-13packet1.pdf?t=202108310732580#page=34)* (read by OCR; check the original)
@@ -809,6 +816,11 @@ Jan Russell, secretary
 <a id="p36"></a>
 *[Page 36 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC051313cc5-13-13packet1.pdf?t=202108310732580#page=36)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 4th WEDNESDAY MAY - SEPTEMBER
@@ -834,6 +846,8 @@ September 25: YOUR CLUB HERE 50/50
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p37"></a>
 *[Page 37 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC051313cc5-13-13packet1.pdf?t=202108310732580#page=37)* (read by OCR; check the original)

@@ -849,6 +849,11 @@ SUGGESTED MOTION: Motion by _____, supported by _____ to schedule a Budget Works
 <a id="p39"></a>
 *[Page 39 of the original](https://www.southlyonmi.org/2-10-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=39)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## March 2020
 
 This is a blank and printable March Calendar. Courtesy of WinCalendar.com
@@ -856,4 +861,6 @@ This is a blank and printable March Calendar. Courtesy of WinCalendar.com
 <table><tr><td colspan="8">March 2020</td></tr><tr><td>Sun</td><td>Mon</td><td>Tue</td><td>Wed</td><td>Thu</td><td>Fri</td><td>Sat</td><td></td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td></td></tr><tr><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td></td></tr><tr><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td></td></tr><tr><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td></td></tr><tr><td>29</td><td>30</td><td>31</td><td colspan="5"></td></tr></table>
 
 More Calendars:  $ \underline{\text{Apr 2020, May 2020, 2020}} $
+
+</details>
 

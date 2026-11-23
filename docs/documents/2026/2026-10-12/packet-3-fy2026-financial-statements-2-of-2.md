@@ -218,9 +218,16 @@ $1,000
 <a id="p7"></a>
 *[Page 7 of the original](https://www.southlyonmi.org/Council%20Version_Oct%2012%202026%20Council%20Mtg_FY%20End%2006-30-2026%20POWERPOINT.pdf?t=202610091412240#page=7)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## City of South Lyon General Fund-Fund Balance Years Ended June 30
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p8"></a>
 *[Page 8 of the original](https://www.southlyonmi.org/Council%20Version_Oct%2012%202026%20Council%20Mtg_FY%20End%2006-30-2026%20POWERPOINT.pdf?t=202610091412240#page=8)* (read by OCR; check the original)
@@ -236,6 +243,11 @@ $1,000
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/Council%20Version_Oct%2012%202026%20Council%20Mtg_FY%20End%2006-30-2026%20POWERPOINT.pdf?t=202610091412240#page=9)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>City of South Lyon Water & Sewer Fund Years Ended June 30</div>
 
 *[Image or figure on this page; see the original.]*
@@ -243,6 +255,8 @@ $1,000
 Operating Revenue Plus Property Taxes
 
 Operating Expense (Excl. Depreciation) Plus Capital Improvements and Debt Service
+
+</details>
 
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/Council%20Version_Oct%2012%202026%20Council%20Mtg_FY%20End%2006-30-2026%20POWERPOINT.pdf?t=202610091412240#page=10)*

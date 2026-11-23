@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/7-24-23%20CM%20Approved.pdf?t=202308151
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "7b7c1d0bcb8fdf956f65665798a8d317229df3a08adfdc41924d7a1108b4d3d7"
 source_bytes: 4301921
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 10
 ocr_pages: 10
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Minutes, 2023-07-24
 
-> **Source:** [Minutes, original PDF](https://www.southlyonmi.org/7-24-23%20CM%20Approved.pdf?t=202308151156550) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `7b7c1d0bcb8fdf95…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Minutes, original PDF](https://www.southlyonmi.org/7-24-23%20CM%20Approved.pdf?t=202308151156550) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `7b7c1d0bcb8fdf95…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/7-24-23%20CM%20Approved.pdf?t=202308151156550#page=1)* (read by OCR; check the original)

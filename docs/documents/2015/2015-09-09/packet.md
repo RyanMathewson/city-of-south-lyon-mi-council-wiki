@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "cd5547f56047151b898b75e0d9d6cc333888b2f8b07bc60cda219174aab1259a"
 source_bytes: 2736682
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 55
 ocr_pages: 55
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2015-09-09
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC090815CCpacket_-09082015102715.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `cd5547f56047151b…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC090815CCpacket_-09082015102715.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `cd5547f56047151b…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC090815CCpacket_-09082015102715.pdf?t=202108310732570#page=1)* (read by OCR; check the original)
@@ -106,15 +106,34 @@ Adopted by City Council: ___
 <a id="p6"></a>
 *[Page 6 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC090815CCpacket_-09082015102715.pdf?t=202108310732570#page=6)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p7"></a>
 *[Page 7 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC090815CCpacket_-09082015102715.pdf?t=202108310732570#page=7)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p8"></a>
 *[Page 8 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC090815CCpacket_-09082015102715.pdf?t=202108310732570#page=8)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Good = 2% Fair = 70% Rack = 23%
 
@@ -124,10 +143,19 @@ Adopted by City Council: ___
 
 ## EHRC 100 YEARS CONSULTING ENGINEERS SINCE 1915
 
+</details>
+
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC090815CCpacket_-09082015102715.pdf?t=202108310732570#page=9)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC090815CCpacket_-09082015102715.pdf?t=202108310732570#page=10)* (read by OCR; check the original)
@@ -139,7 +167,14 @@ Adopted by City Council: ___
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC090815CCpacket_-09082015102715.pdf?t=202108310732570#page=11)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p12"></a>
 *[Page 12 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC090815CCpacket_-09082015102715.pdf?t=202108310732570#page=12)* (read by OCR; check the original)
@@ -312,7 +347,14 @@ roadway rehabilitation or reconstruction, the City's average PASER road rating w
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC090815CCpacket_-09082015102715.pdf?t=202108310732570#page=24)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p25"></a>
 *[Page 25 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC090815CCpacket_-09082015102715.pdf?t=202108310732570#page=25)* (read by OCR; check the original)
@@ -396,14 +438,26 @@ Submit the annual results of the Asset Management Plan to the TAMC.
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC090815CCpacket_-09082015102715.pdf?t=202108310732570#page=28)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Liberty Street at Wells Street
 
 Current PASER rating 5
 
+</details>
+
 <a id="p29"></a>
 *[Page 29 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC090815CCpacket_-09082015102715.pdf?t=202108310732570#page=29)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -413,8 +467,15 @@ PASER RATING FOR THE CITY OF SOUTH LYON
 
 <table><tr><td>JOB NO. 20130054</td><td rowspan="2">*[Image or figure on this page; see the original.]*</td><td rowspan="2">*[Image or figure on this page; see the original.]*</td><td rowspan="2">FIGURE 1</td></tr><tr><td>DATE 01/06/2015</td></tr></table>
 
+</details>
+
 <a id="p30"></a>
 *[Page 30 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC090815CCpacket_-09082015102715.pdf?t=202108310732570#page=30)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -425,6 +486,8 @@ PASER RATING FOR THE CITY OF SOUTH LYON
 *[Image or figure on this page; see the original.]*
 
 CONSULTING ENGINEERS SINCE 1975
+
+</details>
 
 <a id="p31"></a>
 *[Page 31 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC090815CCpacket_-09082015102715.pdf?t=202108310732570#page=31)* (read by OCR; check the original)

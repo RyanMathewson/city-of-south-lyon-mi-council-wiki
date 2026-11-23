@@ -564,6 +564,11 @@ Councilmember Kennedy stated he wanted to remind everyone of Blues, Brews and Br
 <a id="p18"></a>
 *[Page 18 of the original](https://www.southlyonmi.org/8-27-18%20Council%20Packet.pdf?t=202108310733130#page=18)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 CM 7-5-18 MOTION TO ADJOURN
 
 Motion by Kurtzweil, supported by Walton
@@ -577,6 +582,8 @@ Respectfully submitted,
 Mayor Dan Pelchat
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p19"></a>
 *[Page 19 of the original](https://www.southlyonmi.org/8-27-18%20Council%20Packet.pdf?t=202108310733130#page=19)* (read by OCR; check the original)
@@ -1851,7 +1858,14 @@ Scott Lanam, Chairman
 <a id="p65"></a>
 *[Page 65 of the original](https://www.southlyonmi.org/8-27-18%20Council%20Packet.pdf?t=202108310733130#page=65)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p66"></a>
 *[Page 66 of the original](https://www.southlyonmi.org/8-27-18%20Council%20Packet.pdf?t=202108310733130#page=66)* (read by OCR; check the original)

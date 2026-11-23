@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/11-9-20%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "b0fc5c9b2cc681743a7c6686ee8155c99c899d72a2de0c9ab51d50ddfd5059df"
 source_bytes: 6803686
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 175
 ocr_pages: 175
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2020-11-09
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/11-9-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `b0fc5c9b2cc68174…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/11-9-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `b0fc5c9b2cc68174…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/11-9-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=1)* (read by OCR; check the original)
@@ -1679,6 +1679,11 @@ Chubb states that he believes that he referenced the Knolls project when they di
 <a id="p65"></a>
 *[Page 65 of the original](https://www.southlyonmi.org/11-9-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=65)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <table><tr><td>FIELDING SITE CONDONNEMENT
 FIELDING HOME OF MIGRANT LLC
 HOME LIVORIES ROAD, BURKES to SITE 320
@@ -1753,8 +1758,15 @@ VEMAFX FHOXT XQ B
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p66"></a>
 *[Page 66 of the original](https://www.southlyonmi.org/11-9-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=66)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1781,6 +1793,8 @@ Landscape w/ sign
 *[Image or figure on this page; see the original.]*
 
 Lighting with Pole and fixture style
+
+</details>
 
 <a id="p67"></a>
 *[Page 67 of the original](https://www.southlyonmi.org/11-9-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=67)* (read by OCR; check the original)
@@ -2578,11 +2592,18 @@ If the assumptions detailed above hold true, both water and sewer operations wil
 <a id="p105"></a>
 *[Page 105 of the original](https://www.southlyonmi.org/11-9-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=105)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 # City of South Lyon Utility Rate Model - REVISED
 
 FY2021 to FY2030
+
+</details>
 
 <a id="p106"></a>
 *[Page 106 of the original](https://www.southlyonmi.org/11-9-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=106)* (read by OCR; check the original)
@@ -2634,9 +2655,16 @@ Change in fee methodology (philosophy) – There is no single “right” way to
 <a id="p111"></a>
 *[Page 111 of the original](https://www.southlyonmi.org/11-9-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=111)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Rate Model – Step 4 (Multi-Year Models)
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p112"></a>
 *[Page 112 of the original](https://www.southlyonmi.org/11-9-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=112)* (read by OCR; check the original)
@@ -2757,9 +2785,16 @@ Model assumes future sales will be consistent with 2 year average (FY18 and FY19
 <a id="p120"></a>
 *[Page 120 of the original](https://www.southlyonmi.org/11-9-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=120)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Rate Model – Step 4 (Multi-Year Models)
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p121"></a>
 *[Page 121 of the original](https://www.southlyonmi.org/11-9-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=121)* (read by OCR; check the original)
@@ -2990,30 +3025,58 @@ This proposal contains pricing and other information confidential and proprietar
 <a id="p135"></a>
 *[Page 135 of the original](https://www.southlyonmi.org/11-9-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=135)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Obsolete panel. Will be incorporated into more updated Motorola. Will be removed and discarded.
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p136"></a>
 *[Page 136 of the original](https://www.southlyonmi.org/11-9-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=136)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 This panel will be the newly incorporated control panel for Well #6 and Well #7 will have the same hardware component.
 
+</details>
+
 <a id="p137"></a>
 *[Page 137 of the original](https://www.southlyonmi.org/11-9-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=137)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 This panel will be completely redone on the face and be updated to suit our needs.
 
+</details>
+
 <a id="p138"></a>
 *[Page 138 of the original](https://www.southlyonmi.org/11-9-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=138)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 All wires will be traced and labeled properly to update and run both pumps for the two wells through SCADA installed by UIS at the Water Treatment Plant.
+
+</details>
 
 <a id="p139"></a>
 *[Page 139 of the original](https://www.southlyonmi.org/11-9-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=139)* (read by OCR; check the original)

@@ -1954,6 +1954,11 @@ As contemplated by this definition, Treasury recognizes that recipients may obli
 <a id="p78"></a>
 *[Page 78 of the original](https://www.southlyonmi.org/1-23-23%20Council%20Packet%20-%20online%20only.pdf?t=202301191619330#page=78)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Appendix
 
 <div>Final Rule Definition of General Revenue Within the Census Bureau Classification Structure of Revenue</div>
@@ -1961,6 +1966,8 @@ As contemplated by this definition, Treasury recognizes that recipients may obli
 *[Image or figure on this page; see the original.]*
 
 <div>Source: U.S. Bureau of the Census Government Finance and Employment Classification Manual, 2006; Annual Survey of State and Local Government Finances</div>
+
+</details>
 
 <a id="p79"></a>
 *[Page 79 of the original](https://www.southlyonmi.org/1-23-23%20Council%20Packet%20-%20online%20only.pdf?t=202301191619330#page=79)* (read by OCR; check the original)
@@ -2959,20 +2966,34 @@ SUGGESTED MOTION: Motion by ___, supported by ___, to approve ___ as the date to
 <a id="p134"></a>
 *[Page 134 of the original](https://www.southlyonmi.org/1-23-23%20Council%20Packet%20-%20online%20only.pdf?t=202301191619330#page=134)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## March 2023
 
 <table><tr><td>Sun</td><td>Mon</td><td>Tue</td><td>Wed</td><td>Thu</td><td>Fri</td><td>Sat</td></tr><tr><td></td><td></td><td></td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td></tr><tr><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td></tr><tr><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td></tr><tr><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td><td>31</td><td></td></tr></table>
 
 print-a-calendar.com
 
+</details>
+
 <a id="p135"></a>
 *[Page 135 of the original](https://www.southlyonmi.org/1-23-23%20Council%20Packet%20-%20online%20only.pdf?t=202301191619330#page=135)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## April 2023
 
 <table><tr><td>Sun</td><td>Mon</td><td>Tue</td><td>Wed</td><td>Thu</td><td>Fri</td><td>Sat</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr><tr><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>EASTER</td><td>×</td><td>×</td><td>×</td><td>×</td><td>Good Friday</td><td>Good Friday</td></tr><tr><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td></tr><tr><td>CC</td><td></td><td></td><td></td><td>PIC</td><td></td><td></td></tr><tr><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td></tr><tr><td>ZBA</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td></tr><tr><td>CC</td><td></td><td></td><td></td><td>PIC</td><td></td><td></td></tr><tr><td>30</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
 
 print-a-calendar.com
+
+</details>
 
 <a id="p136"></a>
 *[Page 136 of the original](https://www.southlyonmi.org/1-23-23%20Council%20Packet%20-%20online%20only.pdf?t=202301191619330#page=136)* (read by OCR; check the original)

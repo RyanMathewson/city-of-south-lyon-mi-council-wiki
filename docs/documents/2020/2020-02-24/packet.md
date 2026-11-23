@@ -642,11 +642,18 @@ David Mihalek, 1626 Graefield Rd, Birmingham, MI 48009
 <a id="p26"></a>
 *[Page 26 of the original](https://www.southlyonmi.org/2-24-20%20Council%20Packet%20Revised%20-%20online%20only.pdf?t=202108310733160#page=26)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 135 E. Lake Street
 
 (80-21-20-360-023)
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p27"></a>
 *[Page 27 of the original](https://www.southlyonmi.org/2-24-20%20Council%20Packet%20Revised%20-%20online%20only.pdf?t=202108310733160#page=27)* (read by OCR; check the original)
@@ -809,10 +816,22 @@ Authorized Representative
 <a id="p31"></a>
 *[Page 31 of the original](https://www.southlyonmi.org/2-24-20%20Council%20Packet%20Revised%20-%20online%20only.pdf?t=202108310733160#page=31)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p32"></a>
 *[Page 32 of the original](https://www.southlyonmi.org/2-24-20%20Council%20Packet%20Revised%20-%20online%20only.pdf?t=202108310733160#page=32)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## SLARA BLOCK PARTY - PARKING
 
@@ -821,6 +840,8 @@ Authorized Representative
 *[Image or figure on this page; see the original.]*
 
 = FREE PARKING
+
+</details>
 
 <a id="p33"></a>
 *[Page 33 of the original](https://www.southlyonmi.org/2-24-20%20Council%20Packet%20Revised%20-%20online%20only.pdf?t=202108310733160#page=33)* (read by OCR; check the original)
@@ -1224,9 +1245,16 @@ Census 2020
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/2-24-20%20Council%20Packet%20Revised%20-%20online%20only.pdf?t=202108310733160#page=42)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Interactive map can be found at https://maps.semcog.org/HardToCount
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p43"></a>
 *[Page 43 of the original](https://www.southlyonmi.org/2-24-20%20Council%20Packet%20Revised%20-%20online%20only.pdf?t=202108310733160#page=43)* (read by OCR; check the original)
@@ -1395,6 +1423,11 @@ Emphasize that parents should include babies on census forms, even if they are s
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/2-24-20%20Council%20Packet%20Revised%20-%20online%20only.pdf?t=202108310733160#page=47)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Remind the person filling out the form to count all children, including nonrelatives and children with no other place to live, even if they are only living at the address temporarily on April 1.
@@ -1417,8 +1450,15 @@ Work with community members to conduct outreach in neighborhoods with recent imm
 
 Emphasize the Census Bureau's legal commitment to keep census responses confidential. Explain that the Census Bureau will never share information with immigration enforcement agencies like Immigration and Customs Enforcement (ICE), law enforcement agencies like the police or Federal Bureau of Investigation (FBI), or allow this information to be used to determine eligibility for government benefits.
 
+</details>
+
 <a id="p48"></a>
 *[Page 48 of the original](https://www.southlyonmi.org/2-24-20%20Council%20Packet%20Revised%20-%20online%20only.pdf?t=202108310733160#page=48)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1441,6 +1481,8 @@ For more information or help applying, please call 1-855-JOB-2020
 Federal Relay Service: 1-800-877-8339 TTY/ASCII www.gsa.gov/fedrelay
 
 The U.S. Census Bureau is an Equal Opportunity Employer.
+
+</details>
 
 <a id="p49"></a>
 *[Page 49 of the original](https://www.southlyonmi.org/2-24-20%20Council%20Packet%20Revised%20-%20online%20only.pdf?t=202108310733160#page=49)* (read by OCR; check the original)

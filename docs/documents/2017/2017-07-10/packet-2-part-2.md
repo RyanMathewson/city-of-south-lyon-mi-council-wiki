@@ -287,7 +287,14 @@ The following uses may be permitted upon the granting of a permit for such use b
 <a id="p8"></a>
 *[Page 8 of the original](https://www.southlyonmi.org/packet%207.10.17%20part%202.pdf?t=202108310733080#page=8)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/packet%207.10.17%20part%202.pdf?t=202108310733080#page=9)* (read by OCR; check the original)
@@ -368,6 +375,11 @@ Ground Cover: Useable areas are mostly clear with some scrub brush and small tre
 <a id="p13"></a>
 *[Page 13 of the original](https://www.southlyonmi.org/packet%207.10.17%20part%202.pdf?t=202108310733080#page=13)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Shape:
 
 A copy of one of the aerial photograph and conceptual plan is believed to be far more descriptive than is the case with a verbal description. Therefore, a copy thereof is included. Note, for the conceptual plan, north orientation is to the right.
@@ -380,10 +392,19 @@ Disclaimer: The information provided herewith has been completed from recorded d
 
 Oakland County One Stop Shop 2100 Pontac Lake Road Big 41 West Waterford M 40329 Phone: 248-858-0721 Web: www.advantagebookland.com
 
+</details>
+
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/packet%207.10.17%20part%202.pdf?t=202108310733080#page=14)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/packet%207.10.17%20part%202.pdf?t=202108310733080#page=15)* (read by OCR; check the original)
@@ -832,19 +853,38 @@ M
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/packet%207.10.17%20part%202.pdf?t=202108310733080#page=40)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # STATE MAP
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/packet%207.10.17%20part%202.pdf?t=202108310733080#page=41)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## LOCATION MAP
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/packet%207.10.17%20part%202.pdf?t=202108310733080#page=42)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -852,12 +892,21 @@ Disclaimer: The information provided herein has been completed from recorded dee
 
 Oakland County One Stop Shop 2100 Pontiac Lake Road Bldg 41 West Waterford, FL 62100
 
+</details>
+
 <a id="p43"></a>
 *[Page 43 of the original](https://www.southlyonmi.org/packet%207.10.17%20part%202.pdf?t=202108310733080#page=43)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## COMPARABLE LOCATION MAP
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/packet%207.10.17%20part%202.pdf?t=202108310733080#page=44)* (read by OCR; check the original)
@@ -968,6 +1017,11 @@ Remarks and/or Description of Improvements: SPLIT FROM  $ 44.74 \pm $ ACRE PARCE
 <a id="p46"></a>
 *[Page 46 of the original](https://www.southlyonmi.org/packet%207.10.17%20part%202.pdf?t=202108310733080#page=46)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Date Taken:
@@ -1017,6 +1071,8 @@ Purchaser: R.C. TWAY CO.
   $ \underline{\text{70.363.00}} $ per acre   $ \underline{\text{N/A}} $____ F.F
 
 Remarks and/or Description of Improvements: PROPERTY LOCATED BETWEEN BECK AND WIXOM ROADS IN THE CITY OF WIXOM. NEARLY LEVEL WOODED PARCEL NEAR END OF INTERIOR INDUSTRIAL PARK COURT.
+
+</details>
 
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/packet%207.10.17%20part%202.pdf?t=202108310733080#page=47)* (read by OCR; check the original)
@@ -1248,6 +1304,11 @@ Source: 2010 American Community Survey 5-Year Estimates.
 <a id="p58"></a>
 *[Page 58 of the original](https://www.southlyonmi.org/packet%207.10.17%20part%202.pdf?t=202108310733080#page=58)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Pavement Condition (in Lane Miles)</div>
 
 *[Image or figure on this page; see the original.]*
@@ -1269,6 +1330,8 @@ Source: Michigan Structure Inventory and Appraisal Database
 Detailed Intersection & Road Data
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p59"></a>
 *[Page 59 of the original](https://www.southlyonmi.org/packet%207.10.17%20part%202.pdf?t=202108310733080#page=59)* (read by OCR; check the original)
@@ -1958,6 +2021,11 @@ Monthly flat fee of $9,000.00 for first 80 hours of work. Anything over 80 hours
 <a id="p85"></a>
 *[Page 85 of the original](https://www.southlyonmi.org/packet%207.10.17%20part%202.pdf?t=202108310733080#page=85)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 METROPLEX MI-450
 
 03.20.2017 PM 14 L
@@ -1969,6 +2037,8 @@ METROPLEX MI-450
 *[Image or figure on this page; see the original.]*
 
 You've been a great big help...
+
+</details>
 
 <a id="p86"></a>
 *[Page 86 of the original](https://www.southlyonmi.org/packet%207.10.17%20part%202.pdf?t=202108310733080#page=86)* (read by OCR; check the original)

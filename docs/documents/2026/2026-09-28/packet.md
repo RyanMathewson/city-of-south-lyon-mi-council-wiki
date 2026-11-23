@@ -692,7 +692,14 @@ Date
 <a id="p30"></a>
 *[Page 30 of the original](https://www.southlyonmi.org/packet_REVISED%20Online%20Copy_09-28-2026.pdf?t=202609251424590#page=30)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p31"></a>
 *[Page 31 of the original](https://www.southlyonmi.org/packet_REVISED%20Online%20Copy_09-28-2026.pdf?t=202609251424590#page=31)* (read by OCR; check the original)
@@ -1170,7 +1177,14 @@ Motion by _____, supported by _____ to approve the Fire Department's request to 
 <a id="p57"></a>
 *[Page 57 of the original](https://www.southlyonmi.org/packet_REVISED%20Online%20Copy_09-28-2026.pdf?t=202609251424590#page=57)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p58"></a>
 *[Page 58 of the original](https://www.southlyonmi.org/packet_REVISED%20Online%20Copy_09-28-2026.pdf?t=202609251424590#page=58)* (read by OCR; check the original)

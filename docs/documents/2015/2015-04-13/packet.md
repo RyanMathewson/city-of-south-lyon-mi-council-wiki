@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "92b785ad89286d00391f5093c0522e1f6222c51dbc66e5799c137c8fe1ec0820"
 source_bytes: 5010892
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 75
 ocr_pages: 75
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2015-04-13
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket04.13.15.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `92b785ad89286d00…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket04.13.15.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `92b785ad89286d00…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket04.13.15.pdf?t=202108310732570#page=1)* (read by OCR; check the original)
@@ -236,6 +236,11 @@ Motion by Kramer, supported by Wedell
 <a id="p8"></a>
 *[Page 8 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket04.13.15.pdf?t=202108310732570#page=8)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## CM 3-10-15 MOTION TO ALLOW ATTORNEY TO TAKE ACTION
 
 Motion by Kivell, supported by Kramer
@@ -261,6 +266,8 @@ Respectfully submitted,
 Tedd Wallace Mayor
 
 Lisa Deaton Clerk/Treasurer
+
+</details>
 
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket04.13.15.pdf?t=202108310732570#page=9)* (read by OCR; check the original)
@@ -684,7 +691,14 @@ South Lyon, MI 48178</td><td>SHOULD ANY OF THE ABOVE DESCRIBED POLICIES BE CANCE
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket04.13.15.pdf?t=202108310732570#page=35)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p36"></a>
 *[Page 36 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket04.13.15.pdf?t=202108310732570#page=36)* (read by OCR; check the original)
@@ -1252,6 +1266,11 @@ FAX: 248-437-7789
 <a id="p53"></a>
 *[Page 53 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket04.13.15.pdf?t=202108310732570#page=53)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 SOUTH LYON POLICE DEPARTMENT
@@ -1261,6 +1280,8 @@ SOUTH LYON POLICE DEPARTMENT
 ACEBOOK.COM/SOUTHLYONPOLICEDEPARTMENT
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p54"></a>
 *[Page 54 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket04.13.15.pdf?t=202108310732570#page=54)* (read by OCR; check the original)
@@ -1359,6 +1380,11 @@ Chief Collins in the Memorial Day Parade
 <a id="p56"></a>
 *[Page 56 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket04.13.15.pdf?t=202108310732570#page=56)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## PROMOTIONS
 
 In June of 2014, OfficerChristopher Sederlund was promoted to the rank of Sergeant after serving as a patrol officer and detective for many years. Chris was on the active eligibility list for sergeant when the opportunity for promotion became available.
@@ -1372,6 +1398,8 @@ SLPD
 *[Image or figure on this page; see the original.]*
 
 ## STAFF
+
+</details>
 
 <a id="p57"></a>
 *[Page 57 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket04.13.15.pdf?t=202108310732570#page=57)* (read by OCR; check the original)
@@ -1456,6 +1484,11 @@ South Lyon Police Officers documented 10,263 calls for service during the year, 
 <a id="p61"></a>
 *[Page 61 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket04.13.15.pdf?t=202108310732570#page=61)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## ARRESTS
 
 The South Lyon Police Department investigates all criminal offenses to the fullest extent possible. When a suspect can be identified and a victim wishes to prosecute, it is our practice to file the appropriate criminal charges with our local City Attorneys (Johnson, Rosati, Schultz & Joppich) or the Oakland County Prosecutor's Office. A breakdown of both adult and juvenile misdemeanor and felony arrests in addition to Domestic Assault and Drunk / Drugged Driving for the past three years is as follows:
@@ -1466,8 +1499,15 @@ The South Lyon Police Department investigates all criminal offenses to the fulle
 
 ## PROTECT
 
+</details>
+
 <a id="p62"></a>
 *[Page 62 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket04.13.15.pdf?t=202108310732570#page=62)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## TRAFFIC INCIDENTS
 
@@ -1482,6 +1522,8 @@ The South Lyon Police Department investigates all criminal offenses to the fulle
 ## STAFF
 
 ## PROTECT
+
+</details>
 
 <a id="p63"></a>
 *[Page 63 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket04.13.15.pdf?t=202108310732570#page=63)* (read by OCR; check the original)

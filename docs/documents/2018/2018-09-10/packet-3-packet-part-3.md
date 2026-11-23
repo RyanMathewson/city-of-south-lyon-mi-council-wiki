@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%203.p
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "04e6676cf5a5eb01ffdf6daedfeef3be10e9e8fc7c20969b013b1444349f8ddc"
 source_bytes: 4979949
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 74
 ocr_pages: 74
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2018-09-10
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%203.pdf?t=202108310733130) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `04e6676cf5a5eb01…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%203.pdf?t=202108310733130) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `04e6676cf5a5eb01…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%203.pdf?t=202108310733130#page=1)* (read by OCR; check the original)
@@ -594,11 +594,18 @@ Published _____, 2018
 <a id="p22"></a>
 *[Page 22 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%203.pdf?t=202108310733130#page=22)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Current
 
 *[Image or figure on this page; see the original.]*
 
 Area counting as Building Coverage
+
+</details>
 
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%203.pdf?t=202108310733130#page=23)* (read by OCR; check the original)
@@ -614,6 +621,11 @@ Administrative Staff Research (Lot Coverage Analysis): Summary of Documents
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%203.pdf?t=202108310733130#page=24)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
@@ -622,12 +634,21 @@ Area Counting As Building Coverage
 
 Area Counting As Impervious Surface Coverage
 
+</details>
+
 <a id="p25"></a>
 *[Page 25 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%203.pdf?t=202108310733130#page=25)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 Examplu
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p26"></a>
 *[Page 26 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%203.pdf?t=202108310733130#page=26)* (read by OCR; check the original)
@@ -650,18 +671,32 @@ Examplu
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%203.pdf?t=202108310733130#page=28)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Existing Lot Coverage: Hot Spot Zones
 
+</details>
+
 <a id="p29"></a>
 *[Page 29 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%203.pdf?t=202108310733130#page=29)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 PS PINE E
 
 F. Loxe St
+
+</details>
 
 <a id="p30"></a>
 *[Page 30 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%203.pdf?t=202108310733130#page=30)* (read by OCR; check the original)
@@ -791,14 +826,28 @@ Properties by Development/Sub
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%203.pdf?t=202108310733130#page=47)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td>Lot</td><td>Lot Area (SqFt)</td></tr><tr><td></td><td>10000</td></tr><tr><td></td><td>9000</td></tr><tr><td></td><td>8000</td></tr><tr><td></td><td>7000</td></tr><tr><td></td><td>6000</td></tr><tr><td></td><td>5000</td></tr><tr><td></td><td>4000</td></tr><tr><td></td><td>3000</td></tr><tr><td></td><td>2000</td></tr><tr><td></td><td>1000</td></tr><tr><td></td><td>500</td></tr><tr><td></td><td>0</td></tr></table>
 
+</details>
+
 <a id="p48"></a>
 *[Page 48 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%203.pdf?t=202108310733130#page=48)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p49"></a>
 *[Page 49 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%203.pdf?t=202108310733130#page=49)* (read by OCR; check the original)

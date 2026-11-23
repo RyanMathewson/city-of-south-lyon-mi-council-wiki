@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/February%2023%202026%20Council%20Counte
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "b117cc2fbc2d29d57cd1ba2ee49abc2ec1e156d54272e0c7f82e291210fe9fc5"
 source_bytes: 5058384
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 116
 ocr_pages: 116
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2026-02-23
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/February%2023%202026%20Council%20Counter%20Copy.pdf?t=202603101530410) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `b117cc2fbc2d29d5…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/February%2023%202026%20Council%20Counter%20Copy.pdf?t=202603101530410) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `b117cc2fbc2d29d5…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/February%2023%202026%20Council%20Counter%20Copy.pdf?t=202603101530410#page=1)* (read by OCR; check the original)
@@ -442,6 +442,11 @@ More details can be found on the SLARA Facebook page or SLARA website.
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/February%2023%202026%20Council%20Counter%20Copy.pdf?t=202603101530410#page=14)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Motion by Kurtzweil, supported by Hansen Motion to adjourn meeting at 7:53 p.m.
 
 VOTE: ___
@@ -453,6 +458,8 @@ Respectfully submitted.
 Mayor Steve Kennedy
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/February%2023%202026%20Council%20Counter%20Copy.pdf?t=202603101530410#page=15)* (read by OCR; check the original)
@@ -923,7 +930,14 @@ Chief Bonnie Unruh Date
 <a id="p33"></a>
 *[Page 33 of the original](https://www.southlyonmi.org/February%2023%202026%20Council%20Counter%20Copy.pdf?t=202603101530410#page=33)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/February%2023%202026%20Council%20Counter%20Copy.pdf?t=202603101530410#page=34)* (read by OCR; check the original)
@@ -1525,16 +1539,28 @@ Description of Sanitary Sewer System Easement
 <a id="p57"></a>
 *[Page 57 of the original](https://www.southlyonmi.org/February%2023%202026%20Council%20Counter%20Copy.pdf?t=202603101530410#page=57)* (read by OCR; check the original)
 
-*[Image or figure on this page; see the original.]*
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+*[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p58"></a>
 *[Page 58 of the original](https://www.southlyonmi.org/February%2023%202026%20Council%20Counter%20Copy.pdf?t=202603101530410#page=58)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1558,8 +1584,15 @@ https://wengco.com/wengco.com
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p59"></a>
 *[Page 59 of the original](https://www.southlyonmi.org/February%2023%202026%20Council%20Counter%20Copy.pdf?t=202603101530410#page=59)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 SEE SHEET 6 FOR LINE TABLE
 
@@ -1573,8 +1606,15 @@ SEE SHEET 6 FOR LINE TABLE
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p60"></a>
 *[Page 60 of the original](https://www.southlyonmi.org/February%2023%202026%20Council%20Counter%20Copy.pdf?t=202603101530410#page=60)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1598,8 +1638,15 @@ www.washtecowegineering.com
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p61"></a>
 *[Page 61 of the original](https://www.southlyonmi.org/February%2023%202026%20Council%20Counter%20Copy.pdf?t=202603101530410#page=61)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1628,6 +1675,8 @@ www.washtenckengineering.com
 <table><tr><td>DATE 6-23-25</td><td>REV.</td></tr><tr><td>DRAWN DJH</td><td>JOB 33205</td></tr><tr><td>CHECK TLS</td><td>F.B.</td></tr><tr><td>SHEET 5 OF 7</td><td>FILE NO. R-10949</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p62"></a>
 *[Page 62 of the original](https://www.southlyonmi.org/February%2023%202026%20Council%20Counter%20Copy.pdf?t=202603101530410#page=62)* (read by OCR; check the original)
@@ -1818,14 +1867,26 @@ Description of Water System Easement
 <a id="p70"></a>
 *[Page 70 of the original](https://www.southlyonmi.org/February%2023%202026%20Council%20Counter%20Copy.pdf?t=202603101530410#page=70)* (read by OCR; check the original)
 
-*[Image or figure on this page; see the original.]*
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+*[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p71"></a>
 *[Page 71 of the original](https://www.southlyonmi.org/February%2023%202026%20Council%20Counter%20Copy.pdf?t=202603101530410#page=71)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1853,8 +1914,15 @@ www.wosttenpweingewing.com
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p72"></a>
 *[Page 72 of the original](https://www.southlyonmi.org/February%2023%202026%20Council%20Counter%20Copy.pdf?t=202603101530410#page=72)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 SEE SHEET 6 FOR LINE AND CURVE TABLES
 
@@ -1874,8 +1942,15 @@ www.wechtenengengineering.com
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p73"></a>
 *[Page 73 of the original](https://www.southlyonmi.org/February%2023%202026%20Council%20Counter%20Copy.pdf?t=202603101530410#page=73)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1907,8 +1982,15 @@ www.woshtonengineering.com
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p74"></a>
 *[Page 74 of the original](https://www.southlyonmi.org/February%2023%202026%20Council%20Counter%20Copy.pdf?t=202603101530410#page=74)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1923,6 +2005,8 @@ weco@wengco.com www.washtencowighteering.com
 <table><tr><td>DATE 6-23-25</td><td>REV.</td></tr><tr><td>DRAWN DJH</td><td>JOB 33205</td></tr><tr><td>CHECK TLS</td><td>F.B. -</td></tr><tr><td>SHEET 5 OF 7</td><td>FILE NO. R-10949</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p75"></a>
 *[Page 75 of the original](https://www.southlyonmi.org/February%2023%202026%20Council%20Counter%20Copy.pdf?t=202603101530410#page=75)* (read by OCR; check the original)
@@ -2108,6 +2192,11 @@ CSI Emergency Apparatus, LLC
 <a id="p80"></a>
 *[Page 80 of the original](https://www.southlyonmi.org/February%2023%202026%20Council%20Counter%20Copy.pdf?t=202603101530410#page=80)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # SOUTH LYON FIRE DEPARTMENT POLY BODY RESCUE DRAWING
 
 # PROUDLY BUILT IN MICHIGAN
@@ -2122,8 +2211,15 @@ N-STANLES STT. VOL.70
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p81"></a>
 *[Page 81 of the original](https://www.southlyonmi.org/February%2023%202026%20Council%20Counter%20Copy.pdf?t=202603101530410#page=81)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## PROUDLY BUILT
 
@@ -2136,8 +2232,15 @@ N-STANLES STT. VOL.70
 <table><tr><td>ITEM</td><td>DESCRIPTION</td><td>DATE</td></tr><tr><td></td><td></td><td>2025.06.11</td></tr><tr><td></td><td colspan="2">2332 Dupont Street, Grayling, MI 49738
 888-264-2877</td></tr><tr><td></td><td>SIGN-NOT TO SCALE</td><td>DRAWING NO.</td></tr><tr><td></td><td>DATE: 11-19-26</td><td>JAN</td></tr><tr><td></td><td>CUSTOMER</td><td>S</td></tr><tr><td></td><td>DESCRIPTION:</td><td>POLY BODY RESOL TURNING</td></tr></table>
 
+</details>
+
 <a id="p82"></a>
 *[Page 82 of the original](https://www.southlyonmi.org/February%2023%202026%20Council%20Counter%20Copy.pdf?t=202603101530410#page=82)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # SOUTH LYON FIRE DEPARTMENT POLY BODY RESCUE DRAWING
 
@@ -2148,6 +2251,8 @@ PROUDLY BUILT
 *[Image or figure on this page; see the original.]*
 
 IN MICHIGAN
+
+</details>
 
 <a id="p83"></a>
 *[Page 83 of the original](https://www.southlyonmi.org/February%2023%202026%20Council%20Counter%20Copy.pdf?t=202603101530410#page=83)* (read by OCR; check the original)

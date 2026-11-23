@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/8-14-23%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "3946b89ec382fd4046a696c0c51ec9d6a3855a9547ca8a172224d74c91f29597"
 source_bytes: 4257932
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 98
 ocr_pages: 98
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2023-08-14
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/8-14-23%20Council%20Packet%20-%20online%20only.pdf?t=202308101540010) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `3946b89ec382fd40…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/8-14-23%20Council%20Packet%20-%20online%20only.pdf?t=202308101540010) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `3946b89ec382fd40…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/8-14-23%20Council%20Packet%20-%20online%20only.pdf?t=202308101540010#page=1)* (read by OCR; check the original)
@@ -679,7 +679,14 @@ Date
 <a id="p32"></a>
 *[Page 32 of the original](https://www.southlyonmi.org/8-14-23%20Council%20Packet%20-%20online%20only.pdf?t=202308101540010#page=32)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p33"></a>
 *[Page 33 of the original](https://www.southlyonmi.org/8-14-23%20Council%20Packet%20-%20online%20only.pdf?t=202308101540010#page=33)* (read by OCR; check the original)
@@ -948,7 +955,14 @@ Mary Poole
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/8-14-23%20Council%20Packet%20-%20online%20only.pdf?t=202308101540010#page=41)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/8-14-23%20Council%20Packet%20-%20online%20only.pdf?t=202308101540010#page=42)* (read by OCR; check the original)
@@ -1485,6 +1499,11 @@ d. PEX will maintain upon its vehicles appropriate signage or markings so that "
 <a id="p64"></a>
 *[Page 64 of the original](https://www.southlyonmi.org/8-14-23%20Council%20Packet%20-%20online%20only.pdf?t=202308101540010#page=64)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # 2023 PEX SERVICE AREA MAP
 
 ## People's Express Inc
@@ -1510,6 +1529,8 @@ Qualifying residents living in Milford, Commerce, Lyon, Wolverine Lake, South Ly
 ## Driving Boundary
 
 PEX provides transportation services for qualifying residents to eligible destinations located within the driving boundary 7.5.2023
+
+</details>
 
 <a id="p65"></a>
 *[Page 65 of the original](https://www.southlyonmi.org/8-14-23%20Council%20Packet%20-%20online%20only.pdf?t=202308101540010#page=65)* (read by OCR; check the original)

@@ -686,9 +686,16 @@ Date: ___
 <a id="p26"></a>
 *[Page 26 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC022114CCpacket2-24-14.pdf?t=202108310732580#page=26)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>YELLOW – SMART area ORANGE – Lyon Township/City of South Lyon RED – Out-of-town rides (Meijer, Providence, etc.)</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p27"></a>
 *[Page 27 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC022114CCpacket2-24-14.pdf?t=202108310732580#page=27)* (read by OCR; check the original)

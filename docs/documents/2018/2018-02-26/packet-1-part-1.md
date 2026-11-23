@@ -443,6 +443,11 @@ Mayor Pelchat stated he would also like to thank Joan Ciarelli and Megan Blaha f
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/February%2026%202018%20part%201.pdf?t=202108310733110#page=17)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Motion by Kivell, supported by Parisien
 
 Motion to adjourn meeting at 10:15 p.m.
@@ -456,6 +461,8 @@ Mayor Dan Pelchat
 Clerk Lisa Deaton
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p18"></a>
 *[Page 18 of the original](https://www.southlyonmi.org/February%2026%202018%20part%201.pdf?t=202108310733110#page=18)* (read by OCR; check the original)
@@ -2951,6 +2958,11 @@ C. Special Appropriations Act
 <a id="p113"></a>
 *[Page 113 of the original](https://www.southlyonmi.org/February%2026%202018%20part%201.pdf?t=202108310733110#page=113)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ### 11. CONSENT AGENDA
 
 A. Approval of Minutes – Regular Meeting – Monday, November 20, 2017
@@ -2962,6 +2974,8 @@ B. Approval of Introduction of Ordinance No. C-754-B, Marihuana Enterprises, Bus
 13. ADJOURNMENT
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p114"></a>
 *[Page 114 of the original](https://www.southlyonmi.org/February%2026%202018%20part%201.pdf?t=202108310733110#page=114)* (read by OCR; check the original)

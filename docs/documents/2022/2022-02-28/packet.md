@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "fc0f27ff9775165dcdca8c569e4ef47b0c4dfa1b6a8e578a03a299713d6b0f8f"
 source_bytes: 9726683
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 233
 ocr_pages: 233
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2022-02-28
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `fc0f27ff9775165d…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `fc0f27ff9775165d…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=1)* (read by OCR; check the original)
@@ -1048,6 +1048,11 @@ ALSO KNOWN AS SIDWELL NO. 21-19-476-008
 <a id="p37"></a>
 *[Page 37 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=37)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## ZONING
 
 *[Image or figure on this page; see the original.]*
@@ -1055,6 +1060,8 @@ ALSO KNOWN AS SIDWELL NO. 21-19-476-008
 ## PARTIAL SECTION OF CITY OF SOUTH LYON ZONING MAP SHOWING SUBJECT PROPERTY
 
 Reference to the City of South Lyon Zoning Ordinance indicates that the subject property is zoned “I-1” Light Industrial. The intent, Principal Permitted Uses and Requirements of the district have been copied from the Zoning Ordinance and are included herein:
+
+</details>
 
 <a id="p38"></a>
 *[Page 38 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=38)* (read by OCR; check the original)
@@ -1220,6 +1227,11 @@ There is a proposed taking of a permanent easement ranging in width from 40 to 4
 <a id="p49"></a>
 *[Page 49 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=49)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 2/3/2020 11:24 AM
 
 <div>SKETCH OF EASEMENT</div>
@@ -1231,6 +1243,8 @@ There is a proposed taking of a permanent easement ranging in width from 40 to 4
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td>REV.</td><td>JOB NO. 20180112</td><td rowspan="2">E HRC</td><td>585 HULET DRIVE BLOOMFIELD HILLS, MICH.</td><td>P.O. BOX 82448308 - 0824</td><td>SHEET NO. 1</td></tr><tr><td></td><td>DATE JAN. 29, 2020</td><td>PHONE: (248) 454-6300 FAX (1st Floor): (248) 454-6312 FAX (2nd Floor): (248) 454-6359</td><td>WEB SITE: http:// www.hcemgr.com</td><td>OF 2</td></tr></table>
+
+</details>
 
 <a id="p50"></a>
 *[Page 50 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=50)* (read by OCR; check the original)
@@ -1377,6 +1391,11 @@ Reference to the Oakland County Soils survey indicates that the subject soils ar
 <a id="p56"></a>
 *[Page 56 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=56)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 FLOOD HAZARD:
@@ -1388,6 +1407,8 @@ Reference to map FEMA map panel 26125C0585F
 effective date 9/29/2006 shows the subject property to be in zone X, this is an area of minimal flood risk.
 
 Generally level, slightly below the grade of the CSX. railroad right-of-way that forms the north boundary of the property and somewhat below the grade of N. Lafayette St.
+
+</details>
 
 <a id="p57"></a>
 *[Page 57 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=57)* (read by OCR; check the original)
@@ -1433,6 +1454,11 @@ Above: This is Southeast along the CSX route. The easement is along this route t
 <a id="p60"></a>
 *[Page 60 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=60)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 SUBJECT PHOTOGRAPHS TAKEN BY CRAIG J. FULLER ON NOVEMBER 30, 2021
 
 *[Image or figure on this page; see the original.]*
@@ -1442,6 +1468,8 @@ Above: The new 12 inch sanitary that will enter the subject will be at the far r
 *[Image or figure on this page; see the original.]*
 
 Above: View of subject property frontage along North Lafayette Street.
+
+</details>
 
 <a id="p61"></a>
 *[Page 61 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=61)* (read by OCR; check the original)
@@ -1532,9 +1560,16 @@ The information concerning the most similar properties will be discussed at this
 <a id="p65"></a>
 *[Page 65 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=65)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## COMPARABLE SALES LOCATION MAP
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p66"></a>
 *[Page 66 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=66)* (read by OCR; check the original)
@@ -1918,6 +1953,11 @@ $458,000.00
 <a id="p81"></a>
 *[Page 81 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=81)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>SKETCH OF EASEMENT</div>
 
 <div>V:\201801\20180112\F\Property\Eosements\f180112_es01.dwg HRC_OLW.ctb</div>
@@ -1925,6 +1965,8 @@ $458,000.00
 *[Image or figure on this page; see the original.]*
 
 <div>Hebert Dave</div>
+
+</details>
 
 <a id="p82"></a>
 *[Page 82 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=82)* (read by OCR; check the original)
@@ -2179,19 +2221,38 @@ Property Address: 415 North Lafayette Street, City of South Lyon, Oakland County
 <a id="p92"></a>
 *[Page 92 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=92)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## STATE MAP
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p93"></a>
 *[Page 93 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=93)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # LOCATION MAP
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p94"></a>
 *[Page 94 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=94)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## AERIAL MAP
 
@@ -2200,6 +2261,8 @@ Property Address: 415 North Lafayette Street, City of South Lyon, Oakland County
 *[Image or figure on this page; see the original.]*
 
 Delิand County One Stop Shop 2100 Pontisc Lake Road Bldg. 41 West Waterford, MI 48328 Phone: 248-358-0721 Web: www.advantageockland.com
+
+</details>
 
 <a id="p95"></a>
 *[Page 95 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=95)* (read by OCR; check the original)
@@ -2532,6 +2595,11 @@ Source: Michigan Geographic Framework
 <a id="p111"></a>
 *[Page 111 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=111)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Community Profiles
 
 https://semcog.org/community-profiles
@@ -2573,6 +2641,8 @@ being too narrow to accommodate truck traffic).
 Source: Michigan Structure Inventory and Appraisal Database
 
 Detailed Intersection & Road Data
+
+</details>
 
 <a id="p112"></a>
 *[Page 112 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=112)* (read by OCR; check the original)
@@ -3649,6 +3719,11 @@ NOTE: The subject is improved with a multi-tenant apartment complex identified a
 <a id="p143"></a>
 *[Page 143 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=143)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## ZONING
 
 *[Image or figure on this page; see the original.]*
@@ -3656,6 +3731,8 @@ NOTE: The subject is improved with a multi-tenant apartment complex identified a
 PARTIAL SECTION OF CITY OF SOUTH LYON ZONING MAP SHOWING SUBJECT PROPERTY
 
 Reference to the City of South Lyon Zoning Ordinance indicates that the subject property is zoned “RM1” Multiple-Family Residential. The intent, Principal Permitted Uses and Requirements of the district have been copied from the Zoning Ordinance and are included herein:
+
+</details>
 
 <a id="p144"></a>
 *[Page 144 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=144)* (read by OCR; check the original)
@@ -3847,6 +3924,11 @@ There is a proposed taking of a 27 foot permanent easement and a 40 permanent ea
 <a id="p155"></a>
 *[Page 155 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=155)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # SKETCH OF EASEMENT
 
 <div>V:\201801\20180112\F\Property\Easements\f180112_es02.dwg HRC_OLW.ctb</div>
@@ -3857,12 +3939,21 @@ There is a proposed taking of a 27 foot permanent easement and a 40 permanent ea
 
 <table><tr><td>REV.</td><td>JOB NO. 20180112</td><td>HRC</td><td>555 HULET DRIVE BLOOMFIELD HILLS, MICH.</td><td>P.O. BOX 62448303 - 0824</td><td>SHEET NO. 1</td></tr><tr><td></td><td>DATE</td><td>HUBBELL, ROTH & CLARK, INC</td><td>PHONE: (248) 454-6300 FAX (1st Floor); (248) 454-6312</td><td></td><td>1</td></tr><tr><td></td><td>FEB. 4, 2020</td><td>CONSULTING ENGINEERS SINCE 1915</td><td>FAX (2nd Floor); (248) 454-6355</td><td></td><td>OF 3</td></tr></table>
 
+</details>
+
 <a id="p156"></a>
 *[Page 156 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=156)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td>REV.</td><td>JOB NO. 20180112</td><td rowspan="2">HRC</td><td rowspan="2">555 HULET DRIVE P.O. BOX 824 BLOOMFIELD HILLS, MICH. 48303 - 0824 PHONE: (245) 454-6300 FAX (1st. Floor): (249) 454-6312 FAX (2nd. Floor): (248) 454-6359</td><td rowspan="2">SHEET NO. 2</td></tr><tr><td></td><td rowspan="2">DATE FEB. 4, 2020</td></tr><tr><td></td><td>HUBBELL, ROTH & CLARK, INC CONSULTING ENGINEERS SINCE 1915</td><td>WEB SITE: http:// www.hrtengtr.com</td><td>OF 3</td></tr></table>
+
+</details>
 
 <a id="p157"></a>
 *[Page 157 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=157)* (read by OCR; check the original)
@@ -4017,6 +4108,11 @@ Generally level near road grade within the easement area. The area is below the 
 <a id="p163"></a>
 *[Page 163 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=163)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Appraisal for the City of South Lyon
 
 Property Owner: Loop Water's Edge, LLC & Water's Edge West, LLC
@@ -4033,8 +4129,15 @@ Below: View looking north along formalized easement near proposed bifurcation ma
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p164"></a>
 *[Page 164 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=164)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 SUBJECT PHOTOGRAPHS TAKEN BY CRAIG J. FULLER ON NOVEMBER 30, 2021
 
@@ -4046,8 +4149,15 @@ Below: View looking west from existing sanitary toward apartments.
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p165"></a>
 *[Page 165 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=165)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 Appraisal for the City of South Lyon
 
@@ -4065,8 +4175,15 @@ Below: View looking north along formalized easement route.
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p166"></a>
 *[Page 166 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=166)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 SUBJECT PHOTOGRAPHS TAKEN BY CRAIG J. FULLER ON NOVEMBER 30, 2021
 
@@ -4077,6 +4194,8 @@ Above: View looking south at scrub brush in proposed easement.
 Below: View looking west from North Lafayette Street towards apartments.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p167"></a>
 *[Page 167 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=167)* (read by OCR; check the original)
@@ -4170,7 +4289,14 @@ The pages that immediately follow, provide description of the properties conside
 <a id="p172"></a>
 *[Page 172 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=172)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p173"></a>
 *[Page 173 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=173)* (read by OCR; check the original)
@@ -4552,9 +4678,16 @@ In the application of an appraisal of a value of the “Part to be Acquired” n
 <a id="p188"></a>
 *[Page 188 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=188)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td>REV.</td><td>JOB NO. 20180112</td><td rowspan="2">HRC</td><td>535 HULET DRIVE BLOOMFIELD HILLS, MICH.</td><td>P.O. BOX 82448303 - 0824</td><td>SHEET NO.</td></tr><tr><td></td><td rowspan="2">DATE FEB. 4, 2020</td><td>PHONE: (248) 454-6300 FAX (1st. Floor): (248) 454-6312 FAX (2nd. Floor): (248) 454-6359</td><td>2 OF 3</td><td></td></tr><tr><td></td><td>HUBBELL, ROTH & CLARK, INC CONSULTING ENGINEERS SINCE 1915</td><td>WEB SITE: http:// www.hrccengt.com</td><td></td><td></td></tr></table>
+
+</details>
 
 <a id="p189"></a>
 *[Page 189 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=189)* (read by OCR; check the original)
@@ -4789,19 +4922,38 @@ Property Address: 606 Lakewood Drive, City of South Lyon, Oakland County, Michig
 <a id="p197"></a>
 *[Page 197 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=197)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 STATE MAP
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p198"></a>
 *[Page 198 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=198)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## LOCATION MAP
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p199"></a>
 *[Page 199 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=199)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 AERIAL MAP
 
@@ -4812,6 +4964,8 @@ AERIAL MAP
 Disclaimer: The information provided herein has been compiled from recorded deeds, plats, tax maps, surveys and other public records. It is not a legally recorded map or survey and is not intended to be used as one. Users should consult the information sources mentioned above when questions arise. FEMA Flooplain data may not always be present on the map.
 
 Oakland County One Stop Shop 2100 Pontiac Lake Road Bldg. 41 West Waterford, MI 45328 Phone: 248-858-0721 Web: www.adventsegoakland.com
+
+</details>
 
 <a id="p200"></a>
 *[Page 200 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=200)* (read by OCR; check the original)
@@ -5130,6 +5284,11 @@ Source: Michigan Geographic Framework
 <a id="p216"></a>
 *[Page 216 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=216)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Community Profiles
 
 Pavement Condition (in Lane Miles)
@@ -5173,6 +5332,8 @@ Note: A bridge is considered deficient if it is structurally deficient (in poor 
 Source: Michigan Structure Inventory and Appraisal Database
 
 Detailed Intersection & Road Data
+
+</details>
 
 <a id="p217"></a>
 *[Page 217 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=217)* (read by OCR; check the original)
@@ -5833,7 +5994,14 @@ Date
 <a id="p233"></a>
 *[Page 233 of the original](https://www.southlyonmi.org/2-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202202241534020#page=233)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 C. C.P.O.T U.A.Y
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 

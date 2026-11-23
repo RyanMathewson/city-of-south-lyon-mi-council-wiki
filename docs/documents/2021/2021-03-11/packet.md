@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/3-11-21%20Council%20Workshop%20Packet.p
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "0febd35018c89ca674830b9e58ab324513cbe98ad324334fa20492f166dcd45b"
 source_bytes: 4164101
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 12
 ocr_pages: 12
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2021-03-11
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/3-11-21%20Council%20Workshop%20Packet.pdf?t=202108310733180) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `0febd35018c89ca6…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/3-11-21%20Council%20Workshop%20Packet.pdf?t=202108310733180) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `0febd35018c89ca6…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/3-11-21%20Council%20Workshop%20Packet.pdf?t=202108310733180#page=1)* (read by OCR; check the original)
@@ -40,6 +40,11 @@ III. Adjournment
 <a id="p2"></a>
 *[Page 2 of the original](https://www.southlyonmi.org/3-11-21%20Council%20Workshop%20Packet.pdf?t=202108310733180#page=2)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## SOUTH LYON FIRE DEPARTMENT 2021-2022 AERIAL LADDER REPLACEMENT PROJECT
 
 March 4, 2021
@@ -47,6 +52,8 @@ March 4, 2021
 *[Image or figure on this page; see the original.]*
 
 Prepared by: Deputy Chief Michael Weir
+
+</details>
 
 <a id="p3"></a>
 *[Page 3 of the original](https://www.southlyonmi.org/3-11-21%20Council%20Workshop%20Packet.pdf?t=202108310733180#page=3)* (read by OCR; check the original)
@@ -195,9 +202,16 @@ Pierce Arrow Chassis, 4-Door Full Tilt cab 100' Rear-Mounted Ladder with Platfor
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/3-11-21%20Council%20Workshop%20Packet.pdf?t=202108310733180#page=9)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>Initial drawing of the proposed ladder replacement (Version 1)</div>
+
+</details>
 
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/3-11-21%20Council%20Workshop%20Packet.pdf?t=202108310733180#page=10)* (read by OCR; check the original)

@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "4af73aacbe09f39122c8021aae388ecc11608309ded5cb3d01d1e8dcabb516c3"
 source_bytes: 4326614
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 76
 ocr_pages: 76
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2016-05-23
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket5-23-16.pdf?t=202108310732560) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `4af73aacbe09f391…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket5-23-16.pdf?t=202108310732560) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `4af73aacbe09f391…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket5-23-16.pdf?t=202108310732560#page=1)* (read by OCR; check the original)
@@ -250,6 +250,11 @@ MOTION CARRIED UNANIMOUSLY
 <a id="p8"></a>
 *[Page 8 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket5-23-16.pdf?t=202108310732560#page=8)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Respectfully submitted,
 
 Mayor John Galeas
@@ -257,6 +262,8 @@ Mayor John Galeas
 Lisa Deaton Clerk/Treasurer
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket5-23-16.pdf?t=202108310732560#page=9)* (read by OCR; check the original)
@@ -2526,9 +2533,16 @@ Institute Convener: John Nalbandian, professor emeritus of public administration
 <a id="p61"></a>
 *[Page 61 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket5-23-16.pdf?t=202108310732560#page=61)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## SCHEDULE AT A GLANCE
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p62"></a>
 *[Page 62 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket5-23-16.pdf?t=202108310732560#page=62)* (read by OCR; check the original)

@@ -717,6 +717,11 @@ City Clerk/Treasurer
 <a id="p32"></a>
 *[Page 32 of the original](https://www.southlyonmi.org/10-11-21%20Council%20Packet%20-%20online%20only.pdf?t=202111101424170#page=32)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Road Closure Map
@@ -726,6 +731,8 @@ for Downtown Trick
 or Treat, Oct. 20
 
 6:00-8:30pm
+
+</details>
 
 <a id="p33"></a>
 *[Page 33 of the original](https://www.southlyonmi.org/10-11-21%20Council%20Packet%20-%20online%20only.pdf?t=202111101424170#page=33)* (read by OCR; check the original)
@@ -1599,6 +1606,11 @@ CONFIDENTIALITY NOTICE: The information and attachments contained in this electr
 <a id="p62"></a>
 *[Page 62 of the original](https://www.southlyonmi.org/10-11-21%20Council%20Packet%20-%20online%20only.pdf?t=202111101424170#page=62)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 V-FORCE® HIGH-PERFORMANCE CUSTOM TURNOUTS
@@ -1611,8 +1623,15 @@ Reflective Material
 
 COMBINING COMBAT AND SPORTS UNIFORM TECHNOLOGY
 
+</details>
+
 <a id="p63"></a>
 *[Page 63 of the original](https://www.southlyonmi.org/10-11-21%20Council%20Packet%20-%20online%20only.pdf?t=202111101424170#page=63)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # BY JOHN CAUTS
 
@@ -1668,8 +1687,15 @@ Optional feature
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p64"></a>
 *[Page 64 of the original](https://www.southlyonmi.org/10-11-21%20Council%20Packet%20-%20online%20only.pdf?t=202111101424170#page=64)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## KEY PANT HIGHLIGHTS
 
@@ -1745,6 +1771,8 @@ The LIUN V-Force harness ready point is socially resilient to support an externa
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p65"></a>
 *[Page 65 of the original](https://www.southlyonmi.org/10-11-21%20Council%20Packet%20-%20online%20only.pdf?t=202111101424170#page=65)* (read by OCR; check the original)
 
@@ -1784,6 +1812,11 @@ Together, the electedized article should and Namex's Mama Fick call protector he
 
 <a id="p66"></a>
 *[Page 66 of the original](https://www.southlyonmi.org/10-11-21%20Council%20Packet%20-%20online%20only.pdf?t=202111101424170#page=66)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 A variety of materials, pockets, closure styles and accessory options are available.
 
@@ -1832,4 +1865,6 @@ Reflective Materials
 LION
 
 ready for action
+
+</details>
 

@@ -704,7 +704,14 @@ City Clerk/Treasurer
 <a id="p31"></a>
 *[Page 31 of the original](https://www.southlyonmi.org/6-9-25%20Council%20Packet%20-%20online%20only.pdf?t=202506051542470#page=31)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p32"></a>
 *[Page 32 of the original](https://www.southlyonmi.org/6-9-25%20Council%20Packet%20-%20online%20only.pdf?t=202506051542470#page=32)* (read by OCR; check the original)
@@ -860,9 +867,16 @@ Date
 <a id="p37"></a>
 *[Page 37 of the original](https://www.southlyonmi.org/6-9-25%20Council%20Packet%20-%20online%20only.pdf?t=202506051542470#page=37)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## South Luan Ave 25
+
+</details>
 
 <a id="p38"></a>
 *[Page 38 of the original](https://www.southlyonmi.org/6-9-25%20Council%20Packet%20-%20online%20only.pdf?t=202506051542470#page=38)* (read by OCR; check the original)
@@ -987,9 +1001,16 @@ Motion by _____, supported by _____ to Approve/Not Approve. Purchase and install
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/6-9-25%20Council%20Packet%20-%20online%20only.pdf?t=202506051542470#page=42)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # Current Tertiary Heating and Ventilation Unit
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p43"></a>
 *[Page 43 of the original](https://www.southlyonmi.org/6-9-25%20Council%20Packet%20-%20online%20only.pdf?t=202506051542470#page=43)* (read by OCR; check the original)

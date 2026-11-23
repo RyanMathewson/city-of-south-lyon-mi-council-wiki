@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "ecf3b0b986e52059ee3c55097775359211a87c0aafcfdfabca7cef14190dc9c3"
 source_bytes: 43464263
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 158
 ocr_pages: 158
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2016-01-25
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `ecf3b0b986e52059…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `ecf3b0b986e52059…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570#page=1)* (read by OCR; check the original)
@@ -651,6 +651,11 @@ For these reasons and more I would ask for your input and support of a master pl
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570#page=23)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 NO. OF UNITS = 66
@@ -662,6 +667,8 @@ ENGINEERING, L.L.C.
 CONSULTING ENGINEERS
 100 MAINCENTRE • SUITE 10 • NORTHILLE, MICHIGAN • 48167
 PHONE: 248.308.3331 FAX: 248.308.3335</td><td>SHEET 1</td></tr></table>
+
+</details>
 
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570#page=24)* (read by OCR; check the original)
@@ -689,6 +696,11 @@ detailed cost analysis for each phase
 <a id="p25"></a>
 *[Page 25 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570#page=25)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## What will we be addressing tonight
 
 Stakeholders
@@ -712,6 +724,8 @@ Straight Ahead
 • Questions...
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p26"></a>
 *[Page 26 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570#page=26)* (read by OCR; check the original)
@@ -866,6 +880,11 @@ Previously Approved Master Plan for Volunteer Park
 <a id="p30"></a>
 *[Page 30 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570#page=30)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Previously Approved Master Plan
@@ -894,8 +913,15 @@ Field usage priority has changed since preliminary plan was completed
 
 Some aspects of preliminary plan were too specific and grand
 
+</details>
+
 <a id="p31"></a>
 *[Page 31 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570#page=31)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -921,8 +947,15 @@ The cost for modifying the previous plan is something that no single stakeholder
 
 All stakeholders are willing and able to help out in any way possible!
 
+</details>
+
 <a id="p32"></a>
 *[Page 32 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570#page=32)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -941,6 +974,8 @@ Contracting with Russel Design allows us to save time and money because they wil
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p33"></a>
 *[Page 33 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570#page=33)* (read by OCR; check the original)
@@ -3494,11 +3529,18 @@ Wixom
 <a id="p118"></a>
 *[Page 118 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570#page=118)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Privacy/Legal | Accessibility
 
 Switch to Tablet View
+
+</details>
 
 <a id="p119"></a>
 *[Page 119 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570#page=119)* (read by OCR; check the original)
@@ -3688,6 +3730,11 @@ Why is it necessary for businesses to be involved in these areas?
 <a id="p122"></a>
 *[Page 122 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570#page=122)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 South Lyon
@@ -3704,8 +3751,15 @@ South Lyon, MI 48178
 
 The information provided herewith has been compiled from recorded deeds, plats, tax maps, surveys and other public records. It is not a legally recorded map or survey and is not intended to be used as one. Users should consult the information sources mentioned above when questions arise.
 
+</details>
+
 <a id="p123"></a>
 *[Page 123 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570#page=123)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## OAKLAND COUNTY MICHIGAN ECONOMIC DEVELOPMENT & COMMUNITY AFFAIRS
 
@@ -3753,8 +3807,15 @@ South Lyon Lyon
 
 Novi
 
+</details>
+
 <a id="p124"></a>
 *[Page 124 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570#page=124)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -3804,8 +3865,15 @@ Created by: Oakland County Planning and Economic Development Services
 
 The information provided herewith has been compiled from recorded deeds, plats, tax maps, surveys and other public records. It is not a legally recorded map or survey and is not intended to be used as one. Users should consult the information sources mentioned above when questions arise.
 
+</details>
+
 <a id="p125"></a>
 *[Page 125 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570#page=125)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 Contact
 
@@ -3819,13 +3887,27 @@ Wixom, MI 48393
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p126"></a>
 *[Page 126 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570#page=126)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p127"></a>
 *[Page 127 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570#page=127)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -3869,8 +3951,15 @@ Created by: Oakland County Planning and Economic Development Services
 
 The information provided herewith has been compiled from recorded deeds, plats, tax maps, surveys and other public records. It is not a legally recorded map or survey and is not intended to be used as one. Users should consult the information sources mentioned above when questions arise.
 
+</details>
+
 <a id="p128"></a>
 *[Page 128 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570#page=128)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -3918,8 +4007,15 @@ Created by: Oakland County Planning and Economic Development Services
 
 The information provided herewith has been compiled from recorded deeds, plats, tax maps, surveys and other public records. It is not a legality recorded map or survey and is not intended to be used as one. Users should consult the information sources mentioned above when questions arise.
 
+</details>
+
 <a id="p129"></a>
 *[Page 129 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570#page=129)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -3961,8 +4057,15 @@ Created by: Oakland County Planning and Economic Development Services
 
 The information provided herewith has been compiled from recorded deeds, plats, tax maps, surveys and other public records. It is not a legality recorded map or survey and is not intended to be used as one. Users should consult the information sources mentioned above when questions arise.
 
+</details>
+
 <a id="p130"></a>
 *[Page 130 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570#page=130)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -3982,8 +4085,15 @@ Created by: Oakland County Planning and Economic Development Services
 
 The information provided herewith has been compiled from recorded deeds, plats, tax maps, surveys and other public records. It is not a legally recorded map or survey and is not intended to be used as one. Users should consult the information sources mentioned above when questions arise.
 
+</details>
+
 <a id="p131"></a>
 *[Page 131 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570#page=131)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -4040,6 +4150,8 @@ Created by: Oakland County Planning and Economic Development Services
 *[Image or figure on this page; see the original.]*
 
 The information provided herewith has been compiled from recorded deeds, plats, tax maps, surveys and other public records. It is not a legally recorded map or survey and is not intended to be used as one. Users should consult the information sources mentioned above when questions arise.
+
+</details>
 
 <a id="p132"></a>
 *[Page 132 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket1-25-16.pdf?t=202108310732570#page=132)* (read by OCR; check the original)

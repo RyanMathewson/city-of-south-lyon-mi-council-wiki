@@ -381,9 +381,16 @@ f. Sandwich Board Signs. Sandwich board or portable A-frame signs are permitted 
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket02.23.15.pdf?t=202108310732570#page=11)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # SOUTH LYON FIRE DEPARTMENT 2014 ANNUAL REPORT
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p12"></a>
 *[Page 12 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket02.23.15.pdf?t=202108310732570#page=12)* (read by OCR; check the original)
@@ -492,7 +499,14 @@ TOTAL - SERVICE CALL
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket02.23.15.pdf?t=202108310732570#page=14)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket02.23.15.pdf?t=202108310732570#page=15)* (read by OCR; check the original)
@@ -703,6 +717,11 @@ Chief Kennedy, Deputy Chief Weir, Lieutenant Armstrong and Shekell, and Sergeant
 <a id="p19"></a>
 *[Page 19 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket02.23.15.pdf?t=202108310732570#page=19)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 On Friday, August 8 at 2:00 PM, SLFD created a “water park” in the Whipple Street parking lot. The genesis for this came from city resident Kenyson Borkowski. Ms. Borkowski is part of a local non-profit group that is part of a larger effort called The Greatest International Scavenger Hunt the World Has Ever Seen. It is estimated that 100 adults and children attended. Due to the success of this event, we will look to do this again.
@@ -714,4 +733,6 @@ On Saturday, December 6, 2014, SLFD participated in the Cool Yule parade and pro
 In July, staff practiced technical rescue evolutions using rope systems and the aerial ladder.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 

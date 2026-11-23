@@ -422,11 +422,18 @@ Chief Douglas Baaki Date
 <a id="p12"></a>
 *[Page 12 of the original](https://www.southlyonmi.org/6-23-25%20Council%20Packet%20-%20online%20only%20with%20proclamation.pdf?t=202506200915320#page=12)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## South Lyon Area Pumpkinfest 2025
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p13"></a>
 *[Page 13 of the original](https://www.southlyonmi.org/6-23-25%20Council%20Packet%20-%20online%20only%20with%20proclamation.pdf?t=202506200915320#page=13)* (read by OCR; check the original)
@@ -495,6 +502,11 @@ Date
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/6-23-25%20Council%20Packet%20-%20online%20only%20with%20proclamation.pdf?t=202506200915320#page=15)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## 2025 Pumpkinfest of the South Lyon Area
@@ -502,6 +514,8 @@ Date
 Festival Emergency Plan and Festival Information
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/6-23-25%20Council%20Packet%20-%20online%20only%20with%20proclamation.pdf?t=202506200915320#page=16)* (read by OCR; check the original)
@@ -736,14 +750,26 @@ Date
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/6-23-25%20Council%20Packet%20-%20online%20only%20with%20proclamation.pdf?t=202506200915320#page=24)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # To Watch the Pumpkinfest Parade September 27, 2025, 10:00 AM
 
 A good view of the parade will be on either side of Pontiac Trail from Biggby Coffee to West McHattie Street. Please honor all barricades and road closures. Arrive early and bring blankets or lawn chairsl
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p25"></a>
 *[Page 25 of the original](https://www.southlyonmi.org/6-23-25%20Council%20Packet%20-%20online%20only%20with%20proclamation.pdf?t=202506200915320#page=25)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -756,6 +782,8 @@ area & circle back to 9 Mile
 Floats enter here & continue to
 
 MMS bus loop
+
+</details>
 
 <a id="p26"></a>
 *[Page 26 of the original](https://www.southlyonmi.org/6-23-25%20Council%20Packet%20-%20online%20only%20with%20proclamation.pdf?t=202506200915320#page=26)* (read by OCR; check the original)
@@ -889,9 +917,16 @@ Signature
 <a id="p31"></a>
 *[Page 31 of the original](https://www.southlyonmi.org/6-23-25%20Council%20Packet%20-%20online%20only%20with%20proclamation.pdf?t=202506200915320#page=31)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>WELLS ST.</div>
+
+</details>
 
 <a id="p32"></a>
 *[Page 32 of the original](https://www.southlyonmi.org/6-23-25%20Council%20Packet%20-%20online%20only%20with%20proclamation.pdf?t=202506200915320#page=32)* (read by OCR; check the original)
@@ -1173,7 +1208,14 @@ The runners will continue on the extreme north end of the Millennium lot heading
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/6-23-25%20Council%20Packet%20-%20online%20only%20with%20proclamation.pdf?t=202506200915320#page=41)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/6-23-25%20Council%20Packet%20-%20online%20only%20with%20proclamation.pdf?t=202506200915320#page=42)* (read by OCR; check the original)
@@ -1411,7 +1453,14 @@ Signature
 <a id="p49"></a>
 *[Page 49 of the original](https://www.southlyonmi.org/6-23-25%20Council%20Packet%20-%20online%20only%20with%20proclamation.pdf?t=202506200915320#page=49)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p50"></a>
 *[Page 50 of the original](https://www.southlyonmi.org/6-23-25%20Council%20Packet%20-%20online%20only%20with%20proclamation.pdf?t=202506200915320#page=50)* (read by OCR; check the original)
@@ -1756,6 +1805,11 @@ Exhibit B
 <a id="p65"></a>
 *[Page 65 of the original](https://www.southlyonmi.org/6-23-25%20Council%20Packet%20-%20online%20only%20with%20proclamation.pdf?t=202506200915320#page=65)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 WETLAND LEGEND
@@ -1776,8 +1830,15 @@ MICHIGAN 48167 248.344.1885
 
 <table><tr><td colspan="3">ORIGINAL PROPOSED BRIDGE PLAN WITH ASSUMED WETLAND IMPACTS</td></tr></table>
 
+</details>
+
 <a id="p66"></a>
 *[Page 66 of the original](https://www.southlyonmi.org/6-23-25%20Council%20Packet%20-%20online%20only%20with%20proclamation.pdf?t=202506200915320#page=66)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1797,8 +1858,15 @@ MICHIGAN 48167 248.344.1885
 
 <table><tr><td colspan="4">ORIGINAL PROPOSED BRIDGE PLAN WITH ACTUAL WETLAND IMPACTS</td></tr></table>
 
+</details>
+
 <a id="p67"></a>
 *[Page 67 of the original](https://www.southlyonmi.org/6-23-25%20Council%20Packet%20-%20online%20only%20with%20proclamation.pdf?t=202506200915320#page=67)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1823,6 +1891,8 @@ ELEVATE
 MICHIGAN 48167 248.344.1885
 
 <table><tr><td colspan="3">WEST LAKE</td></tr></table>
+
+</details>
 
 <a id="p68"></a>
 *[Page 68 of the original](https://www.southlyonmi.org/6-23-25%20Council%20Packet%20-%20online%20only%20with%20proclamation.pdf?t=202506200915320#page=68)* (read by OCR; check the original)
@@ -1854,9 +1924,16 @@ to approve purchase and installation of electronic sign from Image 360 of Southf
 <a id="p69"></a>
 *[Page 69 of the original](https://www.southlyonmi.org/6-23-25%20Council%20Packet%20-%20online%20only%20with%20proclamation.pdf?t=202506200915320#page=69)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## CITY OF SOUTH LYON COMMUNITY EVENTS
+
+</details>
 
 <a id="p70"></a>
 *[Page 70 of the original](https://www.southlyonmi.org/6-23-25%20Council%20Packet%20-%20online%20only%20with%20proclamation.pdf?t=202506200915320#page=70)* (read by OCR; check the original)
@@ -1915,6 +1992,11 @@ Sign Installation Included per Buyer approved Signs Plus Installation Form SIA-2
 <a id="p71"></a>
 *[Page 71 of the original](https://www.southlyonmi.org/6-23-25%20Council%20Packet%20-%20online%20only%20with%20proclamation.pdf?t=202506200915320#page=71)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## CITY OF SOUTH LYON
@@ -1948,6 +2030,8 @@ DATE
 PRINT NAME
 
 A FAX SIGNATURE IS BINDING UPON BOTH PARTIES
+
+</details>
 
 <a id="p72"></a>
 *[Page 72 of the original](https://www.southlyonmi.org/6-23-25%20Council%20Packet%20-%20online%20only%20with%20proclamation.pdf?t=202506200915320#page=72)* (read by OCR; check the original)
@@ -2206,6 +2290,11 @@ INITIALS
 <a id="p75"></a>
 *[Page 75 of the original](https://www.southlyonmi.org/6-23-25%20Council%20Packet%20-%20online%20only%20with%20proclamation.pdf?t=202506200915320#page=75)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
@@ -2247,6 +2336,8 @@ Energy
 Verified
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p76"></a>
 *[Page 76 of the original](https://www.southlyonmi.org/6-23-25%20Council%20Packet%20-%20online%20only%20with%20proclamation.pdf?t=202506200915320#page=76)* (read by OCR; check the original)

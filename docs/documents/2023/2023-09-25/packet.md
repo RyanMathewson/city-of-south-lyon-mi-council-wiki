@@ -541,11 +541,18 @@ Date 9/21/23
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/9-25-23%20Council%20packet%20-%20online%20only.pdf?t=202309211547400#page=17)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## W&G THIS W&Y PUP P&W-R&DE
 
 ## October 26, 2023 PARADE ROUTE/TIME/SETUP
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p18"></a>
 *[Page 18 of the original](https://www.southlyonmi.org/9-25-23%20Council%20packet%20-%20online%20only.pdf?t=202309211547400#page=18)* (read by OCR; check the original)
@@ -665,7 +672,14 @@ City Clerk/Treasurer
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/9-25-23%20Council%20packet%20-%20online%20only.pdf?t=202309211547400#page=23)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/9-25-23%20Council%20packet%20-%20online%20only.pdf?t=202309211547400#page=24)* (read by OCR; check the original)
@@ -1071,6 +1085,11 @@ Equipment: (2) pedestal ((4) 80-Amp Chargers)
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/9-25-23%20Council%20packet%20-%20online%20only.pdf?t=202309211547400#page=40)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Parcel ID: 80-21-20-360-026
@@ -1081,8 +1100,15 @@ Address: 127 Wells St.
 
 Owner: City of South Lyon
 
+</details>
+
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/9-25-23%20Council%20packet%20-%20online%20only.pdf?t=202309211547400#page=41)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1106,8 +1132,15 @@ EXHIBIT A
 
 THE PREMISES
 
+</details>
+
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/9-25-23%20Council%20packet%20-%20online%20only.pdf?t=202309211547400#page=42)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1118,6 +1151,8 @@ Parcel ID: 80-21-30-232-016
 Address: 390 S. Lafayette St.
 
 Owner: City of South Lyon
+
+</details>
 
 <a id="p43"></a>
 *[Page 43 of the original](https://www.southlyonmi.org/9-25-23%20Council%20packet%20-%20online%20only.pdf?t=202309211547400#page=43)* (read by OCR; check the original)
@@ -1482,9 +1517,16 @@ were chemically treated before doing this experiment. Given how many yards are t
 <a id="p57"></a>
 *[Page 57 of the original](https://www.southlyonmi.org/9-25-23%20Council%20packet%20-%20online%20only.pdf?t=202309211547400#page=57)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Our landscape designers can help you design and build a garden that works for you. Or, maybe you'll decide to allow growth in a part of your yard—there might be a back corner that would work well for letting the grass grow unattended. Here's an example of one of our clients who chose a low-maintenance approach
+
+</details>
 
 <a id="p58"></a>
 *[Page 58 of the original](https://www.southlyonmi.org/9-25-23%20Council%20packet%20-%20online%20only.pdf?t=202309211547400#page=58)* (read by OCR; check the original)
@@ -1654,6 +1696,11 @@ Was this page helpful?
 <a id="p65"></a>
 *[Page 65 of the original](https://www.southlyonmi.org/9-25-23%20Council%20packet%20-%20online%20only.pdf?t=202309211547400#page=65)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 LANDSCAPE AND GARDEN MAINTENANCE | 4 min read
 
 May 2023
@@ -1665,6 +1712,8 @@ Monique Allen & Nina O'Brien
 *[Image or figure on this page; see the original.]*
 
 Front lawn - Organic Turf & Dutch White Clover Blend
+
+</details>
 
 <a id="p66"></a>
 *[Page 66 of the original](https://www.southlyonmi.org/9-25-23%20Council%20packet%20-%20online%20only.pdf?t=202309211547400#page=66)* (read by OCR; check the original)

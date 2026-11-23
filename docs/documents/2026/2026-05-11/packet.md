@@ -2480,11 +2480,18 @@ Applicants Signature and Dhte' Responsible Party's Signature and Pate
 <a id="p29"></a>
 *[Page 29 of the original](https://www.southlyonmi.org/Online%20Packet_05-11-2026.pdf?t=202605071537000#page=29)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## 2026 South Lyon Live Footprint
 
 *[Image or figure on this page; see the original.]*
 
 126.1:24 PM
+
+</details>
 
 <a id="p30"></a>
 *[Page 30 of the original](https://www.southlyonmi.org/Online%20Packet_05-11-2026.pdf?t=202605071537000#page=30)*

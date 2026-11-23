@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/10-12-20%20Council%20Packet%20-%20onlin
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "8bfb0ce35e81a7c7953c7c2245c947b56ed6170554991ad29f3b49f95da5ca48"
 source_bytes: 2869192
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 78
 ocr_pages: 78
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2020-10-12
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/10-12-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `8bfb0ce35e81a7c7…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/10-12-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `8bfb0ce35e81a7c7…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/10-12-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=1)* (read by OCR; check the original)
@@ -220,6 +220,11 @@ Councilmember Kivell stated he and his wife have been eating downtown on the pat
 <a id="p8"></a>
 *[Page 8 of the original](https://www.southlyonmi.org/10-12-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=8)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 we can see what we are facing and some of the solves we need to accomplish those for whatever the endgame is.
 
 Mayor Pelchat stated Kensington Metro Park is great and the colors are starting to change so it is a great time to visit and stay active. Maybe you will see the albino deer that is there. He stated everyone should be kind to each other and everyone is shouldering a load that's a little bit different than we are all use to.
@@ -241,6 +246,8 @@ Mayor Dan Pelchat
 MOTION CARRIED UNANIMOUSLY
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/10-12-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=9)* (read by OCR; check the original)
@@ -1037,18 +1044,32 @@ Map of Location
 <a id="p45"></a>
 *[Page 45 of the original](https://www.southlyonmi.org/10-12-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=45)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p46"></a>
 *[Page 46 of the original](https://www.southlyonmi.org/10-12-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=46)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>Existing Non-Standard</div>
 
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/10-12-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=47)* (read by OCR; check the original)
@@ -1213,6 +1234,11 @@ Hubbell, Roth & Clark, Inc.
 <a id="p51"></a>
 *[Page 51 of the original](https://www.southlyonmi.org/10-12-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=51)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td></td></tr><tr><td></td></tr></table>
@@ -1230,6 +1256,8 @@ Hubbell, Roth & Clark, Inc.
 <table><tr><td>TOTAL INFORMATION: IN THE CENTRAL PARTNERShip COOLED TO THE FROM BY THE TAXES OF UNTIL COMPANY DEPARTMENT FORS AND OWNERS AND SHARES SOUTHERN AND VITES FROM AND IN FORTUNE PROPERTY AND EQUITY NOT COLOATED FROM A ULTLY COMPANY PARTNERShip PLAND, FROM LOCATION OF SHARE SPON THIS SHIFT, ARE APPROVED FROM FOUND PARTNERSHIP STATION, ETC. AS LOOKED BY THIS FROM SOURCES: WHICH ARE GIVENED NO GENERAL IS WHO AS TO THE COMPLETED SHARE ACCURACY THEREFORE.</td></tr><tr><td>PERMIT TO CONSTRUCTION, ALL REGISTRERS AND OSPINS OF CREATIVE SECURITIES ON CONTRAST FROM PROPOSED APPROVED PLANT SHARES OR RESIDENTS SHALL BE VENDED IN THIS FOUND PLANT AND ARE NO FORM OF SHARES AND RECOGNITION.</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p52"></a>
 *[Page 52 of the original](https://www.southlyonmi.org/10-12-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=52)* (read by OCR; check the original)
@@ -1493,6 +1521,11 @@ Soil conditions at the site could vary from those generalized on the basis of so
 <a id="p63"></a>
 *[Page 63 of the original](https://www.southlyonmi.org/10-12-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=63)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
@@ -1506,6 +1539,8 @@ Proposed Commercial Development
 390 S. Lafayette Street
 
 South Lyon, Michigan
+
+</details>
 
 <a id="p64"></a>
 *[Page 64 of the original](https://www.southlyonmi.org/10-12-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=64)* (read by OCR; check the original)

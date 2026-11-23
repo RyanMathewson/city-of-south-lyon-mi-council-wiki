@@ -459,9 +459,16 @@ Chief Loyd T. Collins, Chief of Police
 <a id="p13"></a>
 *[Page 13 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC101812CC10-22-12packet.pdf?t=202108310732590#page=13)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## 2012 COOL YULE LIGHTED PARADE & FUN RUN ROUTE
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC101812CC10-22-12packet.pdf?t=202108310732590#page=14)* (read by OCR; check the original)
@@ -843,6 +850,11 @@ www.cynergyproducts.net
 <a id="p26"></a>
 *[Page 26 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC101812CC10-22-12packet.pdf?t=202108310732590#page=26)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Applicable MIL-STD-810C/D/E/F</div>
 
 <table><tr><td>Applicable</td><td>810C</td><td>810D</td><td>810E</td><td>810F</td></tr><tr><td>MIL-STD</td><td>Methods Procedures</td><td>Methods Procedures</td><td>Methods Procedures</td><td>Methods Procedures</td></tr><tr><td>Low Pressure</td><td>500.1 1</td><td>500.2 1,2</td><td>500.3 1,2</td><td>500.4 1</td></tr><tr><td>High Temperature</td><td>501.1 1,2</td><td>501.2 1,2</td><td>501.3 1,2</td><td>501.4 1,2</td></tr><tr><td>Low Temperature</td><td>502.1 1</td><td>502.2 1,2</td><td>502.3 1,2</td><td>502.4 1,2</td></tr><tr><td>Temp. Shock</td><td>503.1 1</td><td>503.2 1</td><td>503.3 1</td><td>503.4 1</td></tr><tr><td>Solar Radiation</td><td>505.1 1</td><td>505.2 1</td><td>505.3 1</td><td>505.4 1,2</td></tr><tr><td>Rain</td><td>506.1 2</td><td>506.2 2</td><td>506.3 1,2</td><td>506.4 1,2</td></tr><tr><td>Humidity</td><td>507.1 2</td><td>507.2 2,3</td><td>507.3 2,3</td><td>507.4 1</td></tr><tr><td>Salt Fog</td><td>509.1 1</td><td>509.2 1</td><td>509.3 1</td><td>509.4 1</td></tr><tr><td>Dust</td><td>510.1 1</td><td>510.2 1</td><td>510.3 1</td><td>510.4 1</td></tr><tr><td>Vibration</td><td>514.2 8,10</td><td>514.3 1</td><td>514.4 1</td><td>514.5 1</td></tr><tr><td>Shock</td><td>516.2 1,2,5</td><td>516.3 1,4</td><td>516.4 1,4</td><td>516.5 1,4</td></tr></table>
@@ -898,6 +910,8 @@ High-Power Output (TM-628H)
 Powerful Audio and Built-in Scrambler
 
 DTMF, 2-Tone, HDC2400 $ ^{TM} $ and HDC1200 Signallings
+
+</details>
 
 <a id="p27"></a>
 *[Page 27 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC101812CC10-22-12packet.pdf?t=202108310732590#page=27)* (read by OCR; check the original)

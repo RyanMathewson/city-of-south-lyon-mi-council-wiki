@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/4-8-24%20Council%20Packet%20-%20online%
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "d33a27c794c7bf9a0af4baeb10594f0c3e67d115b0964d44f04f1dbbd5df1e43"
 source_bytes: 12923386
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 72
 ocr_pages: 72
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2024-04-08
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/4-8-24%20Council%20Packet%20-%20online%20only.pdf?t=202404041553190) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `d33a27c794c7bf9a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/4-8-24%20Council%20Packet%20-%20online%20only.pdf?t=202404041553190) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `d33a27c794c7bf9a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/4-8-24%20Council%20Packet%20-%20online%20only.pdf?t=202404041553190#page=1)* (read by OCR; check the original)
@@ -107,6 +107,11 @@ Councilmember Bogert asked if anyone ever thought of not allowing parking in the
 <a id="p5"></a>
 *[Page 5 of the original](https://www.southlyonmi.org/4-8-24%20Council%20Packet%20-%20online%20only.pdf?t=202404041553190#page=5)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 3. Public comment- No public attended
 
 4. Adjournment
@@ -116,6 +121,8 @@ The meeting adjourned at 6:20 p.m.
 Respectfully submitted.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p6"></a>
 *[Page 6 of the original](https://www.southlyonmi.org/4-8-24%20Council%20Packet%20-%20online%20only.pdf?t=202404041553190#page=6)* (read by OCR; check the original)
@@ -335,6 +342,11 @@ MOTION CARRIED UNANIMOUSLY
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/4-8-24%20Council%20Packet%20-%20online%20only.pdf?t=202404041553190#page=11)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Council re-entered open session at 8:36 p.m.
 
 CM 3-8-24 MOTION TO ENTER INTO OPEN SESSION
@@ -362,6 +374,8 @@ Mayor Steve Kennedy
 *[Image or figure on this page; see the original.]*
 
 City Clerk Lisa Deaton
+
+</details>
 
 <a id="p12"></a>
 *[Page 12 of the original](https://www.southlyonmi.org/4-8-24%20Council%20Packet%20-%20online%20only.pdf?t=202404041553190#page=12)* (read by OCR; check the original)
@@ -904,7 +918,14 @@ Date
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/4-8-24%20Council%20Packet%20-%20online%20only.pdf?t=202404041553190#page=40)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/4-8-24%20Council%20Packet%20-%20online%20only.pdf?t=202404041553190#page=41)* (read by OCR; check the original)
@@ -1045,9 +1066,16 @@ Date
 <a id="p46"></a>
 *[Page 46 of the original](https://www.southlyonmi.org/4-8-24%20Council%20Packet%20-%20online%20only.pdf?t=202404041553190#page=46)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## (HRISTMAS IN JULY
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/4-8-24%20Council%20Packet%20-%20online%20only.pdf?t=202404041553190#page=47)* (read by OCR; check the original)
@@ -1220,9 +1248,16 @@ MEMBER
 <a id="p53"></a>
 *[Page 53 of the original](https://www.southlyonmi.org/4-8-24%20Council%20Packet%20-%20online%20only.pdf?t=202404041553190#page=53)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## OLD- FASHIONED TREE LIGHTING
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p54"></a>
 *[Page 54 of the original](https://www.southlyonmi.org/4-8-24%20Council%20Packet%20-%20online%20only.pdf?t=202404041553190#page=54)* (read by OCR; check the original)
@@ -1401,9 +1436,16 @@ Member
 <a id="p60"></a>
 *[Page 60 of the original](https://www.southlyonmi.org/4-8-24%20Council%20Packet%20-%20online%20only.pdf?t=202404041553190#page=60)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## South 2nd Eve
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p61"></a>
 *[Page 61 of the original](https://www.southlyonmi.org/4-8-24%20Council%20Packet%20-%20online%20only.pdf?t=202404041553190#page=61)* (read by OCR; check the original)

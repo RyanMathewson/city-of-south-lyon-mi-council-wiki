@@ -661,6 +661,11 @@ C. Special Appropriations Act
 <a id="p21"></a>
 *[Page 21 of the original](https://www.southlyonmi.org/March%2012%202018%20Council%20packet%20part%204.pdf?t=202108310733110#page=21)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ### 11. CONSENT AGENDA
 
 A. Approval of Minutes – Regular Meeting – Monday, November 20, 2017
@@ -672,6 +677,8 @@ B. Approval of Introduction of Ordinance No. C-754-B, Marihuana Enterprises, Bus
 13. ADJOURNMENT
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p22"></a>
 *[Page 22 of the original](https://www.southlyonmi.org/March%2012%202018%20Council%20packet%20part%204.pdf?t=202108310733110#page=22)* (read by OCR; check the original)

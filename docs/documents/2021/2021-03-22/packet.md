@@ -703,6 +703,11 @@ truck, the only thing new will be special compartment for oxygen, splints, band 
 <a id="p21"></a>
 *[Page 21 of the original](https://www.southlyonmi.org/3-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=21)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Chief Vogel stated if Council feels this is important, we will meet with the vendors and get solid numbers and we should have an idea of where we are at and where we are going during the budget workshops. He stated after the first Council meeting in July, he will come before Council to ask to make the purchase. It was the consensus of Council to move forward with this.
 
 ADJOURNMENT
@@ -724,6 +729,8 @@ Mayor Dan Pelchat
 City Clerk/Treasurer Deaton
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p22"></a>
 *[Page 22 of the original](https://www.southlyonmi.org/3-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=22)* (read by OCR; check the original)

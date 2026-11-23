@@ -531,7 +531,14 @@ City Clerk/Treasurer
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/6-24-24%20Council%20Packet%20-%20online%20only.pdf?t=202406201438230#page=15)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/6-24-24%20Council%20Packet%20-%20online%20only.pdf?t=202406201438230#page=16)* (read by OCR; check the original)
@@ -753,6 +760,11 @@ Date
 <a id="p25"></a>
 *[Page 25 of the original](https://www.southlyonmi.org/6-24-24%20Council%20Packet%20-%20online%20only.pdf?t=202406201438230#page=25)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
@@ -763,8 +775,15 @@ Date
 
 ## ENTRANCE TO STAGING AREA OFF 9 MILE ONLY! PONTIAC TRAIL CLOSED
 
+</details>
+
 <a id="p26"></a>
 *[Page 26 of the original](https://www.southlyonmi.org/6-24-24%20Council%20Packet%20-%20online%20only.pdf?t=202406201438230#page=26)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -784,8 +803,15 @@ Bands will meet busses at the City offices.
 
 Walkers can await pick up in the MST parking lot or choose to walk through McHattie park back to Dorothy St. for pickup at the Depot.
 
+</details>
+
 <a id="p27"></a>
 *[Page 27 of the original](https://www.southlyonmi.org/6-24-24%20Council%20Packet%20-%20online%20only.pdf?t=202406201438230#page=27)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## To Watch the Pumpkinfest Parade September 28, 2024, 10:00 AM
 
@@ -794,6 +820,8 @@ A good view of the parade will be on either side of Pontiac Trail from Biggby Co
 *[Image or figure on this page; see the original.]*
 
 Learning Tree Child Care Center- South Lyon
+
+</details>
 
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/6-24-24%20Council%20Packet%20-%20online%20only.pdf?t=202406201438230#page=28)* (read by OCR; check the original)
@@ -1214,6 +1242,11 @@ Notify 911- follow instructions from 911
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/6-24-24%20Council%20Packet%20-%20online%20only.pdf?t=202406201438230#page=40)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Pumpkinfest 2024 Footprint</div>
 
 *[Image or figure on this page; see the original.]*
@@ -1223,6 +1256,8 @@ Notify 911- follow instructions from 911
 *[Image or figure on this page; see the original.]*
 
 Liberty St.
+
+</details>
 
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/6-24-24%20Council%20Packet%20-%20online%20only.pdf?t=202406201438230#page=41)* (read by OCR; check the original)
@@ -1423,7 +1458,14 @@ kismith@acrisure.com
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/6-24-24%20Council%20Packet%20-%20online%20only.pdf?t=202406201438230#page=47)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p48"></a>
 *[Page 48 of the original](https://www.southlyonmi.org/6-24-24%20Council%20Packet%20-%20online%20only.pdf?t=202406201438230#page=48)* (read by OCR; check the original)
@@ -1591,7 +1633,14 @@ Among the specific items worth noting are the following:
 <a id="p53"></a>
 *[Page 53 of the original](https://www.southlyonmi.org/6-24-24%20Council%20Packet%20-%20online%20only.pdf?t=202406201438230#page=53)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p54"></a>
 *[Page 54 of the original](https://www.southlyonmi.org/6-24-24%20Council%20Packet%20-%20online%20only.pdf?t=202406201438230#page=54)* (read by OCR; check the original)

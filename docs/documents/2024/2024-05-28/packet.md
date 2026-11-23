@@ -638,7 +638,14 @@ Date
 <a id="p22"></a>
 *[Page 22 of the original](https://www.southlyonmi.org/5-28-24%20Council%20Packet%20-%20online%20only.pdf?t=202405231519520#page=22)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/5-28-24%20Council%20Packet%20-%20online%20only.pdf?t=202405231519520#page=23)* (read by OCR; check the original)
@@ -2052,7 +2059,14 @@ Conceptual Site Plan (attached)
 <a id="p73"></a>
 *[Page 73 of the original](https://www.southlyonmi.org/5-28-24%20Council%20Packet%20-%20online%20only.pdf?t=202405231519520#page=73)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p74"></a>
 *[Page 74 of the original](https://www.southlyonmi.org/5-28-24%20Council%20Packet%20-%20online%20only.pdf?t=202405231519520#page=74)* (read by OCR; check the original)
@@ -2213,6 +2227,11 @@ I am very Nourrie
 <a id="p80"></a>
 *[Page 80 of the original](https://www.southlyonmi.org/5-28-24%20Council%20Packet%20-%20online%20only.pdf?t=202405231519520#page=80)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Building Rendering:</div>
 
 *[Image or figure on this page; see the original.]*
@@ -2220,6 +2239,8 @@ I am very Nourrie
 Building Massing View:
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p81"></a>
 *[Page 81 of the original](https://www.southlyonmi.org/5-28-24%20Council%20Packet%20-%20online%20only.pdf?t=202405231519520#page=81)* (read by OCR; check the original)
@@ -3162,6 +3183,11 @@ What's included in our new guide? Read on to find out!
 <a id="p112"></a>
 *[Page 112 of the original](https://www.southlyonmi.org/5-28-24%20Council%20Packet%20-%20online%20only.pdf?t=202405231519520#page=112)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 1
 
 The Recycling Directory
@@ -3227,6 +3253,8 @@ Reuse
 *[Image or figure on this page; see the original.]*
 
 Recycle
+
+</details>
 
 <a id="p113"></a>
 *[Page 113 of the original](https://www.southlyonmi.org/5-28-24%20Council%20Packet%20-%20online%20only.pdf?t=202405231519520#page=113)* (read by OCR; check the original)

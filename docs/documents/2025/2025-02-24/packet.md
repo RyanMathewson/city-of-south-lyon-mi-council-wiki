@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/2-24-25%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "f1551580905480ddd24ff4830f0264442b45961dfbe9e515c85c29320d2b885b"
 source_bytes: 17152192
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 48
 ocr_pages: 48
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2025-02-24
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/2-24-25%20Council%20Packet%20-%20online%20only.pdf?t=202502201525220) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `f1551580905480dd…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/2-24-25%20Council%20Packet%20-%20online%20only.pdf?t=202502201525220) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `f1551580905480dd…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/2-24-25%20Council%20Packet%20-%20online%20only.pdf?t=202502201525220#page=1)* (read by OCR; check the original)
@@ -505,6 +505,11 @@ alockwood@carmanah.com
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/2-24-25%20Council%20Packet%20-%20online%20only.pdf?t=202502201525220#page=15)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 11 Mile and Huron Valley Rail Trail current signs.
@@ -512,6 +517,8 @@ alockwood@carmanah.com
 *[Image or figure on this page; see the original.]*
 
 11 Mile and Huron Valley Rail Trail proposed signs.
+
+</details>
 
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/2-24-25%20Council%20Packet%20-%20online%20only.pdf?t=202502201525220#page=16)* (read by OCR; check the original)
@@ -547,16 +554,30 @@ Council meeting</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td></tr>
 <a id="p18"></a>
 *[Page 18 of the original](https://www.southlyonmi.org/2-24-25%20Council%20Packet%20-%20online%20only.pdf?t=202502201525220#page=18)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## APRIL 2025
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p19"></a>
 *[Page 19 of the original](https://www.southlyonmi.org/2-24-25%20Council%20Packet%20-%20online%20only.pdf?t=202502201525220#page=19)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## MAY 2025
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p20"></a>
 *[Page 20 of the original](https://www.southlyonmi.org/2-24-25%20Council%20Packet%20-%20online%20only.pdf?t=202502201525220#page=20)* (read by OCR; check the original)
@@ -674,6 +695,11 @@ family friendly
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/2-24-25%20Council%20Packet%20-%20online%20only.pdf?t=202502201525220#page=23)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # TRANSIT SERVICES IN YOUR COMMUNITY
 
 ## Oakland County Transit Providers
@@ -721,6 +747,8 @@ OPCTransportation.org (248) 652-4780
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/2-24-25%20Council%20Packet%20-%20online%20only.pdf?t=202502201525220#page=24)* (read by OCR; check the original)
@@ -772,7 +800,14 @@ Get off. As soon as you see/hear your stop announced, pull the string hanging at
 <a id="p25"></a>
 *[Page 25 of the original](https://www.southlyonmi.org/2-24-25%20Council%20Packet%20-%20online%20only.pdf?t=202502201525220#page=25)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p26"></a>
 *[Page 26 of the original](https://www.southlyonmi.org/2-24-25%20Council%20Packet%20-%20online%20only.pdf?t=202502201525220#page=26)* (read by OCR; check the original)
@@ -874,6 +909,11 @@ PeoplesExpressMi.com (877) 214-6073
 <a id="p31"></a>
 *[Page 31 of the original](https://www.southlyonmi.org/2-24-25%20Council%20Packet%20-%20online%20only.pdf?t=202502201525220#page=31)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Recent Improvements
 
 Expanded demand response services in communities without SMART
@@ -887,6 +927,8 @@ disabilities to also use the
 service
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p32"></a>
 *[Page 32 of the original](https://www.southlyonmi.org/2-24-25%20Council%20Packet%20-%20online%20only.pdf?t=202502201525220#page=32)* (read by OCR; check the original)
@@ -1080,6 +1122,11 @@ Poles must be scheduled 72 hrs in advance | 00214 or equivalent required
 <a id="p37"></a>
 *[Page 37 of the original](https://www.southlyonmi.org/2-24-25%20Council%20Packet%20-%20online%20only.pdf?t=202502201525220#page=37)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Where is Fixed Route available?
 
 Only where there are bus stops
@@ -1088,8 +1135,15 @@ Will show you how to find your nearest bus stop in a minute...
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p38"></a>
 *[Page 38 of the original](https://www.southlyonmi.org/2-24-25%20Council%20Packet%20-%20online%20only.pdf?t=202502201525220#page=38)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Recent Improvements
 
@@ -1109,8 +1163,15 @@ Waterford
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p39"></a>
 *[Page 39 of the original](https://www.southlyonmi.org/2-24-25%20Council%20Packet%20-%20online%20only.pdf?t=202502201525220#page=39)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # How to Plan Your Fixed Route Trip
 
@@ -1121,6 +1182,8 @@ Waterford
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/2-24-25%20Council%20Packet%20-%20online%20only.pdf?t=202502201525220#page=40)* (read by OCR; check the original)
@@ -1247,6 +1310,11 @@ Get off. As soon as you see/hear your stop announced, pull the string hanging at
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/2-24-25%20Council%20Packet%20-%20online%20only.pdf?t=202502201525220#page=44)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Where is Flex available?
 
 ## Only in specific zones:
@@ -1260,6 +1328,8 @@ Troy/Clawson
 Don't need to live in these zones, but trip origin and destination both need to be within a single zone.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p45"></a>
 *[Page 45 of the original](https://www.southlyonmi.org/2-24-25%20Council%20Packet%20-%20online%20only.pdf?t=202502201525220#page=45)* (read by OCR; check the original)

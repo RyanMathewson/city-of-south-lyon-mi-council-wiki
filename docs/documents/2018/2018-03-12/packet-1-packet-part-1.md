@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/March%2012%202018%20council%20packet%20
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "bc83ac103593efa98ba882d2e105750a9167fb137e72928f8c6382731a80ab6e"
 source_bytes: 2807938
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 71
 ocr_pages: 71
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2018-03-12
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/March%2012%202018%20council%20packet%20part%201.pdf?t=202108310733110) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `bc83ac103593efa9…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/March%2012%202018%20council%20packet%20part%201.pdf?t=202108310733110) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `bc83ac103593efa9…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/March%2012%202018%20council%20packet%20part%201.pdf?t=202108310733110#page=1)* (read by OCR; check the original)
@@ -485,9 +485,16 @@ Motion by Walton, supported by Kurtzweil Motion to adjourn meeting at 10:20 p.m.
 <a id="p19"></a>
 *[Page 19 of the original](https://www.southlyonmi.org/March%2012%202018%20council%20packet%20part%201.pdf?t=202108310733110#page=19)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Clerk Lisa Deaton
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p20"></a>
 *[Page 20 of the original](https://www.southlyonmi.org/March%2012%202018%20council%20packet%20part%201.pdf?t=202108310733110#page=20)* (read by OCR; check the original)

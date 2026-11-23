@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/6-10-24%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "6f73acc51fcc28d01bd0221c05ab5cb7669ed50d38767a9e2fa24de097675eca"
 source_bytes: 16399035
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 119
 ocr_pages: 119
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2024-06-10
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/6-10-24%20Council%20Packet%20-%20online%20only.pdf?t=202406061509230) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `6f73acc51fcc28d0…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/6-10-24%20Council%20Packet%20-%20online%20only.pdf?t=202406061509230) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `6f73acc51fcc28d0…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/6-10-24%20Council%20Packet%20-%20online%20only.pdf?t=202406061509230#page=1)* (read by OCR; check the original)
@@ -1097,7 +1097,14 @@ pelce@michigan.gov
 <a id="p59"></a>
 *[Page 59 of the original](https://www.southlyonmi.org/6-10-24%20Council%20Packet%20-%20online%20only.pdf?t=202406061509230#page=59)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p60"></a>
 *[Page 60 of the original](https://www.southlyonmi.org/6-10-24%20Council%20Packet%20-%20online%20only.pdf?t=202406061509230#page=60)* (read by OCR; check the original)
@@ -1484,7 +1491,14 @@ Conceptual Site Plan (attached)
 <a id="p77"></a>
 *[Page 77 of the original](https://www.southlyonmi.org/6-10-24%20Council%20Packet%20-%20online%20only.pdf?t=202406061509230#page=77)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p78"></a>
 *[Page 78 of the original](https://www.southlyonmi.org/6-10-24%20Council%20Packet%20-%20online%20only.pdf?t=202406061509230#page=78)* (read by OCR; check the original)
@@ -1624,14 +1638,26 @@ Rand Construction Engineering, Inc
 <a id="p83"></a>
 *[Page 83 of the original](https://www.southlyonmi.org/6-10-24%20Council%20Packet%20-%20online%20only.pdf?t=202406061509230#page=83)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Sincerely,
 
 Tulal Lossy/Nagene Burnie
 
+</details>
+
 <a id="p84"></a>
 *[Page 84 of the original](https://www.southlyonmi.org/6-10-24%20Council%20Packet%20-%20online%20only.pdf?t=202406061509230#page=84)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>Building Rendering:</div>
 
@@ -1640,6 +1666,8 @@ Tulal Lossy/Nagene Burnie
 <div>Building Massing View:</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p85"></a>
 *[Page 85 of the original](https://www.southlyonmi.org/6-10-24%20Council%20Packet%20-%20online%20only.pdf?t=202406061509230#page=85)* (read by OCR; check the original)
@@ -2638,14 +2666,28 @@ Date 5/23/2024
 <a id="p118"></a>
 *[Page 118 of the original](https://www.southlyonmi.org/6-10-24%20Council%20Packet%20-%20online%20only.pdf?t=202406061509230#page=118)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>2024 Depot Day Historical Village</div>
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p119"></a>
 *[Page 119 of the original](https://www.southlyonmi.org/6-10-24%20Council%20Packet%20-%20online%20only.pdf?t=202406061509230#page=119)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>SOUTH LYON HISTORIC VILLAGE</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 

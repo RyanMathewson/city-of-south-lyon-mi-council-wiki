@@ -180,6 +180,11 @@ City Manager Zelenak stated the expenditures for this fund is money we give the 
 <a id="p6"></a>
 *[Page 6 of the original](https://www.southlyonmi.org/4-24-23%20Council%20Packet%20-%20online%20only.pdf?t=202304201613580#page=6)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 $ \underline{\text{2003 WW TREATMENT BOND}} $
 
 This bond is set to be paid off in 2025.
@@ -201,6 +206,8 @@ Respectfully submitted,
 Mayor Dan Pelchat
 
 City Clerk/Treasurer Lisa Deaton
+
+</details>
 
 <a id="p7"></a>
 *[Page 7 of the original](https://www.southlyonmi.org/4-24-23%20Council%20Packet%20-%20online%20only.pdf?t=202304201613580#page=7)* (read by OCR; check the original)
@@ -890,6 +897,11 @@ pc: City of South Lyon; R. Beason HRC; R. Alix, File
 <a id="p21"></a>
 *[Page 21 of the original](https://www.southlyonmi.org/4-24-23%20Council%20Packet%20-%20online%20only.pdf?t=202304201613580#page=21)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## KURITA
 
 *[Image or figure on this page; see the original.]*
@@ -935,6 +947,8 @@ USA
 1-800-530-1887
 
 t.skarolid@kurita-water.com
+
+</details>
 
 <a id="p22"></a>
 *[Page 22 of the original](https://www.southlyonmi.org/4-24-23%20Council%20Packet%20-%20online%20only.pdf?t=202304201613580#page=22)* (read by OCR; check the original)
@@ -1390,9 +1404,16 @@ Date
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/4-24-23%20Council%20Packet%20-%20online%20only.pdf?t=202304201613580#page=35)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Imagery ©2023 Maxar Technologies, U.S. Geological Survey, USDA/FPAC/GEO, Map data ©2023 100 ft
+
+</details>
 
 <a id="p36"></a>
 *[Page 36 of the original](https://www.southlyonmi.org/4-24-23%20Council%20Packet%20-%20online%20only.pdf?t=202304201613580#page=36)* (read by OCR; check the original)

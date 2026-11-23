@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/3-8-21%20Council%20Packet%20-%20online%
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "978cd420db32386a1f202f0e914fdff8394c07217da2d8074e65f75eff49782e"
 source_bytes: 6323333
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 131
 ocr_pages: 131
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2021-03-08
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/3-8-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `978cd420db32386a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/3-8-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `978cd420db32386a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/3-8-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=1)* (read by OCR; check the original)
@@ -831,6 +831,11 @@ Nays:
 <a id="p37"></a>
 *[Page 37 of the original](https://www.southlyonmi.org/3-8-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=37)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## Absent:
@@ -848,6 +853,8 @@ City Clerk
 City of South Lyon
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p38"></a>
 *[Page 38 of the original](https://www.southlyonmi.org/3-8-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=38)* (read by OCR; check the original)
@@ -1809,6 +1816,11 @@ Corporations, Securities & Commercial Licensing Bureau
 <a id="p66"></a>
 *[Page 66 of the original](https://www.southlyonmi.org/3-8-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=66)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 (1) SECOND FLOOR PLAN
@@ -1867,6 +1879,8 @@ www.lindhout.com (810)227-5888 fex (810)227-5855
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p67"></a>
 *[Page 67 of the original](https://www.southlyonmi.org/3-8-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=67)* (read by OCR; check the original)
 
@@ -1902,6 +1916,11 @@ Issued for</td></tr></table>
 
 <a id="p69"></a>
 *[Page 69 of the original](https://www.southlyonmi.org/3-8-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=69)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>BASEMENT LEVEL PLAN</div>
 
@@ -1944,6 +1963,8 @@ architects aia pc
 www.linchout.com (210)227-5668 lcc (810)227-5855
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p70"></a>
 *[Page 70 of the original](https://www.southlyonmi.org/3-8-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=70)* (read by OCR; check the original)
@@ -3124,12 +3145,24 @@ Dexter, MI 48130
 <a id="p115"></a>
 *[Page 115 of the original](https://www.southlyonmi.org/3-8-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=115)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 NEWER UPDATED CONFIGURATION (CPU IS THE CONTROLLER -ALL IN ONE)
 
+</details>
+
 <a id="p116"></a>
 *[Page 116 of the original](https://www.southlyonmi.org/3-8-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=116)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # AMELIA COURT LIFT STATION:
 
@@ -3139,14 +3172,23 @@ AMELIA COURT CURRENT CONFIGURATION
 
 TOP PHOTO SHOWS THE CPU – THIS TECHNOLOGY IS DATED AND PARTS MAY NOT BE AVAILABLE.
 
+</details>
+
 <a id="p117"></a>
 *[Page 117 of the original](https://www.southlyonmi.org/3-8-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=117)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 ELECTRONICS IN BOTTOM LEFT OF CABINET ARE NOT SUPPORTED AND WOULD BE IMPOSSIBLE TO REPLACE.
 
 UPDATING TO MATCH ALL THE CONTROLLER UNITS CURRENTLY IN USE AT ALL LIFT STATIONS.
+
+</details>
 
 <a id="p118"></a>
 *[Page 118 of the original](https://www.southlyonmi.org/3-8-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=118)* (read by OCR; check the original)
@@ -3173,6 +3215,11 @@ Tests are not conducted in December, January or February due to winter weather.
 <a id="p120"></a>
 *[Page 120 of the original](https://www.southlyonmi.org/3-8-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=120)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## I-96 Flex Route Project Limits
 
 12 miles from Kent Lake Road to I-275 / I-696 / M-5
@@ -3187,8 +3234,15 @@ Main corridor between Detroit and Lansing
 
 ■ Available existing wide median shoulders
 
+</details>
+
 <a id="p121"></a>
 *[Page 121 of the original](https://www.southlyonmi.org/3-8-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=121)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## I-96 Flex Route Existing Conditions / Project Need
 
@@ -3209,6 +3263,8 @@ Eastbound in the morning
 Westbound in the afternoon
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p122"></a>
 *[Page 122 of the original](https://www.southlyonmi.org/3-8-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=122)* (read by OCR; check the original)
@@ -3236,19 +3292,38 @@ Rehabilitation of 11 bridges and 1 box culvert, and construction of 11 replaceme
 <a id="p123"></a>
 *[Page 123 of the original](https://www.southlyonmi.org/3-8-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=123)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>I-96 Flex Route Flex Lane Limits & Features</div>
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p124"></a>
 *[Page 124 of the original](https://www.southlyonmi.org/3-8-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=124)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## I-96 Flex Route Part-Time Median Shoulder (Flex Lane) Use
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p125"></a>
 *[Page 125 of the original](https://www.southlyonmi.org/3-8-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=125)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## 1 -96 Flex Route
 
@@ -3267,6 +3342,8 @@ BOARD
 PART-TIME FLEX LANE
 
 FULL-TIME LANES
+
+</details>
 
 <a id="p126"></a>
 *[Page 126 of the original](https://www.southlyonmi.org/3-8-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=126)* (read by OCR; check the original)

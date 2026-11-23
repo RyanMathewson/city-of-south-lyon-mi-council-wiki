@@ -572,11 +572,18 @@ This is just an idea of what we are brainstorming for serving. It will give you 
 <a id="p18"></a>
 *[Page 18 of the original](https://www.southlyonmi.org/8-13-18%20Council%20Packet%20part%203.pdf?t=202108310733130#page=18)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Information Provided
 
 *[Image or figure on this page; see the original.]*
 
 A SEARCH OF MICHIGAN'S CRIMINAL HISTORY FILE HAS NOT LOCATED A CRIMINAL RECORD THAT EXACTLY MATCHES THE INFORMATION THAT YOU HAVE PROVIDED.
+
+</details>
 
 <a id="p19"></a>
 *[Page 19 of the original](https://www.southlyonmi.org/8-13-18%20Council%20Packet%20part%203.pdf?t=202108310733130#page=19)* (read by OCR; check the original)

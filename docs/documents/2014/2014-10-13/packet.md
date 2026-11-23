@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "753ecee240f7f73eace9d69f1e9eb2749975fa8b29ede5704f375dfb4be24a1b"
 source_bytes: 4767966
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 99
 ocr_pages: 99
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2014-10-13
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `753ecee240f7f73e…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `753ecee240f7f73e…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570#page=1)* (read by OCR; check the original)
@@ -1041,12 +1041,24 @@ Washington County, Acting in Washington County, Michigan
 <a id="p46"></a>
 *[Page 46 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570#page=46)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td colspan="3">ENGINEERS - SURVEYORS - CONSULTANTS - LANDSCAPE ARCHITECTS - LAND PLANNERS</td><td colspan="2">CLIENT: COLONIAL ACRES</td></tr><tr><td colspan="2">Engineering Group Associate</td><td>63# SOUTH GRAND AVE. FOWLERVILLE, MICHIGAN 48836 (OFFICE) 517-223-3512 (FAX) 517-223-9987</td><td colspan="2">N 1/2 SEC. 19, TIN-R7E; LYON TWP. (M) - Measured Diet. (R) - Recorded Diet. @ MON - Found Concrete Monument @ FIR/P - Found Iron Rod/Pipe O SR - Set Iron Rod @ MAG - Set Magnistic Nall P.O.B. /E - Point of Beginning/Ending @ - Soll Evaluation Dlg Fence</td></tr><tr><td colspan="3">LAYOUT Ex. A Set (1)</td><td>DATE: 6/08/2014</td><td>DR. BY:MA CHCK: AP</td></tr><tr><td>SCALE: 1" = 300'</td><td>SHEET: 1 of 5</td><td>FILE: 14-013_Base</td><td colspan="2">JOB No. 14-013</td></tr></table>
 
+</details>
+
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570#page=47)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # Exhibit "A"
 
@@ -1060,8 +1072,15 @@ Commencing at the North One Quarter of said Section 19; thence 589'26'32"E, 309.
 
 <table><tr><td>ENGINEERS · SURVEYORS · CONSULTANTS · LANDSCAPE ARCHITECTS · LAND PLANNERS</td><td colspan="2">CLIENT: COLONIAL ACRES</td></tr><tr><td>*[Image or figure on this page; see the original.]* 638 SOUTH GRAND AVE, FOWLERVILLE, MICHIGAN 48836 (OFFICE) 517-223-3512 (FAX) 517-223-9987</td><td colspan="2">N 1/2 SEC. 10, TIN-R7E, LYON TWP, (M) - Measured Dist. (R) - Recorded Dist. @ MON - Found Concrete Monument @ FR/P - Found Iron Rod/Pipe @ SR - Set Iron Rod @ MAG - Set Magnetite Nall P.O.B./E - Point of Beginning/Ending - Soil Evaluation Dig</td></tr><tr><td>LAYOUT: Es. A Son (2)</td><td>DATE: 6/08/2014</td><td>DR. BY: MA CHK: AP</td></tr></table>
 
+</details>
+
 <a id="p48"></a>
 *[Page 48 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570#page=48)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # Exhibit "A"
 
@@ -1075,8 +1094,15 @@ Commencing at the North 1/4 corner of said Section 19; thence 589°26'32"E, 551.
 
 <table><tr><td>ENGINEERS - SURVEYORS - CONSULTANTS - LANDSCAPE ARCHITECTS - LAND PLANNERS</td><td colspan="2">CLIENT: COLONIAL ACRES</td></tr><tr><td rowspan="3">[F2]</td><td>638 SOUTH GRAND AVE, FOWLERVILLE, MICHION 48836 (OFFICE) 517-223-3512 (FAX) 517-223-9987</td><td>N 1/2 SEC. 19, TIN-R7E, LYON TWP, (M) - Measured Dist. (R) - Recorded Dist. @ MON - Found Concrete Monument @ FIRP - Found Iron Rod / Silver - Set Iron Rod @ MAO - Set M�aeille Noll P.O.B./E - Point of Beginning/Ending @ Soil Evaluation Dig</td></tr><tr><td>LAYOUT: Ex. A Son (J)</td><td>+ - - - Fence</td></tr><tr><td>DATE: 8/08/2014</td><td>DR. BYMA CHK: AP</td></tr></table>
 
+</details>
+
 <a id="p49"></a>
 *[Page 49 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570#page=49)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # Exhibit "A" 20 Foot Wide Sanitary Sewer Easement
 
@@ -1100,6 +1126,8 @@ P MAO - Set Magnetic Noil
 P.O.B./L - Point of Beginning/Ending
 - Soil Evaluation Dig
 - Fence</td></tr><tr><td>LAYOUT: Ea A Ben (4)</td></tr><tr><td colspan="2">DATE: 6/08/2014</td><td>DR. BY: MA CHK: AP</td></tr></table>
+
+</details>
 
 <a id="p50"></a>
 *[Page 50 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570#page=50)* (read by OCR; check the original)
@@ -1186,14 +1214,28 @@ My commission expires: 12/2/18
 <a id="p54"></a>
 *[Page 54 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570#page=54)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td colspan="2">ENGINEERS · SURVEYORS · CONSULTANTS · LANDSCAPE ARCHITECTS · LAND PLANNERS</td><td colspan="2">CLIENT: COLONIAL ACRES</td></tr><tr><td rowspan="2">[F2]</td><td>638 SOUTH GRAND AVE, FOWLERVILLE, MICHIGAN 48836 (OFFICE) 517-223-3512 (PAX) 517-223-9987</td><td colspan="2">N 1/2 SEC. 19, TIN-R7E, LYON TNP. (M) - Measured Dist. (R) - Recorded Dist. @ MON - Found Concrete Monument @ FIR/P - Found Iron Rod/Pipe @ SIR - Set Iron Rod @ MAG - Set Magnetic Noil P.O.B./E - Point of Beginning/Ending @ - Soil Evaluation Dig</td></tr><tr><td>LAYOUT: Ex. A Wot (1)</td><td>DATE: 4/30/2014</td><td>DR. BY: MA CHK: AP</td></tr><tr><td>SCALE:  $ 1^{\prime} $ = 300'</td><td>SHEET: 1 of 3</td><td>FILE: 14-013_Base</td><td>JOB No. 14-013</td></tr></table>
 
+</details>
+
 <a id="p55"></a>
 *[Page 55 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570#page=55)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p56"></a>
 *[Page 56 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570#page=56)* (read by OCR; check the original)
@@ -1295,12 +1337,24 @@ My commission expires: 12/21/18
 <a id="p60"></a>
 *[Page 60 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570#page=60)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td colspan="2">ENGINEERS · SURVEYORS · CONSULTANTS · LANDSCAPE ARCHITECTS · LAND PLANNERS</td><td colspan="2">CLIENT: COLONIAL ACRES</td></tr><tr><td rowspan="2">[F2]</td><td>638 SOUTH GRAND AVE. FOWLERVILLE, MICHIGAN 48836 (OFFICE) 517-223-3512 (FAX) 517-223-9987</td><td colspan="2">N 1/2 SEC. 19, TN-87E, LYON TWP. (M) — Measured Dist. (R) — Recorded Dist. @ MON — Found Concrete Monument @ FIR/P — Found Iron Rod/Pipe @ SR — Set Iron Rod @ MAG — Set Magnetic Nall P.O.B./E. — Point of Beginning/Ending @ — Soll Evaluation Dig Fence</td></tr><tr><td colspan="3">LAYOUT: Ex. A Set (1)</td></tr><tr><td></td><td></td><td>DATE: 6/06/2014</td><td>DR. BY:MA CHK: AP</td></tr><tr><td>SCALE:  $ 1" = 300'' $</td><td>SHEET: 1 of 5</td><td>FILE: 14-013_Base</td><td>JOB No. 14-013</td></tr></table>
 
+</details>
+
 <a id="p61"></a>
 *[Page 61 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570#page=61)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # Exhibit "A"
 
@@ -1316,8 +1370,15 @@ Commencing at the North One Quarter of said Section 19; thence $89'26'32'E, 309.
 (OFFICE) 517-223-3512
 (FAX) 517-223-9987</td><td colspan="3">N 1/2 SEC. 19, TIN-R7E, LYON TWP. (M) - Measured Dial. (R) - Recorded Dist. @ MON - Found Concrete Monument @ FIR/P - Found Iron Rod/Pipe @ SIR - Set Iron Rod @ MAG - Set Magnetic Noll P.O.B./E - Point of Beginning/Ending @ - Soll Evaluation Dig</td></tr><tr><td>LAYOUT: Ets A Snt (2)</td><td>DATE: 6/08/2014</td><td colspan="2">DR. BY: MA CHK: AP</td></tr><tr><td>SCALE: 1" = 300"</td><td>SHEET: 2 of 5</td><td>FILE: 14-013_Base</td><td colspan="2">JOB No. 14-013</td></tr></table>
 
+</details>
+
 <a id="p62"></a>
 *[Page 62 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570#page=62)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 A 20 foot wide Sanitary Sewer Easement in the Northeast Quarter of Section 19, T1N, R7E, City of South Lyon, Oakland County, Michigan, the centerline of which is described as:
 
@@ -1326,6 +1387,8 @@ Commencing at the North 1/4 corner of said Section 19; thence $89*26'32"E, 551.5
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td colspan="2">ENGINEERS - SURVEYORS - CONSULTANTS - LANDSCAPE ARCHITECTS - LAND PLANNERS</td><td colspan="2">CLIENT: COLONIAL ACRES</td></tr><tr><td rowspan="2">[F2]</td><td>638 SOUTH GRAND AVE. FOWLERVILLE, MICHIOAN 48836 (OFFICE) 517-223-3512 (FAX) 517-223-9987</td><td colspan="2">N 1/2 SEC. 19, TIN-R7E, LYON TWP. (M) - Measured Dist. (R) - Recorded Dist. @ MON - Found Concrete Monument @FIR/P - Found Iron Rad/Pipe O SIR - Set Iron Red P MAG - Set Magnetic Nall P.O.B./E - Point of Beginning/Ending - Soll Evaluation Dig</td></tr><tr><td>LAYOUT: Ex A San (3)</td><td>DATE: 8/08/2014</td><td>DR. BY:MA CHK: AP</td></tr><tr><td>SCALE:  $ 1" = 300' $</td><td>SHEET: 3 of 5</td><td>FILE: 14-013_Base</td><td>JOB No. 14-013</td></tr></table>
+
+</details>
 
 <a id="p63"></a>
 *[Page 63 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570#page=63)* (read by OCR; check the original)
@@ -1340,6 +1403,11 @@ Commencing at the North 1/4 corner of said Section 19; thence $89*26'32"E, 551.5
 
 <a id="p64"></a>
 *[Page 64 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570#page=64)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 A 20 foot wide Sanitary Sewer Easement in the Northeast Quarter of Section 19, T1N, R7E, City of South Lyon, Oakland County, Michigan, described as:
 
@@ -1371,6 +1439,8 @@ P.O.B./E. - Point of Beginning/Ending
 ◔ - Soll Evaluation Otg
 ◀ - Fence</td></tr><tr><td>LAYOUT: Ex. A Son (5)</td></tr><tr><td>DATE: 8/08/2014</td><td>DR. BY:MA CHK: AP</td></tr><tr><td>SCALE:  $ 1" = 100" $</td><td>SHEET: 5 of 5</td><td>FILE: 14-013_Base
 JOB No. 14-013</td></tr></table>
+
+</details>
 
 <a id="p65"></a>
 *[Page 65 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570#page=65)* (read by OCR; check the original)
@@ -1446,19 +1516,38 @@ My commission expires: 12/2/118
 <a id="p68"></a>
 *[Page 68 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570#page=68)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td colspan="2">ENGINEERS: SURVEYORS - CONSULTANTS - LANDSCAPE ARCHITECTS - LAND PLANNERS</td><td colspan="2">CLIENT: COLONIAL ACRES</td></tr><tr><td rowspan="2">[F2]</td><td>618 SOUTH GRAND AVE, FOWLERVILLE, MICHIGAN 44836 (OFFICE) 517-223-3512 (FAX) 517-223-9987</td><td colspan="2">N 1/2 SEC. 19, TIN-RTE, LYON TWP. (M) - Measured Dist. (R) - Recorded Dist. @ MON - Found Concrete Monument @ FIR/P - Found Iron Rod/Pipe @ SR - Set Iron Rod @ MAG - Set Magnetic Nail P.O.B./E. - Point of Beginning/Ending @ - Soil Evaluation Dig</td></tr><tr><td>LAYOUT: Ex. A Wet (1)</td><td>**</td><td></td></tr></table>
 
+</details>
+
 <a id="p69"></a>
 *[Page 69 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570#page=69)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td colspan="3">ENGINEERS - SURVEYORS - CONSULTANTS - LANDSCAPE ARCHITECTS - LAND PLANNERS</td><td colspan="2">CLIENT: COLONIAL ACRES</td></tr><tr><td colspan="2">ENGINEERING GROUP ASSOCIATES</td><td>618 SOUTH GRAND AV.BFOWLERVILLE,MICHIGAN 48836(OFFICE) 517-223-3512(FAX) 517-223-9987</td><td colspan="2">N 1/2 SEC. 10, TIN-R7E, LYON TWP. (M) -- Measured Dist. (R) -- Recorded Dist. @ MON - Found Concrete Monument @ FIR/P - Found Iron Rod/Pipe @ SR - Set Iron Rod @ MAG - Set Magnetic Nell PO.B/E. - Point of Beginning/Ending @ Soll Evaluation Dig</td></tr><tr><td colspan="3">LAYOUT: Ex. A. Wst (2)</td><td>DATE: 4/30/2014</td><td>DR. BY: MA CHK: AP</td></tr><tr><td>SCALE:  $ 1' = 300'' $</td><td colspan="2">SHEET: 2 of 3</td><td>FILE: 14-013_Base</td><td>JOB No. 14-013</td></tr></table>
 
+</details>
+
 <a id="p70"></a>
 *[Page 70 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570#page=70)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # Exhibit "A" 20 Foot Wide Watermain Easement
 
@@ -1473,6 +1562,8 @@ thence returning to Point "B"; thence $89*12'17"E, 484.79 feet; thence $00*43'22
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td colspan="3">ENGINEERS - SURVEYORS - CONSULTANTS - LANDSCAPE ARCHITECTS - LAND PLANNERS</td><td colspan="2">CLIENT: COLONIAL ACRES</td></tr><tr><td rowspan="2">*[Image or figure on this page; see the original.]*</td><td>638 SOUTH GRAND AVE. FOWLERVILLE, MICHIGAN 48336 (OFFICE) 517-223-3312 (FAX) 517-223-9987</td><td colspan="3">N 1/2 SEC. 10, TIN-R7E, LYON TWP. (M) - Measured Dist. (R) ~ Recorded Dist. @ MON - Found Concrete Monument @ FR/P - Found Iron Rod/Pip @ SR - Set Iron Rod @ MAG - Set Magnetic Hall P.O.B./E - Point of Beginning/Ending @ - Soll Evaluation Dig</td></tr><tr><td colspan="2">LAYOUT: Ex. A Wst (3)</td><td>** -</td><td></td></tr></table>
+
+</details>
 
 <a id="p71"></a>
 *[Page 71 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570#page=71)* (read by OCR; check the original)
@@ -1652,9 +1743,16 @@ South Lyon, Michigan 43178
 <a id="p76"></a>
 *[Page 76 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570#page=76)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td colspan="2">MINAMES, TOHTER AND BELLY CONSTRUCTIONS IN HENHESENS ANN ALBOR, MEPING 2000</td><td rowspan="3">SOUTH LYON, MEPHEGAN ELEVEN MILE ROAD ZERERS EASEMENT PATCEL NO. 2</td><td>CONTRACT</td></tr><tr><td>SOUALE  $ ^{{1}} $ v. 2007</td><td>DATE 8-31-98</td><td rowspan="2">SHEET OF</td></tr><tr><td>DEPARIS RAK</td><td>CHECKED ANS</td></tr></table>
+
+</details>
 
 <a id="p77"></a>
 *[Page 77 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.10.14.pdf?t=202108310732570#page=77)* (read by OCR; check the original)

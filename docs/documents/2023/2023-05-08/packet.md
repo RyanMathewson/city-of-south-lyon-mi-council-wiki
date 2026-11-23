@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/5-8-23%20Council%20Packet%20-%20online%
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "de3e6fcf0d1f9eb9dfee2667c047d79ac652c7ec01f822b3a25050a14a4bd2b5"
 source_bytes: 6963460
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 196
 ocr_pages: 196
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2023-05-08
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/5-8-23%20Council%20Packet%20-%20online%20only.pdf?t=202305041532490) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `de3e6fcf0d1f9eb9…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/5-8-23%20Council%20Packet%20-%20online%20only.pdf?t=202305041532490) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `de3e6fcf0d1f9eb9…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/5-8-23%20Council%20Packet%20-%20online%20only.pdf?t=202305041532490#page=1)* (read by OCR; check the original)
@@ -602,7 +602,14 @@ Fire Chief
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/5-8-23%20Council%20Packet%20-%20online%20only.pdf?t=202305041532490#page=24)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p25"></a>
 *[Page 25 of the original](https://www.southlyonmi.org/5-8-23%20Council%20Packet%20-%20online%20only.pdf?t=202305041532490#page=25)* (read by OCR; check the original)
@@ -784,7 +791,14 @@ Date
 <a id="p31"></a>
 *[Page 31 of the original](https://www.southlyonmi.org/5-8-23%20Council%20Packet%20-%20online%20only.pdf?t=202305041532490#page=31)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p32"></a>
 *[Page 32 of the original](https://www.southlyonmi.org/5-8-23%20Council%20Packet%20-%20online%20only.pdf?t=202305041532490#page=32)* (read by OCR; check the original)
@@ -982,7 +996,14 @@ Date
 <a id="p39"></a>
 *[Page 39 of the original](https://www.southlyonmi.org/5-8-23%20Council%20Packet%20-%20online%20only.pdf?t=202305041532490#page=39)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/5-8-23%20Council%20Packet%20-%20online%20only.pdf?t=202305041532490#page=40)* (read by OCR; check the original)
@@ -1016,6 +1037,11 @@ Traffic Engineer
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/5-8-23%20Council%20Packet%20-%20online%20only.pdf?t=202305041532490#page=41)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Soft Closure barricade
@@ -1025,6 +1051,8 @@ Soft Closure barricade
 *[Image or figure on this page; see the original.]*
 
 5/1/2023
+
+</details>
 
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/5-8-23%20Council%20Packet%20-%20online%20only.pdf?t=202305041532490#page=42)* (read by OCR; check the original)
@@ -2197,11 +2225,18 @@ Cast iron boxes shall be three piece adjustable type. A number 6 base shall be f
 <a id="p85"></a>
 *[Page 85 of the original](https://www.southlyonmi.org/5-8-23%20Council%20Packet%20-%20online%20only.pdf?t=202305041532490#page=85)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## GATE WELLS
 
 Gate wells (valve wells) shall be detailed on the Drawings and meet the minimum standards as indicated in the City of South Lyon Water Main Construction Details and as described under "MANHOLES AND CATCH BASINS". Extension stems and stem guides shall be provided in each valve well where the valve opening nut is five (5) feet below the top of the valve well cover. Extension stems shall extend to within five (5) feet of the top-of-cover elevation.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p86"></a>
 *[Page 86 of the original](https://www.southlyonmi.org/5-8-23%20Council%20Packet%20-%20online%20only.pdf?t=202305041532490#page=86)* (read by OCR; check the original)
@@ -2759,6 +2794,11 @@ Saddles will be Romac "CB" Sewer Saddles, or equal.
 <a id="p105"></a>
 *[Page 105 of the original](https://www.southlyonmi.org/5-8-23%20Council%20Packet%20-%20online%20only.pdf?t=202305041532490#page=105)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Gaskets shall meet or exceed ASTM D-2000 3 BA715. Gaskets shall be virgin SBR compounded for sewer service.
 
 Saddle Casting shall meet or exceed ASTM 536-71 and shall be protected with a corrosion resistant paint.
@@ -2766,6 +2806,8 @@ Saddle Casting shall meet or exceed ASTM 536-71 and shall be protected with a co
 Band shall be a minimum of 3-1/2" wide of Type 304 (18-8) stainless steel.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p106"></a>
 *[Page 106 of the original](https://www.southlyonmi.org/5-8-23%20Council%20Packet%20-%20online%20only.pdf?t=202305041532490#page=106)* (read by OCR; check the original)
@@ -4275,11 +4317,18 @@ All roadside ditches and driveway culverts shall be cleaned, repaired and replac
 <a id="p161"></a>
 *[Page 161 of the original](https://www.southlyonmi.org/5-8-23%20Council%20Packet%20-%20online%20only.pdf?t=202305041532490#page=161)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## FINAL CLEANUP AND GRADING
 
 Upon completion of construction, the contractor shall restore his working area to as clean a condition as existed before his operations were started. He shall go over the entire line and refill any place that may have settled. He shall then regrade and put in shape all backfilled trenches, all fills he may have made from excess excavated materials, and all other areas that may have been disturbed through his operations.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p162"></a>
 *[Page 162 of the original](https://www.southlyonmi.org/5-8-23%20Council%20Packet%20-%20online%20only.pdf?t=202305041532490#page=162)* (read by OCR; check the original)

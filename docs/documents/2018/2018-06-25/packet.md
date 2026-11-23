@@ -1176,6 +1176,11 @@ Authorized Representative Signature
 <a id="p70"></a>
 *[Page 70 of the original](https://www.southlyonmi.org/6-25-18%20packet.pdf?t=202108310733120#page=70)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## BLUES BREWS BRATS
 
 ## Saturday, August 4, 2018 - 3pm to 11pm Whipple Street Parking Lot - Downtown South Lyon
@@ -1192,8 +1197,15 @@ Cell 248/444-2420
 
 2018
 
+</details>
+
 <a id="p71"></a>
 *[Page 71 of the original](https://www.southlyonmi.org/6-25-18%20packet.pdf?t=202108310733120#page=71)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## BLUES BREWS BRATS
 
@@ -1202,6 +1214,8 @@ Saturday, August 4, 2018- 3pm to 11pm
 Whipple Street Parking Lot - Downtown South Lyon
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p72"></a>
 *[Page 72 of the original](https://www.southlyonmi.org/6-25-18%20packet.pdf?t=202108310733120#page=72)* (read by OCR; check the original)

@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/10-22-18%20packet.pdf?t=202108310733130
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "efe6cda362443ab894edb26f4b625b1e3aa0278f83e3ddff407375f99d34e006"
 source_bytes: 3540109
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 79
 ocr_pages: 79
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2018-10-22
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/10-22-18%20packet.pdf?t=202108310733130) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `efe6cda362443ab8…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/10-22-18%20packet.pdf?t=202108310733130) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `efe6cda362443ab8…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/10-22-18%20packet.pdf?t=202108310733130#page=1)* (read by OCR; check the original)
@@ -682,6 +682,11 @@ SUGGESTED MOTION: Motion by ___, supported by
 <a id="p20"></a>
 *[Page 20 of the original](https://www.southlyonmi.org/10-22-18%20packet.pdf?t=202108310733130#page=20)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## OAKIAND COUNTY MICHIGAN
@@ -730,6 +735,8 @@ Non-Eligible Block Groups
 
 This Census Block Group map reflects 2014 LMISD data from the U.S. Department of Housing and Urban Development.
 
+</details>
+
 <a id="p21"></a>
 *[Page 21 of the original](https://www.southlyonmi.org/10-22-18%20packet.pdf?t=202108310733130#page=21)* (read by OCR; check the original)
 
@@ -766,30 +773,58 @@ CHI Coordinator</td><td>858-5309</td><td>Reimbursement, Minor Home Repair, Contr
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/10-22-18%20packet.pdf?t=202108310733130#page=24)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p25"></a>
 *[Page 25 of the original](https://www.southlyonmi.org/10-22-18%20packet.pdf?t=202108310733130#page=25)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## City of South Lyon General Fund – Expenditures Years Ended June 30
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p26"></a>
 *[Page 26 of the original](https://www.southlyonmi.org/10-22-18%20packet.pdf?t=202108310733130#page=26)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## City of South Lyon General Fund-Fund Balance Years Ended June 30
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p27"></a>
 *[Page 27 of the original](https://www.southlyonmi.org/10-22-18%20packet.pdf?t=202108310733130#page=27)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## City of South Lyon Nonmajor Funds-Fund Balance Years Ended June 30
 
 *[Image or figure on this page; see the original.]*
 
  $ ^{*} $ Capital Project funds include Capital Improvement, Equipment Replacement, and Land Acquisition funds
+
+</details>
 
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/10-22-18%20packet.pdf?t=202108310733130#page=28)* (read by OCR; check the original)
@@ -803,6 +838,11 @@ CHI Coordinator</td><td>858-5309</td><td>Reimbursement, Minor Home Repair, Contr
 <a id="p29"></a>
 *[Page 29 of the original](https://www.southlyonmi.org/10-22-18%20packet.pdf?t=202108310733130#page=29)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
@@ -810,6 +850,8 @@ CHI Coordinator</td><td>858-5309</td><td>Reimbursement, Minor Home Repair, Contr
 Operating Revenue Plus Property Taxes
 
 Operating Expense (Excl. Depreciation) Plus Capital Improvements and Debt Service
+
+</details>
 
 <a id="p30"></a>
 *[Page 30 of the original](https://www.southlyonmi.org/10-22-18%20packet.pdf?t=202108310733130#page=30)* (read by OCR; check the original)
@@ -1044,11 +1086,18 @@ City Clerk/Treasurer
 <a id="p38"></a>
 *[Page 38 of the original](https://www.southlyonmi.org/10-22-18%20packet.pdf?t=202108310733130#page=38)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # CORE DOWNTOWN
 
 *[Image or figure on this page; see the original.]*
 
 Oakland County One Stop Shop 2100 Pontiac Lake Road Bida. 41 West Waterford. MI 48328 Phone: 248-858-0721 Web: www.adventageoakland.com
+
+</details>
 
 <a id="p39"></a>
 *[Page 39 of the original](https://www.southlyonmi.org/10-22-18%20packet.pdf?t=202108310733130#page=39)* (read by OCR; check the original)
@@ -2364,7 +2413,14 @@ very self out of my car
 <a id="p74"></a>
 *[Page 74 of the original](https://www.southlyonmi.org/10-22-18%20packet.pdf?t=202108310733130#page=74)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p75"></a>
 *[Page 75 of the original](https://www.southlyonmi.org/10-22-18%20packet.pdf?t=202108310733130#page=75)* (read by OCR; check the original)

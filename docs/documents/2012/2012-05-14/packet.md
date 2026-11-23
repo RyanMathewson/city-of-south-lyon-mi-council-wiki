@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "0033b7eaf3ac78949b361ee4d1a1d1426d821259a381b70555f2b6d9e288596c"
 source_bytes: 10603799
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 76
 ocr_pages: 76
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2012-05-14
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC051012CouncilPacket5-14-12.pdf?t=202108310732590) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `0033b7eaf3ac7894…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC051012CouncilPacket5-14-12.pdf?t=202108310732590) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `0033b7eaf3ac7894…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC051012CouncilPacket5-14-12.pdf?t=202108310732590#page=1)* (read by OCR; check the original)
@@ -982,25 +982,58 @@ This patio will be a tasteful addition to the downtown. Our fence will be built 
 <a id="p43"></a>
 *[Page 43 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC051012CouncilPacket5-14-12.pdf?t=202108310732590#page=43)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC051012CouncilPacket5-14-12.pdf?t=202108310732590#page=44)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p45"></a>
 *[Page 45 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC051012CouncilPacket5-14-12.pdf?t=202108310732590#page=45)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p46"></a>
 *[Page 46 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC051012CouncilPacket5-14-12.pdf?t=202108310732590#page=46)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC051012CouncilPacket5-14-12.pdf?t=202108310732590#page=47)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1008,12 +1041,21 @@ IM WILLIAMS
 
 734-422-7110
 
+</details>
+
 <a id="p48"></a>
 *[Page 48 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC051012CouncilPacket5-14-12.pdf?t=202108310732590#page=48)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 Image from the 2010 Michigan State University Small Town Design Initiative
+
+</details>
 
 <a id="p49"></a>
 *[Page 49 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC051012CouncilPacket5-14-12.pdf?t=202108310732590#page=49)* (read by OCR; check the original)
@@ -1943,6 +1985,11 @@ If you cannot attend this meeting, please notify Kristen Delaney at (248) 437-17
 <a id="p76"></a>
 *[Page 76 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC051012CouncilPacket5-14-12.pdf?t=202108310732590#page=76)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Ms. Ellen Koeiner
@@ -1956,4 +2003,6 @@ South Lyon, MI 48178
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 

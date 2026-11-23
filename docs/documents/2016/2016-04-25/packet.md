@@ -409,7 +409,14 @@ Respectfully submitted.
 <a id="p13"></a>
 *[Page 13 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket4-25-16---.pdf?t=202108310732560#page=13)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket4-25-16---.pdf?t=202108310732560#page=14)* (read by OCR; check the original)
@@ -4050,9 +4057,16 @@ Lloyd T. Collins, Chief of Police
 <a id="p85"></a>
 *[Page 85 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket4-25-16---.pdf?t=202108310732560#page=85)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>LAKE ST CRUBE IN</div>
+
+</details>
 
 <a id="p86"></a>
 *[Page 86 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket4-25-16---.pdf?t=202108310732560#page=86)* (read by OCR; check the original)

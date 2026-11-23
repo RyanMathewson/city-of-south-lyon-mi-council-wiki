@@ -203,6 +203,11 @@ Motion by Kurtzweil, supported by Walton Motion to adjourn meeting at 8:20 p.m.
 <a id="p7"></a>
 *[Page 7 of the original](https://www.southlyonmi.org/3-9-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=7)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 VOTE: ___
 
 Respectfully submitted.
@@ -212,6 +217,8 @@ Mayor Dan Pelchat
 Clerk/Treasurer Lisa Deaton
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p8"></a>
 *[Page 8 of the original](https://www.southlyonmi.org/3-9-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=8)* (read by OCR; check the original)
@@ -589,6 +596,11 @@ All prices quoted herein are firm for 30 days and do not include any taxes which
 <a id="p26"></a>
 *[Page 26 of the original](https://www.southlyonmi.org/3-9-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=26)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 AURORA $ ^{\circ} $ 610 SERIES
@@ -596,6 +608,8 @@ AURORA $ ^{\circ} $ 610 SERIES
 SINGLE STAGE SOLIDS HANDLING
 
 PUMPS "SPHER-FLO"
+
+</details>
 
 <a id="p27"></a>
 *[Page 27 of the original](https://www.southlyonmi.org/3-9-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=27)* (read by OCR; check the original)
@@ -1032,7 +1046,14 @@ David Mihalek, 1626 Graefield Rd, Birmingham, MI 48009
 <a id="p39"></a>
 *[Page 39 of the original](https://www.southlyonmi.org/3-9-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=39)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/3-9-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=40)* (read by OCR; check the original)

@@ -211,7 +211,14 @@ Alexandra Clark and Philip Weipert
 <a id="p7"></a>
 *[Page 7 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC082412CCpacket8-27-12.pdf?t=202108310732590#page=7)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p8"></a>
 *[Page 8 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC082412CCpacket8-27-12.pdf?t=202108310732590#page=8)* (read by OCR; check the original)
@@ -341,6 +348,11 @@ The road will be closed at 11:00 a.m. on Friday. September 28 and re-open at 8:0
 <a id="p13"></a>
 *[Page 13 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC082412CCpacket8-27-12.pdf?t=202108310732590#page=13)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # 2012 Pumpkinfest Road Closure Approval (Friday, Saturday & Sunday)
 
 Friday, Saturday and Sunday, September 28 – 30, 2012
@@ -350,6 +362,8 @@ Closure of Lafayette Street between Liberty and Whipple.
 Closure of Lake Street between Wells and the alleyway behind the South Lyon Herald. The road will be closed at 11:00 a.m. on Friday, September 28 and re-open at 8:00 p.m. on Sunday, September 30, 2012.
 
 <table><tr><td>Business Name</td><td>Street Address</td><td>Print Name</td><td>Signature</td></tr><tr><td>Providence</td><td>210 N. Lafayette</td><td>Shirley King</td><td>Jacking</td></tr><tr><td>Tenpenny Furniture</td><td>124 N. Lafayette</td><td>Brian Blackford</td><td>Bob B.</td></tr><tr><td>Co. Reutter Salon</td><td>116 N. Lafayette</td><td>Theresa Rupert</td><td>Diana T.</td></tr><tr><td>Specialty Medicine</td><td>116 N. Lafayette</td><td>Rachel Carter</td><td>Rachel Carter</td></tr><tr><td>Phillips Travel Service</td><td>110 N. Lafayette</td><td>Kristin Phillips</td><td>Kristin Phillips</td></tr><tr><td>Auriel Jewelry Design</td><td>108 N. Lafayette</td><td>J.J. Zerow價格</td><td>J.J. Zerow</td></tr><tr><td>Jarratt Architecture</td><td>108 N. Lafayette</td><td></td><td></td></tr><tr><td>Diane's Dolihouse</td><td>102 N. Lafayette</td><td>Diana T.</td><td>Diane Thoeft</td></tr><tr><td>Michelle's Hair Studio</td><td>104 N. Lafayette</td><td>Angelina Smith</td><td>Julie M.</td></tr><tr><td>Michigan Wealth Management Group</td><td>127 N. Lafayette</td><td>N/A -> Spoke w/Jeffery Tubbs</td><td></td></tr><tr><td>Law Office of Jenelle Velarde</td><td>125 N. Lafayette</td><td>Samantha Valdez</td><td></td></tr><tr><td>Chamber of Commerce</td><td>125 N. Lafayette</td><td>Kim Thompson</td><td>Kim Thompson</td></tr><tr><td>Quantum Real Estate - Bonnie David</td><td>129 N. Lafayette</td><td>Juoy Perry</td><td>Judy King</td></tr><tr><td>Divine Yoga</td><td>105 N. Lafayette</td><td>Cheryl Wickhan</td><td></td></tr><tr><td>Kathleen's</td><td>131 N. Lafayette</td><td>Kathleen McFau</td><td>K. McFae</td></tr><tr><td>Jan's Skin Spa</td><td>105 N. Lafayette</td><td>A.E.</td><td></td></tr></table>
+
+</details>
 
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC082412CCpacket8-27-12.pdf?t=202108310732590#page=14)* (read by OCR; check the original)
@@ -372,6 +386,11 @@ Closure of Lake Street between Wells and the alleyway behind the South Lyon Hera
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC082412CCpacket8-27-12.pdf?t=202108310732590#page=16)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 # 2012 Pumpkinfest Downtown South Lyon September 29th & 30th
@@ -379,6 +398,8 @@ Closure of Lake Street between Wells and the alleyway behind the South Lyon Hera
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC082412CCpacket8-27-12.pdf?t=202108310732590#page=17)* (read by OCR; check the original)

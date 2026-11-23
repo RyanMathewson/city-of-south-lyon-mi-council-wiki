@@ -264,6 +264,11 @@ City Clerk/Treasurer Lisa Deaton
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/2-14-22%20CM%20approved.pdf?t=202203031633280#page=10)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # Unsolicited Newspapers Thrown on City Property
 
 *[Image or figure on this page; see the original.]*
@@ -271,10 +276,17 @@ City Clerk/Treasurer Lisa Deaton
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/2-14-22%20CM%20approved.pdf?t=202203031633280#page=11)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # Unsolicited Newspapers Thrown on City Property
 
 *[Image or figure on this page; see the original.]*
@@ -283,8 +295,15 @@ City Clerk/Treasurer Lisa Deaton
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p12"></a>
 *[Page 12 of the original](https://www.southlyonmi.org/2-14-22%20CM%20approved.pdf?t=202203031633280#page=12)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>Unsolicited Newspapers Thrown on City Property</div>
 
@@ -292,8 +311,15 @@ City Clerk/Treasurer Lisa Deaton
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p13"></a>
 *[Page 13 of the original](https://www.southlyonmi.org/2-14-22%20CM%20approved.pdf?t=202203031633280#page=13)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # Unsolicited Newspapers Thrown on City Property
 
@@ -302,10 +328,17 @@ City Clerk/Treasurer Lisa Deaton
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/2-14-22%20CM%20approved.pdf?t=202203031633280#page=14)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # Unsolicited Newspapers Thrown on City Property
 
 *[Image or figure on this page; see the original.]*
@@ -313,10 +346,17 @@ City Clerk/Treasurer Lisa Deaton
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/2-14-22%20CM%20approved.pdf?t=202203031633280#page=15)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # Unsolicited Newspapers Thrown on City Property
 
 *[Image or figure on this page; see the original.]*
@@ -324,6 +364,8 @@ City Clerk/Treasurer Lisa Deaton
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/2-14-22%20CM%20approved.pdf?t=202203031633280#page=16)* (read by OCR; check the original)

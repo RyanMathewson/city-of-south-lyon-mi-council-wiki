@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "b85d29ac8ec0f7ecd15a54e9339bc50866a3fbad6617329b8e61d8a027dde8a9"
 source_bytes: 35653859
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 88
 ocr_pages: 88
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2016-01-11
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC010816COUNCILPACKET1.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `b85d29ac8ec0f7ec…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC010816COUNCILPACKET1.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `b85d29ac8ec0f7ec…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC010816COUNCILPACKET1.pdf?t=202108310732570#page=1)* (read by OCR; check the original)
@@ -340,7 +340,14 @@ MOTION CARRIED UNANIMOUSLY
 <a id="p12"></a>
 *[Page 12 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC010816COUNCILPACKET1.pdf?t=202108310732570#page=12)* (read by OCR; check the original)
 
-*No readable text on this page. See the original.*
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
+*No text read.*
+
+</details>
 
 <a id="p13"></a>
 *[Page 13 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC010816COUNCILPACKET1.pdf?t=202108310732570#page=13)* (read by OCR; check the original)
@@ -913,6 +920,11 @@ Ability to purchase PC configured for MasterPlay software
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC010816COUNCILPACKET1.pdf?t=202108310732570#page=40)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 South Lyon
 
 Cable Commission
@@ -920,6 +932,8 @@ Cable Commission
 South Lyon Community Television
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC010816COUNCILPACKET1.pdf?t=202108310732570#page=41)* (read by OCR; check the original)
@@ -1463,6 +1477,11 @@ Telephone: (248) 437-1735 / Fax: (248) 486-0049
 <a id="p60"></a>
 *[Page 60 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC010816COUNCILPACKET1.pdf?t=202108310732570#page=60)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## Prepared by the Michigan Municipal League
@@ -1482,6 +1501,8 @@ lgreen@mml.org
 *[Image or figure on this page; see the original.]*
 
 ## STRATEGIC PLANNING AND GOAL SETTING Program Overview
+
+</details>
 
 <a id="p61"></a>
 *[Page 61 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC010816COUNCILPACKET1.pdf?t=202108310732570#page=61)* (read by OCR; check the original)
@@ -1863,7 +1884,14 @@ Director of Footprints Fitness
 <a id="p75"></a>
 *[Page 75 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC010816COUNCILPACKET1.pdf?t=202108310732570#page=75)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p76"></a>
 *[Page 76 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC010816COUNCILPACKET1.pdf?t=202108310732570#page=76)* (read by OCR; check the original)

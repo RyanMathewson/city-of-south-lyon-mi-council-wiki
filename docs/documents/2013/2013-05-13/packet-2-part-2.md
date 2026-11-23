@@ -1857,7 +1857,14 @@ South Lyon, MI
 <a id="p58"></a>
 *[Page 58 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC051313cc5-13-13packet2.pdf?t=202108310732580#page=58)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p59"></a>
 *[Page 59 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC051313cc5-13-13packet2.pdf?t=202108310732580#page=59)* (read by OCR; check the original)

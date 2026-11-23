@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/12-9-24%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "a6cce0d5b08e5781a5f06a847686b9d1463ee2fa2ca77fb53a55feb02229391e"
 source_bytes: 18548164
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 76
 ocr_pages: 76
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2024-12-09
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/12-9-24%20Council%20Packet%20-%20online%20only.pdf?t=202412051437130) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `a6cce0d5b08e5781…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/12-9-24%20Council%20Packet%20-%20online%20only.pdf?t=202412051437130) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `a6cce0d5b08e5781…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/12-9-24%20Council%20Packet%20-%20online%20only.pdf?t=202412051437130#page=1)* (read by OCR; check the original)
@@ -237,6 +237,11 @@ Motion by Hansen, supported by Hansen
 <a id="p7"></a>
 *[Page 7 of the original](https://www.southlyonmi.org/12-9-24%20Council%20Packet%20-%20online%20only.pdf?t=202412051437130#page=7)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Motion to approve agreement between City of South Lyon and the South Lyon Patrol Officer's bargaining unit
 
 ROLL CALL VOTE:
@@ -270,6 +275,8 @@ Mayor Steve Kennedy
 City Clerk Lisa Deaton
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p8"></a>
 *[Page 8 of the original](https://www.southlyonmi.org/12-9-24%20Council%20Packet%20-%20online%20only.pdf?t=202412051437130#page=8)* (read by OCR; check the original)

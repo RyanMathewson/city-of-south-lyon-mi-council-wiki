@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/8-11-25%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "0bdaf1a08fb247e74fc08e39c4f36b2e9027629c8d8830436b69e7d9fca8b54a"
 source_bytes: 14888535
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 98
 ocr_pages: 98
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2025-08-11
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/8-11-25%20Council%20Packet%20-%20online%20only.pdf?t=202508080858340) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `0bdaf1a08fb247e7…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/8-11-25%20Council%20Packet%20-%20online%20only.pdf?t=202508080858340) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `0bdaf1a08fb247e7…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/8-11-25%20Council%20Packet%20-%20online%20only.pdf?t=202508080858340#page=1)* (read by OCR; check the original)
@@ -758,14 +758,28 @@ venmo
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/8-11-25%20Council%20Packet%20-%20online%20only.pdf?t=202508080858340#page=34)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Saturday August 23 $ ^{rd} $, 2025 Proposed Block Party 2pm-10pm
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/8-11-25%20Council%20Packet%20-%20online%20only.pdf?t=202508080858340#page=35)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p36"></a>
 *[Page 36 of the original](https://www.southlyonmi.org/8-11-25%20Council%20Packet%20-%20online%20only.pdf?t=202508080858340#page=36)* (read by OCR; check the original)
@@ -893,9 +907,16 @@ Date
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/8-11-25%20Council%20Packet%20-%20online%20only.pdf?t=202508080858340#page=41)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>ROAD CLOSURE REQUEST: LAFAYETTE ST. FROM WHIPPLE ST. TO LIBERTY ST. #10 MILE FROM LAFAYETTE (AT 4 CORNEAS) TO WELL ST.</div>
+
+</details>
 
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/8-11-25%20Council%20Packet%20-%20online%20only.pdf?t=202508080858340#page=42)* (read by OCR; check the original)
@@ -993,7 +1014,14 @@ Date
 <a id="p45"></a>
 *[Page 45 of the original](https://www.southlyonmi.org/8-11-25%20Council%20Packet%20-%20online%20only.pdf?t=202508080858340#page=45)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p46"></a>
 *[Page 46 of the original](https://www.southlyonmi.org/8-11-25%20Council%20Packet%20-%20online%20only.pdf?t=202508080858340#page=46)* (read by OCR; check the original)
@@ -1377,6 +1405,11 @@ Date: 07/30/2025
 <a id="p63"></a>
 *[Page 63 of the original](https://www.southlyonmi.org/8-11-25%20Council%20Packet%20-%20online%20only.pdf?t=202508080858340#page=63)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Exhibit A
 
 ## Public Right-of-Way to be Used by Telecommunication Facilities
@@ -1384,6 +1417,8 @@ Date: 07/30/2025
 The Public Right-of-Way that Company is granted access to and the use of for approximately 244K linear feet, consisting of underground fiber optic cable in conduit shown in the Route Maps below, subject to the approval of more specific drawings.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p64"></a>
 *[Page 64 of the original](https://www.southlyonmi.org/8-11-25%20Council%20Packet%20-%20online%20only.pdf?t=202508080858340#page=64)* (read by OCR; check the original)
@@ -2002,10 +2037,22 @@ Privacy | Terms of Service | Cookie Policy
 <a id="p85"></a>
 *[Page 85 of the original](https://www.southlyonmi.org/8-11-25%20Council%20Packet%20-%20online%20only.pdf?t=202508080858340#page=85)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p86"></a>
 *[Page 86 of the original](https://www.southlyonmi.org/8-11-25%20Council%20Packet%20-%20online%20only.pdf?t=202508080858340#page=86)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>Per Household Expenditure Increase vs. National Cost Index Last Ten Years</div>
 
@@ -2014,6 +2061,8 @@ Privacy | Terms of Service | Cookie Policy
 <div>South Lyon Solid Waste Expenditures Actual vs. Adjustments for Inflation</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p87"></a>
 *[Page 87 of the original](https://www.southlyonmi.org/8-11-25%20Council%20Packet%20-%20online%20only.pdf?t=202508080858340#page=87)* (read by OCR; check the original)
@@ -2116,10 +2165,22 @@ Service and Budget Exhibits emerging
 <a id="p93"></a>
 *[Page 93 of the original](https://www.southlyonmi.org/8-11-25%20Council%20Packet%20-%20online%20only.pdf?t=202508080858340#page=93)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p94"></a>
 *[Page 94 of the original](https://www.southlyonmi.org/8-11-25%20Council%20Packet%20-%20online%20only.pdf?t=202508080858340#page=94)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## OAKLAND TRANSIT
 
@@ -2155,6 +2216,8 @@ cooperel@oakgov.com
 
 pavoned@oakgov.com
 
+</details>
+
 <a id="p95"></a>
 *[Page 95 of the original](https://www.southlyonmi.org/8-11-25%20Council%20Packet%20-%20online%20only.pdf?t=202508080858340#page=95)* (read by OCR; check the original)
 
@@ -2184,11 +2247,18 @@ All values are calculated based on each provider's Performance (MC/CC) Report ex
 <a id="p97"></a>
 *[Page 97 of the original](https://www.southlyonmi.org/8-11-25%20Council%20Packet%20-%20online%20only.pdf?t=202508080858340#page=97)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## PEX Ridership Growth Over Time
 
 ### Figure 2. Ridership
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p98"></a>
 *[Page 98 of the original](https://www.southlyonmi.org/8-11-25%20Council%20Packet%20-%20online%20only.pdf?t=202508080858340#page=98)* (read by OCR; check the original)

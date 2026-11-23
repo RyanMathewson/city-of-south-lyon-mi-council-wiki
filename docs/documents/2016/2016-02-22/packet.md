@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "31f851f2f3d1b48458d6b273f09b985bbe75d9f7233153fc8649b570c71c0132"
 source_bytes: 14592607
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 38
 ocr_pages: 38
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2016-02-22
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC021916CCPACKET2-22-16-001.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `31f851f2f3d1b484…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC021916CCPACKET2-22-16-001.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `31f851f2f3d1b484…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC021916CCPACKET2-22-16-001.pdf?t=202108310732570#page=1)* (read by OCR; check the original)
@@ -551,6 +551,11 @@ We hope to be able to call it “Breathe Deep South Lyon” this year. (See bann
 <a id="p18"></a>
 *[Page 18 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC021916CCPACKET2-22-16-001.pdf?t=202108310732570#page=18)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 We thank you in advance for your consideration. If you have any questions, please feel free to reach out for us
 
 Here are the event details if approved...
@@ -562,6 +567,8 @@ Home base: Pavilion at McHattie Park (registration tables, food, prizes for raff
 Here is a photo of our team from last year... Our team is Team Lucky Charm.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p19"></a>
 *[Page 19 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC021916CCPACKET2-22-16-001.pdf?t=202108310732570#page=19)* (read by OCR; check the original)
@@ -1039,6 +1046,11 @@ Date of Application 02/05/16
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC021916CCPACKET2-22-16-001.pdf?t=202108310732570#page=34)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Outdoor Service Area for
 
 St. Patrick's Day Party - Thursday, March 17, 2016
@@ -1046,6 +1058,8 @@ St. Patrick's Day Party - Thursday, March 17, 2016
 11am to Midnight 21 and up Only
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC021916CCPACKET2-22-16-001.pdf?t=202108310732570#page=35)* (read by OCR; check the original)

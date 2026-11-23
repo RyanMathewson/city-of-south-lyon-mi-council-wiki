@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "e328d2105a6b1ace23c52ded111c02bc26e79e9593efd9ec288eb2aceaa77da6"
 source_bytes: 41294437
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 108
 ocr_pages: 108
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2015-07-27
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket7.25.15.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `e328d2105a6b1ace…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket7.25.15.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `e328d2105a6b1ace…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket7.25.15.pdf?t=202108310732570#page=1)* (read by OCR; check the original)
@@ -275,6 +275,11 @@ Mayor Wallace stated he attended the Injured Soldier event on Saturday, there we
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket7.25.15.pdf?t=202108310732570#page=9)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>CM 7-8-15 MOTION TO ADJOURN</div>
 
 Motion by Kivell, supported by Kopkowski
@@ -290,6 +295,8 @@ Respectfully submitted,
 Tedd Wallace Mayor
 
 Lisa Deaton Clerk/Treasurer
+
+</details>
 
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket7.25.15.pdf?t=202108310732570#page=10)* (read by OCR; check the original)
@@ -1538,6 +1545,11 @@ SUGGESTED MOTION: Motion by _____, supported by _____ to approve the purchase of
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket7.25.15.pdf?t=202108310732570#page=47)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # Belt Driven Leaf Collector
 
 *[Image or figure on this page; see the original.]*
@@ -1561,6 +1573,8 @@ Hydraulic Hose Boom
 easier leaf vacuuming
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p48"></a>
 *[Page 48 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket7.25.15.pdf?t=202108310732570#page=48)* (read by OCR; check the original)
@@ -1678,6 +1692,11 @@ Scott Brown
 <a id="p51"></a>
 *[Page 51 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket7.25.15.pdf?t=202108310732570#page=51)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## LV-10000 TITAN LEAF PRO - STANDARD MODEL
 
 ## STANDARD FEATURES
@@ -1711,6 +1730,8 @@ Scott Brown
 UNIT SHALL ALSO COME STANDARD WITH 16" DIAMETER SUCTION AND DISCHARGE HOSE, SAFETY INTERLOCK DEVICE, PINTLE LOOP HITCH, SAFETY CHAINS, TRAILER PLUG, ADJUSTABLE TONGUE, 7000 LB AXLE ASSEMBLY INCLUDING TRAILER BRAKES WITH DEDICATED BATTERY FOR BREAK AWAY SYSTEM, NATIONAL ASSOCIATION OF TRAILER MANUFACTURERS CERTIFICATION, 102"WIDE TOWING WIDTH. ONE YEAR STANDARD MANUFACTURERS WARRANTY.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p52"></a>
 *[Page 52 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket7.25.15.pdf?t=202108310732570#page=52)* (read by OCR; check the original)
@@ -3003,17 +3024,38 @@ Semi-circle is  $ 3\frac{1}{2} \times 3\frac{1}{2} \times \frac{1}{2} $ angle we
 <a id="p96"></a>
 *[Page 96 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket7.25.15.pdf?t=202108310732570#page=96)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p97"></a>
 *[Page 97 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket7.25.15.pdf?t=202108310732570#page=97)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p98"></a>
 *[Page 98 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket7.25.15.pdf?t=202108310732570#page=98)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p99"></a>
 *[Page 99 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket7.25.15.pdf?t=202108310732570#page=99)* (read by OCR; check the original)
@@ -3045,7 +3087,14 @@ Total $ 163,981.00
 <a id="p100"></a>
 *[Page 100 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket7.25.15.pdf?t=202108310732570#page=100)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p101"></a>
 *[Page 101 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket7.25.15.pdf?t=202108310732570#page=101)* (read by OCR; check the original)
@@ -3144,6 +3193,11 @@ Kastan Philips 7-21-15
 <a id="p105"></a>
 *[Page 105 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket7.25.15.pdf?t=202108310732570#page=105)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <table><tr><td>NRIGHT LN
 1207 GENTRY</td><td>1201 GENTRY</td><td>1195 GENTRY</td><td>1189 GENTRY</td><td>1183 GENTRY</td><td>1177 GENTRY</td><td>1171 GENTRY</td><td>1165 GENTRY</td><td>1159 GENTRY</td><td>1153 GENTRY</td></tr><tr><td colspan="9">GENTRY DR.</td><td>1146 GENTRY</td></tr><tr><td colspan="10">CARTWRIGHT-LN</td></tr><tr><td colspan="2">TRY</td><td>1192 GENTRY</td><td>1186 GENTRY</td><td>1180 GENTRY</td><td>1174 GENTRY</td><td>1188 GENTRY</td><td>1162 GENTRY</td><td colspan="2">1140 GENTRY</td></tr><tr><td colspan="2">1204 GENTRY</td><td>1198 GENTRY</td><td>1343 DRURY</td><td>1349 DRURY</td><td>1355 DRURY</td><td>1361 DRURY</td><td>1367 DRURY</td><td>1373 DRURY</td><td>1134 GENTRY</td></tr><tr><td colspan="2">1210 GENTRY</td><td>1337 DRURY</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td colspan="2">1128 GENTRY</td></tr><tr><td colspan="2">1293 COACH HOUSE</td><td>1337 DRURY</td><td colspan="7">DRURY LN</td></tr><tr><td colspan="2">1216 GENTRY</td><td>✓</td><td>1340 DRURY</td><td>1346 DRURY</td><td>1352 DRURY</td><td>1358 DRURY</td><td>1364 DRURY</td><td>1370 DRURY</td><td>1122 GENTRY</td></tr><tr><td colspan="2">1311 COACH HOUSE</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td colspan="2">1116 GENTRY</td></tr><tr><td colspan="2">1317 COACH HOUSE</td><td>1325 DRURY</td><td colspan="2">1329 COACH HOUSE
 1335 COACH HOUSE</td><td colspan="2">1341 COACH HOUSE
@@ -3152,6 +3206,8 @@ Kastan Philips 7-21-15
 1344 COACH HOUSE</td><td colspan="2">1350 COACH HOUSE</td><td colspan="2">1104 GENTRY</td></tr><tr><td colspan="2">HOUSE</td><td colspan="2">1327 BUCKBOARD</td><td colspan="2">1339 BUCKBOARD
 1345 BUCKBOARD</td><td colspan="2">1093 GENTRY</td><td colspan="2">1359 CHAISE
 1375 CHAISE</td></tr></table>
+
+</details>
 
 <a id="p106"></a>
 *[Page 106 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket7.25.15.pdf?t=202108310732570#page=106)* (read by OCR; check the original)
@@ -3228,6 +3284,11 @@ Please come and enjoy a night of laughter and music. A silent auction will take 
 <a id="p108"></a>
 *[Page 108 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket7.25.15.pdf?t=202108310732570#page=108)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
@@ -3237,4 +3298,6 @@ Please come and enjoy a night of laughter and music. A silent auction will take 
 <table><tr><td>ALUMINUM BODY</td><td>MAXIMUM 0.A.H. 125.00°</td><td>SIDE ROLL PROTECTION</td></tr><tr><td>NOTE</td><td>DIMENSIONS SHOWN ARE APPROXIMATE AND ARE SUBJECT TO MINOR DEVIATIONS AS MAY OCCUR OR BE NECESSARY IN CONSTRUCTION. MINOR DETAILS NOT SHOWN.</td><td></td></tr></table>
 
 <table><tr><td colspan="6">CUSTOMER APPROVAL</td><td rowspan="3" colspan="2">Pierce MANUFACTURING INC.</td><td>JOB NO.</td><td>PRELIM</td><td></td></tr><tr><td colspan="6">APPROVED BY:</td><td>SCALE</td><td>DATE</td><td></td></tr><tr><td colspan="6">DATE:</td><td>1:24</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>CHASSIS DATA</td><td>TITLE</td><td>1500-D-750,152", FULL HEIGHT D.S.,LOW P.S.,FDLER (2) SDP-LAYS,DELUGE,GENERATOR,LIGHT TOWER,REELS</td><td>DRAWN BY JWO</td><td>24JUN15</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>MAKE</td><td>/</td><td>C11 OF SOUTH LYON, MI</td><td>BID #563</td><td>CHECKED BY KBO</td><td>30JUN15</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>PIERCE</td><td>$ F_{64} $, HALY FIRE, INC</td><td>TODD LINCOLN</td><td>KBO</td><td></td><td></td></tr><tr><td>☑</td><td>-</td><td>-</td><td>-</td><td>MODEL</td><td rowspan="2">DWG</td><td rowspan="2">NO.</td><td rowspan="2">04-1516</td><td rowspan="2">SHEET SIZE D</td><td>SHEET NO.</td><td></td></tr><tr><td>REV</td><td>DATE</td><td>BY</td><td>CH</td><td>SABER FR</td><td>1 OF 1</td><td></td></tr></table>
+
+</details>
 

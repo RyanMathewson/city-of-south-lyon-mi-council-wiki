@@ -577,9 +577,16 @@ Similar to the Parade of 2016 and in prior years, the following additional infor
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/Council%20Packet%206-26-17.pdf?t=202108310733080#page=23)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## PARADE ROUTE
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/Council%20Packet%206-26-17.pdf?t=202108310733080#page=24)* (read by OCR; check the original)
@@ -1363,6 +1370,11 @@ Lloyd T. Collins, Chief of Police 06/19/17
 <a id="p55"></a>
 *[Page 55 of the original](https://www.southlyonmi.org/Council%20Packet%206-26-17.pdf?t=202108310733080#page=55)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # BLUES BREWS BRATS
 
 Saturday, August 5 2017 - 3pm to 11pm
@@ -1379,8 +1391,15 @@ Andrea Meyer (248) 617-3075
 
 2017
 
+</details>
+
 <a id="p56"></a>
 *[Page 56 of the original](https://www.southlyonmi.org/Council%20Packet%206-26-17.pdf?t=202108310733080#page=56)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # BLUES BREWS BRATS
 
@@ -1389,6 +1408,8 @@ Saturday, August 5, 2017 - 3pm to 11pm
 Whipple Street Parking Lot - Downtown South Lyon
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p57"></a>
 *[Page 57 of the original](https://www.southlyonmi.org/Council%20Packet%206-26-17.pdf?t=202108310733080#page=57)* (read by OCR; check the original)

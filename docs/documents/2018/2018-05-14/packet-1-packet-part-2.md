@@ -512,11 +512,18 @@ http://main.acsevents.org/site/TR/RelayForLife/RFLCY16LS?pg=entry&fr_id=72842
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/5-14-18%20packet%20part%202.pdf?t=202108310733110#page=14)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Pumpkinfest of the South Lyon Area
 
 *[Image or figure on this page; see the original.]*
 
 ## 2018 Festival Map
+
+</details>
 
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/5-14-18%20packet%20part%202.pdf?t=202108310733110#page=15)* (read by OCR; check the original)
@@ -701,6 +708,11 @@ Drop off for the Parade is ONLY from Dixboro Rd; you will enter Pontiac Trail fr
 <a id="p21"></a>
 *[Page 21 of the original](https://www.southlyonmi.org/5-14-18%20packet%20part%202.pdf?t=202108310733110#page=21)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Drop off for Floats: Enter
@@ -718,6 +730,8 @@ Float Staging begins at 7:30 am; Walkers and other groups at 8:30 am
 All Parade attendees need to be lined up by 9:30 am
 
 Parade Route - East on 9 mile from CMS, North on Pontiac Trail, West on Liberty St., North on Warren St. to Bartlett Elem School.
+
+</details>
 
 <a id="p22"></a>
 *[Page 22 of the original](https://www.southlyonmi.org/5-14-18%20packet%20part%202.pdf?t=202108310733110#page=22)* (read by OCR; check the original)
@@ -1321,6 +1335,11 @@ The Board of Review will meet at South Lvon City Hall on Tuesday March 6th at 9:
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/5-14-18%20packet%20part%202.pdf?t=202108310733110#page=42)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 MORTGAGE CERTIFICATE
@@ -1335,8 +1354,15 @@ lender to
 
 that we have measured the property herein described: that there are located entirely thereon building(s) and Improvement(s) and that said building(s) and Improvement(s) are within the property lines and that there are no existing encroachments upon the land and property described, except as shown. LEGAL DESCRIPTION PROVIDED BY OTHERS.
 
+</details>
+
 <a id="p43"></a>
 *[Page 43 of the original](https://www.southlyonmi.org/5-14-18%20packet%20part%202.pdf?t=202108310733110#page=43)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # CONTACT: PAT ALLEN 248 437 3494
 
@@ -1345,6 +1371,8 @@ that we have measured the property herein described: that there are located enti
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/5-14-18%20packet%20part%202.pdf?t=202108310733110#page=44)* (read by OCR; check the original)

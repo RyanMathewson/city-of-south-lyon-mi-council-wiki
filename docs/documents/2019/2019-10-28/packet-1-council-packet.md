@@ -299,6 +299,11 @@ Mayor Pelchat stated he is happy the Veterans Memorial is now moved. It took lot
 <a id="p13"></a>
 *[Page 13 of the original](https://www.southlyonmi.org/10-28-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=13)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 CM 10-9-19 MOTION TO ADJOURN
 
 Motion by Kurtzweil, supported by Kennedy
@@ -314,6 +319,8 @@ Respectfully submitted,
 *[Image or figure on this page; see the original.]*
 
 Mayor Dan Pelchat
+
+</details>
 
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/10-28-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=14)* (read by OCR; check the original)
@@ -1076,6 +1083,11 @@ Answered: 22 Skipped: 0
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/10-28-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=44)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Q2: What are South Lyon's three greatest business advantages?
 
 Top mentions include the supportive community and the small town feel, growth, location, and affordability.
@@ -1086,12 +1098,21 @@ Answered: 20 Skipped: 2
 
 Powered by SurveyMonkey
 
+</details>
+
 <a id="p45"></a>
 *[Page 45 of the original](https://www.southlyonmi.org/10-28-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=45)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 Top mentions include traffic, lack of business diversity, issues with city officials/regulations, and high taxes
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p46"></a>
 *[Page 46 of the original](https://www.southlyonmi.org/10-28-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=46)* (read by OCR; check the original)
@@ -1139,6 +1160,11 @@ Answered: 22 Skipped: 0
 <a id="p49"></a>
 *[Page 49 of the original](https://www.southlyonmi.org/10-28-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=49)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Q7: Are there local events you find beneficial to your business? If so, please list or describe below:
 
 Pumpkinfest was the event most often mentioned as beneficial to business.
@@ -1148,6 +1174,8 @@ Pumpkinfest was the event most often mentioned as beneficial to business.
 Answered: 17 Skipped: 5
 
 Powered by SurveyMonkey
+
+</details>
 
 <a id="p50"></a>
 *[Page 50 of the original](https://www.southlyonmi.org/10-28-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=50)* (read by OCR; check the original)
@@ -1180,6 +1208,11 @@ Powered by SurveyMonkey
 <a id="p52"></a>
 *[Page 52 of the original](https://www.southlyonmi.org/10-28-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=52)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Q10: If you have interacted with any of the following City departments in recent years, how would you rate them (on a scale of 1 to 5) in terms of providing helpful and/or prompt service?</div>
 
 <div>The Police Department and Fire Department have the highest ratings, with averages of 4.6 and 4.5 respectively.</div>
@@ -1189,6 +1222,8 @@ Powered by SurveyMonkey
 <div>Answered: 21 Skipped: 1</div>
 
 Powered by d SurveyMonkey
+
+</details>
 
 <a id="p53"></a>
 *[Page 53 of the original](https://www.southlyonmi.org/10-28-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=53)* (read by OCR; check the original)
@@ -1291,11 +1326,18 @@ Answered: 10 Skipped: 12
 <a id="p57"></a>
 *[Page 57 of the original](https://www.southlyonmi.org/10-28-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=57)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>Answered: 22 Skipped: 0</div>
 
 Powered by SurveyMonkey
+
+</details>
 
 <a id="p58"></a>
 *[Page 58 of the original](https://www.southlyonmi.org/10-28-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=58)* (read by OCR; check the original)
@@ -1311,5 +1353,12 @@ Powered by SurveyMonkey
 <a id="p59"></a>
 *[Page 59 of the original](https://www.southlyonmi.org/10-28-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=59)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Q16: What is your age?</div>
+
+</details>
 

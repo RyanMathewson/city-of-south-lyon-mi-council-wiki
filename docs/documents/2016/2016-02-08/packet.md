@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "870810ab7bdf923a03f4398fb76e8895b24af60acf193e2b1ad3e78f5bdafeb6"
 source_bytes: 4726321
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 118
 ocr_pages: 118
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2016-02-08
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC020416CCpacket2-8-16.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `870810ab7bdf923a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC020416CCpacket2-8-16.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `870810ab7bdf923a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC020416CCpacket2-8-16.pdf?t=202108310732570#page=1)* (read by OCR; check the original)
@@ -353,6 +353,11 @@ Mayor Galeas stated he toured the water plant and he understands the commitment 
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC020416CCpacket2-8-16.pdf?t=202108310732570#page=15)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Mayor Galeas called for adjournment at 11:40 p.m.
 
 Respectfully submitted.
@@ -360,6 +365,8 @@ Respectfully submitted.
 Mayor John Galeas
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC020416CCpacket2-8-16.pdf?t=202108310732570#page=16)* (read by OCR; check the original)
@@ -2018,6 +2025,11 @@ South Lyon, Michigan 48178
 <a id="p77"></a>
 *[Page 77 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC020416CCpacket2-8-16.pdf?t=202108310732570#page=77)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## PEA
@@ -2025,6 +2037,8 @@ South Lyon, Michigan 48178
 <table><tr><td></td><td>SCALE:  $ 1^{{1/2}}=200^{{f}} $</td><td>FIELD: AC/JW</td><td>DRAWN: PLK</td></tr><tr><td rowspan="3">2000 E Grand River Ave. Howell, MI 48843 (617) 546-8583</td><td>DATE: 11-30-12</td><td rowspan="2">Q 100 200</td><td rowspan="2">-500</td></tr><tr><td>JOB: 2011088</td></tr><tr><td>DWG. No: 1 of 2</td><td colspan="2">FILE: J1088-UTIL-ESMTSDWG. REMSDE: 01-17-2014</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p78"></a>
 *[Page 78 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC020416CCpacket2-8-16.pdf?t=202108310732570#page=78)* (read by OCR; check the original)
@@ -3150,9 +3164,16 @@ South Lyon, Michigan 48178
 <a id="p110"></a>
 *[Page 110 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC020416CCpacket2-8-16.pdf?t=202108310732570#page=110)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p111"></a>
 *[Page 111 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC020416CCpacket2-8-16.pdf?t=202108310732570#page=111)* (read by OCR; check the original)

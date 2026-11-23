@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "27de3740b0e71525714dbd7ad97f750188e7e7a72018fa28e56b98effe0c4048"
 source_bytes: 8398551
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 126
 ocr_pages: 126
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2011-10-10
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/101011councilpacket.pdf?t=202108310733000) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `27de3740b0e71525…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/101011councilpacket.pdf?t=202108310733000) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `27de3740b0e71525…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/101011councilpacket.pdf?t=202108310733000#page=1)* (read by OCR; check the original)
@@ -3062,6 +3062,11 @@ Existing facilities in Public Rights-of-Way within Municipality as of the date t
 <a id="p120"></a>
 *[Page 120 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/101011councilpacket.pdf?t=202108310733000#page=120)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Paetec Fiber Optic Route
@@ -3075,6 +3080,8 @@ PROPRIETARY
 Subject to Change Without Notice
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p121"></a>
 *[Page 121 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/101011councilpacket.pdf?t=202108310733000#page=121)* (read by OCR; check the original)

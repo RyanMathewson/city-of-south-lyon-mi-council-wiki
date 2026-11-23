@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/April%2023%202018%20Council%20packet%20
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "8983f5d4a9cb60a5c18a12c5cb6842c5b6d4fd5d2922727857e490a31dd85093"
 source_bytes: 6727471
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 115
 ocr_pages: 115
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2018-04-23
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/April%2023%202018%20Council%20packet%20part%202.pdf?t=202108310733110) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `8983f5d4a9cb60a5…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/April%2023%202018%20Council%20packet%20part%202.pdf?t=202108310733110) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `8983f5d4a9cb60a5…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/April%2023%202018%20Council%20packet%20part%202.pdf?t=202108310733110#page=1)* (read by OCR; check the original)
@@ -935,7 +935,14 @@ South Lyon, MI 48178</td><td>SHOULD ANY OF THE ABOVE DESCRIBED POLICIES BE CANCE
 <a id="p58"></a>
 *[Page 58 of the original](https://www.southlyonmi.org/April%2023%202018%20Council%20packet%20part%202.pdf?t=202108310733110#page=58)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p59"></a>
 *[Page 59 of the original](https://www.southlyonmi.org/April%2023%202018%20Council%20packet%20part%202.pdf?t=202108310733110#page=59)* (read by OCR; check the original)
@@ -1149,10 +1156,22 @@ Date
 <a id="p67"></a>
 *[Page 67 of the original](https://www.southlyonmi.org/April%2023%202018%20Council%20packet%20part%202.pdf?t=202108310733110#page=67)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p68"></a>
 *[Page 68 of the original](https://www.southlyonmi.org/April%2023%202018%20Council%20packet%20part%202.pdf?t=202108310733110#page=68)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # ALL DAY CAR SHOW
 
@@ -1175,6 +1194,8 @@ Best of Show Award
 SPONSORED BY
 
 Fortune Tool and Machine · Vanguard Motor Sales · Automotive Supply Co. · Shadow Rods · R Creations
+
+</details>
 
 <a id="p69"></a>
 *[Page 69 of the original](https://www.southlyonmi.org/April%2023%202018%20Council%20packet%20part%202.pdf?t=202108310733110#page=69)* (read by OCR; check the original)
@@ -1325,6 +1346,11 @@ SHAFT AND BEARING ASSEMBLY WAS PULLED FROM THE POWERFRAME.
 <a id="p73"></a>
 *[Page 73 of the original](https://www.southlyonmi.org/April%2023%202018%20Council%20packet%20part%202.pdf?t=202108310733110#page=73)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 POWERFRAME IS WITHIN TOLERANCE (PHOTO L)
 
 THE 4 BOLTS HOLDING THE SEAL
@@ -1349,25 +1375,55 @@ MOTOR SUPPORT CAN BE RE-USED (PHOTO R)
 
 PHOTO G
 
+</details>
+
 <a id="p74"></a>
 *[Page 74 of the original](https://www.southlyonmi.org/April%2023%202018%20Council%20packet%20part%202.pdf?t=202108310733110#page=74)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p75"></a>
 *[Page 75 of the original](https://www.southlyonmi.org/April%2023%202018%20Council%20packet%20part%202.pdf?t=202108310733110#page=75)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p76"></a>
 *[Page 76 of the original](https://www.southlyonmi.org/April%2023%202018%20Council%20packet%20part%202.pdf?t=202108310733110#page=76)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p77"></a>
 *[Page 77 of the original](https://www.southlyonmi.org/April%2023%202018%20Council%20packet%20part%202.pdf?t=202108310733110#page=77)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p78"></a>
 *[Page 78 of the original](https://www.southlyonmi.org/April%2023%202018%20Council%20packet%20part%202.pdf?t=202108310733110#page=78)* (read by OCR; check the original)
@@ -2001,7 +2057,10 @@ Attached: Photographs of dumping at the south end of Volunteer Park, March 2013.
 <a id="p105"></a>
 *[Page 105 of the original](https://www.southlyonmi.org/April%2023%202018%20Council%20packet%20part%202.pdf?t=202108310733110#page=105)* (read by OCR; check the original)
 
-*[Image or figure on this page; see the original.]*
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -2014,6 +2073,10 @@ Attached: Photographs of dumping at the south end of Volunteer Park, March 2013.
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+*[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p106"></a>
 *[Page 106 of the original](https://www.southlyonmi.org/April%2023%202018%20Council%20packet%20part%202.pdf?t=202108310733110#page=106)* (read by OCR; check the original)
@@ -2152,7 +2215,14 @@ SUGGESTED MOTION: Motion to approve expansion of the Farmers Market into the are
 <a id="p110"></a>
 *[Page 110 of the original](https://www.southlyonmi.org/April%2023%202018%20Council%20packet%20part%202.pdf?t=202108310733110#page=110)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 S. LAFAYETTE
+
+</details>
 
 <a id="p111"></a>
 *[Page 111 of the original](https://www.southlyonmi.org/April%2023%202018%20Council%20packet%20part%202.pdf?t=202108310733110#page=111)* (read by OCR; check the original)
@@ -2163,6 +2233,11 @@ ayette St
 
 <a id="p112"></a>
 *[Page 112 of the original](https://www.southlyonmi.org/April%2023%202018%20Council%20packet%20part%202.pdf?t=202108310733110#page=112)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -2175,6 +2250,8 @@ S. LAFAYETTE.
 N→
 
 EXPANSION AREA
+
+</details>
 
 <a id="p113"></a>
 *[Page 113 of the original](https://www.southlyonmi.org/April%2023%202018%20Council%20packet%20part%202.pdf?t=202108310733110#page=113)* (read by OCR; check the original)
@@ -2202,7 +2279,14 @@ TOTAL CITY $1,902.
 <a id="p114"></a>
 *[Page 114 of the original](https://www.southlyonmi.org/April%2023%202018%20Council%20packet%20part%202.pdf?t=202108310733110#page=114)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p115"></a>
 *[Page 115 of the original](https://www.southlyonmi.org/April%2023%202018%20Council%20packet%20part%202.pdf?t=202108310733110#page=115)* (read by OCR; check the original)

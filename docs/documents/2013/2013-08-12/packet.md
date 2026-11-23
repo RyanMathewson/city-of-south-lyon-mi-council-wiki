@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "755ea8534f8a21623edf11b359dfb1b4df1e9844b4297affd61ccd0193454f44"
 source_bytes: 7440580
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 70
 ocr_pages: 70
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2013-08-12
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC080913CCpacket8-12-13.pdf?t=202108310732580) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `755ea8534f8a2162…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC080913CCpacket8-12-13.pdf?t=202108310732580) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `755ea8534f8a2162…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC080913CCpacket8-12-13.pdf?t=202108310732580#page=1)* (read by OCR; check the original)
@@ -903,6 +903,11 @@ Date: ___ ,2013
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC080913CCpacket8-12-13.pdf?t=202108310732580#page=42)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 City of South Lyon – Police Department
 
 Proposed Transfer Switches Locations
@@ -921,12 +926,21 @@ Also note open LB below air-conditioning meter requiring cover.
 
 Main Police Department Building Approximate location of ATS and Power Plug Post. Control Power Plug(s) to be mounted on same post.
 
+</details>
+
 <a id="p43"></a>
 *[Page 43 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC080913CCpacket8-12-13.pdf?t=202108310732580#page=43)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 South Lyon Main Police Department Building Approximate location of 400-amp ATS
+
+</details>
 
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC080913CCpacket8-12-13.pdf?t=202108310732580#page=44)* (read by OCR; check the original)
@@ -1272,7 +1286,14 @@ Lloyd T. Collins, Chief of Police
 <a id="p53"></a>
 *[Page 53 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC080913CCpacket8-12-13.pdf?t=202108310732580#page=53)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p54"></a>
 *[Page 54 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC080913CCpacket8-12-13.pdf?t=202108310732580#page=54)* (read by OCR; check the original)
@@ -1548,13 +1569,20 @@ Y. K. G. Book
 <a id="p63"></a>
 *[Page 63 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC080913CCpacket8-12-13.pdf?t=202108310732580#page=63)* (read by OCR; check the original)
 
-*[Image or figure on this page; see the original.]*
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+*[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p64"></a>
 *[Page 64 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC080913CCpacket8-12-13.pdf?t=202108310732580#page=64)* (read by OCR; check the original)

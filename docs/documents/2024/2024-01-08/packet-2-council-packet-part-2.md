@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "fcc196bc506392955f136d1fd88c7aeca7599240ede57df6583707faaf24e695"
 source_bytes: 11228816
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 229
 ocr_pages: 229
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2024-01-08
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `fcc196bc50639295…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `fcc196bc50639295…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=1)* (read by OCR; check the original)
@@ -1455,6 +1455,11 @@ Office: (248) 344-1885 Mobile: (248) 939-7564
 <a id="p59"></a>
 *[Page 59 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=59)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 NOTICE:
@@ -1495,13 +1500,27 @@ ENVIRONMENT SURVEYS
 TOPOLOGICAL SURVEYS
 PARCEL SPLIES</td></tr></table>
 
+</details>
+
 <a id="p60"></a>
 *[Page 60 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=60)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p61"></a>
 *[Page 61 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=61)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 WESTLAKE
 
@@ -1519,10 +1538,19 @@ OFF-SITE IMPROVEMENT PLAN
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p62"></a>
 *[Page 62 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=62)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p63"></a>
 *[Page 63 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=63)* (read by OCR; check the original)
@@ -1543,21 +1571,40 @@ Monday, January 8, 2024 @ 7:30pm
 <a id="p65"></a>
 *[Page 65 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=65)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>1 SITE PLAN</div>
 
 *[Image or figure on this page; see the original.]*
 
 <div>WESTLAKE PLACE</div>
 
+</details>
+
 <a id="p66"></a>
 *[Page 66 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=66)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>2 SITE ILLUSTRATIONS - GATEWAY TO SOUTH LYON</div>
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p67"></a>
 *[Page 67 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=67)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>3 SITE ILLUSTRATIONS – PROPOSED BOULEVARD ENTRANCE</div>
 
@@ -1565,8 +1612,15 @@ Monday, January 8, 2024 @ 7:30pm
 
 <div>WESTLAKE PLACE</div>
 
+</details>
+
 <a id="p68"></a>
 *[Page 68 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=68)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>4 SITE ILLUSTRATIONS – OVERALL SITE</div>
 
@@ -1576,8 +1630,15 @@ Monday, January 8, 2024 @ 7:30pm
 
 ## WESTLAKE PLACE
 
+</details>
+
 <a id="p69"></a>
 *[Page 69 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=69)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>5 SITE ILLUSTRATIONS – INDUSTRIAL ENTRANCE</div>
 
@@ -1585,8 +1646,15 @@ Monday, January 8, 2024 @ 7:30pm
 
 WESTLAKE PLACE
 
+</details>
+
 <a id="p70"></a>
 *[Page 70 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=70)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1596,8 +1664,15 @@ WESTLAKE PLACE
 
 WESTLAKE PLACE
 
+</details>
+
 <a id="p71"></a>
 *[Page 71 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=71)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 GARAGE & STORAGE ELEVATION
 
@@ -1619,8 +1694,15 @@ POOL AND GYM FIRE PITS PICKLE BALL COURT COMMUNITY GARDEN DOG PARK BIKE RACKS GA
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p72"></a>
 *[Page 72 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=72)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>8 INDUSTRIAL CONCEPTS</div>
 
@@ -1636,8 +1718,15 @@ EXTERIOR ELEVATION
 
 <div>WESTLAKE PLACE</div>
 
+</details>
+
 <a id="p73"></a>
 *[Page 73 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=73)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>10 ENVIRONMENTAL IMPACT</div>
 
@@ -1650,6 +1739,8 @@ SECTION THROUGH CROSSING
 *[Image or figure on this page; see the original.]*
 
 <div>WESTLAKE PLACE</div>
+
+</details>
 
 <a id="p74"></a>
 *[Page 74 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=74)* (read by OCR; check the original)
@@ -1867,25 +1958,46 @@ Section 1-C
 <a id="p88"></a>
 *[Page 88 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=88)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Preferred Contract Rents | South Lyon Maximum # of New Builds | Year 2025
 
 *[Image or figure on this page; see the original.]*
 
 Based on the results of a Target Market Analysis and study of households moving into the local market. Analysis & exhibit prepared by LandUseUSA | Urban Strategies; 2023.
 
+</details>
+
 <a id="p89"></a>
 *[Page 89 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=89)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Typical New-Build Rents | South Lyon Maximum # of New Builds | Year 2025
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p90"></a>
 *[Page 90 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=90)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # Optimal New-Build Rents | Westlake PUD Maximum # of New Builds | Year 2025
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p91"></a>
 *[Page 91 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=91)* (read by OCR; check the original)
@@ -1916,9 +2028,16 @@ Estimates and forecasts prepared by LandUseUSA | Urban Strategies; July 2023. Ba
 <a id="p93"></a>
 *[Page 93 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=93)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Source: Underlying data gathered by LandUseUSA through field research, phone interviews, and property assessors records. The cities represent mailing addresses, so may include some choices in the surrounding townships.
+
+</details>
 
 <a id="p94"></a>
 *[Page 94 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=94)* (read by OCR; check the original)
@@ -1928,11 +2047,18 @@ Source: Underlying data gathered by LandUseUSA through field research, phone int
 <a id="p95"></a>
 *[Page 95 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=95)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Annual Market Potential | South Lyon Aggregate Migrating Renters | Year 2025
 
 *[Image or figure on this page; see the original.]*
 
 Underlying Mosaic Lifestyle Clusters provided by Experian Decision Analytics through 2021. Analysis & exhibit prepared by LandUseUSA | Urban Strategies; 2023.
+
+</details>
 
 <a id="p96"></a>
 *[Page 96 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=96)* (read by OCR; check the original)
@@ -3211,6 +3337,11 @@ Section 1-G
 <a id="p106"></a>
 *[Page 106 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=106)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # Wired for Success | K37
 
 Lifestyles and Housing Preferences | National Averages
@@ -3236,6 +3367,8 @@ LandUseUSA
 UrbanStrategies
 
 Source: Underlying data by Experian Decision Analytics; exhibit and analysis by LandUseUSA | Urban Strategies © 2023 with all rights reserved.
+
+</details>
 
 <a id="p107"></a>
 *[Page 107 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=107)* (read by OCR; check the original)
@@ -3275,6 +3408,11 @@ Source: Underlying data by Experian Decision Analytics; exhibit and analysis by 
 <a id="p108"></a>
 *[Page 108 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=108)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # Full Steam Ahead | O50
 
 Lifestyles and Housing Preferences | National Averages
@@ -3295,8 +3433,15 @@ Households by Tenure
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p109"></a>
 *[Page 109 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=109)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # Striving Single Scene | O54
 
@@ -3327,6 +3472,8 @@ Owners Renters
 LandUseUSA
 
 UrbanStrategies
+
+</details>
 
 <a id="p110"></a>
 *[Page 110 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=110)* (read by OCR; check the original)
@@ -3377,20 +3524,34 @@ Section 1-H
 <a id="p112"></a>
 *[Page 112 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=112)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## 1 -36 Lifestyle Clusters | South Lyon City
 
 Number of existing households among all 71 lifestyle clusters in the year 2022.
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p113"></a>
 *[Page 113 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=113)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## 37 -71 Lifestyle Clusters | South Lyon City
 
 Number of existing households among all 71 lifestyle clusters in the year 2022.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p114"></a>
 *[Page 114 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=114)* (read by OCR; check the original)
@@ -3400,6 +3561,11 @@ Number of existing households among all 71 lifestyle clusters in the year 2022.
 <a id="p115"></a>
 *[Page 115 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=115)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Movership Rate by Tenure | South Lyon City
 
 Movership rates by tenure (owners v. renters) for the City of South Lyon, 2010-2021. (A movership rate is the share of households that move in any given year.)
@@ -3407,6 +3573,8 @@ Movership rates by tenure (owners v. renters) for the City of South Lyon, 2010-2
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p116"></a>
 *[Page 116 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=116)* (read by OCR; check the original)
@@ -3416,14 +3584,26 @@ Movership rates by tenure (owners v. renters) for the City of South Lyon, 2010-2
 <a id="p117"></a>
 *[Page 117 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=117)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Site Plan (Dated 06-15-23)
 
 Westlake PUD, South Lyon, Michigan
 
+</details>
+
 <a id="p118"></a>
 *[Page 118 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=118)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -3432,6 +3612,8 @@ Geographic Setting
 Westlake PUD, South Lyon, Michigan
 
 <table><tr><td colspan="4">1:25,000</td></tr><tr><td>0</td><td>0.2</td><td>0.4</td><td>0.8 mi</td></tr><tr><td>1</td><td>1.1</td><td>1.2</td><td>1.3 km</td></tr><tr><td>0</td><td>0.33</td><td>0.65</td><td></td></tr></table>
+
+</details>
 
 <a id="p119"></a>
 *[Page 119 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=119)* (read by OCR; check the original)
@@ -3704,6 +3886,11 @@ E&V
 <a id="p128"></a>
 *[Page 128 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=128)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 FIGURE 2
@@ -3730,8 +3917,15 @@ PROPOSED LANE USE
 
 UNSIGNALIZED INTERSECTION
 
+</details>
+
 <a id="p129"></a>
 *[Page 129 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=129)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -3739,8 +3933,15 @@ EXISTING TRAFFIC VOLUMES
 
 WEST LAKE PUD - SOUTH LYON, MI
 
+</details>
+
 <a id="p130"></a>
 *[Page 130 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=130)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 FIGURE 4
 
@@ -3752,15 +3953,29 @@ WEST LAKE PUD - SOUTH LYON, MI
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p131"></a>
 *[Page 131 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=131)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 SITE-GENERATED TRAFFIC VOLUMES
 
+</details>
+
 <a id="p132"></a>
 *[Page 132 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=132)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -3768,10 +3983,19 @@ FUTURE TRAFFIC VOLUMES
 
 WEST LAKE PUD - SOUTH LYON, MI
 
+</details>
+
 <a id="p133"></a>
 *[Page 133 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=133)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p134"></a>
 *[Page 134 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=134)* (read by OCR; check the original)
@@ -4293,6 +4517,11 @@ Zone wide Queuing Penalty: 0
 <a id="p177"></a>
 *[Page 177 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=177)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <table><tr><td rowspan="4">SEIBER KEAST LEHNER ENGINEERING | SURVEYING CONSULTING ENGINEERS
 39205 COUNTRY CLUB DR • SUITE CB • FARMINGTON HILLS • MI
 246.308.3331</td><td colspan="3">WETLAND CROSSING CROSS SECTION A-A</td></tr><tr><td>REVISIONS</td><td>WESTLAKE</td><td>SCALE:
@@ -4304,12 +4533,21 @@ OAKLAND COUNTY, MICHIGAN</td><td>2</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p178"></a>
 *[Page 178 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=178)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td rowspan="2"></td><td colspan="2">REVISIONS</td><td colspan="2">PLAN VIEW</td></tr><tr><td>DATE</td><td>DATE</td><td>WESTLAKE</td><td>SCALE:  $ 1' = 60'  $</td></tr><tr><td>SLL SEIBER KEAST LEHNER ENGINEERING | SURVEYING</td><td>1</td><td>1</td><td>JOB NO.: 22-249</td><td>1</td></tr><tr><td>CONSULTING ENGINEERS</td><td></td><td>CITY OF SOUTH LYON</td><td>DATE: 1-4-2024</td><td></td></tr><tr><td>39205 COUNTRY CLUB DR • SUITE CS • FARMINGTON HILLS • MI 240-308-3331</td><td></td><td>OAKLAND COUNTY, MICHIGAN</td><td>CHECKED BY: C.S.</td><td>SHEET</td></tr></table>
+
+</details>
 
 <a id="p179"></a>
 *[Page 179 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401050947150#page=179)* (read by OCR; check the original)

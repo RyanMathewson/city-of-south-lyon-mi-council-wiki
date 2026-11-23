@@ -548,6 +548,11 @@ Training included
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket12.28.15.pdf?t=202108310732570#page=16)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 South Lyon
 
 Cable Commission
@@ -555,6 +560,8 @@ Cable Commission
 South Lyon Community Television
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket12.28.15.pdf?t=202108310732570#page=17)* (read by OCR; check the original)
@@ -1140,6 +1147,11 @@ Telephone: (248) 437-1735 / Fax: (248) 486-0049
 <a id="p36"></a>
 *[Page 36 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket12.28.15.pdf?t=202108310732570#page=36)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## STRATEGIC PLANNING AND GOAL SETTING Program Overview
 
 *[Image or figure on this page; see the original.]*
@@ -1157,6 +1169,8 @@ Ann Arbor, MI 48105
 734.669.6311
 
 green@mml.org
+
+</details>
 
 <a id="p37"></a>
 *[Page 37 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket12.28.15.pdf?t=202108310732570#page=37)* (read by OCR; check the original)
@@ -1527,7 +1541,14 @@ Parent's Signature if under 18 years: ___ Date: ___
 <a id="p50"></a>
 *[Page 50 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket12.28.15.pdf?t=202108310732570#page=50)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p51"></a>
 *[Page 51 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket12.28.15.pdf?t=202108310732570#page=51)* (read by OCR; check the original)

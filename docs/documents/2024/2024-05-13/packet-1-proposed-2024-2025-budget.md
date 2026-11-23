@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/FY%202024-2025%20Budget%20for%20Council
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "0169943c7b2ab7629ac96faae0751aa3c96a0c4764f455856744d2c5f27b9815"
 source_bytes: 2597765
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 109
 ocr_pages: 109
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2024-05-13
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/FY%202024-2025%20Budget%20for%20Council%20Approval%205-13-2024.pdf?t=202405091639000) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `0169943c7b2ab762…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/FY%202024-2025%20Budget%20for%20Council%20Approval%205-13-2024.pdf?t=202405091639000) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `0169943c7b2ab762…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/FY%202024-2025%20Budget%20for%20Council%20Approval%205-13-2024.pdf?t=202405091639000#page=1)* (read by OCR; check the original)
@@ -487,8 +487,6 @@ iv. The fire engine driver puts the fire engine in pump to flow water.
 <a id="p19"></a>
 *[Page 19 of the original](https://www.southlyonmi.org/FY%202024-2025%20Budget%20for%20Council%20Approval%205-13-2024.pdf?t=202405091639000#page=19)* (read by OCR; check the original)
 
-*[OCR note: this page may contain text repeated by the OCR software; check the original.]*
-
 # FIRE DEPARTMENT
 
 v. The firefighter flakes out from the truck and then pulls the attack hose line to the front door.
@@ -505,8 +503,6 @@ c. Anytime a firefighter enters a home for any reason (EMS, CO alarm, Smoke alar
 
 <a id="p20"></a>
 *[Page 20 of the original](https://www.southlyonmi.org/FY%202024-2025%20Budget%20for%20Council%20Approval%205-13-2024.pdf?t=202405091639000#page=20)* (read by OCR; check the original)
-
-*[OCR note: this page may contain text repeated by the OCR software; check the original.]*
 
 <div>Proposed</div>
 

@@ -362,6 +362,11 @@ MOTION CARRIED
 <a id="p12"></a>
 *[Page 12 of the original](https://www.southlyonmi.org/9.11.17%20rev%20council%20packet.pdf?t=202108310733080#page=12)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Motion by Wedell, supported by Kivell
 
 Motion to reconvene the regular council meeting at 10:10
@@ -415,6 +420,8 @@ Mayor John Galeas
 *[Image or figure on this page; see the original.]*
 
 Clerk Lisa Deaton
+
+</details>
 
 <a id="p13"></a>
 *[Page 13 of the original](https://www.southlyonmi.org/9.11.17%20rev%20council%20packet.pdf?t=202108310733080#page=13)* (read by OCR; check the original)
@@ -934,6 +941,11 @@ Carmine Avantini, CIB Planning (via email)
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/9.11.17%20rev%20council%20packet.pdf?t=202108310733080#page=41)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
@@ -956,35 +968,70 @@ Dale Created: 8/2/2016
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/9.11.17%20rev%20council%20packet.pdf?t=202108310733080#page=42)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p43"></a>
 *[Page 43 of the original](https://www.southlyonmi.org/9.11.17%20rev%20council%20packet.pdf?t=202108310733080#page=43)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## EXHIBIT 'B' MILFORD INDUSTRIAL CENTER
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/9.11.17%20rev%20council%20packet.pdf?t=202108310733080#page=44)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td>1-19-94</td><td>PROPOSED</td></tr><tr><td>80151001</td><td>MILFORD INDUSTRIAL CENTER</td></tr><tr><td></td><td>SITE PLAN</td></tr><tr><td></td><td>2226611 WENGH
 Jiangsh Road, Quzhou 210000</td></tr><tr><td></td><td>4</td></tr></table>
 
+</details>
+
 <a id="p45"></a>
 *[Page 45 of the original](https://www.southlyonmi.org/9.11.17%20rev%20council%20packet.pdf?t=202108310733080#page=45)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p46"></a>
 *[Page 46 of the original](https://www.southlyonmi.org/9.11.17%20rev%20council%20packet.pdf?t=202108310733080#page=46)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## 32 acres
 
@@ -1009,6 +1056,8 @@ FLOODWAY - FEMA Floodplain
 *[Image or figure on this page; see the original.]*
 
 Disclaimer: The information provided herewith has been compiled from recorded deeds, plats, tax maps, surveys and other public records. It is not a legally recorded map or survey and is not intended to be used as one. Users should consult the information sources mentioned above when questions arise. FEMA Flooplain data may not always be present on the map.
+
+</details>
 
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/9.11.17%20rev%20council%20packet.pdf?t=202108310733080#page=47)* (read by OCR; check the original)

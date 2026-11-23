@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/8-26-19%20Council%20Packet%20-%20MST%20
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "bcec1a1c570c4a1d9ab3efcd02b42f6cd86d1ca7f2f25476aaebbfe8576bf78b"
 source_bytes: 7184802
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 141
 ocr_pages: 141
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2019-08-26
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/8-26-19%20Council%20Packet%20-%20MST%20supporting%20docs.pdf?t=202108310733140) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `bcec1a1c570c4a1d…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/8-26-19%20Council%20Packet%20-%20MST%20supporting%20docs.pdf?t=202108310733140) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `bcec1a1c570c4a1d…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/8-26-19%20Council%20Packet%20-%20MST%20supporting%20docs.pdf?t=202108310733140#page=1)* (read by OCR; check the original)
@@ -1745,16 +1745,30 @@ T1N, R7E, SEC 30 PART OF NE 1/4 BEG AT PT ON SLY LINE GTRR R/W DIST S 86-14-30 W
 <a id="p88"></a>
 *[Page 88 of the original](https://www.southlyonmi.org/8-26-19%20Council%20Packet%20-%20MST%20supporting%20docs.pdf?t=202108310733140#page=88)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p89"></a>
 *[Page 89 of the original](https://www.southlyonmi.org/8-26-19%20Council%20Packet%20-%20MST%20supporting%20docs.pdf?t=202108310733140#page=89)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>Animal Photography: Oster2005</div>
 
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p90"></a>
 *[Page 90 of the original](https://www.southlyonmi.org/8-26-19%20Council%20Packet%20-%20MST%20supporting%20docs.pdf?t=202108310733140#page=90)* (read by OCR; check the original)
@@ -1858,6 +1872,11 @@ File #60273614
 <a id="p97"></a>
 *[Page 97 of the original](https://www.southlyonmi.org/8-26-19%20Council%20Packet%20-%20MST%20supporting%20docs.pdf?t=202108310733140#page=97)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## 2015 Summary Report for Michigan Seamless Tube, LLC Site
 
 *[Image or figure on this page; see the original.]*
@@ -1865,6 +1884,8 @@ File #60273614
 MID 082 767 591
 
 Project No.: 60273614
+
+</details>
 
 <a id="p98"></a>
 *[Page 98 of the original](https://www.southlyonmi.org/8-26-19%20Council%20Packet%20-%20MST%20supporting%20docs.pdf?t=202108310733140#page=98)* (read by OCR; check the original)
@@ -3092,6 +3113,11 @@ Figures
 <a id="p137"></a>
 *[Page 137 of the original](https://www.southlyonmi.org/8-26-19%20Council%20Packet%20-%20MST%20supporting%20docs.pdf?t=202108310733140#page=137)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Michigan Seamless Tube Site
@@ -3116,8 +3142,15 @@ Michigan Seamless Tube, LLC.
 
 April 2015
 
+</details>
+
 <a id="p138"></a>
 *[Page 138 of the original](https://www.southlyonmi.org/8-26-19%20Council%20Packet%20-%20MST%20supporting%20docs.pdf?t=202108310733140#page=138)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -3129,13 +3162,27 @@ Michigan Seamless Tube, LLC
 
 Figure 2
 
+</details>
+
 <a id="p139"></a>
 *[Page 139 of the original](https://www.southlyonmi.org/8-26-19%20Council%20Packet%20-%20MST%20supporting%20docs.pdf?t=202108310733140#page=139)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p140"></a>
 *[Page 140 of the original](https://www.southlyonmi.org/8-26-19%20Council%20Packet%20-%20MST%20supporting%20docs.pdf?t=202108310733140#page=140)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -3173,8 +3220,17 @@ MICHIGAN SEAMLESS TUBE, LLC SOUTH LYON, MICHIGAN
 
 Aerial Photography Date: 2005
 
+</details>
+
 <a id="p141"></a>
 *[Page 141 of the original](https://www.southlyonmi.org/8-26-19%20Council%20Packet%20-%20MST%20supporting%20docs.pdf?t=202108310733140#page=141)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 

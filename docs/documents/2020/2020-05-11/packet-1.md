@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/5-11-20%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "8cb0ca9ed3b03071fa96299d358e25fea0ab920c8640cdf86e5f19e58620dcab"
 source_bytes: 1328267
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 35
 ocr_pages: 35
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2020-05-11
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/5-11-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `8cb0ca9ed3b03071…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/5-11-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `8cb0ca9ed3b03071…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/5-11-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=1)* (read by OCR; check the original)
@@ -938,7 +938,14 @@ Email: lane.chilton@veolia.com
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/5-11-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=34)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/5-11-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=35)* (read by OCR; check the original)

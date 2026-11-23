@@ -287,6 +287,11 @@ Councilman Kivell stated he would like to remind everyone that the Household Haz
 <a id="p7"></a>
 *[Page 7 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2010/minutes/ccminutes9-27.pdf?t=202108310733000#page=7)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Mayor Wallace stated he attended a Meals on Wheels directors meeting at the Senior Center and they are looking for donations and volunteers. He further stated it is amazing what they provide to the community. If anyone is interested the number to call is 810-632-2089.
 
 ## ADJOURNMENT:
@@ -308,4 +313,6 @@ Mayor
 Lisa Lynch
 
 Deputy Clerk/Treasurer
+
+</details>
 

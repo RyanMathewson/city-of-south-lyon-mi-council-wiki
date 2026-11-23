@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/January%2012%202026%20Council%20Packet-
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "80749659c8edfff39cdc2b63217561cc5e04a7e41c7a5bca3a646fc7b72b16d5"
 source_bytes: 8882650
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 96
 ocr_pages: 96
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2026-01-12
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/January%2012%202026%20Council%20Packet-%20Online%20Only.pdf?t=202603061642010) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `80749659c8edfff3…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/January%2012%202026%20Council%20Packet-%20Online%20Only.pdf?t=202603061642010) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `80749659c8edfff3…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/January%2012%202026%20Council%20Packet-%20Online%20Only.pdf?t=202603061642010#page=1)* (read by OCR; check the original)
@@ -370,9 +370,16 @@ Photo from HRWC
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/January%2012%202026%20Council%20Packet-%20Online%20Only.pdf?t=202603061642010#page=17)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>What is a Mosquito Dunks?</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p18"></a>
 *[Page 18 of the original](https://www.southlyonmi.org/January%2012%202026%20Council%20Packet-%20Online%20Only.pdf?t=202603061642010#page=18)* (read by OCR; check the original)
@@ -619,6 +626,11 @@ MOTION CARRIED UNANIMOUSLY
 <a id="p26"></a>
 *[Page 26 of the original](https://www.southlyonmi.org/January%2012%202026%20Council%20Packet-%20Online%20Only.pdf?t=202603061642010#page=26)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Motion by Kurtzweil, supported by Squires Motion to adjourn meeting at 7:21 p.m.
 
 VOTE: ___
@@ -630,6 +642,8 @@ MOTION CARRIED UNANIMOUSLY
 Mayor Steve Kennedy
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p27"></a>
 *[Page 27 of the original](https://www.southlyonmi.org/January%2012%202026%20Council%20Packet-%20Online%20Only.pdf?t=202603061642010#page=27)* (read by OCR; check the original)
@@ -1536,8 +1550,6 @@ Please let me know if you have any comments or questions.
 
 <a id="p65"></a>
 *[Page 65 of the original](https://www.southlyonmi.org/January%2012%202026%20Council%20Packet-%20Online%20Only.pdf?t=202603061642010#page=65)* (read by OCR; check the original)
-
-*[OCR note: this page may contain text repeated by the OCR software; check the original.]*
 
 <table><tr><td>As-Is</td><td>Year 1</td><td>Year 2</td><td>Year 3</td><td>Year 4</td><td>Year 5</td><td>Option Year 6</td><td>Option Year 7</td><td>Option Year 8</td><td>Notes</td></tr><tr><td>Priority Waste</td><td>$ 191.40</td><td>$ 197.14</td><td>$ 203.06</td><td>$ 209.15</td><td>$ 215.42</td><td>$ 221.89</td><td>$ 228.54</td><td>$ 235.40</td><td></td></tr><tr><td>Duncan Disposal</td><td>$ 200.04</td><td>$ 206.04</td><td>$ 211.92</td><td>$ 217.80</td><td>$ 219.00</td><td>$ 217.80</td><td>$ 219.00</td><td>$ 219.00</td><td>$12 discount for Multifamily units</td></tr><tr><td>Express Waste 1</td><td>$ 245.00</td><td>$ 255.00</td><td>$ 265.00</td><td>$ 275.00</td><td>$ 285.00</td><td>$ 295.00</td><td>$ 295.00</td><td>$ 295.00</td><td>One day per week service</td></tr><tr><td>Express Waste 2</td><td>$ 208.25</td><td>$ 216.75</td><td>$ 225.25</td><td>$ 233.75</td><td>$ 242.25</td><td>$ 250.75</td><td>$ 250.75</td><td>$ 250.75</td><td>Two days per week service</td></tr><tr><td>Express Waste 3</td><td>$ 188.65</td><td>$ 196.35</td><td>$ 204.05</td><td>$ 211.75</td><td>$ 219.45</td><td>$ 227.15</td><td>$ 227.15</td><td>$ 227.15</td><td>Three days per week service</td></tr><tr><td>WM</td><td>No Bid</td><td>No Bid</td><td>No Bid</td><td>No Bid</td><td>No Bid</td><td>No Bid</td><td>No Bid</td><td>No Bid</td><td></td></tr><tr><td>Stevens Disposal</td><td>No Bid</td><td>No Bid</td><td>No Bid</td><td>No Bid</td><td>No Bid</td><td>No Bid</td><td>No Bid</td><td>No Bid</td><td></td></tr></table>
 

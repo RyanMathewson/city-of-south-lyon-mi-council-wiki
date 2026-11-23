@@ -231,14 +231,26 @@ Water and Sewer Fund - $564 thousand operating loss (includes depreciation).
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=9)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## City of South Lyon General Fund - Revenue Years Ended June 30
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=10)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Homestead Property Tax Analysis 2025 Levy City of South Lyon – Year Ended June 30, 2026
 
@@ -260,21 +272,37 @@ Library
 
 Art/Zoo/Huron Clinton Metro Park/Oakland County Parks and Recreation
 
+</details>
+
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=11)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## City of South Lyon General Fund – Expenditures Years Ended June 30
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p12"></a>
 *[Page 12 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=12)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 ## City of South Lyon General Fund-Fund Balance Years Ended June 30
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p13"></a>
 *[Page 13 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=13)* (read by OCR; check the original)
@@ -292,6 +320,11 @@ Capital Project funds include Capital Improvement, Equipment Replacement, and La
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=14)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
@@ -299,6 +332,8 @@ Capital Project funds include Capital Improvement, Equipment Replacement, and La
 Operating Revenue Plus Property Taxes
 
 Operating Expense (Excl. Depreciation) Plus Capital Improvements and Debt Service
+
+</details>
 
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/October%2012%202026%20CM.pdf?t=202611160850270#page=15)* (read by OCR; check the original)

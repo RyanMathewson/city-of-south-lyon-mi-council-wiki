@@ -223,6 +223,11 @@ Mayor Kennedy reminded everyone that the next two Fridays will be the last Conce
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/8-26-24%20Council%20Packet%20-%20online%20only.pdf?t=202408221400350#page=9)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 passed away two years ago after being married to Janet for 71 years. And so tonight, I again want to wish Janet the very best as she moves up north to begin this next chapter in her life and while she'll no longer be in the South Lyon community, she will always be a part of it.
 
 ADJOURNMENT
@@ -240,6 +245,8 @@ Mayor Steve Kennedy
 <div>MOTION CARRIED UNANIMOUSLY</div>
 
 City Clerk Lisa Deaton
+
+</details>
 
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/8-26-24%20Council%20Packet%20-%20online%20only.pdf?t=202408221400350#page=10)* (read by OCR; check the original)

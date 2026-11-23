@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "8d3376d28aa684c627c3051d2469e795578080e9dcb11b674731b14ee7be62e9"
 source_bytes: 7108017
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 152
 ocr_pages: 152
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2016-03-14
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket3-14-16.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `8d3376d28aa684c6…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket3-14-16.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `8d3376d28aa684c6…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket3-14-16.pdf?t=202108310732570#page=1)* (read by OCR; check the original)
@@ -1963,6 +1963,11 @@ City-owner McHattie Park north and south parking lots – entire lot
 <a id="p82"></a>
 *[Page 82 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket3-14-16.pdf?t=202108310732570#page=82)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 217 Whipple Street, South Lyon, MI 48178
 
 Phone: 248-437-2616    Fax: 248-437-3025
@@ -1975,8 +1980,15 @@ Orange shading indicates approved areas
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p83"></a>
 *[Page 83 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket3-14-16.pdf?t=202108310732570#page=83)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 CITY-OWNED WELLS STREET LOT
 
@@ -1984,8 +1996,15 @@ Orange shading indicates approved areas
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p84"></a>
 *[Page 84 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket3-14-16.pdf?t=202108310732570#page=84)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 217 Whipple Street, South Lyon, MI 48178
 
@@ -1998,6 +2017,8 @@ STREET LOCATIONS ON EAST LIBERTY and SOUTH WELLS
 Orange  $ \underline{\text{shading}} $ indicates approved areas
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p85"></a>
 *[Page 85 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket3-14-16.pdf?t=202108310732570#page=85)* (read by OCR; check the original)
@@ -2663,14 +2684,26 @@ City-owner McHattie Park north and south parking lots – entire lot
 <a id="p106"></a>
 *[Page 106 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket3-14-16.pdf?t=202108310732570#page=106)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 CITY-OWNED LOTS (LAFAYETTE and LIBERTY)
 
 Orange shading indicates approved areas
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p107"></a>
 *[Page 107 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket3-14-16.pdf?t=202108310732570#page=107)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 CITY-OWNED WELLS STREET LOT
 
@@ -2678,8 +2711,15 @@ Orange shading indicates approved areas
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p108"></a>
 *[Page 108 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket3-14-16.pdf?t=202108310732570#page=108)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 217 Whipple Street, South Lyon, MI 48178
 
@@ -2690,6 +2730,8 @@ southlyonfire.com
 STREET LOCATIONS ON EAST LIBERTY and SOUTH WELLS Orange shading indicates approved areas
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p109"></a>
 *[Page 109 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket3-14-16.pdf?t=202108310732570#page=109)* (read by OCR; check the original)
@@ -3608,6 +3650,11 @@ Monthly flat fee of $9,000.00 for first 80 hours of work. Anything over 80 hours
 <a id="p151"></a>
 *[Page 151 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket3-14-16.pdf?t=202108310732570#page=151)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 35. FEB. 2016 P18 19.1
@@ -3629,6 +3676,8 @@ Judith McCann
 20220000
 
 20220000
+
+</details>
 
 <a id="p152"></a>
 *[Page 152 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CityCouncilPacket3-14-16.pdf?t=202108310732570#page=152)* (read by OCR; check the original)

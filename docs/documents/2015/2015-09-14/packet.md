@@ -325,6 +325,11 @@ Councilman Ryzyi stated he would like to remind everyone of the Labor Day Bridge
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket09.14.15.pdf?t=202108310732570#page=11)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## CM 8-14-15 MOTION FOR ADJOURNMENT
 
 Motion by Kopkowski, supported by Ryzyi Motion to adjourn meeting at 9:25
@@ -340,6 +345,8 @@ Tedd Wallace, Mayor
 *[Image or figure on this page; see the original.]*
 
 Lisa Deaton Clerk/Treasurer
+
+</details>
 
 <a id="p12"></a>
 *[Page 12 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket09.14.15.pdf?t=202108310732570#page=12)* (read by OCR; check the original)
@@ -1127,6 +1134,11 @@ The following list is for convenience only. Bidders are entirely responsible for
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket09.14.15.pdf?t=202108310732570#page=47)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Document Assignment Activity by PIN
 
 CVT/PIN : (80) 21-30-232-016
@@ -1136,6 +1148,8 @@ From Date: 4/19/2010
 To Date: 4/19/2010
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p48"></a>
 *[Page 48 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket09.14.15.pdf?t=202108310732570#page=48)* (read by OCR; check the original)
@@ -1560,6 +1574,11 @@ The following list is for convenience only. Bidders are entirely responsible for
 <a id="p64"></a>
 *[Page 64 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket09.14.15.pdf?t=202108310732570#page=64)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Document Assignment Activity by PIN
 
 CVT/PIN: (80) 21-30-232-016
@@ -1569,6 +1588,8 @@ From Date: 4/19/2010
 To Date: 4/19/2010
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p65"></a>
 *[Page 65 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket09.14.15.pdf?t=202108310732570#page=65)* (read by OCR; check the original)

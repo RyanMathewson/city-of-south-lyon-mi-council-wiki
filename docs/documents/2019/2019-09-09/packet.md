@@ -1187,12 +1187,26 @@ APPROVED[√] DENIED[ ] Chief Christopher Sick
 <a id="p61"></a>
 *[Page 61 of the original](https://www.southlyonmi.org/9-9-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=61)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p62"></a>
 *[Page 62 of the original](https://www.southlyonmi.org/9-9-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=62)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p63"></a>
 *[Page 63 of the original](https://www.southlyonmi.org/9-9-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=63)* (read by OCR; check the original)
@@ -1268,9 +1282,16 @@ APPROVED [√] DENIED [ ] Chuy Christopher S.
 <a id="p66"></a>
 *[Page 66 of the original](https://www.southlyonmi.org/9-9-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=66)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Disclaimer: The information provided herewith has been compiled from recorded deeds, plats, tax maps, surveys and other public records. It is not a legally recorded map or survey and is not intended to be used as one. Users should consult the information sources mentioned above when questions arise. FEMA Flooplain data may not always be present on the map.
+
+</details>
 
 <a id="p67"></a>
 *[Page 67 of the original](https://www.southlyonmi.org/9-9-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=67)* (read by OCR; check the original)
@@ -1770,6 +1791,11 @@ Date
 <a id="p82"></a>
 *[Page 82 of the original](https://www.southlyonmi.org/9-9-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=82)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Friday, December 6, 2019 promptly at 7:00 PM
@@ -1777,6 +1803,8 @@ Friday, December 6, 2019 promptly at 7:00 PM
 Bring your flashlights and little ones out to grab as many candy canes as they can find! Find the Large Multicolor ones and get a prize. Children will be broken into age groups of 3-4, 5-7, & 8-10 to ensure each child has a chance to grab a bunch of candy!
 
 McHattie Park Volleyball Courts
+
+</details>
 
 <a id="p83"></a>
 *[Page 83 of the original](https://www.southlyonmi.org/9-9-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=83)* (read by OCR; check the original)

@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.p
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "1a0403d716199b2bd2711c10ce3fcfe17dc6ab6465b524b3be908bb0096aa88b"
 source_bytes: 4549283
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 112
 ocr_pages: 112
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2018-09-10
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `1a0403d716199b2b…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `1a0403d716199b2b…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=1)* (read by OCR; check the original)
@@ -199,6 +199,11 @@ RAC—EL—160
 <a id="p5"></a>
 *[Page 5 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=5)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <table><tr><td colspan="2">TOPOGRAPHIC SURVEY</td><td>ARPEE/DONNAN, INC.</td><td colspan="2">PREPARED FOR</td></tr><tr><td colspan="2"></td><td>LAND SURVEYING · ENGINEERING · MAPPING</td><td colspan="2">CORNERSTONE RESIDENTIAL GROUP LLC</td></tr><tr><td rowspan="2">14016</td><td>PARCEL 21-19-125-002</td><td>32233 SCHOOLCRAFT RD., SUITE 103</td><td colspan="2">52401 TRAILWOOD DR.</td></tr><tr><td>PART OF THE NW 1/4 SEC 19, T. N. R. 7 E. CITY OF SOUTH LYON</td><td>LINDHAM, MICHIGAN 48150
 PHONE (234) 552-3330 Fax (234) 552-3324</td><td colspan="2">SOUTH LYON, MI 48178
 248-613-3752</td></tr></table>
@@ -271,8 +276,15 @@ THAT MISS LE STORN.
 
 請問您需要什麼幫助嗎？
 
+</details>
+
 <a id="p6"></a>
 *[Page 6 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=6)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td rowspan="2">PERMIT NO. 1-134</td><td colspan="2">DATE</td><td rowspan="3" colspan="2">THREESURVEY</td></tr><tr><td>SEX</td><td>DATE</td></tr><tr><td></td><td>PERMIT NO.</td><td>DATE</td></tr><tr><td>1-100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</td><td></td><td></td><td></td><td></td></tr></table>
 
@@ -280,8 +292,15 @@ NOT FOR CONSTRUCTION
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p7"></a>
 *[Page 7 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=7)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td colspan="4">THOMASVILLER SITE CONDOMINIUM
 PARCEL NO.: 21-19-126-002
@@ -294,17 +313,29 @@ CITY OF SOUTH LYON, OAKLAND COUNTY, WICHIGAN</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p8"></a>
 *[Page 8 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=8)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 r.L.P./Project/2011/1-13/ Registable 11 00 S Lycr/Dng/Engineering/1-137_CDP_A_Innovation.png 0412/38/2013 400 49
 
+</details>
+
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=9)* (read by OCR; check the original)
 
-*[OCR note: this page may contain text repeated by the OCR software; check the original.]*
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>ZONING INFORMATION:</div>
 
@@ -330,8 +361,15 @@ LOTS WITH SETOACK VALANCE
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=10)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td>ENTRANCE DETAILS</td></tr></table>
 
@@ -347,31 +385,61 @@ NOT FOR CONSTRUCTION
 
 THOMASVILLASITE CONDOMINUM ENTRANCE DETAILS
 
+</details>
+
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=11)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 NOT FOR CONSTRUCTION
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p12"></a>
 *[Page 12 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=12)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td>SANTARY SEWER PLAN (EAST)</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p13"></a>
 *[Page 13 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=13)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=14)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 NOT FOR CONTRUCTION
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=15)* (read by OCR; check the original)
@@ -383,38 +451,78 @@ NOT FOR CONTRUCTION
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=16)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 NOT FOR CONSTRUCTION
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=17)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p18"></a>
 *[Page 18 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=18)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 NOT FOR CONSTRUCTION
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p19"></a>
 *[Page 19 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=19)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 NOT FOR CONSTRUCTION
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p20"></a>
 *[Page 20 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=20)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td>PLAN ELEMENTARIES</td><td>DATE</td><td>CITY</td><td>ROAD ALGMENT PLAN</td><td>CLIENT</td><td>DATE</td><td>CITY OF SOUTH LYON, OAKLAND COUNTY, MICHIGAN</td></tr><tr><td>PLAN AMBASSARIE</td><td>APR 2016</td><td>1/2</td><td>Cell REOZDO</td><td>MEL LOREZDO</td><td>1/2</td><td>1/2 - 1/2 - 1/2 - 1/2</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p21"></a>
 *[Page 21 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=21)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td>PERMIT NO.</td><td>DATE</td><td>LEXINGTON DR. STA 0-0010 3+89</td></tr></table>
 
@@ -424,8 +532,15 @@ HOT FOR CONSTRUCTION
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p22"></a>
 *[Page 22 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=22)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td>PERMIT NO. 1-104-134</td><td>DATE</td><td>DATE</td><td>THOMASVILLE STA. 100+00 to 100+51</td><td>CUMULAT:</td></tr><tr><td>12/2/2016</td><td>DATE OF ENTERANCE</td><td>DATE/DATE OF CONDOMINUM</td><td>THOMASVILLE SITE CONDOMINUM
 PARCEL NO.: 21-19-126-002
@@ -442,13 +557,27 @@ THOMASVILLE CIR. PLAN & PROFILE
 
 STA. 100+00 to 106+51
 
+</details>
+
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=23)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <table><tr><td>THOMASVILLE CTR, PLAN & PROFILESTA. 106+51 to 109+70</td><td>*[Image or figure on this page; see the original.]*</td><td>*[Image or figure on this page; see the original.]*</td></tr></table>
+
+</details>
 
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=24)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td colspan="3">THOMASVILLE STA. 109+70 to 114+84</td></tr></table>
 
@@ -461,6 +590,8 @@ NOT FOR CONSTRUCTION
 THOMASVILLE CIR. PLAN & PROFILE
 
 STA. 109+70 to 114+94
+
+</details>
 
 <a id="p25"></a>
 *[Page 25 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=25)* (read by OCR; check the original)
@@ -477,6 +608,11 @@ STA. 114+94 to 117+96
 
 <a id="p26"></a>
 *[Page 26 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=26)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 Production Drawing Lock Detail Square Gate
 
@@ -506,21 +642,37 @@ BAR GRATE DETAM
 
 <table><tr><td rowspan="8">C-TLO</td><td rowspan="8">PROFESSOR: R.E.M.T.S.H.</td><td rowspan="8">CONSULTING: C.E.A.M.T.</td><td>PLAN: SCENTRALVISIONS</td><td>DATE</td><td rowspan="5"></td><td rowspan="5">MSC DETAILS</td><td rowspan="5">CITY OF SOUTH LYON, OAKLAND COUNTY, MICHIGAN</td></tr><tr><td>STEL PLAN IDENTIFICATION</td><td>3/20/2018</td></tr><tr><td>STEL PLAN IDENTIFICATION</td><td>3/20/2018</td></tr><tr><td>PROFESSOR PLAN IDENTIFICATION</td><td>3/20/2018</td></tr><tr><td>PROFESSOR PLAN IDENTIFICATION</td><td>3/20/2018</td></tr><tr><td>PART OF THE NEW 1/4, SEC. 19, TIN-R7E</td><td>THOMASVILLE SITE CONDOMINIUM</td><td></td><td></td><td></td></tr><tr><td>PART OF THE NEW 1/4, SEC. 19, TIN-R7E</td><td>PARCEL NO.: 21-10-125-002</td><td></td><td></td><td></td></tr><tr><td>PART OF THE NEW 1/4, SEC. 19, TIN-R7E</td><td>PART OF THE NEW 1/4, SEC. 19, TIN-R7E</td><td></td><td></td><td></td></tr></table>
 
+</details>
+
 <a id="p27"></a>
 *[Page 27 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=27)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td rowspan="111">C-11.1</td><td>PROJECT NO.:14-1-134</td><td>ALAMAR, VILLE DE LA CAY</td><td>DATE</td><td rowspan="110">DATE</td><td>CITY OF SOUTH LYON STORM DETAILS</td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2023/09/21</td><td>2023/09/21</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2024/09/21</td><td>2024/09/21</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2025/09/21</td><td>2025/09/21</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2025/10/20</td><td>2025/10/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2025/11/20</td><td>2025/11/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2025/12/20</td><td>2025/12/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2026/01/20</td><td>2026/01/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2026/02/20</td><td>2026/02/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2026/03/20</td><td>2026/03/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2026/04/20</td><td>2026/04/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2026/05/20</td><td>2026/05/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2026/06/20</td><td>2026/06/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2026/07/20</td><td>2026/07/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2026/08/20</td><td>2026/08/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2026/09/20</td><td>2026/09/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2026/10/20</td><td>2026/10/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2026/11/20</td><td>2026/11/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2026/12/20</td><td>2026/12/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2027/01/20</td><td>2027/01/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2027/02/20</td><td>2027/02/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2027/03/20</td><td>2027/03/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2027/04/20</td><td>2027/04/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2027/05/20</td><td>2027/05/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2027/06/20</td><td>2027/06/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2027/07/20</td><td>2027/07/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2027/08/20</td><td>2027/08/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2027/09/20</td><td>2027/09/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2027/10/20</td><td>2027/10/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2027/11/20</td><td>2027/11/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2027/12/20</td><td>2027/12/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2028/01/20</td><td>2028/01/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2028/02/20</td><td>2028/02/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2028/03/20</td><td>2028/03/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2028/04/20</td><td>2028/04/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2028/05/20</td><td>2028/05/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2028/06/20</td><td>2028/06/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2028/07/20</td><td>2028/07/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2028/08/20</td><td>2028/08/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2028/09/20</td><td>2028/09/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2028/10/20</td><td>2028/10/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2028/11/20</td><td>2028/11/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2028/12/20</td><td>2028/12/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/01/20</td><td>2029/01/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/02/20</td><td>2029/02/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/03/20</td><td>2029/03/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/04/20</td><td>2029/04/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/05/20</td><td>2029/05/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/06/20</td><td>2029/06/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/07/20</td><td>2029/07/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/08/20</td><td>2029/08/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/09/20</td><td>2029/09/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/10/20</td><td>2029/10/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/11/20</td><td>2029/11/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/12/20</td><td>2029/12/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/13/20</td><td>2029/13/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/14/20</td><td>2029/14/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/15/20</td><td>2029/15/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/16/20</td><td>2029/16/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/17/20</td><td>2029/17/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/18/20</td><td>2029/18/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/19/20</td><td>2029/19/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/20/20</td><td>2029/20/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/21/20</td><td>2029/21/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/22/20</td><td>2029/22/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/23/20</td><td>2029/23/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/24/20</td><td>2029/24/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/25/20</td><td>2029/25/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/26/20</td><td>2029/26/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/27/20</td><td>2029/27/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/28/20</td><td>2029/28/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/29/20</td><td>2029/29/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/30/20</td><td>2029/30/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/31/20</td><td>2029/31/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/01/20</td><td>2029/01/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/02/20</td><td>2029/02/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/03/20</td><td>2029/03/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/04/20</td><td>2029/04/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/05/20</td><td>2029/05/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/06/20</td><td>2029/06/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/07/20</td><td>2029/07/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/08/20</td><td>2029/08/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/09/20</td><td>2029/09/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/10/20</td><td>2029/10/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/11/20</td><td>2029/11/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/12/20</td><td>2029/12/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/13/20</td><td>2029/13/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/14/20</td><td>2029/14/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/15/20</td><td>2029/15/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/16/20</td><td>2029/16/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/17/20</td><td>2029/17/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/18/20</td><td>2029/18/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/19/20</td><td>2029/19/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/20/20</td><td>2029/20/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/21/20</td><td>2029/21/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/22/20</td><td>2029/22/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/23/20</td><td>2029/23/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/24/20</td><td>2029/24/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/25/20</td><td>2029/25/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/26/20</td><td>2029/26/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/27/20</td><td>2029/27/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/28/20</td><td>2029/28/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/29/20</td><td>2029/29/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/30/20</td><td>2029/30/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/31/20</td><td>2029/31/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/01/20</td><td>2029/01/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/02/20</td><td>2029/02/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/03/20</td><td>2029/03/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/04/20</td><td>2029/04/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td>2029/05/20</td><td>2029/05/20</td><td></td></tr><tr><td>ALAMAR, VILLE DE LA CAY</td><td><ecel></td><td></td><td></td><td></td></tr></table>
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=28)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td>MEGAZINE GIA</td><td>2M 10180000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</td></tr></table>
 
 <table><tr><td rowspan="3">C-112</td><td rowspan="3">PROJECT NO. 14-134 S/V/2016</td><td colspan="3">POW. OF SOUTH LYON SANITARY DET</td><td>CITY OF SOUTH LYON SANITARY DET</td></tr><tr><td>PER PLAN Soliciting</td><td>CITY OF</td><td rowspan="2">PART OF THE NW 1/4, SEC. 19, T1N-R7E</td><td></td></tr><tr><td>PER PLAN Soliciting</td><td>CITY OF SOUTH LYON, OAKLAND COUNTY, MICHIGAN</td><td></td></tr></table>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p29"></a>
 *[Page 29 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=29)* (read by OCR; check the original)
@@ -531,6 +683,11 @@ BAR GRATE DETAM
 
 <a id="p30"></a>
 *[Page 30 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=30)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td rowspan="124">C-114</td><td>PRODUCT NO.:1-134</td><td>PLANT SHARED AREAS</td><td>DATE</td><td>CITY OF SOUTH LYON WM DETAILS</td></tr><tr><td>12/14/2018</td><td>2/22/2018</td><td>7/22/2018</td><td></td></tr><tr><td>12/14/2018</td><td>6/26/2018</td><td>7/26/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/27/2018</td><td>7/27/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/28/2018</td><td>7/28/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/29/2018</td><td>7/29/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/30/2018</td><td>7/30/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/31/2018</td><td>7/31/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/32/2018</td><td>7/32/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/33/2018</td><td>7/33/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/34/2018</td><td>7/34/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/35/2018</td><td>7/35/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/36/2018</td><td>7/36/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/37/2018</td><td>7/37/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/38/2018</td><td>7/38/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/39/2018</td><td>7/39/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/40/2018</td><td>7/40/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/41/2018</td><td>7/41/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/42/2018</td><td>7/42/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/43/2018</td><td>7/43/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/44/2018</td><td>7/44/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/45/2018</td><td>7/45/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/46/2018</td><td>7/46/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/47/2018</td><td>7/47/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/48/2018</td><td>7/48/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/49/2018</td><td>7/49/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/50/2018</td><td>7/50/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/51/2018</td><td>7/51/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/52/2018</td><td>7/52/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/53/2018</td><td>7/53/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/54/2018</td><td>7/54/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/55/2018</td><td>7/55/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/56/2018</td><td>7/56/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/57/2018</td><td>7/57/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/58/2018</td><td>7/58/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/59/2018</td><td>7/59/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/60/2018</td><td>7/60/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/61/2018</td><td>7/61/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/62/2018</td><td>7/62/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/63/2018</td><td>7/63/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/64/2018</td><td>7/64/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/65/2018</td><td>7/65/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/66/2018</td><td>7/66/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/67/2018</td><td>7/67/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/68/2018</td><td>7/68/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/69/2018</td><td>7/69/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/70/2018</td><td>7/70/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/71/2018</td><td>7/71/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/72/2018</td><td>7/72/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/73/2018</td><td>7/73/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/74/2018</td><td>7/74/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/75/2018</td><td>7/75/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/76/2018</td><td>7/76/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/77/2018</td><td>7/77/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/78/2018</td><td>7/78/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/79/2018</td><td>7/79/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/80/2018</td><td>7/80/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/81/2018</td><td>7/81/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/82/2018</td><td>7/82/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/83/2018</td><td>7/83/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/84/2018</td><td>7/84/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/85/2018</td><td>7/85/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/86/2018</td><td>7/86/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/87/2018</td><td>7/87/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/88/2018</td><td>7/88/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/89/2018</td><td>7/89/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/90/2018</td><td>7/90/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/91/2018</td><td>7/91/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/92/2018</td><td>7/92/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/93/2018</td><td>7/93/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/94/2018</td><td>7/94/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/95/2018</td><td>7/95/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/96/2018</td><td>7/96/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/97/2018</td><td>7/97/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/98/2018</td><td>7/98/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/99/2018</td><td>7/99/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/10/2018</td><td>7/10/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/11/2018</td><td>7/11/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/12/2018</td><td>7/12/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/13/2018</td><td>7/13/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/14/2018</td><td>7/14/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/15/2018</td><td>7/15/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/16/2018</td><td>7/16/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/17/2018</td><td>7/17/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/18/2018</td><td>7/18/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/19/2018</td><td>7/19/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/20/2018</td><td>7/20/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/21/2018</td><td>7/21/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/22/2018</td><td>7/22/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/23/2018</td><td>7/23/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/24/2018</td><td>7/24/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/25/2018</td><td>7/25/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/26/2018</td><td>7/26/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/27/2018</td><td>7/27/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/28/2018</td><td>7/28/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/29/2018</td><td>7/29/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/30/2018</td><td>7/30/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/31/2018</td><td>7/31/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/32/2018</td><td>7/32/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/33/2018</td><td>7/33/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/34/2018</td><td>7/34/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/35/2018</td><td>7/35/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/36/2018</td><td>7/36/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/37/2018</td><td>7/37/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/38/2018</td><td>7/38/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/39/2018</td><td>7/39/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/40/2018</td><td>7/40/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/41/2018</td><td>7/41/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/42/2018</td><td>7/42/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/43/2018</td><td>7/43/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/44/2018</td><td>7/44/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/45/2018</td><td>7/45/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/46/2018</td><td>7/46/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/47/2018</td><td>7/47/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/48/2018</td><td>7/48/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/49/2018</td><td>7/49/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/50/2018</td><td>7/50/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/51/2018</td><td>7/51/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/52/2018</td><td>7/52/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/53/2018</td><td>7/53/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/54/2018</td><td>7/54/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/55/2018</td><td>7/55/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/56/2018</td><td>7/56/2018</td><td></td></tr><tr><td>12/14/2018</td><td>7/57/2018</td><td>7/57/2018</td><td></td></tr></table>
 
@@ -547,6 +704,8 @@ BAR GRATE DETAM
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p31"></a>
 *[Page 31 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=31)* (read by OCR; check the original)
@@ -584,10 +743,22 @@ GASCOG DUE</td><td colspan="2">TRAFFIC CLASSIFICATION</td></tr><tr><td></td><td 
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=34)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=35)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td colspan="2">LANDSCAPE PLAN</td></tr><tr><td>1</td><td>THOMASVILLE SITE CONDUMINUM
 PARCEL 21-18-126-002
@@ -629,12 +800,21 @@ K SHOSEED LAVY AREAS. ALL LAVAN AREAG BETWEEN CURUS AND BUNDLES OR BETWEEN HUNDI
 
 ED MB SHALL GONEST OF THE FOLLOWING TYPES AND PROPORTIONS, ENTUORY (BU) GRASS- THANCHENCALLE THE GON
 
+</details>
+
 <a id="p36"></a>
 *[Page 36 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=36)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td colspan="2">LANDSCAPE PLAN</td></tr><tr><td>PLANT</td><td>PLANT NO: 21-19-126-002</td></tr><tr><td>PLANT_DESIGN_NO. LN 32/2016</td><td>PART OF THE NW 1/4 SEC. 19,11N-R7E</td></tr><tr><td>PLANT_DESIGN_NO. LN 32/2016</td><td>PART OF SOUTH LYON, OAKLAND CO., NH</td></tr><tr><td>ONLINE_BOOKMARKUP</td><td>ONLINE_BOOKMARKUP_BOOKMARKUP_BOOKMARKUP_BOOKMARKUP_BOOKMARK</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p37"></a>
 *[Page 37 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=37)* (read by OCR; check the original)
@@ -1376,7 +1556,14 @@ Scott Lanam, Chairman
 <a id="p65"></a>
 *[Page 65 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=65)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p66"></a>
 *[Page 66 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=66)* (read by OCR; check the original)
@@ -1511,6 +1698,11 @@ Avantini states that they have a lot of applications coming in, including the re
 <a id="p70"></a>
 *[Page 70 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=70)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Staff Report:
 
 Discussion regarding 3 conflicts on ZBA for the Alexander's appeal, the Board will need to fill 1 vacancy and 2 alternatives. Discussion continues regarding filling in the Interim City Manager with the information on BP Gas Station.
@@ -1530,6 +1722,8 @@ Nays: None
 Judy Pieper, Recording Secretary
 
 Steve Mosier, Secretary
+
+</details>
 
 <a id="p71"></a>
 *[Page 71 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=71)* (read by OCR; check the original)
@@ -1734,11 +1928,18 @@ President
 <a id="p78"></a>
 *[Page 78 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=78)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>ZONING INFORMATION</div>
 
 <table><tr><td colspan="4">SITE PLAN</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p79"></a>
 *[Page 79 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=79)* (read by OCR; check the original)
@@ -1774,7 +1975,14 @@ CONFIDENTIALITY NOTICE: The information contained in this transmission may conta
 <a id="p80"></a>
 *[Page 80 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=80)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p81"></a>
 *[Page 81 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=81)* (read by OCR; check the original)
@@ -1792,6 +2000,11 @@ Owner's Bath 3 Option
 <a id="p82"></a>
 *[Page 82 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=82)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>Newton - Horne Exterior CR2H</div>
@@ -1808,13 +2021,27 @@ Owner's Bath 3 Option
 
 <div>Newton - Home Exterior HR2K</div>
 
+</details>
+
 <a id="p83"></a>
 *[Page 83 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=83)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p84"></a>
 *[Page 84 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=84)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1836,8 +2063,15 @@ Option
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p85"></a>
 *[Page 85 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=85)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1855,10 +2089,19 @@ Option
 
 <div>Hampton - Home Exterior HR2K</div>
 
+</details>
+
 <a id="p86"></a>
 *[Page 86 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=86)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p87"></a>
 *[Page 87 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=87)* (read by OCR; check the original)
@@ -1880,6 +2123,11 @@ Owner's Bath 5 Option
 <a id="p88"></a>
 *[Page 88 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=88)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>Aspire - Homé Exterior HR21</div>
@@ -1896,10 +2144,19 @@ Owner's Bath 5 Option
 
 <div>Aspire - Home Exterior CR2H</div>
 
+</details>
+
 <a id="p89"></a>
 *[Page 89 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=89)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p90"></a>
 *[Page 90 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=90)* (read by OCR; check the original)
@@ -1927,6 +2184,11 @@ Option
 <a id="p91"></a>
 *[Page 91 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=91)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>Dalton - Home Exterior HR21</div>
@@ -1942,6 +2204,8 @@ Option
 *[Image or figure on this page; see the original.]*
 
 <div>Dalton - Home Exterior HR2K</div>
+
+</details>
 
 <a id="p92"></a>
 *[Page 92 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=92)* (read by OCR; check the original)
@@ -2683,10 +2947,17 @@ Shipping Cost: ___ Copy to: MEGA Billing Dept.
 <a id="p112"></a>
 *[Page 112 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=112)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <table><tr><td>PERMIT NO./DATE</td><td>POSTER NO./DATE</td><td>DATE</td><td>SITE PLAN</td></tr><tr><td>101244500000</td><td>101244500000</td><td>101244500000</td><td>THOMASVILLE SME CONDOMINIUM
 PARLED NO. 21-19-125-002
 PART OF THE NW 1/4, SEC. 19, TIN-R76
 CITY OF SOUTH LYON, OAKLAND COUNTY, MICHISIAN</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 

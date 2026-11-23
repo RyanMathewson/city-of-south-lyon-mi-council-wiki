@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/8-26-19%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "ef2d47b50e916fbad9bdf92c9620b08da5b8fdb4ca07520be4d8c66abfe8fa19"
 source_bytes: 952457
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 20
 ocr_pages: 20
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2019-08-26
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/8-26-19%20Council%20Packet%20-%20online%20only%20part%202.pdf?t=202108310733140) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `ef2d47b50e916fba…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/8-26-19%20Council%20Packet%20-%20online%20only%20part%202.pdf?t=202108310733140) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `ef2d47b50e916fba…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/8-26-19%20Council%20Packet%20-%20online%20only%20part%202.pdf?t=202108310733140#page=1)* (read by OCR; check the original)
@@ -284,9 +284,16 @@ Restricted Area
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/8-26-19%20Council%20Packet%20-%20online%20only%20part%202.pdf?t=202108310733140#page=14)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Annual Photography Date: 2005</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/8-26-19%20Council%20Packet%20-%20online%20only%20part%202.pdf?t=202108310733140#page=15)* (read by OCR; check the original)

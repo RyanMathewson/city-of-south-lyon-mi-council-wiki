@@ -26,29 +26,64 @@ Budget meeting this evening at 6:00 p.m.
 <a id="p2"></a>
 *[Page 2 of the original](https://www.southlyonmi.org/4-12-21%20Council%20Packet%20additional%20budget%20information.pdf?t=202108310733180#page=2)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 AdministrationCemetery Public Transportation Police Fire Ambulance Public Works Parks & Recreation Historical Cable Cultural Arts Veterans Memorial Project
 
+</details>
+
 <a id="p3"></a>
 *[Page 3 of the original](https://www.southlyonmi.org/4-12-21%20Council%20Packet%20additional%20budget%20information.pdf?t=202108310733180#page=3)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 Where Your Tax Dollars Go
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p4"></a>
 *[Page 4 of the original](https://www.southlyonmi.org/4-12-21%20Council%20Packet%20additional%20budget%20information.pdf?t=202108310733180#page=4)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p5"></a>
 *[Page 5 of the original](https://www.southlyonmi.org/4-12-21%20Council%20Packet%20additional%20budget%20information.pdf?t=202108310733180#page=5)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p6"></a>
 *[Page 6 of the original](https://www.southlyonmi.org/4-12-21%20Council%20Packet%20additional%20budget%20information.pdf?t=202108310733180#page=6)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 

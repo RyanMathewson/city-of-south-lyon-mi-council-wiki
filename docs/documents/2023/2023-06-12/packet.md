@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/6-12-23%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "f95dcaa44eb9575d65b8b97c1ff5d782a75ec476a5c79795752f1651aca30c38"
 source_bytes: 7485812
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 124
 ocr_pages: 124
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2023-06-12
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/6-12-23%20Council%20Packet%20-%20online%20only.pdf?t=202306081627340) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `f95dcaa44eb9575d…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/6-12-23%20Council%20Packet%20-%20online%20only.pdf?t=202306081627340) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `f95dcaa44eb9575d…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/6-12-23%20Council%20Packet%20-%20online%20only.pdf?t=202306081627340#page=1)* (read by OCR; check the original)
@@ -381,6 +381,11 @@ Mayor Pelchat stated that is a good reminder and he encourages everyone to explo
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/6-12-23%20Council%20Packet%20-%20online%20only.pdf?t=202306081627340#page=9)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ADJOURNMENT
 
 CM 5-10-23 MOTION TO ADJOURN
@@ -396,6 +401,8 @@ Mayor Dan Pelchat
 City Clerk/Treasurer Lisa Deaton
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/6-12-23%20Council%20Packet%20-%20online%20only.pdf?t=202306081627340#page=10)* (read by OCR; check the original)
@@ -1106,6 +1113,11 @@ Date
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/6-12-23%20Council%20Packet%20-%20online%20only.pdf?t=202306081627340#page=44)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>https://earth.google.com/web/search/350+South+Lafayette+Street,+South+Lyon,+MI/@42.45856225,-33.6519994,294.40097217a,331.288460194,35y,-0h,0t,0r/data=CglgkokCTWqyV11gUVAEoyJ9Xb... 1/</div>
 
 *[Image or figure on this page; see the original.]*
@@ -1113,6 +1125,8 @@ Date
 2/20/23, 3:16 PM
 
 Google Earth
+
+</details>
 
 <a id="p45"></a>
 *[Page 45 of the original](https://www.southlyonmi.org/6-12-23%20Council%20Packet%20-%20online%20only.pdf?t=202306081627340#page=45)* (read by OCR; check the original)
@@ -1219,6 +1233,11 @@ Date
 <a id="p49"></a>
 *[Page 49 of the original](https://www.southlyonmi.org/6-12-23%20Council%20Packet%20-%20online%20only.pdf?t=202306081627340#page=49)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>https://earth.google.com/web/search/350+South+Lafayette+Street,+South+Lyon,+MI/@42.45856225,-83.6519994,294.40097217a,331.28846019d,35y,-0h,0t,0r/data=Cig/gokCTW/qyV11gU/VAEbyJ9Xb... 1/7</div>
 
 *[Image or figure on this page; see the original.]*
@@ -1226,6 +1245,8 @@ Date
 <div>Google Earth</div>
 
 2120123, 3:16 PM
+
+</details>
 
 <a id="p50"></a>
 *[Page 50 of the original](https://www.southlyonmi.org/6-12-23%20Council%20Packet%20-%20online%20only.pdf?t=202306081627340#page=50)* (read by OCR; check the original)
@@ -1400,6 +1421,11 @@ W1511507
 <a id="p56"></a>
 *[Page 56 of the original](https://www.southlyonmi.org/6-12-23%20Council%20Packet%20-%20online%20only.pdf?t=202306081627340#page=56)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>https://earth.google.com/web/search/350+South+Lafayette+Street,+South+Lyon,+MI/@42.45856225,-83.6519994,294.40097217a,331.28846019d,35y,-0h,0t,0r/data=CiglgoKCTWqyV1LgUVAEbyJ9Xb... 1/</div>
 
 *[Image or figure on this page; see the original.]*
@@ -1407,6 +1433,8 @@ W1511507
 2120723, 3:16 PM
 
 <div>Google Earth</div>
+
+</details>
 
 <a id="p57"></a>
 *[Page 57 of the original](https://www.southlyonmi.org/6-12-23%20Council%20Packet%20-%20online%20only.pdf?t=202306081627340#page=57)* (read by OCR; check the original)
@@ -2117,7 +2145,14 @@ Insp@southlyonmi.org
 <a id="p79"></a>
 *[Page 79 of the original](https://www.southlyonmi.org/6-12-23%20Council%20Packet%20-%20online%20only.pdf?t=202306081627340#page=79)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p80"></a>
 *[Page 80 of the original](https://www.southlyonmi.org/6-12-23%20Council%20Packet%20-%20online%20only.pdf?t=202306081627340#page=80)* (read by OCR; check the original)
@@ -2228,9 +2263,16 @@ Date
 <a id="p84"></a>
 *[Page 84 of the original](https://www.southlyonmi.org/6-12-23%20Council%20Packet%20-%20online%20only.pdf?t=202306081627340#page=84)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Lineup Biggby Alley. Entrance for alley blocked at PT. No Entry. Split in half for Fun Run and Lead cars (Police, Flags, Grand Marshall)</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p85"></a>
 *[Page 85 of the original](https://www.southlyonmi.org/6-12-23%20Council%20Packet%20-%20online%20only.pdf?t=202306081627340#page=85)* (read by OCR; check the original)
@@ -2447,7 +2489,14 @@ Date April 27, 2023</td></tr></table>
 <a id="p93"></a>
 *[Page 93 of the original](https://www.southlyonmi.org/6-12-23%20Council%20Packet%20-%20online%20only.pdf?t=202306081627340#page=93)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p94"></a>
 *[Page 94 of the original](https://www.southlyonmi.org/6-12-23%20Council%20Packet%20-%20online%20only.pdf?t=202306081627340#page=94)* (read by OCR; check the original)
@@ -2669,9 +2718,16 @@ Howell, MI 48843
 <a id="p98"></a>
 *[Page 98 of the original](https://www.southlyonmi.org/6-12-23%20Council%20Packet%20-%20online%20only.pdf?t=202306081627340#page=98)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 W13022012022040721515010020
+
+</details>
 
 <a id="p99"></a>
 *[Page 99 of the original](https://www.southlyonmi.org/6-12-23%20Council%20Packet%20-%20online%20only.pdf?t=202306081627340#page=99)* (read by OCR; check the original)
@@ -3165,6 +3221,11 @@ NMACK@SOUTHLYONMI.ORG
 <a id="p114"></a>
 *[Page 114 of the original](https://www.southlyonmi.org/6-12-23%20Council%20Packet%20-%20online%20only.pdf?t=202306081627340#page=114)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
@@ -3211,6 +3272,8 @@ NMACK@SOUTHLYONMI.ORG
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p115"></a>
 *[Page 115 of the original](https://www.southlyonmi.org/6-12-23%20Council%20Packet%20-%20online%20only.pdf?t=202306081627340#page=115)* (read by OCR; check the original)
 
@@ -3239,7 +3302,10 @@ CONTACT US FOR MORE INFO
 <a id="p116"></a>
 *[Page 116 of the original](https://www.southlyonmi.org/6-12-23%20Council%20Packet%20-%20online%20only.pdf?t=202306081627340#page=116)* (read by OCR; check the original)
 
-*[Image or figure on this page; see the original.]*
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -3264,13 +3330,24 @@ CONTACT US FOR MORE INFO
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+*[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p117"></a>
 *[Page 117 of the original](https://www.southlyonmi.org/6-12-23%20Council%20Packet%20-%20online%20only.pdf?t=202306081627340#page=117)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p118"></a>
 *[Page 118 of the original](https://www.southlyonmi.org/6-12-23%20Council%20Packet%20-%20online%20only.pdf?t=202306081627340#page=118)* (read by OCR; check the original)

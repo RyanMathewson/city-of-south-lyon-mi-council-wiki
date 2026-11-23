@@ -1593,6 +1593,11 @@ Soil conditions at the site could vary from those generalized on the basis of so
 <a id="p46"></a>
 *[Page 46 of the original](https://www.southlyonmi.org/9-28-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=46)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
@@ -1604,6 +1609,8 @@ Proposed Commercial Development
 390 S. Lafayette Street
 
 South Lyon, Michigan
+
+</details>
 
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/9-28-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=47)* (read by OCR; check the original)
@@ -1774,6 +1781,11 @@ LINK TO WEBSITE TO VIEW THE SITE: https://www.cvmedia.net/hrc1/
 <a id="p55"></a>
 *[Page 55 of the original](https://www.southlyonmi.org/9-28-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=55)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## MEMO
 
 The tank construction is in progress. The panels are being formed and already are 1/3 complete as of 9/23. They plan on having the floor poured by next week. They will begin setting panels the following week. PHOTO #3 & 4)
@@ -1786,29 +1798,57 @@ PHOTO #1
 
 PITTING SHOWN PAINTED. THESE INDENTS INDICATE CORROSION.
 
+</details>
+
 <a id="p56"></a>
 *[Page 56 of the original](https://www.southlyonmi.org/9-28-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=56)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # PHOTO #2 – BAD SECTION OF PIPE BEING PREPPED FOR REMOVAL
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p57"></a>
 *[Page 57 of the original](https://www.southlyonmi.org/9-28-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=57)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 PHOTO #3 –NEW STORAGE TANKS WALLS. CONSTRUCTING IN THESE CUSTOMIZED FORMS. PREPPED TO STAND UP IN THE COMING WEEKS. THERE WILL BE 12 PANELS IN TOTAL.
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p58"></a>
 *[Page 58 of the original](https://www.southlyonmi.org/9-28-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=58)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>PHOTO #4: A CUSTOM BED BUILT AS A FORM TO COMPLETE PANELS. (THERE WILL BE 6 PER BAY)</div>
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p59"></a>
 *[Page 59 of the original](https://www.southlyonmi.org/9-28-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=59)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td colspan="2">*[Image or figure on this page; see the original.]*</td></tr><tr><td colspan="2"></td></tr><tr><td colspan="2"></td></tr><tr><td colspan="2"></td></tr><tr><td colspan="2"></td></tr><tr><td colspan="2"></td></tr><tr><td colspan="2"></td></tr><tr><td colspan="2">CITY OF SAGAR LITER</td></tr><tr><td colspan="2">WTP PHASE 1IMPLOVEMENTS</td></tr><tr><td colspan="2">PROPOSED 12" WATER MANPLAN AND PROFILE</td></tr><tr><td>2002023</td><td>AS SAHEIM</td></tr><tr><td>APRIL 7 2002</td><td>C-4</td></tr></table>
 
@@ -1822,10 +1862,19 @@ VERT. 1° = 4°
 
 9/24/2020 8:57 AM
 
+</details>
+
 <a id="p60"></a>
 *[Page 60 of the original](https://www.southlyonmi.org/9-28-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=60)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p61"></a>
 *[Page 61 of the original](https://www.southlyonmi.org/9-28-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=61)* (read by OCR; check the original)
@@ -2588,6 +2637,11 @@ also available.
 <a id="p91"></a>
 *[Page 91 of the original](https://www.southlyonmi.org/9-28-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=91)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ### AdvantageOakland.com
@@ -2615,4 +2669,6 @@ DAVID COULTER
 OAKLAND COUNTY EXECUTIVE
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 

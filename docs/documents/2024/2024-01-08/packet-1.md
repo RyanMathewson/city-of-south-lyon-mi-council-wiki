@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%201%20
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "516e9a89f6f4aa2d2767d38706b5384bf73efe0a93e543a2da3c251e59ecd60c"
 source_bytes: 4873515
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 133
 ocr_pages: 133
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2024-01-08
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%201%20-%20online%20only.pdf?t=202401050946290) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `516e9a89f6f4aa2d…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%201%20-%20online%20only.pdf?t=202401050946290) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `516e9a89f6f4aa2d…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%201%20-%20online%20only.pdf?t=202401050946290#page=1)* (read by OCR; check the original)
@@ -595,7 +595,14 @@ First Registrar
 <a id="p19"></a>
 *[Page 19 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%201%20-%20online%20only.pdf?t=202401050946290#page=19)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # SL Historical Society Roper Barn Fund- $300
+
+</details>
 
 <a id="p20"></a>
 *[Page 20 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%201%20-%20online%20only.pdf?t=202401050946290#page=20)* (read by OCR; check the original)
@@ -992,14 +999,26 @@ SUGGESTED MOTION: None
 <a id="p43"></a>
 *[Page 43 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%201%20-%20online%20only.pdf?t=202401050946290#page=43)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Legend
 
 *[Image or figure on this page; see the original.]*
 
 2024 City Road Reconstruction
 
+</details>
+
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%201%20-%20online%20only.pdf?t=202401050946290#page=44)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1007,12 +1026,21 @@ Issued:
 
 September 19, 2023
 
+</details>
+
 <a id="p45"></a>
 *[Page 45 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%201%20-%20online%20only.pdf?t=202401050946290#page=45)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>Document Pair: NAMastersGISmunidpaISouth_LyonUIIilestCCTVPhase6_2023Brockfield.mxd</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p46"></a>
 *[Page 46 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%201%20-%20online%20only.pdf?t=202401050946290#page=46)* (read by OCR; check the original)
@@ -1110,7 +1138,14 @@ I understand that all non-union employees of the City are employed on an indefin
 <a id="p51"></a>
 *[Page 51 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%201%20-%20online%20only.pdf?t=202401050946290#page=51)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # CITY OF SOUTH LYON PERSONNEL MANUAL
+
+</details>
 
 <a id="p52"></a>
 *[Page 52 of the original](https://www.southlyonmi.org/1-8-24%20Council%20Packet%20Part%201%20-%20online%20only.pdf?t=202401050946290#page=52)* (read by OCR; check the original)

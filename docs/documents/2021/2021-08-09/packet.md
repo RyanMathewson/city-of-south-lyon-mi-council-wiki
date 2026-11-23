@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/Council%20Packet%208.9.21.pdf?t=2021083
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "628c94c4701077fd39469385bc04d62837d75748a92d8b0ad473764d8c2ea785"
 source_bytes: 5089997
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 124
 ocr_pages: 124
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2021-08-09
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/Council%20Packet%208.9.21.pdf?t=202108310733180) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `628c94c4701077fd…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/Council%20Packet%208.9.21.pdf?t=202108310733180) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `628c94c4701077fd…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/Council%20Packet%208.9.21.pdf?t=202108310733180#page=1)* (read by OCR; check the original)
@@ -882,12 +882,26 @@ Proposal
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/Council%20Packet%208.9.21.pdf?t=202108310733180#page=42)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p43"></a>
 *[Page 43 of the original](https://www.southlyonmi.org/Council%20Packet%208.9.21.pdf?t=202108310733180#page=43)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/Council%20Packet%208.9.21.pdf?t=202108310733180#page=44)* (read by OCR; check the original)
@@ -2403,6 +2417,11 @@ Where numbers of signs or maximum square footages apply to a location, as regula
 <a id="p92"></a>
 *[Page 92 of the original](https://www.southlyonmi.org/Council%20Packet%208.9.21.pdf?t=202108310733180#page=92)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ### e. Placement
 
 <div>1. Murals are permitted within the designated area</div>
@@ -2414,6 +2433,8 @@ Where numbers of signs or maximum square footages apply to a location, as regula
 3. It should not obscure windows or entranceways, nor disrupt normal pedestrian circulation unless that is the purpose of the artwork.
 
 4. It should not be placed in a given site if it disrupts the site's landscaping and maintenance requirements.
+
+</details>
 
 <a id="p93"></a>
 *[Page 93 of the original](https://www.southlyonmi.org/Council%20Packet%208.9.21.pdf?t=202108310733180#page=93)* (read by OCR; check the original)
@@ -2461,11 +2482,18 @@ a) responsible for restoring the mural to the original condition, at the propert
 <a id="p94"></a>
 *[Page 94 of the original](https://www.southlyonmi.org/Council%20Packet%208.9.21.pdf?t=202108310733180#page=94)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 b) In the event the mural is not timely restored, the City may, with notice sent to the property owner or the owner's designee, remove the mural in its entirety.
 
 4. Removal of Mural: In the event that a mural requires excessive or unreasonable maintenance, the City may at its discretion, with notice sent to the property owner or the owner's designee, remove the mural in its entirety, at the property owner's sole cost and expense.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p95"></a>
 *[Page 95 of the original](https://www.southlyonmi.org/Council%20Packet%208.9.21.pdf?t=202108310733180#page=95)* (read by OCR; check the original)
@@ -2563,11 +2591,18 @@ g. Document all paint selections and gather and save the printed literature on t
 <a id="p98"></a>
 *[Page 98 of the original](https://www.southlyonmi.org/Council%20Packet%208.9.21.pdf?t=202108310733180#page=98)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 11. Leave a small portion of the mural uncoated in a location where it is easily observed. Mark and photograph this area. This uncovered area will make it easier to observe whether the coating is clouding, yellowing, or failing in the future.
 
 12. Document the coating selection and gather and save the print literature on the products selected. This documentation may be needed if the mural needs to be recoated in the future.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p99"></a>
 *[Page 99 of the original](https://www.southlyonmi.org/Council%20Packet%208.9.21.pdf?t=202108310733180#page=99)* (read by OCR; check the original)

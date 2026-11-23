@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/3-26-18%20Council%20Packet%20part%201.p
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "914c6981b4b0d09f52784d2f084e0cfedf83a218f388b920b81fbd24b32102f4"
 source_bytes: 7286223
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 138
 ocr_pages: 138
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2018-03-26
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/3-26-18%20Council%20Packet%20part%201.pdf?t=202108310733110) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `914c6981b4b0d09f…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/3-26-18%20Council%20Packet%20part%201.pdf?t=202108310733110) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `914c6981b4b0d09f…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/3-26-18%20Council%20Packet%20part%201.pdf?t=202108310733110#page=1)* (read by OCR; check the original)
@@ -1066,6 +1066,11 @@ Lisa Deaton, City Clerk
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/3-26-18%20Council%20Packet%20part%201.pdf?t=202108310733110#page=40)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 I hereby certify that the foregoing is a true and complete copy of the ordinance adopted at the regular meeting of the South Lyon City Council held on the ___ day of ___, 2018.
 
 Lisa Deaton, City Clerk
@@ -1077,6 +1082,8 @@ Published:
 Effective:
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/3-26-18%20Council%20Packet%20part%201.pdf?t=202108310733110#page=41)* (read by OCR; check the original)
@@ -1779,9 +1786,16 @@ Published:
 <a id="p67"></a>
 *[Page 67 of the original](https://www.southlyonmi.org/3-26-18%20Council%20Packet%20part%201.pdf?t=202108310733110#page=67)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Effective:
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p68"></a>
 *[Page 68 of the original](https://www.southlyonmi.org/3-26-18%20Council%20Packet%20part%201.pdf?t=202108310733110#page=68)* (read by OCR; check the original)

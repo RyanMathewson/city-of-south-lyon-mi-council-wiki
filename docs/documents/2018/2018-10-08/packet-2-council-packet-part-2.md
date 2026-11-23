@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%202.p
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "046254af5afed66a46c25e4925d539ab6e80e89a8e2db8429382825dd9a246dc"
 source_bytes: 8228943
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 130
 ocr_pages: 130
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2018-10-08
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%202.pdf?t=202108310733130) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `046254af5afed66a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%202.pdf?t=202108310733130) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `046254af5afed66a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=1)* (read by OCR; check the original)
@@ -262,6 +262,11 @@ Parkside Apartments has re-submitted the site plans for their development. McInt
 <a id="p12"></a>
 *[Page 12 of the original](https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=12)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Staff Report:
 
 Patrick stated that they have had more discussion regarding the Memorial Parking Lot. Also, Heinanen Engineering has added a base to install a large Christmas Tree for this season.
@@ -279,6 +284,8 @@ Nays: None
 Motion Approved – Meeting Adjourned – 8:20 p.m.
 
 Scott Lanam, Chairman
+
+</details>
 
 <a id="p13"></a>
 *[Page 13 of the original](https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=13)* (read by OCR; check the original)
@@ -512,24 +519,52 @@ Examplu
 <a id="p26"></a>
 *[Page 26 of the original](https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=26)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Existing Lot coverage: Hot Spot Zones
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p27"></a>
 *[Page 27 of the original](https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=27)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=28)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p29"></a>
 *[Page 29 of the original](https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=29)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p30"></a>
 *[Page 30 of the original](https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=30)* (read by OCR; check the original)
@@ -613,6 +648,11 @@ Existing Lot coverage: Hot Spot Zones
 <a id="p45"></a>
 *[Page 45 of the original](https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=45)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Current
@@ -620,6 +660,8 @@ Current
 *[Image or figure on this page; see the original.]*
 
 Lot Size (Square Feet)
+
+</details>
 
 <a id="p46"></a>
 *[Page 46 of the original](https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=46)* (read by OCR; check the original)
@@ -1532,14 +1574,28 @@ CONFIDENTIALITY NOTICE: The information and attachments contained in this electr
 <a id="p82"></a>
 *[Page 82 of the original](https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=82)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 LUCAS $ ^{\circledR} $ CHEST COMPRESSION SYSTEM
 
+</details>
+
 <a id="p83"></a>
 *[Page 83 of the original](https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=83)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p84"></a>
 *[Page 84 of the original](https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=84)* (read by OCR; check the original)
@@ -1588,12 +1644,26 @@ Whether you are delivering chest compressions in the back of an ambulance or in 
 <a id="p86"></a>
 *[Page 86 of the original](https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=86)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p87"></a>
 *[Page 87 of the original](https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=87)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p88"></a>
 *[Page 88 of the original](https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=88)* (read by OCR; check the original)
@@ -1653,6 +1723,11 @@ LUCAS is mainly radio translucent, except for the hood and piston, enabling you 
 <a id="p91"></a>
 *[Page 91 of the original](https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=91)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
@@ -1665,18 +1740,39 @@ The LUCAS 2 chest compression system is shipped with one battery, patient straps
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p92"></a>
 *[Page 92 of the original](https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=92)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p93"></a>
 *[Page 93 of the original](https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=93)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p94"></a>
 *[Page 94 of the original](https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=94)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1741,6 +1837,8 @@ Operating temperature:  $ 32^{\circ} $F to  $ 104^{\circ} $F /  $ 0^{\circ} $C t
 • IP Classification: IP44
 
 All specifications are at 20-25°C unless otherwise stated. Specifications subject to change without notice.
+
+</details>
 
 <a id="p95"></a>
 *[Page 95 of the original](https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%202.pdf?t=202108310733130#page=95)* (read by OCR; check the original)

@@ -19,7 +19,14 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/City%20Council%20Packet%2011-14-16%20set%203.pdf?t=202108310733070#page=1)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 27. 2020年1月1日
+
+</details>
 

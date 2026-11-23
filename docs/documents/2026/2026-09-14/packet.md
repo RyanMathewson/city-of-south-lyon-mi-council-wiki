@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/packet_Online%20Copy_REVISED%2009-14-20
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "46281de3ff74c0f32516a28b432dc5c8a392438f489b87c48c19742c892bb04f"
 source_bytes: 5795178
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 82
 ocr_pages: 80
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2026-09-14
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/packet_Online%20Copy_REVISED%2009-14-2026_REDACTED.pdf?t=202609141532070) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `46281de3ff74c0f3…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/packet_Online%20Copy_REVISED%2009-14-2026_REDACTED.pdf?t=202609141532070) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `46281de3ff74c0f3…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/packet_Online%20Copy_REVISED%2009-14-2026_REDACTED.pdf?t=202609141532070#page=1)* (read by OCR; check the original)
@@ -1679,11 +1679,18 @@ Fire Chief ___
 <a id="p70"></a>
 *[Page 70 of the original](https://www.southlyonmi.org/packet_Online%20Copy_REVISED%2009-14-2026_REDACTED.pdf?t=202609141532070#page=70)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 9 vendors
 
 10'x 10' poppents
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p71"></a>
 *[Page 71 of the original](https://www.southlyonmi.org/packet_Online%20Copy_REVISED%2009-14-2026_REDACTED.pdf?t=202609141532070#page=71)* (read by OCR; check the original)

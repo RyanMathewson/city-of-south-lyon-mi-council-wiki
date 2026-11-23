@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/11-14-22%20Council%20Packet%20-%20onlin
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "e872924d6265ed391ac6e9424ba39c076ad899087ede0ed634a6dd4bacc54257"
 source_bytes: 5910031
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 74
 ocr_pages: 74
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2022-11-14
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/11-14-22%20Council%20Packet%20-%20online%20only.pdf?t=202211101553560) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `e872924d6265ed39…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/11-14-22%20Council%20Packet%20-%20online%20only.pdf?t=202211101553560) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `e872924d6265ed39…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/11-14-22%20Council%20Packet%20-%20online%20only.pdf?t=202211101553560#page=1)* (read by OCR; check the original)
@@ -873,6 +873,11 @@ Lisa Deaton, City Clerk/Treasurer
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/11-14-22%20Council%20Packet%20-%20online%20only.pdf?t=202211101553560#page=40)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## OAKLAND COUNTY MICHIGAN
@@ -902,6 +907,8 @@ www.oakgov.com/chi
 *[Image or figure on this page; see the original.]*
 
 This Census Block Group map reflects the 2011-2015 American Community Survey (ACS).
+
+</details>
 
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/11-14-22%20Council%20Packet%20-%20online%20only.pdf?t=202211101553560#page=41)* (read by OCR; check the original)

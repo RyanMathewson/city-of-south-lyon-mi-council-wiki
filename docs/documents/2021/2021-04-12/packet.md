@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/4-12-21%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "58a090fe35c89bfa3f25ea5a0dd9c7d6e4786e005220181ab984adec0c2b01fa"
 source_bytes: 12167305
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 77
 ocr_pages: 77
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2021-04-12
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/4-12-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `58a090fe35c89bfa…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/4-12-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `58a090fe35c89bfa…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/4-12-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=1)* (read by OCR; check the original)
@@ -320,6 +320,11 @@ ROLL CALL VOTE: Kurtzweil- Yes
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/4-12-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=10)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Richards- Yes
 
 Kivell- Yes
@@ -351,6 +356,8 @@ Dan Pelchat, Mayor
 Lisa Deaton, City Clerk
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/4-12-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=11)* (read by OCR; check the original)
@@ -723,7 +730,14 @@ Date
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/4-12-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=34)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/4-12-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=35)* (read by OCR; check the original)
@@ -934,7 +948,14 @@ Date
 <a id="p43"></a>
 *[Page 43 of the original](https://www.southlyonmi.org/4-12-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=43)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/4-12-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=44)* (read by OCR; check the original)
@@ -1330,9 +1351,16 @@ If item is chosen to be replaced, the old item in our shop will be scrapped unle
 <a id="p53"></a>
 *[Page 53 of the original](https://www.southlyonmi.org/4-12-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=53)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # 5 HP 208-230V Barnes MODEL 4XSHVB50N4-160 Explosion Proof Submersible Pump (4"Discharge) - COLONIAL ACRES (REP: JETT PUMP)
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p54"></a>
 *[Page 54 of the original](https://www.southlyonmi.org/4-12-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=54)* (read by OCR; check the original)
@@ -1418,40 +1446,80 @@ Jonathan T. Vogel
 <a id="p57"></a>
 *[Page 57 of the original](https://www.southlyonmi.org/4-12-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=57)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # ATTACHMENT 1.2 / AGENDA NOTE: WETWELL STAIRS
 
 Wet Well Stairs: Currently Metal – Not practical to repair or refurbish
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p58"></a>
 *[Page 58 of the original](https://www.southlyonmi.org/4-12-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=58)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 This tread is completely rusted and will break completely in the near future.
 
+</details>
+
 <a id="p59"></a>
 *[Page 59 of the original](https://www.southlyonmi.org/4-12-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=59)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p60"></a>
 *[Page 60 of the original](https://www.southlyonmi.org/4-12-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=60)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 Underside of Stair Well – Corrosion has caused stairs to fail beyond repair
 
+</details>
+
 <a id="p61"></a>
 *[Page 61 of the original](https://www.southlyonmi.org/4-12-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=61)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 3
 
+</details>
+
 <a id="p62"></a>
 *[Page 62 of the original](https://www.southlyonmi.org/4-12-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=62)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1468,6 +1536,8 @@ Together, we will make your vision a reality.
 Market Solutions
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p63"></a>
 *[Page 63 of the original](https://www.southlyonmi.org/4-12-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=63)* (read by OCR; check the original)

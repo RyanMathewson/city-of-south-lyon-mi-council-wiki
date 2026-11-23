@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/10-9-23%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "4921b46de0c399d6c064357b565eb65a0dc4b2312d6d9bfb2f69213fb9bac5a4"
 source_bytes: 5308777
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 136
 ocr_pages: 136
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2023-10-09
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/10-9-23%20Council%20Packet%20-%20online%20only.pdf?t=202310051615250) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `4921b46de0c399d6…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/10-9-23%20Council%20Packet%20-%20online%20only.pdf?t=202310051615250) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `4921b46de0c399d6…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/10-9-23%20Council%20Packet%20-%20online%20only.pdf?t=202310051615250#page=1)* (read by OCR; check the original)
@@ -703,7 +703,14 @@ $3,714.26 $30,051.70 $30,051.70
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/10-9-23%20Council%20Packet%20-%20online%20only.pdf?t=202310051615250#page=35)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p36"></a>
 *[Page 36 of the original](https://www.southlyonmi.org/10-9-23%20Council%20Packet%20-%20online%20only.pdf?t=202310051615250#page=36)* (read by OCR; check the original)
@@ -779,7 +786,14 @@ Howell, MI 48843
 <a id="p39"></a>
 *[Page 39 of the original](https://www.southlyonmi.org/10-9-23%20Council%20Packet%20-%20online%20only.pdf?t=202310051615250#page=39)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/10-9-23%20Council%20Packet%20-%20online%20only.pdf?t=202310051615250#page=40)* (read by OCR; check the original)
@@ -857,6 +871,11 @@ lgallup@hrcengr.com
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/10-9-23%20Council%20Packet%20-%20online%20only.pdf?t=202310051615250#page=41)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## MEAL VOUCHER:
@@ -866,6 +885,8 @@ GOOD FOR $10 FOOD CREDIT AT EITHER DRAUGHT HORSE OR WITCH'S HAT NOT VALID FOR AL
 ## PLEASE PRESENT TO SERVER
 
 Voucher #
+
+</details>
 
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/10-9-23%20Council%20Packet%20-%20online%20only.pdf?t=202310051615250#page=42)* (read by OCR; check the original)
@@ -1073,11 +1094,18 @@ This new accounting pronouncement will be effective for fiscal years ending Dece
 <a id="p49"></a>
 *[Page 49 of the original](https://www.southlyonmi.org/10-9-23%20Council%20Packet%20-%20online%20only.pdf?t=202310051615250#page=49)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 # City of South Lyon Audit Presentation to the City Council
 
 For Year Ended June 30, 2023
+
+</details>
 
 <a id="p50"></a>
 *[Page 50 of the original](https://www.southlyonmi.org/10-9-23%20Council%20Packet%20-%20online%20only.pdf?t=202310051615250#page=50)* (read by OCR; check the original)
@@ -1122,12 +1150,24 @@ New road millage was approved during fiscal year 2022. New debt related to road 
 <a id="p52"></a>
 *[Page 52 of the original](https://www.southlyonmi.org/10-9-23%20Council%20Packet%20-%20online%20only.pdf?t=202310051615250#page=52)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>City of South Lyon General Fund - Revenue Years Ended June 30</div>
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p53"></a>
 *[Page 53 of the original](https://www.southlyonmi.org/10-9-23%20Council%20Packet%20-%20online%20only.pdf?t=202310051615250#page=53)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Homestead Property Tax Analysis 2022 Levy City of South Lyon – Year Ended June 30, 2023
 
@@ -1149,19 +1189,35 @@ Library
 
 Art/Zoo/Huron Clinton Metro Park/Oakland County Parks and Recreation
 
+</details>
+
 <a id="p54"></a>
 *[Page 54 of the original](https://www.southlyonmi.org/10-9-23%20Council%20Packet%20-%20online%20only.pdf?t=202310051615250#page=54)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## City of South Lyon General Fund - Expenditures Years Ended June 30
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p55"></a>
 *[Page 55 of the original](https://www.southlyonmi.org/10-9-23%20Council%20Packet%20-%20online%20only.pdf?t=202310051615250#page=55)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>City of South Lyon General Fund-Fund Balance Years Ended June 30</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p56"></a>
 *[Page 56 of the original](https://www.southlyonmi.org/10-9-23%20Council%20Packet%20-%20online%20only.pdf?t=202310051615250#page=56)* (read by OCR; check the original)

@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/2-11-19%20Council%20packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "5424da502afb188cbf0770d0212c3d78cc6bdb0a49f5f16a1e9e5c4e17ba072d"
 source_bytes: 4111141
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 98
 ocr_pages: 98
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2019-02-11
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/2-11-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733130) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `5424da502afb188c…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/2-11-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733130) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `5424da502afb188c…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/2-11-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733130#page=1)* (read by OCR; check the original)
@@ -926,17 +926,38 @@ Date
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/2-11-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733130#page=41)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/2-11-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733130#page=42)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p43"></a>
 *[Page 43 of the original](https://www.southlyonmi.org/2-11-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733130#page=43)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/2-11-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733130#page=44)* (read by OCR; check the original)
@@ -2403,7 +2424,14 @@ THRC
 <a id="p88"></a>
 *[Page 88 of the original](https://www.southlyonmi.org/2-11-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733130#page=88)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p89"></a>
 *[Page 89 of the original](https://www.southlyonmi.org/2-11-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733130#page=89)* (read by OCR; check the original)
@@ -2603,14 +2631,26 @@ The permission stated in this Temporary Easement shall begin on the date the Pro
 <a id="p96"></a>
 *[Page 96 of the original](https://www.southlyonmi.org/2-11-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733130#page=96)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>HRC_OLW.ctb</div>
 
 <div>SKETCH OF EASEMENT</div>
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p97"></a>
 *[Page 97 of the original](https://www.southlyonmi.org/2-11-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733130#page=97)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>201805/20180542/2018075/02</div>
 
@@ -2629,6 +2669,8 @@ MATCH LINE-THIS SHEET
 PROJECT NO. 5002
 
 SQUARE NO. SQUARE #
+
+</details>
 
 <a id="p98"></a>
 *[Page 98 of the original](https://www.southlyonmi.org/2-11-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733130#page=98)* (read by OCR; check the original)

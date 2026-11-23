@@ -777,6 +777,11 @@ Those unable to attend the public hearing are invited to submit written comments
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/9-22-2025%20Council%20Packet-%20Council%20Only.pdf?t=202509191648180#page=23)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## City of South Lyon
 
 Dawntown
@@ -786,6 +791,8 @@ Development Authority
 *[Image or figure on this page; see the original.]*
 
 DDA BOUNDARY MAP
+
+</details>
 
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/9-22-2025%20Council%20Packet-%20Council%20Only.pdf?t=202509191648180#page=24)* (read by OCR; check the original)
@@ -1430,6 +1437,11 @@ Ad Council examples of the advertisements
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/9-22-2025%20Council%20Packet-%20Council%20Only.pdf?t=202509191648180#page=47)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 DWordPride.org
 
 Disability is  $ \underline{\text{not}} $ a bad word.
@@ -1442,12 +1454,21 @@ Be a good human(e). Adopt, don't shop.
 
 Humane Society of Huron Valley
 
+</details>
+
 <a id="p48"></a>
 *[Page 48 of the original](https://www.southlyonmi.org/9-22-2025%20Council%20Packet-%20Council%20Only.pdf?t=202509191648180#page=48)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ARE YOU AT RISK FOR KIDNEY DISEASE?
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p49"></a>
 *[Page 49 of the original](https://www.southlyonmi.org/9-22-2025%20Council%20Packet-%20Council%20Only.pdf?t=202509191648180#page=49)* (read by OCR; check the original)
@@ -1543,6 +1564,11 @@ Training Tuesday: Day 1 of 2 training days with Green Oak Twp. Crews met each ot
 <a id="p54"></a>
 *[Page 54 of the original](https://www.southlyonmi.org/9-22-2025%20Council%20Packet-%20Council%20Only.pdf?t=202509191648180#page=54)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Incidents to date: 1017 (January 1 $ ^{st} $ through September 18 $ ^{th} $)
 
 ####  $ \underline{\text{Thursday, Sept. 11th}} $ through  $ \underline{\text{Thursday, Sept. 18th}} $
@@ -1563,8 +1589,15 @@ Training: Saturday, we had a joint live burn training in Salem Twp. with Salem T
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p55"></a>
 *[Page 55 of the original](https://www.southlyonmi.org/9-22-2025%20Council%20Packet-%20Council%20Only.pdf?t=202509191648180#page=55)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # SOUTH LYON FIRE DEPARTMENT
 
@@ -1577,23 +1610,44 @@ firechief@southlyonmi.org
 (248) 437-2616
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p56"></a>
 *[Page 56 of the original](https://www.southlyonmi.org/9-22-2025%20Council%20Packet-%20Council%20Only.pdf?t=202509191648180#page=56)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # SOUTH LYON FIRE DEPARTMENT
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p57"></a>
 *[Page 57 of the original](https://www.southlyonmi.org/9-22-2025%20Council%20Packet-%20Council%20Only.pdf?t=202509191648180#page=57)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # SOUTH LYON FIRE DEPARTMENT
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p58"></a>
 *[Page 58 of the original](https://www.southlyonmi.org/9-22-2025%20Council%20Packet-%20Council%20Only.pdf?t=202509191648180#page=58)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # SOUTH LYON FIRE DEPARTMENT
 
@@ -1606,6 +1660,8 @@ firechief@southlyonmi.org
 (248) 437-2616
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p59"></a>
 *[Page 59 of the original](https://www.southlyonmi.org/9-22-2025%20Council%20Packet-%20Council%20Only.pdf?t=202509191648180#page=59)* (read by OCR; check the original)

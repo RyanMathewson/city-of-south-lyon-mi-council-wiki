@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/11-27-23%20Council%20Packet%20-%20onlin
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "d8ea72f77de07bef915f78ca1ae459d095b5f4eebc09c97cb781c2e3a918780a"
 source_bytes: 6950217
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 161
 ocr_pages: 161
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2023-11-27
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/11-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202311221519330) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `d8ea72f77de07bef…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/11-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202311221519330) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `d8ea72f77de07bef…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/11-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202311221519330#page=1)* (read by OCR; check the original)
@@ -1158,7 +1158,14 @@ Date
 <a id="p50"></a>
 *[Page 50 of the original](https://www.southlyonmi.org/11-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202311221519330#page=50)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p51"></a>
 *[Page 51 of the original](https://www.southlyonmi.org/11-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202311221519330#page=51)* (read by OCR; check the original)
@@ -1388,9 +1395,16 @@ Client Id: 1193769 PO: Ad Id: 2531810
 <a id="p60"></a>
 *[Page 60 of the original](https://www.southlyonmi.org/11-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202311221519330#page=60)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Area-Wide Benefit Map City of South Lyon
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p61"></a>
 *[Page 61 of the original](https://www.southlyonmi.org/11-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202311221519330#page=61)* (read by OCR; check the original)
@@ -1470,6 +1484,11 @@ Total Amount of Bid (Division 1 + 2)
 <a id="p64"></a>
 *[Page 64 of the original](https://www.southlyonmi.org/11-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202311221519330#page=64)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <table><tr><td>DATE</td><td>2022/10/1</td><td>TOTAL</td><td>100'</td></tr><tr><td colspan="2">March 2023</td><td>NOT</td><td>NOT</td></tr><tr><td colspan="4">GRADING PLAN</td></tr><tr><td colspan="2">DRE 100% VIA 2022/07/31</td><td>TOTAL</td><td>100'</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
@@ -1478,8 +1497,15 @@ Total Amount of Bid (Division 1 + 2)
 
 HRC_028_01-279 11/2/2013 10:46 AM
 
+</details>
+
 <a id="p65"></a>
 *[Page 65 of the original](https://www.southlyonmi.org/11-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202311221519330#page=65)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td colspan="3">BENCHMARK</td></tr><tr><td>BMI.#</td><td>DESCRIPTION</td><td>FLUEN.</td></tr><tr><td>340</td><td>TRAVPT EOST NORTH SIDE OF MOHATTLE AT NW CORNER OF DRIVE ENTRANCE TO HENANEN ENG</td><td>918.35</td></tr><tr><td>331</td><td>PAINTED + ON SW CORNER OF DONC BASE FOR TRAFFIC SIGNAL, BOX AT SW CORNER OF MOHATTLE STREET & LAFAYETTE</td><td>918.02</td></tr><tr><td>332</td><td>PAINTED + SOUTH BOLT STRAIN POLE TW CAMERA AT NW CORNER OF LAFAYETTE & MOHATTLE ST</td><td>917.40</td></tr></table>
 
@@ -1488,6 +1514,8 @@ HRC_028_01-279 11/2/2013 10:46 AM
 THE INFORMATION ON THIS WORK NOT BE FINE INFORMATION EXCEEDS TO THIS FROM BY THE WORLD UTILITY CONSUMER, DIETICITY ASPECTS AND OLD WORK SECURITIES, BLOODING & VAILIES, WHO ARE ON PRINCIPAL PROPERTY AND VULNAL NOT BLOORED UPON A LIVING COMPANY, PULSED PLANS, SALE LOCATIONS, & GROWN UPON ITS SURVEY, ARE APPROACH FISH FISH FROM WATERSTAINES, THE ASPECTS BY NOT FISH FROM SOURCES, WHO ARE CONSUMED TO BE SALEable TO DO NOT DO IT. THE COMPANY BEGINS TO CONSUMER, ALL LOCATIONS AND EXTENTS OF DEFINING OUTSETS ON CONDUCT WITH PONDER INFORMATION SHALL BE WONDER IN THE FIELD CALL WITH NO 3 ADDEND CARS FROM TO CONSUMER.
 
 THREE FULL WORKING DAYS BEFORE YOU OIG, CALL THE MISS DIG SYSTEM AT 800-682-7171 OR SIL.
+
+</details>
 
 <a id="p66"></a>
 *[Page 66 of the original](https://www.southlyonmi.org/11-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202311221519330#page=66)* (read by OCR; check the original)
@@ -1891,6 +1919,11 @@ Low-profile smoke and carbon monoxide alarm detects two potentially deadly threa
 <a id="p77"></a>
 *[Page 77 of the original](https://www.southlyonmi.org/11-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202311221519330#page=77)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 HOME / DETECTORS / BATTERY OPERATED SMOKE DETECTOR
@@ -1904,6 +1937,8 @@ HOME / DETECTORS / BATTERY OPERATED SMOKE DETECTOR
 $23.95
 
 First Alert SA350B Tamperproof 10 Year Sealed Lithium Battery Powered Ionization Smoke Alarm will protect your home for 10 years without changing the battery.
+
+</details>
 
 <a id="p78"></a>
 *[Page 78 of the original](https://www.southlyonmi.org/11-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202311221519330#page=78)* (read by OCR; check the original)
@@ -3394,10 +3429,22 @@ South Lyon, MI 48178
 <a id="p133"></a>
 *[Page 133 of the original](https://www.southlyonmi.org/11-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202311221519330#page=133)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p134"></a>
 *[Page 134 of the original](https://www.southlyonmi.org/11-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202311221519330#page=134)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 EXHIBIT B
 
@@ -3405,8 +3452,15 @@ APPROVED PRELIMINARY PLANNED UNIT DEVELOPMENT SITE PLAN
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p135"></a>
 *[Page 135 of the original](https://www.southlyonmi.org/11-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202311221519330#page=135)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 EXHIBIT C
 
@@ -3414,10 +3468,19 @@ RENTAL ASSISTANCE DEMONSTRATION USE AGREEMENT DATED OCTOBER 6, 2016 BETWEEN THE 
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p136"></a>
 *[Page 136 of the original](https://www.southlyonmi.org/11-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202311221519330#page=136)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p137"></a>
 *[Page 137 of the original](https://www.southlyonmi.org/11-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202311221519330#page=137)* (read by OCR; check the original)
@@ -4030,6 +4093,11 @@ Next quarterly South Lyon Housing Commission Meeting scheduled for Monday, Decem
 <a id="p155"></a>
 *[Page 155 of the original](https://www.southlyonmi.org/11-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202311221519330#page=155)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # WASHINGTON MANOR APARTMENTS SOUTH LYON HOUSING COMMISSION
 
 ## WASHINGTON STREET SOUTH LYON, MICHIGAN
@@ -4145,41 +4213,83 @@ COVER SHEET: SIGN ELEVATION LOCATION MAP, ZOOMING SUMMARY, AERIAL PHOTO ENGINEER
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p156"></a>
 *[Page 156 of the original](https://www.southlyonmi.org/11-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202311221519330#page=156)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p157"></a>
 *[Page 157 of the original](https://www.southlyonmi.org/11-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202311221519330#page=157)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p158"></a>
 *[Page 158 of the original](https://www.southlyonmi.org/11-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202311221519330#page=158)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p159"></a>
 *[Page 159 of the original](https://www.southlyonmi.org/11-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202311221519330#page=159)* (read by OCR; check the original)
 
-*[Image or figure on this page; see the original.]*
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+*[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p160"></a>
 *[Page 160 of the original](https://www.southlyonmi.org/11-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202311221519330#page=160)* (read by OCR; check the original)
 
-*[Image or figure on this page; see the original.]*
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+*[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p161"></a>
 *[Page 161 of the original](https://www.southlyonmi.org/11-27-23%20Council%20Packet%20-%20online%20only.pdf?t=202311221519330#page=161)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td>DATE:
 09/01/2022
@@ -4191,4 +4301,6 @@ ALL.NOLMETRO瀛洲</td></tr><tr><td>SHEET NO.
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 

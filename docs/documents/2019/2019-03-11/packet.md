@@ -222,6 +222,11 @@ Mayor Pelchat stated he wanted to thank all of the volunteers that are being app
 <a id="p6"></a>
 *[Page 6 of the original](https://www.southlyonmi.org/3-11-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=6)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 CM 2-6-19 MOTION TO ADJOURN
 
 Motion by Walton, supported by Kennedy
@@ -235,6 +240,8 @@ Respectfully submitted.
 Mayor Dan Pelchat
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p7"></a>
 *[Page 7 of the original](https://www.southlyonmi.org/3-11-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=7)* (read by OCR; check the original)
@@ -840,7 +847,14 @@ Eub Christopher Sunt
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/3-11-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=41)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/3-11-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=42)* (read by OCR; check the original)
@@ -1821,6 +1835,11 @@ Motion by Beagle, Second by Muscat
 <a id="p93"></a>
 *[Page 93 of the original](https://www.southlyonmi.org/3-11-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=93)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Motion to Adjourn – 7:48 p.m.
 
 Motion by Baker, Second by Muscat
@@ -1830,6 +1849,8 @@ Motion Approved – Unanimous
 Don Beagle, Chair Person
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p94"></a>
 *[Page 94 of the original](https://www.southlyonmi.org/3-11-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=94)* (read by OCR; check the original)

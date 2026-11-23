@@ -604,6 +604,11 @@ Total Construction Cost
 <a id="p26"></a>
 *[Page 26 of the original](https://www.southlyonmi.org/packet_Council_07-27-2026_Online%20Copy.pdf?t=202607231421300#page=26)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <table><tr><td colspan="3">CITY OF SOUTH LYON
 MICHIGAN</td></tr><tr><td colspan="3">CRC
 NUBBELL BOTTH & CLARK, INC.
@@ -626,6 +631,8 @@ SITE PLAN</td></tr><tr><td>NO. 03 NO. 20220 TON</td><td>Scale</td><td>1.12</td><
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p27"></a>
 *[Page 27 of the original](https://www.southlyonmi.org/packet_Council_07-27-2026_Online%20Copy.pdf?t=202607231421300#page=27)* (read by OCR; check the original)

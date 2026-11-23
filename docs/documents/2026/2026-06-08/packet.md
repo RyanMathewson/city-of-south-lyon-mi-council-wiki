@@ -377,6 +377,11 @@ Councilmember Popa stated looking back over the last 2 weeks, there were lots of
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/June%208%202026%20REVISED%20Council%20Packet%20-%20Online%20Copy.pdf?t=202606090933270#page=11)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Mayor Kennedy reminded everyone that the Salem-South Lyon District Library will be holding a blood drive on Thursday this week from 10 a.m. until 4 p.m. So, log onto their website to get the details for setting up an appointment, and do what you can to help ensure an adequate blood supply.
 
 ##  $ \underline{\text{ADJOURNMENT}} $
@@ -392,6 +397,8 @@ Respectfully submitted,
 Mayor Steve Kennedy
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p12"></a>
 *[Page 12 of the original](https://www.southlyonmi.org/June%208%202026%20REVISED%20Council%20Packet%20-%20Online%20Copy.pdf?t=202606090933270#page=12)* (read by OCR; check the original)
@@ -732,12 +739,26 @@ Date
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/June%208%202026%20REVISED%20Council%20Packet%20-%20Online%20Copy.pdf?t=202606090933270#page=34)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/June%208%202026%20REVISED%20Council%20Packet%20-%20Online%20Copy.pdf?t=202606090933270#page=35)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p36"></a>
 *[Page 36 of the original](https://www.southlyonmi.org/June%208%202026%20REVISED%20Council%20Packet%20-%20Online%20Copy.pdf?t=202606090933270#page=36)* (read by OCR; check the original)
@@ -3773,6 +3794,11 @@ ___ to approve the Fire Department's request to purchase 5 new Motorola radios i
 <a id="p120"></a>
 *[Page 120 of the original](https://www.southlyonmi.org/June%208%202026%20REVISED%20Council%20Packet%20-%20Online%20Copy.pdf?t=202606090933270#page=120)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
@@ -3784,6 +3810,8 @@ SOUTH LYON FIRE DEPT, CITY O
 South Lyon FD-N70XE
 
 05/05/20
+
+</details>
 
 <a id="p121"></a>
 *[Page 121 of the original](https://www.southlyonmi.org/June%208%202026%20REVISED%20Council%20Packet%20-%20Online%20Copy.pdf?t=202606090933270#page=121)* (read by OCR; check the original)
@@ -3967,9 +3995,16 @@ The figure below illustrates APX N70's faster provisioning process.
 <a id="p127"></a>
 *[Page 127 of the original](https://www.southlyonmi.org/June%208%202026%20REVISED%20Council%20Packet%20-%20Online%20Copy.pdf?t=202606090933270#page=127)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>Figure 1: APX N70 Provisioning via Radio Central</div>
+
+</details>
 
 <a id="p128"></a>
 *[Page 128 of the original](https://www.southlyonmi.org/June%208%202026%20REVISED%20Council%20Packet%20-%20Online%20Copy.pdf?t=202606090933270#page=128)* (read by OCR; check the original)

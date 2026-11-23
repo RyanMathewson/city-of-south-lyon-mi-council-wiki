@@ -288,6 +288,11 @@ City Clerk/Treasurer Lisa Deaton
 <a id="p13"></a>
 *[Page 13 of the original](https://www.southlyonmi.org/6-8-20%20CM%20approved%20revised.pdf?t=202108310733160#page=13)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Pulte
 
 ## Fieldstone
@@ -296,20 +301,41 @@ Proposed PD
 
 The UMLOR Group
 
+</details>
+
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/6-8-20%20CM%20approved%20revised.pdf?t=202108310733160#page=14)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/6-8-20%20CM%20approved%20revised.pdf?t=202108310733160#page=15)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 RM-1: 154 Units
 
+</details>
+
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/6-8-20%20CM%20approved%20revised.pdf?t=202108310733160#page=16)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -323,15 +349,29 @@ Benefit: Less burden on Public Systems
 
 Benefit: Good Zoning Transition
 
+</details>
+
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/6-8-20%20CM%20approved%20revised.pdf?t=202108310733160#page=17)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 Benefit: 21 % Open Space
 
+</details>
+
 <a id="p18"></a>
 *[Page 18 of the original](https://www.southlyonmi.org/6-8-20%20CM%20approved%20revised.pdf?t=202108310733160#page=18)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Fieldstone Planned Development
 
@@ -339,20 +379,41 @@ Benefit: 21 % Open Space
 
 Benefit: Buffering, Connectivity and Preservation
 
+</details>
+
 <a id="p19"></a>
 *[Page 19 of the original](https://www.southlyonmi.org/6-8-20%20CM%20approved%20revised.pdf?t=202108310733160#page=19)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 Benefit: More Diverse Architecture, Age Targeted Ranch
 
+</details>
+
 <a id="p20"></a>
 *[Page 20 of the original](https://www.southlyonmi.org/6-8-20%20CM%20approved%20revised.pdf?t=202108310733160#page=20)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p21"></a>
 *[Page 21 of the original](https://www.southlyonmi.org/6-8-20%20CM%20approved%20revised.pdf?t=202108310733160#page=21)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -376,20 +437,39 @@ Benefit: More Diverse Architecture, Age Targeted Ranch
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p22"></a>
 *[Page 22 of the original](https://www.southlyonmi.org/6-8-20%20CM%20approved%20revised.pdf?t=202108310733160#page=22)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/6-8-20%20CM%20approved%20revised.pdf?t=202108310733160#page=23)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/6-8-20%20CM%20approved%20revised.pdf?t=202108310733160#page=24)* (read by OCR; check the original)
 
-*[Image or figure on this page; see the original.]*
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -402,9 +482,18 @@ Benefit: More Diverse Architecture, Age Targeted Ranch
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+*[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p25"></a>
 *[Page 25 of the original](https://www.southlyonmi.org/6-8-20%20CM%20approved%20revised.pdf?t=202108310733160#page=25)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Aspire
 
@@ -412,27 +501,55 @@ Benefit: More Diverse Architecture, Age Targeted Ranch
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p26"></a>
 *[Page 26 of the original](https://www.southlyonmi.org/6-8-20%20CM%20approved%20revised.pdf?t=202108310733160#page=26)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Hampton
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p27"></a>
 *[Page 27 of the original](https://www.southlyonmi.org/6-8-20%20CM%20approved%20revised.pdf?t=202108310733160#page=27)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/6-8-20%20CM%20approved%20revised.pdf?t=202108310733160#page=28)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Thomasville PD
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p29"></a>
 *[Page 29 of the original](https://www.southlyonmi.org/6-8-20%20CM%20approved%20revised.pdf?t=202108310733160#page=29)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -449,6 +566,8 @@ Common Area Walks = 894 SF
 ## 2023 
 
 Open Space (net area less lots, walk, & roads) = 100,098 SF (21.6%)
+
+</details>
 
 <a id="p30"></a>
 *[Page 30 of the original](https://www.southlyonmi.org/6-8-20%20CM%20approved%20revised.pdf?t=202108310733160#page=30)* (read by OCR; check the original)
@@ -517,12 +636,26 @@ Building coverage = 18.44%
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/6-8-20%20CM%20approved%20revised.pdf?t=202108310733160#page=34)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/6-8-20%20CM%20approved%20revised.pdf?t=202108310733160#page=35)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Thank you!
+
+</details>
 

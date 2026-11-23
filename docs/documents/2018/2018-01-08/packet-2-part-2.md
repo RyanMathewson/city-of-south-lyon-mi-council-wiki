@@ -2251,6 +2251,11 @@ Environmental Consultants
 <a id="p65"></a>
 *[Page 65 of the original](https://www.southlyonmi.org/1.8.18%20council%20pkt%20part%202.pdf?t=202108310733110#page=65)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>DTE Energy - Energy Electric</div>
 
 Copyright DTE Energy
@@ -2263,8 +2268,15 @@ Sources: Esri, HERE, DeLorme, USGS, Intermap, INCREMENT P, NRCan, Esri Japan, ME
 
 <div>December 27, 2017</div>
 
+</details>
+
 <a id="p66"></a>
 *[Page 66 of the original](https://www.southlyonmi.org/1.8.18%20council%20pkt%20part%202.pdf?t=202108310733110#page=66)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>DTE Energy - Energy Electric</div>
 
@@ -2275,10 +2287,17 @@ Sources: Esri, HERE, DeLorme, USGS, Intermap, INCREMENT P, NRCan, Esri Japan, ME
 <div>December 27, 2017</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p67"></a>
 *[Page 67 of the original](https://www.southlyonmi.org/1.8.18%20council%20pkt%20part%202.pdf?t=202108310733110#page=67)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>DTE Energy - Energy Electric</div>
 
 Sources: Esri, HERE, DeLorme, USGS, Intermap, INCREMENT P, NRCan, Esri Japan, METI, Esri China (Hong Kong), Esri Korea, Esri (Thailand).
@@ -2288,6 +2307,8 @@ Sources: Esri, HERE, DeLorme, USGS, Intermap, INCREMENT P, NRCan, Esri Japan, ME
 *[Image or figure on this page; see the original.]*
 
 <div>December 27, 2017</div>
+
+</details>
 
 <a id="p68"></a>
 *[Page 68 of the original](https://www.southlyonmi.org/1.8.18%20council%20pkt%20part%202.pdf?t=202108310733110#page=68)* (read by OCR; check the original)

@@ -346,6 +346,11 @@ Mayor Pelchat stated he had a great time seeing many people from the city as wel
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/8-23-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=10)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ADJOURNMENT
 
 CM 8-10-21 MOTION TO ADJOURN
@@ -361,6 +366,8 @@ Respectfully Submitted,
 Dan Pelchat, Mayor
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/8-23-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=11)* (read by OCR; check the original)
@@ -512,7 +519,14 @@ Date
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/8-23-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=16)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/8-23-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=17)* (read by OCR; check the original)
@@ -849,6 +863,11 @@ Made, Passed and Adopted by the South Lyon City Council this  $ \underline{ } $ 
 <a id="p27"></a>
 *[Page 27 of the original](https://www.southlyonmi.org/8-23-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=27)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Lisa Deaton, City Clerk
 
 ## Certificate of Adoption
@@ -862,6 +881,8 @@ Adopted:
 Published:
 
 Effective:
+
+</details>
 
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/8-23-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=28)* (read by OCR; check the original)
@@ -1294,7 +1315,14 @@ S. Lyon, MI 48178
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/8-23-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=42)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p43"></a>
 *[Page 43 of the original](https://www.southlyonmi.org/8-23-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=43)* (read by OCR; check the original)
@@ -1641,6 +1669,11 @@ Howell, MI 48843
 <a id="p50"></a>
 *[Page 50 of the original](https://www.southlyonmi.org/8-23-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=50)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <table><tr><td colspan="2">HRC</td></tr><tr><td colspan="2">HUBBELL, ROTH & CLARK, INC</td></tr><tr><td colspan="2">CONSULTING ENGINEERS SINCE 1915</td></tr><tr><td colspan="2">103 W. GRADE RIVER APL</td></tr><tr><td>NOWELL, MI</td><td>400-63</td></tr><tr><td colspan="2">PRINTED: (073) 600-0710</td></tr><tr><td colspan="2">PRINTED: (073) 553-6008</td></tr><tr><td colspan="2">PRINTED: Mpt./1 www.brwngg.com</td></tr></table>
 
 <table><tr><td colspan="2">CEMETERY ADDITION
@@ -1658,6 +1691,8 @@ NO. 3</td></tr></table>
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p51"></a>
 *[Page 51 of the original](https://www.southlyonmi.org/8-23-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=51)* (read by OCR; check the original)
@@ -1788,6 +1823,11 @@ Date
 <a id="p55"></a>
 *[Page 55 of the original](https://www.southlyonmi.org/8-23-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=55)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Candy Cane Hunt
 
 December 4, 2021
@@ -1812,10 +1852,19 @@ Children are separated into three age based groups and hunt for mini candy canes
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p56"></a>
 *[Page 56 of the original](https://www.southlyonmi.org/8-23-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=56)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p57"></a>
 *[Page 57 of the original](https://www.southlyonmi.org/8-23-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=57)* (read by OCR; check the original)
@@ -1919,6 +1968,11 @@ If you would like some pre-written social media language and graphics to use on 
 <a id="p60"></a>
 *[Page 60 of the original](https://www.southlyonmi.org/8-23-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=60)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ### South Lyon Police Department W. Lake Street 2021 Speed Study
 
 *[Image or figure on this page; see the original.]*
@@ -1928,6 +1982,8 @@ If you would like some pre-written social media language and graphics to use on 
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p61"></a>
 *[Page 61 of the original](https://www.southlyonmi.org/8-23-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=61)* (read by OCR; check the original)
@@ -1966,39 +2022,74 @@ There are 50 points of intersection along this stretch of public highway:
 <a id="p63"></a>
 *[Page 63 of the original](https://www.southlyonmi.org/8-23-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=63)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Signage:
 
 Speed Limit 35: One (1) on the north side of Ten Mile Road at Washington street. Two (2) on the south side of the road traveling east. One just east of Dixboro Road and one just west of South Hagadorn.
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p64"></a>
 *[Page 64 of the original](https://www.southlyonmi.org/8-23-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=64)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 CROSSWALK AHEAD: One (1) on the north side of Ten Mile just west of Washington Street. Also at this sign is the word SCHOOL painted on the street. One (1) identical sign and paint on the side south of Ten Mile just west of Warren Street.
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p65"></a>
 *[Page 65 of the original](https://www.southlyonmi.org/8-23-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=65)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 CROSSWALK: One (1) on the north side of the road at North Warren Street and one (1) identical on the south side at South Warren Street.
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p66"></a>
 *[Page 66 of the original](https://www.southlyonmi.org/8-23-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=66)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 PASS WITH CARE: One (1) sign on the north side just west of North Hagadorn and one on the south side just west of Woodland Drive.
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p67"></a>
 *[Page 67 of the original](https://www.southlyonmi.org/8-23-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=67)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 DO NOT PASS: One (1) on the north side between Woodland Drive and Singh Blvd and one (1) on the south side across from Calkins Drive.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p68"></a>
 *[Page 68 of the original](https://www.southlyonmi.org/8-23-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=68)* (read by OCR; check the original)
@@ -2411,6 +2502,11 @@ Source: Michigan Geographic Framework
 <a id="p88"></a>
 *[Page 88 of the original](https://www.southlyonmi.org/8-23-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=88)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
@@ -2424,6 +2520,8 @@ Note: A bridge is considered deficient if it is structurally deficient (in poor 
 Source: Michigan Structure Inventory and Appraisal Database
 
 Detailed Intersection & Road Data
+
+</details>
 
 <a id="p89"></a>
 *[Page 89 of the original](https://www.southlyonmi.org/8-23-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=89)* (read by OCR; check the original)

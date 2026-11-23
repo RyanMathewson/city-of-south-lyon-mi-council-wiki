@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "ea57e125a6cfc966e691278b4d5c5a179cad73c74e44ca4582571fa56438ddff"
 source_bytes: 10417651
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 156
 ocr_pages: 156
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2017-12-11
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/packet%2012-11-17.pdf?t=202108310733100) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `ea57e125a6cfc966…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/packet%2012-11-17.pdf?t=202108310733100) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `ea57e125a6cfc966…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/packet%2012-11-17.pdf?t=202108310733100#page=1)* (read by OCR; check the original)
@@ -1367,6 +1367,11 @@ Dated: _____, 20 Signature: _____
 <a id="p49"></a>
 *[Page 49 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/packet%2012-11-17.pdf?t=202108310733100#page=49)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## MERS standard participant transfer rules A REFERENCE GUIDE
 
 *[Image or figure on this page; see the original.]*
@@ -1376,6 +1381,8 @@ Dated: _____, 20 Signature: _____
 *[Image or figure on this page; see the original.]*
 
 Helping you transfer an employee to a different MERS division within your municipality
+
+</details>
 
 <a id="p50"></a>
 *[Page 50 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/packet%2012-11-17.pdf?t=202108310733100#page=50)* (read by OCR; check the original)
@@ -1428,9 +1435,16 @@ This publication contains a summary description of MAFRS benefits, policies or p
 <a id="p52"></a>
 *[Page 52 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/packet%2012-11-17.pdf?t=202108310733100#page=52)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Channel 19 Cable Commission Update
+
+</details>
 
 <a id="p53"></a>
 *[Page 53 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/packet%2012-11-17.pdf?t=202108310733100#page=53)* (read by OCR; check the original)
@@ -1485,6 +1499,11 @@ Robotics
 <a id="p55"></a>
 *[Page 55 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/packet%2012-11-17.pdf?t=202108310733100#page=55)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Key Progress
 
 ▶ Daily Scheduling of content on Playback System
@@ -1526,6 +1545,8 @@ Kensington Valley Chamber of Commerce Awards May
 Stephen Hom
 
 Settings Help
+
+</details>
 
 <a id="p56"></a>
 *[Page 56 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/packet%2012-11-17.pdf?t=202108310733100#page=56)* (read by OCR; check the original)

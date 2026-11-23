@@ -1039,6 +1039,11 @@ The following maps were prepared to assist in illustrating the South Lyon DDA's 
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/11-24-25%20Online%20Only.pdf?t=202511201334420#page=41)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 # City of South Lyon
@@ -1059,19 +1064,35 @@ Uses
 
 No Single-Family Residential uses are currently found within the DDA district. The DDA area accounts for 23.8 total acres.
 
+</details>
+
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/11-24-25%20Online%20Only.pdf?t=202511201334420#page=42)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 Source: 2016 South Lyon Master Plan
 
+</details>
+
 <a id="p43"></a>
 *[Page 43 of the original](https://www.southlyonmi.org/11-24-25%20Online%20Only.pdf?t=202511201334420#page=43)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 Source: 2016 South Lyon Master Plana
+
+</details>
 
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/11-24-25%20Online%20Only.pdf?t=202511201334420#page=44)* (read by OCR; check the original)
@@ -1187,6 +1208,11 @@ FUNDING IS BASED ON AVAILABILITY AND DEMAND. IT IS NOT GUARANTEED.
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/11-24-25%20Online%20Only.pdf?t=202511201334420#page=47)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Area-Wide Benefit Map
 
 City of South Lyon
@@ -1204,6 +1230,8 @@ Waterbodies
 This Census Block Group map reflects the 2011-2015 American Community Survey (ACS).
 
 Map Created On: 9/1/2020
+
+</details>
 
 <a id="p48"></a>
 *[Page 48 of the original](https://www.southlyonmi.org/11-24-25%20Online%20Only.pdf?t=202511201334420#page=48)* (read by OCR; check the original)
@@ -1513,6 +1541,11 @@ November 5, 2025
 <a id="p56"></a>
 *[Page 56 of the original](https://www.southlyonmi.org/11-24-25%20Online%20Only.pdf?t=202511201334420#page=56)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # OAK CREEK VILLAGE
 
 *[Image or figure on this page; see the original.]*
@@ -1538,6 +1571,8 @@ PHONE: (517) 552-9199
 WEB SITE: www.hrcengr.com
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p57"></a>
 *[Page 57 of the original](https://www.southlyonmi.org/11-24-25%20Online%20Only.pdf?t=202511201334420#page=57)* (read by OCR; check the original)
@@ -1631,6 +1666,11 @@ Hubbell, Roth Clark, Inc.
 <a id="p60"></a>
 *[Page 60 of the original](https://www.southlyonmi.org/11-24-25%20Online%20Only.pdf?t=202511201334420#page=60)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 HUBBELL, ROTH & CLARK, INC.
@@ -1688,6 +1728,8 @@ SHEET NO. SHEET TITLE
 6 WATER SERVICE LINE WORKSHEET
 
 7-11 CONSTRUCTION PLANS
+
+</details>
 
 <a id="p61"></a>
 *[Page 61 of the original](https://www.southlyonmi.org/11-24-25%20Online%20Only.pdf?t=202511201334420#page=61)* (read by OCR; check the original)

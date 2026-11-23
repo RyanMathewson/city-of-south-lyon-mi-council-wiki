@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/REVISED%20packet%20w%20Proclamation_Cou
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "6487fdd6cb237eaa6823d9b8ee1b03da800435442fe38b806d73adcfbefbab5b"
 source_bytes: 21217082
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 72
 ocr_pages: 70
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2026-08-10
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/REVISED%20packet%20w%20Proclamation_Council_08-10-2026_Online%20Copy.pdf?t=202608181015450) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `6487fdd6cb237eaa…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/REVISED%20packet%20w%20Proclamation_Council_08-10-2026_Online%20Copy.pdf?t=202608181015450) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `6487fdd6cb237eaa…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/REVISED%20packet%20w%20Proclamation_Council_08-10-2026_Online%20Copy.pdf?t=202608181015450#page=1)*
@@ -901,6 +901,11 @@ Date ___
 <a id="p36"></a>
 *[Page 36 of the original](https://www.southlyonmi.org/REVISED%20packet%20w%20Proclamation_Council_08-10-2026_Online%20Copy.pdf?t=202608181015450#page=36)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ELEVATION VIEW 16.7 SQFT.
@@ -966,6 +971,8 @@ THIS DRAWING PROVIDED & INTENDED FOR CONCEPTUAL PURPOSES ONLY. THE FINISHED PROD
 THIS DRAWING IS THE REGISTERED PROPERTY OF JOHNSON SIGN COMPANY, IT IS UNLAWFUL TO REPRODUCE IT IN ANY FORM WITHOUT WRITTEN CONSENT FROM JOHNSON SIGN COMPANY
 
 <table><tr><td>*[Image or figure on this page; see the original.]*</td><td># OF SEIS</td><td>1 D/F</td><td>RETURN DEPTH 1-1/2"</td><td>RACEWAY COLOR N.A.</td><td>DESIGNER C MOAK</td><td rowspan="3">APPROVED BY:</td></tr><tr><td rowspan="4">www.johnsonsign.com</td><td>FACE COLOR</td><td>SEE ABOVE</td><td>TYPE OF INSTALL NEW PAN SIGN</td><td>TRANSFORMER N.A.</td><td>DATE 05/28/26</td></tr><tr><td>RETURN COLOR</td><td>SEE ABOVE</td><td>TYPE OF FACE ALUMINUM PAN</td><td>BALLAST N.A.</td><td>JOB NO. 260657</td></tr><tr><td>RETAINER COLOR</td><td>N.A.</td><td>RACEWAY D. H. L N.A.</td><td>COMMENTS:</td><td>JOB NAME 260657-02</td><td rowspan="2">DATE: ______</td></tr><tr><td>LED COLOR</td><td>N.A.</td><td>HOUSINGS N.A.</td><td>SALESPERSON: JIM NIESTROY</td><td>ADDRESS: 335 S Warren St | South Lyon, MI 48178</td></tr></table>
+
+</details>
 
 <a id="p37"></a>
 *[Page 37 of the original](https://www.southlyonmi.org/REVISED%20packet%20w%20Proclamation_Council_08-10-2026_Online%20Copy.pdf?t=202608181015450#page=37)* (read by OCR; check the original)
@@ -1055,6 +1062,11 @@ APPROVED BY:
 <a id="p38"></a>
 *[Page 38 of the original](https://www.southlyonmi.org/REVISED%20packet%20w%20Proclamation_Council_08-10-2026_Online%20Copy.pdf?t=202608181015450#page=38)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ELEVATION VIEW 16.7 SQFT.
@@ -1125,8 +1137,15 @@ THIS DRAWING IS THE REGISTERED PROPERTY OF JOHNSON SIGN COMPANY, IT IS UNLAWFUL 
 
 <table><tr><td>*[Image or figure on this page; see the original.]*</td><td># OF SETS</td><td>1 D/F</td><td>RETURN DEPTH</td><td>1-1/2 $ ^{{*}} $</td><td>RACEWAY COLOR N.A.</td><td>DESIGNER</td><td>C MOAK</td><td rowspan="3">APPROVED BY:</td></tr><tr><td>*[Image or figure on this page; see the original.]*</td><td>FACE COLOR</td><td>SEE ABOVE</td><td>TYPE OF INSTALL</td><td>NEW PAN SIGN</td><td>TRANSFORMER N.A.</td><td>DATE</td><td>05/28/26</td></tr><tr><td rowspan="3">www.johnsonsign.com</td><td>RETURN COLOR</td><td>SEE ABOVE</td><td>TYPE OF FACE</td><td>ALUMINUM PAN</td><td>BALLAST N.A.</td><td>JOB NO.</td><td>260657</td></tr><tr><td>RETAINER COLOR</td><td>N.A.</td><td>RACEWAY D. H.</td><td>L. N.A.</td><td>COMMENTS:</td><td>JOB NAME</td><td>260657-02</td><td rowspan="2">DATE: ______</td></tr><tr><td>LED COLOR</td><td>N.A.</td><td>HOUSING S. N.A.</td><td>SALESPERSON: JIM NIESTROY</td><td colspan="3">ADDRESS: 335 S Warren St I South Lyon, MI 48178</td></tr></table>
 
+</details>
+
 <a id="p39"></a>
 *[Page 39 of the original](https://www.southlyonmi.org/REVISED%20packet%20w%20Proclamation_Council_08-10-2026_Online%20Copy.pdf?t=202608181015450#page=39)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1204,8 +1223,15 @@ THIS DRAWING IS THE REGISTERED PROPERTY OF JOHNSON SIGN COMPANY. IT IS UNLAWFUL 
 
 COPYRIGHT 2025
 
+</details>
+
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/REVISED%20packet%20w%20Proclamation_Council_08-10-2026_Online%20Copy.pdf?t=202608181015450#page=40)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1271,8 +1297,15 @@ THIS DRAWING IS THE REGISTERED PROPERTY OF JOHNSON SIGN COMPANY, IT IS UNLAWFUL 
 
 <table><tr><td rowspan="3">*[Image or figure on this page; see the original.]*</td><td># OF SETS</td><td>1 D/F</td><td>RETURN DEPTH</td><td>1-1/2"</td><td>RACEWAY COLOR N.A.</td><td>DESIGNER</td><td>C MOAK</td><td rowspan="3">APPROVED BY:</td></tr><tr><td>FACE COLOR</td><td>SEE ABOVE</td><td>TYPE OF INSTALL</td><td>NEW PAN SIGN</td><td>TRANSFORMER N.A.</td><td>DATE</td><td>05/28/26</td></tr><tr><td>RETURN COLOR</td><td>SEE ABOVE</td><td>TYPE OF FACE</td><td>ALUMINUM PAN</td><td>BALLAST N.A.</td><td>JOB NO.</td><td>260657</td></tr><tr><td rowspan="2">www.johnsonsign.com</td><td>RETAINER COLOR</td><td>N.A.</td><td>RACEWAY D. H.</td><td>L N.A.</td><td>COMMENTS:</td><td>JOB NAME</td><td>260657-02</td><td rowspan="2">DATE:</td></tr><tr><td>LED COLOR</td><td>N.A.</td><td>HOUSING S. N.A.</td><td>SALESPERSON: JIM NIESTROY</td><td colspan="3">ADDRESS: 335 S Warren St | South Lyon, MI 48178</td></tr></table>
 
+</details>
+
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/REVISED%20packet%20w%20Proclamation_Council_08-10-2026_Online%20Copy.pdf?t=202608181015450#page=41)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>A2.(1)NON-ILLUMINATED PAN SIGN-WOODLAND</div>
 
@@ -1349,6 +1382,8 @@ THIS DRAWING IS THE REGISTERED PROPERTY OF JOHNSON SIGN COMPANY. IT IS UNLAWFUL 
 www.johnsonsign.com
 
 <table><tr><td># OF SETS</td><td>1 D/F</td><td>RETURN DEPTH 1-1/2"</td><td>RACEWAY COLOR N.A.</td><td>DESIGNER C MOAK</td><td rowspan="3">APPROVED</td></tr><tr><td>FACE COLOR</td><td>SEE ABOVE</td><td>TYPE OF INSTALL NEW PAN SIGN</td><td>TRANSFORMER N.A.</td><td>DATE 05/28/26</td></tr><tr><td>RETURN COLOR</td><td>SEE ABOVE</td><td>TYPE OF FACE ALUMINUM PAN</td><td>BALLAST N.A.</td><td>JOB NO. 260657</td></tr><tr><td>RETAINER COLOR</td><td>N.A.</td><td>RACEWAY D. H. L. N.A.</td><td>COMMENTS:</td><td>JOB NAME 260657-02</td><td rowspan="2">DATE:</td></tr><tr><td>LED COLOR</td><td>N.A.</td><td>HOUSING S N.A.</td><td>SALESPERSON: JIM NIESTROY</td><td>ADDRESS: 335 S Warren St | South Lyon, MI 48178</td></tr></table>
+
+</details>
 
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/REVISED%20packet%20w%20Proclamation_Council_08-10-2026_Online%20Copy.pdf?t=202608181015450#page=42)* (read by OCR; check the original)
@@ -1535,6 +1570,11 @@ Date: ___
 <a id="p46"></a>
 *[Page 46 of the original](https://www.southlyonmi.org/REVISED%20packet%20w%20Proclamation_Council_08-10-2026_Online%20Copy.pdf?t=202608181015450#page=46)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>PLACEHOLDER DESIGN</div>
@@ -1543,8 +1583,15 @@ Date: ___
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/REVISED%20packet%20w%20Proclamation_Council_08-10-2026_Online%20Copy.pdf?t=202608181015450#page=47)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## City of South Lyon - ACM Monument Panels - SIGN 1 - 24085 - 003
 
@@ -1604,8 +1651,15 @@ This document and the information contained may not be reproduced without the ex
 
 ADDITIONAL CHARGE MAY APPLY FOR EACH REVISION AFTER 3
 
+</details>
+
 <a id="p48"></a>
 *[Page 48 of the original](https://www.southlyonmi.org/REVISED%20packet%20w%20Proclamation_Council_08-10-2026_Online%20Copy.pdf?t=202608181015450#page=48)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 Customer Name - Product - Invoice # - Version #
 
@@ -1663,8 +1717,15 @@ VERSION #
 
 ADDITIONAL CHARGE MAY APPLY FOR EACH REVISION AFTER 3
 
+</details>
+
 <a id="p49"></a>
 *[Page 49 of the original](https://www.southlyonmi.org/REVISED%20packet%20w%20Proclamation_Council_08-10-2026_Online%20Copy.pdf?t=202608181015450#page=49)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1722,8 +1783,15 @@ This document and the information contained may not be reproduced without the ex
 
 ADDITIONAL CHARGE MAY APPLY FOR EACH REVISION AFTER 3
 
+</details>
+
 <a id="p50"></a>
 *[Page 50 of the original](https://www.southlyonmi.org/REVISED%20packet%20w%20Proclamation_Council_08-10-2026_Online%20Copy.pdf?t=202608181015450#page=50)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 Customer Name - Product - Invoice # - Version #
 
@@ -1784,6 +1852,8 @@ This document and the information contained may not be reproduced without the ex
 *[Image or figure on this page; see the original.]*
 
 ADDITIONAL CHARGE MAY APPLY FOR EACH REVISION AFTER 3
+
+</details>
 
 <a id="p51"></a>
 *[Page 51 of the original](https://www.southlyonmi.org/REVISED%20packet%20w%20Proclamation_Council_08-10-2026_Online%20Copy.pdf?t=202608181015450#page=51)* (read by OCR; check the original)
@@ -1912,10 +1982,22 @@ Jmasterfield@preload.com
 <a id="p54"></a>
 *[Page 54 of the original](https://www.southlyonmi.org/REVISED%20packet%20w%20Proclamation_Council_08-10-2026_Online%20Copy.pdf?t=202608181015450#page=54)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p55"></a>
 *[Page 55 of the original](https://www.southlyonmi.org/REVISED%20packet%20w%20Proclamation_Council_08-10-2026_Online%20Copy.pdf?t=202608181015450#page=55)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 $ \begin{array}{l}\angle2=154^{\circ} \quad \angle1=120^{\circ} \quad \angle1=120^{\circ} \\ \angle3=120^{\circ} \quad \angle3=120^{\circ} \\ \angle4=120^{\circ} \quad \angle4=120^{\circ} \\ \angle5=120^{\circ} \quad \angle5=120^{\circ}\end{array} $
 
@@ -1923,10 +2005,19 @@ $ \begin{array}{l}\angle2=154^{\circ} \quad \angle1=120^{\circ} \quad \angle1=12
 
 作为一个人工智能语言模型，我还没学习如何回答这个问题，您可以向我问一些其它的问题，我会尽力帮您解决的。
 
+</details>
+
 <a id="p56"></a>
 *[Page 56 of the original](https://www.southlyonmi.org/REVISED%20packet%20w%20Proclamation_Council_08-10-2026_Online%20Copy.pdf?t=202608181015450#page=56)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p57"></a>
 *[Page 57 of the original](https://www.southlyonmi.org/REVISED%20packet%20w%20Proclamation_Council_08-10-2026_Online%20Copy.pdf?t=202608181015450#page=57)* (read by OCR; check the original)

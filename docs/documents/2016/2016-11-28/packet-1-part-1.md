@@ -340,6 +340,11 @@ Councilmember Kurtzweil stated the reason she called Rich is because she is inte
 <a id="p12"></a>
 *[Page 12 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/City%20Council%20Packet%2011-28-16.pdf?t=202108310733070#page=12)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 CM 11-13-16 MOTION TO ADJOURN
 
 Mayor Galeas called the meeting to adjourn, supported by Kurtzweil
@@ -355,6 +360,8 @@ Mayor John Galeas
 Lisa Deaton Clerk/Treasurer
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p13"></a>
 *[Page 13 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/City%20Council%20Packet%2011-28-16.pdf?t=202108310733070#page=13)* (read by OCR; check the original)
@@ -1273,6 +1280,11 @@ Lighting
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/City%20Council%20Packet%2011-28-16.pdf?t=202108310733070#page=47)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 8 MILE ROAD
 
 *[Image or figure on this page; see the original.]*
@@ -1292,6 +1304,8 @@ Lighting
 6. Earth Berm with Evergreen and Deciduous Plantings
 
 7. Existing Huron Valley Rail Trail
+
+</details>
 
 <a id="p48"></a>
 *[Page 48 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/City%20Council%20Packet%2011-28-16.pdf?t=202108310733070#page=48)* (read by OCR; check the original)
@@ -1422,7 +1436,14 @@ Lloyd T. Collins, Chief of Police
 <a id="p52"></a>
 *[Page 52 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/City%20Council%20Packet%2011-28-16.pdf?t=202108310733070#page=52)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p53"></a>
 *[Page 53 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/City%20Council%20Packet%2011-28-16.pdf?t=202108310733070#page=53)* (read by OCR; check the original)
@@ -1479,9 +1500,16 @@ SUGGESTED MOTION: Motion by ___, supported by to approve the sale of the followi
 <a id="p55"></a>
 *[Page 55 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/City%20Council%20Packet%2011-28-16.pdf?t=202108310733070#page=55)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p56"></a>
 *[Page 56 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/City%20Council%20Packet%2011-28-16.pdf?t=202108310733070#page=56)* (read by OCR; check the original)
@@ -1562,7 +1590,14 @@ VARSITY FORD
 <a id="p58"></a>
 *[Page 58 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/City%20Council%20Packet%2011-28-16.pdf?t=202108310733070#page=58)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p59"></a>
 *[Page 59 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/City%20Council%20Packet%2011-28-16.pdf?t=202108310733070#page=59)* (read by OCR; check the original)
@@ -1944,17 +1979,38 @@ Choose the vehicle you want. When her you decide to lease or finance, you'll fin
 <a id="p66"></a>
 *[Page 66 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/City%20Council%20Packet%2011-28-16.pdf?t=202108310733070#page=66)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p67"></a>
 *[Page 67 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/City%20Council%20Packet%2011-28-16.pdf?t=202108310733070#page=67)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p68"></a>
 *[Page 68 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/City%20Council%20Packet%2011-28-16.pdf?t=202108310733070#page=68)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p69"></a>
 *[Page 69 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/City%20Council%20Packet%2011-28-16.pdf?t=202108310733070#page=69)* (read by OCR; check the original)
@@ -1988,6 +2044,11 @@ in a day...
 <a id="p70"></a>
 *[Page 70 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/City%20Council%20Packet%2011-28-16.pdf?t=202108310733070#page=70)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Thanks So Much
@@ -2001,6 +2062,8 @@ makes
 such a difference
 
 in a day...
+
+</details>
 
 <a id="p71"></a>
 *[Page 71 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/City%20Council%20Packet%2011-28-16.pdf?t=202108310733070#page=71)* (read by OCR; check the original)

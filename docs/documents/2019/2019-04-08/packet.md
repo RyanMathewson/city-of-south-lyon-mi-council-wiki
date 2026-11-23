@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/4-8-19%20Council%20Packet%20-%20online%
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "95e2276addf0b77a0ff74149557e4024d63f21babe5135e4e82812a9cbf2d4e3"
 source_bytes: 5831207
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 156
 ocr_pages: 156
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2019-04-08
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/4-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `95e2276addf0b77a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/4-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `95e2276addf0b77a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/4-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=1)* (read by OCR; check the original)
@@ -2075,31 +2075,64 @@ CREAM
 <a id="p93"></a>
 *[Page 93 of the original](https://www.southlyonmi.org/4-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=93)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p94"></a>
 *[Page 94 of the original](https://www.southlyonmi.org/4-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=94)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p95"></a>
 *[Page 95 of the original](https://www.southlyonmi.org/4-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=95)* (read by OCR; check the original)
 
-*[Image or figure on this page; see the original.]*
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+*[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p96"></a>
 *[Page 96 of the original](https://www.southlyonmi.org/4-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=96)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p97"></a>
 *[Page 97 of the original](https://www.southlyonmi.org/4-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=97)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td>C00750110A1</td></tr></table>
 
@@ -2112,6 +2145,8 @@ based for</td></tr></table>
 <table><tr><td>INTERIOR RENOVATIONS FOR</td></tr><tr><td>THE CORNER CAFFE</td></tr><tr><td>SOUTH LYON, MICHIGAN</td></tr><tr><td>EXISTING EQUIP. 4 REF. CLG. PLANS</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p98"></a>
 *[Page 98 of the original](https://www.southlyonmi.org/4-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=98)* (read by OCR; check the original)

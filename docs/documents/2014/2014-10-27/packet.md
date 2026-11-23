@@ -576,9 +576,16 @@ oncoming participants are aware you are rejoining the line.
 <a id="p18"></a>
 *[Page 18 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.27.14.pdf?t=202108310732570#page=18)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>2014 COOL YULE Parade of Lights ROUTE</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p19"></a>
 *[Page 19 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket10.27.14.pdf?t=202108310732570#page=19)* (read by OCR; check the original)

@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/7-8-19%20Council%20Packet%20-%20online%
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "1152472269815ebdda8727367d501a10e416d9197c30db2a2ecf2c24981e8bb0"
 source_bytes: 4880113
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 104
 ocr_pages: 104
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2019-07-08
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/7-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `1152472269815ebd…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/7-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `1152472269815ebd…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/7-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=1)* (read by OCR; check the original)
@@ -291,6 +291,11 @@ Attorney Wilhelm stated he wants to clarify that the closed session was on his r
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/7-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=11)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 CM 6-4-19 MOTION TO ADJOURN
 
 Motion by Kivell, supported by Kennedy
@@ -302,6 +307,8 @@ VOTE: MOTION CARRIED UNANIMOUSLY
 Mayor Dan Pelchat
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p12"></a>
 *[Page 12 of the original](https://www.southlyonmi.org/7-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=12)* (read by OCR; check the original)
@@ -1390,6 +1397,11 @@ Chau Ch衮衮
 <a id="p62"></a>
 *[Page 62 of the original](https://www.southlyonmi.org/7-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=62)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # BLUES BREWS BRATS
 
 Saturday, August 3 2019 - 6pm to 11:30 pm
@@ -1406,8 +1418,15 @@ Andrea Meyer (248) 617-3075
 
 2019
 
+</details>
+
 <a id="p63"></a>
 *[Page 63 of the original](https://www.southlyonmi.org/7-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=63)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1416,6 +1435,8 @@ Saturday, August 3, 2019- 6pm to 11:30 pm
 Whipple Street Parking Lot - Downtown South Lyon
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p64"></a>
 *[Page 64 of the original](https://www.southlyonmi.org/7-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=64)* (read by OCR; check the original)
@@ -1786,6 +1807,11 @@ Drop off for the Parade is ONLY from Dixboro Rd; you will enter onto 9 mile from
 <a id="p76"></a>
 *[Page 76 of the original](https://www.southlyonmi.org/7-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=76)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Staging area for walkers
 
 *[Image or figure on this page; see the original.]*
@@ -1795,6 +1821,8 @@ Drop off for Floats: Enter Parking lot west of CMS; off 9 mile from Dixboro Rd.
 Drop off for all Walkers; Scouts, bands, dance groups etc: Enter Loop off 9 mile from Dixboro Rd, drop off and proceed back to Dixboro Rd.
 
 ontiac Trail, West on Liberty St., North
+
+</details>
 
 <a id="p77"></a>
 *[Page 77 of the original](https://www.southlyonmi.org/7-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=77)* (read by OCR; check the original)
@@ -1998,11 +2026,18 @@ Date June 27, 2019</td></tr></table>
 <a id="p83"></a>
 *[Page 83 of the original](https://www.southlyonmi.org/7-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=83)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Go: gle Maps</div>
 
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p84"></a>
 *[Page 84 of the original](https://www.southlyonmi.org/7-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=84)* (read by OCR; check the original)
@@ -2072,6 +2107,11 @@ Date
 <a id="p85"></a>
 *[Page 85 of the original](https://www.southlyonmi.org/7-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=85)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## NEW layout for the end of the SL Pfest Parade- 2019
 
 *[Image or figure on this page; see the original.]*
@@ -2081,6 +2121,8 @@ As parade participants and/or floats travel down Pontiac Trail from 9 mile, the 
 Walkers: Walkers will move towards the south end of MST parking lot (gravel area) OR McHattie parking area OR City Hall parking lot to be picked up. Keep in mind there will be a period of waiting before cars/school buses can leave this area. Please follow instructions from the policemen in charge.
 
  $ \underline{\text{Floats}} $: Floats continue on Mcmunn (south), dispersing towards Dorothy St or beyond.
+
+</details>
 
 <a id="p86"></a>
 *[Page 86 of the original](https://www.southlyonmi.org/7-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=86)* (read by OCR; check the original)
@@ -2533,6 +2575,11 @@ Section 11. Yielding of Time Prohibited. Robert's Rules of Order does not allow 
 <a id="p101"></a>
 *[Page 101 of the original](https://www.southlyonmi.org/7-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=101)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 DETROIT, MICHIGAN
 
 September 25-27, 2019
@@ -2540,6 +2587,8 @@ September 25-27, 2019
 Visit convention.mml.org to register online
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p102"></a>
 *[Page 102 of the original](https://www.southlyonmi.org/7-8-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=102)* (read by OCR; check the original)

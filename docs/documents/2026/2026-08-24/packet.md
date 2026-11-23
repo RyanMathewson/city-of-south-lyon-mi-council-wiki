@@ -342,6 +342,11 @@ Mayor Kenned stated he has already discussed with Kim about her leaving, and he 
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/packet_Council_Aug%2024%202026_Online%20Copy_FINAL.pdf?t=202608240904290#page=9)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 the museum, be a tour guide for the Historic Village, help out with the upcoming Depot Day event and more, please come to the Historical Society meeting and volunteer. The Historical Society meets monthly on the second Wednesday of the month at 6pm in the Freight House at the Historic Village. Their next meeting is this Wednesday, August 12th at 6pm. Please stop by and check it out.
 
 ADJOURNMENT
@@ -359,6 +364,8 @@ Respectfully submitted,
 Mayor Steve Kennedy
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/packet_Council_Aug%2024%202026_Online%20Copy_FINAL.pdf?t=202608240904290#page=10)* (read by OCR; check the original)
@@ -608,16 +615,30 @@ kismith@acrisure.com
 <a id="p19"></a>
 *[Page 19 of the original](https://www.southlyonmi.org/packet_Council_Aug%2024%202026_Online%20Copy_FINAL.pdf?t=202608240904290#page=19)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## 2026 Seghi Renovations Pumpkinfest of the South Lyon Area
+
+</details>
 
 <a id="p20"></a>
 *[Page 20 of the original](https://www.southlyonmi.org/packet_Council_Aug%2024%202026_Online%20Copy_FINAL.pdf?t=202608240904290#page=20)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## 2026 Seghi Renovations Pumpkinfest of the South Lyon Area
 
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p21"></a>
 *[Page 21 of the original](https://www.southlyonmi.org/packet_Council_Aug%2024%202026_Online%20Copy_FINAL.pdf?t=202608240904290#page=21)* (read by OCR; check the original)

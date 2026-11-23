@@ -66,9 +66,16 @@ As the leader of this team, I am proud to present the 2021 South Lyon Police Dep
 <a id="p3"></a>
 *[Page 3 of the original](https://www.southlyonmi.org/2021%20SOUTH%20LYON%20PD%20ANNUAL%20REPORT.pdf?t=202201251104320#page=3)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Organizational Chart
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p4"></a>
 *[Page 4 of the original](https://www.southlyonmi.org/2021%20SOUTH%20LYON%20PD%20ANNUAL%20REPORT.pdf?t=202201251104320#page=4)* (read by OCR; check the original)
@@ -294,6 +301,11 @@ the incident was delicately handled. Congratulations on a job well done!
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/2021%20SOUTH%20LYON%20PD%20ANNUAL%20REPORT.pdf?t=202201251104320#page=15)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## Community Involvement
@@ -311,6 +323,8 @@ the incident was delicately handled. Congratulations on a job well done!
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/2021%20SOUTH%20LYON%20PD%20ANNUAL%20REPORT.pdf?t=202201251104320#page=16)* (read by OCR; check the original)
@@ -453,6 +467,11 @@ charts comparing 2021 to 2020:
 <a id="p22"></a>
 *[Page 22 of the original](https://www.southlyonmi.org/2021%20SOUTH%20LYON%20PD%20ANNUAL%20REPORT.pdf?t=202201251104320#page=22)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Community Involvement
 
 *[Image or figure on this page; see the original.]*
@@ -468,6 +487,8 @@ Love this City!
 You're all Champions!
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/2021%20SOUTH%20LYON%20PD%20ANNUAL%20REPORT.pdf?t=202201251104320#page=23)*
@@ -690,6 +711,11 @@ Courtesy Exchange Area
 <a id="p30"></a>
 *[Page 30 of the original](https://www.southlyonmi.org/2021%20SOUTH%20LYON%20PD%20ANNUAL%20REPORT.pdf?t=202201251104320#page=30)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 LANDSCAPE Daryl Dix of Healy Homes and Justin Rose of Rose Excavating donated their resources and time to beautify the landscaping in front of the main police building. We love and appreciate their generosity.
 
 *[Image or figure on this page; see the original.]*
@@ -705,6 +731,8 @@ After
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p31"></a>
 *[Page 31 of the original](https://www.southlyonmi.org/2021%20SOUTH%20LYON%20PD%20ANNUAL%20REPORT.pdf?t=202201251104320#page=31)* (read by OCR; check the original)
@@ -752,5 +780,12 @@ Church Checks: Due to heightened attacks on houses of worship across the country
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/2021%20SOUTH%20LYON%20PD%20ANNUAL%20REPORT.pdf?t=202201251104320#page=34)* (read by OCR; check the original)
 
-*No readable text on this page. See the original.*
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
+*No text read.*
+
+</details>
 

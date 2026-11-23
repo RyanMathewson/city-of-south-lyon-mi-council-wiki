@@ -672,7 +672,14 @@ People's Express has backup vehicles for mechanical failures
 <a id="p22"></a>
 *[Page 22 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC080912CCPACKET8-13-12.pdf?t=202108310732590#page=22)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC080912CCPACKET8-13-12.pdf?t=202108310732590#page=23)* (read by OCR; check the original)
@@ -953,7 +960,14 @@ This estimate includes a 3" overlay on the existing Whipple Parking Lot located 
 <a id="p33"></a>
 *[Page 33 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC080912CCPACKET8-13-12.pdf?t=202108310732590#page=33)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC080912CCPACKET8-13-12.pdf?t=202108310732590#page=34)* (read by OCR; check the original)
@@ -1152,11 +1166,18 @@ CELL 313-319-3431
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC080912CCPACKET8-13-12.pdf?t=202108310732590#page=40)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 POLICE AND SPECIAL SERVICE VEHICLES
 
 *[Image or figure on this page; see the original.]*
 
 THE ALL-NEW 2013 FORD POLICE INTERCEPTORS
+
+</details>
 
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC080912CCPACKET8-13-12.pdf?t=202108310732590#page=41)* (read by OCR; check the original)

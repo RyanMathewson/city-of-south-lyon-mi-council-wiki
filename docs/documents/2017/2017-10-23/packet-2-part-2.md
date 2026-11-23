@@ -976,7 +976,14 @@ Date
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/10.23.17%20packet%20part%202.pdf?t=202108310733100#page=28)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p29"></a>
 *[Page 29 of the original](https://www.southlyonmi.org/10.23.17%20packet%20part%202.pdf?t=202108310733100#page=29)* (read by OCR; check the original)
@@ -1944,6 +1951,11 @@ Notes:
 <a id="p57"></a>
 *[Page 57 of the original](https://www.southlyonmi.org/10.23.17%20packet%20part%202.pdf?t=202108310733100#page=57)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Municipal Employees' Retirement System of Michigan South Lyon, City of (5007) - Division 01</div>
 
 *[Image or figure on this page; see the original.]*
@@ -1961,6 +1973,8 @@ Option 1 - DB plan is closed to new hires; new hires in a 8% of pay DC Plan
 Under Option 1 the above graph shows the total employer contribution to the closed DB plan and the DC plan for new hires.
 
 CBIZ Retirement Plan Services is a trade name under which certain subsidiaries of CBIZ, Inc. market investment advisory, third party administration, actuarial and other corporate retirement plan services.
+
+</details>
 
 <a id="p58"></a>
 *[Page 58 of the original](https://www.southlyonmi.org/10.23.17%20packet%20part%202.pdf?t=202108310733100#page=58)* (read by OCR; check the original)
@@ -1986,6 +2000,11 @@ Notes: ___
 <a id="p59"></a>
 *[Page 59 of the original](https://www.southlyonmi.org/10.23.17%20packet%20part%202.pdf?t=202108310733100#page=59)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Municipal Employees' Retirement System of Michigan South Lyon, City of (5007) - Division 02</div>
 
 *[Image or figure on this page; see the original.]*
@@ -2004,6 +2023,8 @@ Option 1 - DB plan is closed to new hires; new hires in a 8% of pay DC Plan
 
 Under Option 1 the above graph shows the total employer contribution to the closed DB plan and the DC plan for new hires.
 
+</details>
+
 <a id="p60"></a>
 *[Page 60 of the original](https://www.southlyonmi.org/10.23.17%20packet%20part%202.pdf?t=202108310733100#page=60)* (read by OCR; check the original)
 
@@ -2019,6 +2040,11 @@ Under Option 1 the above graph shows the total employer contribution to the clos
 
 <a id="p61"></a>
 *[Page 61 of the original](https://www.southlyonmi.org/10.23.17%20packet%20part%202.pdf?t=202108310733100#page=61)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>Municipal Employees' Retirement System of Michigan South Lyon, City of (5007) - Division 10</div>
 
@@ -2037,6 +2063,8 @@ Option 1 - DB plan is closed to new hires; new hires in a 8% of pay DC Plan
 <table><tr><td></td><td>Baseline</td><td>Option 1</td></tr><tr><td>Total long term cost</td><td>11.56%</td><td>8.00%</td></tr><tr><td>Employee contribution</td><td>1.27%</td><td>0.00%</td></tr><tr><td>Employer long term cost</td><td>10.29%</td><td>8.00%</td></tr></table>
 
 Under Option 1 the above graph shows the total employer contribution to the closed DB plan and the DC plan for new hires.
+
+</details>
 
 <a id="p62"></a>
 *[Page 62 of the original](https://www.southlyonmi.org/10.23.17%20packet%20part%202.pdf?t=202108310733100#page=62)* (read by OCR; check the original)
@@ -2058,6 +2086,11 @@ Livonia, MI 48152
 <a id="p63"></a>
 *[Page 63 of the original](https://www.southlyonmi.org/10.23.17%20packet%20part%202.pdf?t=202108310733100#page=63)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Municipal Employees' Retirement System of Michigan South Lyon, City of (5007) - Division 11</div>
 
 *[Image or figure on this page; see the original.]*
@@ -2077,6 +2110,8 @@ Option 1 - DB plan is closed to new hires; new hires in a 8% of pay DC Plan
 -Under Option 1 the above graph shows the total employer contribution to the closed DB plan and the DC plan for new hires.
 
 CBIZ Retirement Plan Services is a trade name under which certain subsidiaries of CBIZ, Inc. market investment advisory, third party administration, actuarial and other corporate retirement plan services.
+
+</details>
 
 <a id="p64"></a>
 *[Page 64 of the original](https://www.southlyonmi.org/10.23.17%20packet%20part%202.pdf?t=202108310733100#page=64)* (read by OCR; check the original)
@@ -2102,6 +2137,11 @@ Notes:
 <a id="p65"></a>
 *[Page 65 of the original](https://www.southlyonmi.org/10.23.17%20packet%20part%202.pdf?t=202108310733100#page=65)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Municipal Employees' Retirement System of Michigan South Lyon, City of (5007) - Division 20</div>
 
 *[Image or figure on this page; see the original.]*
@@ -2119,6 +2159,8 @@ Option 1 - DB plan is closed to new hires; new hires in a 8% of pay DC Plan
 <table><tr><td></td><td>Baseline</td><td>Option 1</td></tr><tr><td>Total long term cost</td><td>10.23%</td><td>8.00%</td></tr><tr><td>Employee contribution</td><td>1.00%</td><td>0.00%</td></tr><tr><td>Employer long term cost</td><td>9.23%</td><td>8.00%</td></tr></table>
 
 -Under Option 1 the above graph shows the total employer contribution to the closed DB plan and the DC plan for new hires.
+
+</details>
 
 <a id="p66"></a>
 *[Page 66 of the original](https://www.southlyonmi.org/10.23.17%20packet%20part%202.pdf?t=202108310733100#page=66)* (read by OCR; check the original)
@@ -2469,9 +2511,16 @@ The projections are shown both in tabular and graphical form in total for the em
 <a id="p83"></a>
 *[Page 83 of the original](https://www.southlyonmi.org/10.23.17%20packet%20part%202.pdf?t=202108310733100#page=83)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p84"></a>
 *[Page 84 of the original](https://www.southlyonmi.org/10.23.17%20packet%20part%202.pdf?t=202108310733100#page=84)* (read by OCR; check the original)

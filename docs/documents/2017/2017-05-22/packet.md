@@ -937,11 +937,18 @@ Lloyd T. Confits, Chief of Police 05/15/17
 <a id="p32"></a>
 *[Page 32 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%205-22-17.pdf?t=202108310733080#page=32)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Pumpkinfest of the South Lyon Area 2017 Festival Map
 
 *[Image or figure on this page; see the original.]*
 
 DEER GARDETF ENTRY "A" = Only all festival hours EXCEPT Saturday night from 6:00pm - 10:00pm
+
+</details>
 
 <a id="p33"></a>
 *[Page 33 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%205-22-17.pdf?t=202108310733080#page=33)* (read by OCR; check the original)
@@ -1216,6 +1223,11 @@ Applicant's Signature on behalf of the Pumpkintest of Sలుర
 <a id="p43"></a>
 *[Page 43 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%205-22-17.pdf?t=202108310733080#page=43)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Pumpkinfest of the South Lyon Area
@@ -1225,6 +1237,8 @@ Pumpkinfest of the South Lyon Area
  $$ A_{1} $$ 
 
  $$ P U T $$
+
+</details>
 
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%205-22-17.pdf?t=202108310733080#page=44)* (read by OCR; check the original)

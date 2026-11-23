@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/January%2026%202026%20Council%20Packet%
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "0a688844a12fc25b0b461bb374bc080a8a7d4bf67d4548276e0e535adb4ff263"
 source_bytes: 4345035
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 52
 ocr_pages: 52
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2026-01-26
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/January%2026%202026%20Council%20Packet%20-%20Part%20B%20-%20Counter%20Copy.pdf?t=202603101505480) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `0a688844a12fc25b…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/January%2026%202026%20Council%20Packet%20-%20Part%20B%20-%20Counter%20Copy.pdf?t=202603101505480) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `0a688844a12fc25b…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/January%2026%202026%20Council%20Packet%20-%20Part%20B%20-%20Counter%20Copy.pdf?t=202603101505480#page=1)* (read by OCR; check the original)
@@ -905,7 +905,14 @@ Draft 011426
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/January%2026%202026%20Council%20Packet%20-%20Part%20B%20-%20Counter%20Copy.pdf?t=202603101505480#page=35)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p36"></a>
 *[Page 36 of the original](https://www.southlyonmi.org/January%2026%202026%20Council%20Packet%20-%20Part%20B%20-%20Counter%20Copy.pdf?t=202603101505480#page=36)* (read by OCR; check the original)

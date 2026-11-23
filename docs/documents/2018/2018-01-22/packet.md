@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/1.22.18%20packet.pdf?t=202108310733110"
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "9354b9619db91cfa5393e147fcd0918b06502707954a57bf3695a8469b5b79aa"
 source_bytes: 7926805
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 135
 ocr_pages: 135
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2018-01-22
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/1.22.18%20packet.pdf?t=202108310733110) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `9354b9619db91cfa…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/1.22.18%20packet.pdf?t=202108310733110) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `9354b9619db91cfa…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/1.22.18%20packet.pdf?t=202108310733110#page=1)* (read by OCR; check the original)
@@ -1592,6 +1592,11 @@ Lisa Deaton, City Clerk
 <a id="p58"></a>
 *[Page 58 of the original](https://www.southlyonmi.org/1.22.18%20packet.pdf?t=202108310733110#page=58)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 I hereby certify that the foregoing is a true and complete copy of the ordinance adopted at the regular meeting of the South Lyon City Council held on the _____ day of _____, 2017 $ \underline{\text{2018}} $.
 
 Lisa Deaton, City Clerk
@@ -1603,6 +1608,8 @@ Published:
 Effective:
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p59"></a>
 *[Page 59 of the original](https://www.southlyonmi.org/1.22.18%20packet.pdf?t=202108310733110#page=59)* (read by OCR; check the original)
@@ -2766,12 +2773,26 @@ wally@hydrodynamics.net
 <a id="p100"></a>
 *[Page 100 of the original](https://www.southlyonmi.org/1.22.18%20packet.pdf?t=202108310733110#page=100)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p101"></a>
 *[Page 101 of the original](https://www.southlyonmi.org/1.22.18%20packet.pdf?t=202108310733110#page=101)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p102"></a>
 *[Page 102 of the original](https://www.southlyonmi.org/1.22.18%20packet.pdf?t=202108310733110#page=102)* (read by OCR; check the original)
@@ -2932,7 +2953,14 @@ KW/cbl
 <a id="p106"></a>
 *[Page 106 of the original](https://www.southlyonmi.org/1.22.18%20packet.pdf?t=202108310733110#page=106)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p107"></a>
 *[Page 107 of the original](https://www.southlyonmi.org/1.22.18%20packet.pdf?t=202108310733110#page=107)* (read by OCR; check the original)
@@ -3120,17 +3148,38 @@ Cons:
 <a id="p112"></a>
 *[Page 112 of the original](https://www.southlyonmi.org/1.22.18%20packet.pdf?t=202108310733110#page=112)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p113"></a>
 *[Page 113 of the original](https://www.southlyonmi.org/1.22.18%20packet.pdf?t=202108310733110#page=113)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p114"></a>
 *[Page 114 of the original](https://www.southlyonmi.org/1.22.18%20packet.pdf?t=202108310733110#page=114)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p115"></a>
 *[Page 115 of the original](https://www.southlyonmi.org/1.22.18%20packet.pdf?t=202108310733110#page=115)* (read by OCR; check the original)
@@ -3172,9 +3221,16 @@ Our more than 30 field techs are municipal water and wastewater system experts a
 <a id="p116"></a>
 *[Page 116 of the original](https://www.southlyonmi.org/1.22.18%20packet.pdf?t=202108310733110#page=116)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## South Lyon NI
+
+</details>
 
 <a id="p117"></a>
 *[Page 117 of the original](https://www.southlyonmi.org/1.22.18%20packet.pdf?t=202108310733110#page=117)* (read by OCR; check the original)
@@ -3354,7 +3410,14 @@ Lloyd T. Collins, Chief of Police
 <a id="p122"></a>
 *[Page 122 of the original](https://www.southlyonmi.org/1.22.18%20packet.pdf?t=202108310733110#page=122)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p123"></a>
 *[Page 123 of the original](https://www.southlyonmi.org/1.22.18%20packet.pdf?t=202108310733110#page=123)* (read by OCR; check the original)

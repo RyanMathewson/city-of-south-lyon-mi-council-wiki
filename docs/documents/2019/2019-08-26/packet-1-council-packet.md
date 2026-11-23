@@ -390,9 +390,16 @@ The expression on this young man's face says it all!
 <a id="p13"></a>
 *[Page 13 of the original](https://www.southlyonmi.org/8-26-19%20Council%20Packet%20-%20online%20only%20part%201.pdf?t=202108310733140#page=13)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 The cropped image from our current master plan shows the proposed placement for the two-bay arch post swing structure for the wheelchair swing
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/8-26-19%20Council%20Packet%20-%20online%20only%20part%201.pdf?t=202108310733140#page=14)* (read by OCR; check the original)
@@ -575,6 +582,11 @@ EDraulic BY HURST JAWS OF LIFE
 <a id="p22"></a>
 *[Page 22 of the original](https://www.southlyonmi.org/8-26-19%20Council%20Packet%20-%20online%20only%20part%201.pdf?t=202108310733140#page=22)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 # SP 333E2 SPREADER
@@ -631,8 +643,15 @@ Weight 29.3 lbs. (13.3 kg)
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/8-26-19%20Council%20Packet%20-%20online%20only%20part%201.pdf?t=202108310733140#page=23)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -676,8 +695,15 @@ Each tool comes with two batteries and one charger
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/8-26-19%20Council%20Packet%20-%20online%20only%20part%201.pdf?t=202108310733140#page=24)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -732,6 +758,8 @@ LRS-C Rom Support
 Part #: 247R028
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p25"></a>
 *[Page 25 of the original](https://www.southlyonmi.org/8-26-19%20Council%20Packet%20-%20online%20only%20part%201.pdf?t=202108310733140#page=25)* (read by OCR; check the original)

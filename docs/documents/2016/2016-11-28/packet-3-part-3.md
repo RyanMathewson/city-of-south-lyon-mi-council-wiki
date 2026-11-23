@@ -19,6 +19,11 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/City%20Council%20Packet%2011-28-16%20master%20plan.pdf?t=202108310733070#page=1)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## City of South Lyon Oakland County, Michigan
 
 *[Image or figure on this page; see the original.]*
@@ -32,6 +37,8 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 adopted xxx, 2014
 
 prepared by
+
+</details>
 
 <a id="p2"></a>
 *[Page 2 of the original](https://www.southlyonmi.org/City%20Council%20Packet%2011-28-16%20master%20plan.pdf?t=202108310733070#page=2)*
@@ -496,8 +503,6 @@ _**6  Community Analysis**_ _South Lyon Master Plan_
 
 _Downtown_ 0 250 500
 Feet
-
-
 
 
 
@@ -1295,6 +1300,11 @@ _**24  Subarea Plans**_ _South Lyon Master Plan_
 <a id="p27"></a>
 *[Page 27 of the original](https://www.southlyonmi.org/City%20Council%20Packet%2011-28-16%20master%20plan.pdf?t=202108310733070#page=27)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # 20200000
 
 *[Image or figure on this page; see the original.]*
@@ -1384,6 +1394,8 @@ _**24  Subarea Plans**_ _South Lyon Master Plan_
 ANDSCARE ARCHITECTURE
 
 Donon
+
+</details>
 
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/City%20Council%20Packet%2011-28-16%20master%20plan.pdf?t=202108310733070#page=28)*

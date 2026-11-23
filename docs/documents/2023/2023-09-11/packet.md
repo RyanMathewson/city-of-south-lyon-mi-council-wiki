@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/9-11-23%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "e757fa1f9c4ba03c79ca97c7d4ed95a99cbed1f64e82a019fd5e1222099858b6"
 source_bytes: 6387567
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 70
 ocr_pages: 70
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2023-09-11
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/9-11-23%20Council%20Packet%20-%20online%20only.pdf?t=202309071523220) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `e757fa1f9c4ba03c…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/9-11-23%20Council%20Packet%20-%20online%20only.pdf?t=202309071523220) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `e757fa1f9c4ba03c…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/9-11-23%20Council%20Packet%20-%20online%20only.pdf?t=202309071523220#page=1)* (read by OCR; check the original)
@@ -277,6 +277,11 @@ CM 8-5-23 MOTION TO ENTER INTO CLOSED SESSION
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/9-11-23%20Council%20Packet%20-%20online%20only.pdf?t=202309071523220#page=11)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Motion by Kurtzweil, supported by Dilg
 
 Motion to enter into closed session at 8:58 p.m.
@@ -292,6 +297,8 @@ Respectfully submitted,
 Mayor Dan Pelchat
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p12"></a>
 *[Page 12 of the original](https://www.southlyonmi.org/9-11-23%20Council%20Packet%20-%20online%20only.pdf?t=202309071523220#page=12)* (read by OCR; check the original)
@@ -1435,6 +1442,11 @@ DOUG VARNEY - DIRECTOR OF PUBLIC WORKS
 <a id="p66"></a>
 *[Page 66 of the original](https://www.southlyonmi.org/9-11-23%20Council%20Packet%20-%20online%20only.pdf?t=202309071523220#page=66)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
@@ -1462,6 +1474,8 @@ STREET INDEX
 <table><tr><td>HRC JOB NO. 20220855</td><td>SCALE NOT TO SCALE</td></tr><tr><td>DATE May 2023</td><td>SHEET NO. 4 of 90</td></tr></table>
 
 © 2022 listed, Pets a Class, Inc. All Rights Reserved
+
+</details>
 
 <a id="p67"></a>
 *[Page 67 of the original](https://www.southlyonmi.org/9-11-23%20Council%20Packet%20-%20online%20only.pdf?t=202309071523220#page=67)* (read by OCR; check the original)

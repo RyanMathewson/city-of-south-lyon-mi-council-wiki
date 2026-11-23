@@ -352,7 +352,14 @@ Fred Flel</td></tr></table>
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC0608126-11-2012PACKETCC.pdf?t=202108310732590#page=23)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC0608126-11-2012PACKETCC.pdf?t=202108310732590#page=24)* (read by OCR; check the original)
@@ -704,6 +711,11 @@ SOUTH LYON, MI 48178
 <a id="p37"></a>
 *[Page 37 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC0608126-11-2012PACKETCC.pdf?t=202108310732590#page=37)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Blues Brews and Brats Saturday, July 28, 2012 4-11pm Downtown South Lyon
 
 *[Image or figure on this page; see the original.]*
@@ -711,6 +723,8 @@ SOUTH LYON, MI 48178
 South Lyon Area Chamber of Commerce
 
 Kim Thompson (Ex. Director): 248-437-3257
+
+</details>
 
 <a id="p38"></a>
 *[Page 38 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC0608126-11-2012PACKETCC.pdf?t=202108310732590#page=38)* (read by OCR; check the original)

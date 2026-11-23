@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/5-12-25%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "f0275a05208a9d8ff5f957bf66ba8238d3eadf2c5e16d1b30d1f228e6815c6a9"
 source_bytes: 8523922
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 58
 ocr_pages: 58
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2025-05-12
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/5-12-25%20Council%20Packet%20-%20online%20only.pdf?t=202505081553260) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `f0275a05208a9d8f…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/5-12-25%20Council%20Packet%20-%20online%20only.pdf?t=202505081553260) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `f0275a05208a9d8f…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/5-12-25%20Council%20Packet%20-%20online%20only.pdf?t=202505081553260#page=1)* (read by OCR; check the original)
@@ -1229,6 +1229,11 @@ If concert is rained out, an announcement will be posted on  $ \underline{\text{
 <a id="p53"></a>
 *[Page 53 of the original](https://www.southlyonmi.org/5-12-25%20Council%20Packet%20-%20online%20only.pdf?t=202505081553260#page=53)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 LOCAL NEWS
 
 SUBSCRIBER ONLY
@@ -1242,6 +1247,8 @@ Oakland County Commission auditorium. (Peg McNichol/MediaNews Group)
 *[Image or figure on this page; see the original.]*
 
 By PEG MCNICHOL | pmcnichol@medianewsgroup.com UPDATED: May 5, 2025 at 7:15 PM EDT
+
+</details>
 
 <a id="p54"></a>
 *[Page 54 of the original](https://www.southlyonmi.org/5-12-25%20Council%20Packet%20-%20online%20only.pdf?t=202505081553260#page=54)* (read by OCR; check the original)

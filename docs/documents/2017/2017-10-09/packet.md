@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "3a882b142eea686ebfce83f7d1d2e2ddf207577db516d2160139fed817ace1da"
 source_bytes: 3594045
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 99
 ocr_pages: 99
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2017-10-09
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%2010-9-17.pdf?t=202108310733100) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `3a882b142eea686e…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%2010-9-17.pdf?t=202108310733100) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `3a882b142eea686e…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%2010-9-17.pdf?t=202108310733100#page=1)* (read by OCR; check the original)
@@ -420,6 +420,11 @@ Effective:
 <a id="p27"></a>
 *[Page 27 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%2010-9-17.pdf?t=202108310733100#page=27)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 EXCLUSIVELY UNITED BY
@@ -439,6 +444,8 @@ eszelés@thomesduke.com
 THOMAS DUKE COMPANY
 
 COMMERCIAL PROPERTY
+
+</details>
 
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%2010-9-17.pdf?t=202108310733100#page=28)* (read by OCR; check the original)
@@ -499,10 +506,22 @@ South Lyon, MI 48176</td></tr><tr><td>APN:</td><td>21-31-128-003</td></tr><tr><t
 <a id="p30"></a>
 *[Page 30 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%2010-9-17.pdf?t=202108310733100#page=30)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p31"></a>
 *[Page 31 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%2010-9-17.pdf?t=202108310733100#page=31)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>AERIAL: 32+/- Acres Ton Mile & Dixboro | South Lyon, MI 48178</div>
 
@@ -510,10 +529,19 @@ South Lyon, MI 48176</td></tr><tr><td>APN:</td><td>21-31-128-003</td></tr><tr><t
 
 50072047.02017 Google Imagery ©2017; C003/Spot Image, DigitalGlobe/U.S. Geological Survey, USDA Farm Service Agency
 
+</details>
+
 <a id="p32"></a>
 *[Page 32 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%2010-9-17.pdf?t=202108310733100#page=32)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p33"></a>
 *[Page 33 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%2010-9-17.pdf?t=202108310733100#page=33)* (read by OCR; check the original)
@@ -2244,7 +2272,14 @@ Date
 <a id="p99"></a>
 *[Page 99 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%2010-9-17.pdf?t=202108310733100#page=99)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>FATIMA PROCESSION - MAP</div>
+
+</details>
 

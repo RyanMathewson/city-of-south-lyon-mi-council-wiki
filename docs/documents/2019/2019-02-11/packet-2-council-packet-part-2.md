@@ -19,6 +19,11 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/2-11-19%20Council%20Packet%20part%202.pdf?t=202108310733130#page=1)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## Great Things from 2018 in and around Downtown South Lyon
@@ -33,8 +38,15 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p2"></a>
 *[Page 2 of the original](https://www.southlyonmi.org/2-11-19%20Council%20Packet%20part%202.pdf?t=202108310733130#page=2)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## IMPROVED PEDESTRIAN SAFETY
 
@@ -50,8 +62,15 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p3"></a>
 *[Page 3 of the original](https://www.southlyonmi.org/2-11-19%20Council%20Packet%20part%202.pdf?t=202108310733130#page=3)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## BUILDING REHABS IN THE DDA
 
@@ -69,8 +88,15 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p4"></a>
 *[Page 4 of the original](https://www.southlyonmi.org/2-11-19%20Council%20Packet%20part%202.pdf?t=202108310733130#page=4)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -86,8 +112,15 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p5"></a>
 *[Page 5 of the original](https://www.southlyonmi.org/2-11-19%20Council%20Packet%20part%202.pdf?t=202108310733130#page=5)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -117,8 +150,15 @@ BUILDING SALES 2018
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p6"></a>
 *[Page 6 of the original](https://www.southlyonmi.org/2-11-19%20Council%20Packet%20part%202.pdf?t=202108310733130#page=6)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## “The Lemon Tree had our highest monthly sales ever in December”
 
@@ -134,10 +174,15 @@ BUILDING SALES 2018
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p7"></a>
 *[Page 7 of the original](https://www.southlyonmi.org/2-11-19%20Council%20Packet%20part%202.pdf?t=202108310733130#page=7)* (read by OCR; check the original)
 
-*[Image or figure on this page; see the original.]*
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -148,9 +193,18 @@ BUILDING SALES 2018
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+*[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p8"></a>
 *[Page 8 of the original](https://www.southlyonmi.org/2-11-19%20Council%20Packet%20part%202.pdf?t=202108310733130#page=8)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 September 11
 
@@ -174,10 +228,15 @@ Fire Dept.
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/2-11-19%20Council%20Packet%20part%202.pdf?t=202108310733130#page=9)* (read by OCR; check the original)
 
-*[Image or figure on this page; see the original.]*
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -188,9 +247,18 @@ Fire Dept.
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+*[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/2-11-19%20Council%20Packet%20part%202.pdf?t=202108310733130#page=10)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -203,4 +271,6 @@ Fire Dept.
 *[Image or figure on this page; see the original.]*
 
 Moving Forward for the Second Year in a row and it's only The Beginning. 2019 Here we go!
+
+</details>
 

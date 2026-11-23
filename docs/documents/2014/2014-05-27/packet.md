@@ -1509,7 +1509,14 @@ E-mail chief@ southlyonpolice.com
 <a id="p39"></a>
 *[Page 39 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket5.27.14.pdf?t=202108310732580#page=39)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/CityCouncilPacket5.27.14.pdf?t=202108310732580#page=40)* (read by OCR; check the original)

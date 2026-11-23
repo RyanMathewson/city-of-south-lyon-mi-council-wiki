@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/9-13-21%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "b51aa56755f68e0228ca9527603616774367958e2df076d58f8ecb9a445957ea"
 source_bytes: 2049324
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 50
 ocr_pages: 50
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2021-09-13
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/9-13-21%20Council%20Packet%20-%20online%20only.pdf?t=202111100945540) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `b51aa56755f68e02…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/9-13-21%20Council%20Packet%20-%20online%20only.pdf?t=202111100945540) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `b51aa56755f68e02…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/9-13-21%20Council%20Packet%20-%20online%20only.pdf?t=202111100945540#page=1)* (read by OCR; check the original)
@@ -258,6 +258,11 @@ Motion by Kurtzweil
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/9-13-21%20Council%20Packet%20-%20online%20only.pdf?t=202111100945540#page=9)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Motion to adjourn the meeting at 9:05p.m.
 
 VOTE:  $ \underline{\text{MOTION CARRIED UNANIMOUSLY}} $
@@ -269,6 +274,8 @@ Dan Pelchat, Mayor
 Lisa Deaton, Clerk/Treasurer
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/9-13-21%20Council%20Packet%20-%20online%20only.pdf?t=202111100945540#page=10)* (read by OCR; check the original)
@@ -764,6 +771,11 @@ Thank you.
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/9-13-21%20Council%20Packet%20-%20online%20only.pdf?t=202111100945540#page=35)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## FIRST RESPONDERS MEMORIAL
 
 *[Image or figure on this page; see the original.]*
@@ -771,6 +783,8 @@ Thank you.
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td></td><td></td><td></td><td>UNLESS OTHERWISE SPECIFIED:</td><td></td><td>NAME</td><td>DATE</td><td colspan="3"></td></tr><tr><td></td><td></td><td></td><td rowspan="4">DIMENSIONS ARE IN INCHES TOLERANCES: FRACTIONAL  $ \pm $ ANGULAR: MACH  $ \pm $ BEND  $ \pm $ TWO PLACE DECIMAL  $ \pm $ THREE PLACE DECIMAL  $ \pm $</td><td>DRAWN</td><td></td><td></td><td colspan="3"></td></tr><tr><td></td><td></td><td></td><td>CHECKED</td><td></td><td></td><td rowspan="5" colspan="3">TITLE:</td></tr><tr><td></td><td></td><td></td><td>ENG APPR.</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>MFG APPR.</td><td></td><td></td></tr><tr><td rowspan="4">PROPRIETARY AND CONFIDENTIAL THE INFORMATION CONTAINED IN THIS DRAWING IS THE SOLE PROPERTY OF <INSERT COMPANY NAME HERE>. ANY REPRODUCTION IN PART OR AS A WHOLE WITHOUT THE WRITTEN PERMISSION OF <INSERT COMPANY NAME HERE> IS PROHIBITED.</td><td></td><td></td><td>INTERPRET GEOMETRIC TOLERANCING PER:</td><td>Q.A.</td><td></td><td></td></tr><tr><td></td><td></td><td>MATERIAL</td><td rowspan="2" colspan="3">COMMENTS:</td></tr><tr><td>NEXT ASSY</td><td>USED ON</td><td>FINISH</td><td>SIZE A</td><td>DWG. NO.</td><td>REV</td></tr><tr><td>APPLICATION</td><td>DO NOT SCALE DRAWING</td><td></td><td colspan="3"></td><td>SCALE: 1:100</td><td>WEIGHT:</td><td>SHEET 1 OF 1</td></tr></table>
+
+</details>
 
 <a id="p36"></a>
 *[Page 36 of the original](https://www.southlyonmi.org/9-13-21%20Council%20Packet%20-%20online%20only.pdf?t=202111100945540#page=36)* (read by OCR; check the original)
@@ -790,6 +804,11 @@ Superb to supply the following materials to construct Bell Tower
 <a id="p37"></a>
 *[Page 37 of the original](https://www.southlyonmi.org/9-13-21%20Council%20Packet%20-%20online%20only.pdf?t=202111100945540#page=37)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 This is how the town hall looked in the 1880s. Built in 1882, the fire station was on the first floor, with the town offices upstairs. When the wooden union school on Liberty Street was being replaced in 1915, this second floor served as the high school for a brief time. The building was on Lafayette Street where the Providence Medical Center is now.
@@ -797,6 +816,8 @@ This is how the town hall looked in the 1880s. Built in 1882, the fire station w
 *[Image or figure on this page; see the original.]*
 
 The Ford garage changed to Hugh Arms Ford Sales in 1930, the year it is seen here. It continued to supply Ford tractors and equipment to farms around the area.
+
+</details>
 
 <a id="p38"></a>
 *[Page 38 of the original](https://www.southlyonmi.org/9-13-21%20Council%20Packet%20-%20online%20only.pdf?t=202111100945540#page=38)* (read by OCR; check the original)
@@ -806,14 +827,26 @@ The Ford garage changed to Hugh Arms Ford Sales in 1930, the year it is seen her
 <a id="p39"></a>
 *[Page 39 of the original](https://www.southlyonmi.org/9-13-21%20Council%20Packet%20-%20online%20only.pdf?t=202111100945540#page=39)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>SOUTH LYON VETERANS MEMORIAL</div>
 
 *[Image or figure on this page; see the original.]*
 
 9-2-21
 
+</details>
+
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/9-13-21%20Council%20Packet%20-%20online%20only.pdf?t=202111100945540#page=40)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -910,6 +943,8 @@ The Ford garage changed to Hugh Arms Ford Sales in 1930, the year it is seen her
 45. Future Parking and Other Planned Improvements
 
 46. We Go Swing
+
+</details>
 
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/9-13-21%20Council%20Packet%20-%20online%20only.pdf?t=202111100945540#page=41)* (read by OCR; check the original)

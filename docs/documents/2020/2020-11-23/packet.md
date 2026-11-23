@@ -1810,6 +1810,11 @@ History: 1984 PA 427, Eff Jan 2, 1985; 1996 PA 220, Eff Aug 15, 1996; Plan Docum
 <a id="p53"></a>
 *[Page 53 of the original](https://www.southlyonmi.org/11-23-20%20Council%20packet%20-%20online%20only.pdf?t=202108310733170#page=53)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Municipal Employees' Retirement System
@@ -1821,6 +1826,8 @@ Annual Actuarial Valuation Report
 December 31, 2019 - South Lyon, City of (6315)
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p54"></a>
 *[Page 54 of the original](https://www.southlyonmi.org/11-23-20%20Council%20packet%20-%20online%20only.pdf?t=202108310733170#page=54)* (read by OCR; check the original)
@@ -2053,6 +2060,11 @@ The 7.35%/3.00% scenario provides an estimate of computed employer contributions
 <a id="p64"></a>
 *[Page 64 of the original](https://www.southlyonmi.org/11-23-20%20Council%20packet%20-%20online%20only.pdf?t=202108310733170#page=64)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>Notes:</div>
@@ -2066,6 +2078,8 @@ The 7.35%/3.00% scenario provides an estimate of computed employer contributions
 <div>Notes:</div>
 
 All projected contributions are shown with no phase-in.
+
+</details>
 
 <a id="p65"></a>
 *[Page 65 of the original](https://www.southlyonmi.org/11-23-20%20Council%20packet%20-%20online%20only.pdf?t=202108310733170#page=65)* (read by OCR; check the original)

@@ -196,6 +196,11 @@ City Manager Zelenak stated we could bring this back to Council on another date 
 <a id="p8"></a>
 *[Page 8 of the original](https://www.southlyonmi.org/4-26-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=8)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Mayor Pelchat thanked Ms. Tiernan and the team at City Hall and all the Department Heads, he stated we have come a long way in the last few years. He thanked everyone for their time and effort.
 
 ##  $ \underline{\text{PUBLIC COMMENT}} $-None
@@ -219,6 +224,8 @@ Dan Pelchat, Mayor
 Lisa Deaton, City Clerk
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/4-26-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=9)* (read by OCR; check the original)
@@ -1013,11 +1020,18 @@ Signature
 <a id="p46"></a>
 *[Page 46 of the original](https://www.southlyonmi.org/4-26-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=46)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
 
 <div>--- All non-vets leaving the area via Reynold Sweet Blvd.</div>
+
+</details>
 
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/4-26-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=47)* (read by OCR; check the original)
@@ -1114,6 +1128,11 @@ Principal, Director of Planning
 <a id="p51"></a>
 *[Page 51 of the original](https://www.southlyonmi.org/4-26-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=51)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## City of South Lyon 2021 Zoning Ordinance Adoption Schedule
 
 ## April 22, 2021
@@ -1147,6 +1166,8 @@ Zoning Ordinance
 is effective
 
 ## COMPLETED
+
+</details>
 
 <a id="p52"></a>
 *[Page 52 of the original](https://www.southlyonmi.org/4-26-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=52)* (read by OCR; check the original)
@@ -1361,11 +1382,18 @@ ESIMATED COSTS PRIOR TO COMPLETION OF ENGINEERING
 <a id="p62"></a>
 *[Page 62 of the original](https://www.southlyonmi.org/4-26-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=62)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td>NO.</td><td>DATE</td><td>SUBMITTAL</td><td>NO.</td><td>DATE</td><td>REVISION</td><td>PROJECT NO: 2016-0006</td><td>SCALE:  $ 1 \times 10^{7} $</td><td rowspan="3">SHEET NO.</td></tr><tr><td>1</td><td>-</td><td>-</td><td>8</td><td>-</td><td>-</td><td>DRAWING NO. -</td><td></td></tr><tr><td>2</td><td>-</td><td>-</td><td>9</td><td>-</td><td>-</td><td>DRAWING NO. -</td><td></td></tr><tr><td>3</td><td>-</td><td>-</td><td>10</td><td>-</td><td>-</td><td>DRAWING BY: WJH</td><td>DATE: 2021-02-23</td><td rowspan="5">CN1</td></tr><tr><td>4</td><td>-</td><td>-</td><td>11</td><td>-</td><td>-</td><td>CHECKED BY: LZ</td><td>DATE: 2021-02-23</td></tr><tr><td>5</td><td>-</td><td>-</td><td>12</td><td>-</td><td>-</td><td>SECTION - TOWN - RANGE -</td><td></td></tr><tr><td>6</td><td>-</td><td>-</td><td>13</td><td>-</td><td>-</td><td>QTY/INNOCTY OF SOUTH LYON AND LYON TOWNSHIP</td><td></td></tr><tr><td>7</td><td>-</td><td>-</td><td>14</td><td>-</td><td>-</td><td>QTY/INNOCTY OF SOUTH LYON AND LYON TOWNSHIP</td><td></td></tr></table>
 
 P:\P\P\
+
+</details>
 
 <a id="p63"></a>
 *[Page 63 of the original](https://www.southlyonmi.org/4-26-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=63)* (read by OCR; check the original)

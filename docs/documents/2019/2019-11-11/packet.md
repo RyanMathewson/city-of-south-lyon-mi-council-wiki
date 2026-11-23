@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/11-11-19%20Council%20Packet%20-%20onlin
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "82dda98de9e0288ad236eeb326ad64030f069678122eda9eb4790b4359b53901"
 source_bytes: 2949257
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 75
 ocr_pages: 75
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2019-11-11
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/11-11-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `82dda98de9e0288a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/11-11-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `82dda98de9e0288a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/11-11-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=1)* (read by OCR; check the original)
@@ -1039,6 +1039,11 @@ Oakland County does not have information on exact CDBG funding levels for Progra
 <a id="p45"></a>
 *[Page 45 of the original](https://www.southlyonmi.org/11-11-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=45)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## TOAKIAND COUNTY MICHIGAN
@@ -1074,6 +1079,8 @@ Census Tract 2010
 *[Image or figure on this page; see the original.]*
 
 This Census Block Group map reflects the 2011-2015 American Community Survey (ACS).
+
+</details>
 
 <a id="p46"></a>
 *[Page 46 of the original](https://www.southlyonmi.org/11-11-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=46)* (read by OCR; check the original)

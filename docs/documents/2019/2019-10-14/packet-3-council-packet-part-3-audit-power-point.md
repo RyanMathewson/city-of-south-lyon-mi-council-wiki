@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/10-14-19%20Council%20Packet%20-%20part%
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "fa5c98158f157c1337aaeae95dacacb6d3305518feec7520dd9b946fc96a1c62"
 source_bytes: 5215549
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 14
 ocr_pages: 14
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2019-10-14
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/10-14-19%20Council%20Packet%20-%20part%203%20-%20Audit%20power%20point.pdf?t=202108310733140) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `fa5c98158f157c13…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/10-14-19%20Council%20Packet%20-%20part%203%20-%20Audit%20power%20point.pdf?t=202108310733140) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `fa5c98158f157c13…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/10-14-19%20Council%20Packet%20-%20part%203%20-%20Audit%20power%20point.pdf?t=202108310733140#page=1)* (read by OCR; check the original)
@@ -45,26 +45,52 @@ Questions
 <a id="p3"></a>
 *[Page 3 of the original](https://www.southlyonmi.org/10-14-19%20Council%20Packet%20-%20part%203%20-%20Audit%20power%20point.pdf?t=202108310733140#page=3)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## City of South Lyon General Fund - Revenue Years Ended June 30
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p4"></a>
 *[Page 4 of the original](https://www.southlyonmi.org/10-14-19%20Council%20Packet%20-%20part%203%20-%20Audit%20power%20point.pdf?t=202108310733140#page=4)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## City of South Lyon General Fund – Expenditures Years Ended June 30
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p5"></a>
 *[Page 5 of the original](https://www.southlyonmi.org/10-14-19%20Council%20Packet%20-%20part%203%20-%20Audit%20power%20point.pdf?t=202108310733140#page=5)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## City of South Lyon General Fund-Fund Balance Years Ended June 30
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p6"></a>
 *[Page 6 of the original](https://www.southlyonmi.org/10-14-19%20Council%20Packet%20-%20part%203%20-%20Audit%20power%20point.pdf?t=202108310733140#page=6)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## City of South Lyon Revenue Sharing Payment History Fiscal Years Ended June 30
 
@@ -72,8 +98,15 @@ Questions
 
 <table><tr><td></td><td>$300</td><td>03</td><td>04</td><td>05</td><td>06</td><td>07</td><td>08</td><td>09</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td></tr><tr><td>Cumulative Lost Revenue Sharing Payments</td><td>$-</td><td>$59</td><td>$166</td><td>$283</td><td>$425</td><td>$567</td><td>$749</td><td>$1,018</td><td>$1,210</td><td>$1,377</td><td>$1,471</td><td>$1,541</td><td>$1,589</td><td>$1,648</td><td>$1,657</td><td>$1,634</td><td>$1,566</td><td></td></tr><tr><td>Revenue Sharing Payment Held Constant at 2003 Amounts</td><td>$967</td><td>$967</td><td>$967</td><td>$967</td><td>$967</td><td>$967</td><td>$967</td><td>$967</td><td>$967</td><td>$967</td><td>$967</td><td>$967</td><td>$967</td><td>$967</td><td>$967</td><td>$967</td><td>$967</td><td>$967</td></tr><tr><td>Actual Revenue Sharing Payments</td><td>$967</td><td>$908</td><td>$860</td><td>$850</td><td>$825</td><td>$825</td><td>$785</td><td>$698</td><td>$775</td><td>$800</td><td>$873</td><td>$897</td><td>$919</td><td>$908</td><td>$958</td><td>$990</td><td>$1,035</td><td></td></tr></table>
 
+</details>
+
 <a id="p7"></a>
 *[Page 7 of the original](https://www.southlyonmi.org/10-14-19%20Council%20Packet%20-%20part%203%20-%20Audit%20power%20point.pdf?t=202108310733140#page=7)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## City of South Lyon Nonmajor Funds-Fund Balance Years Ended June 30
 
@@ -81,12 +114,21 @@ Questions
 
  $ ^{*} $ Capital Project funds include Capital Improvement, Equipment Replacement, and Land Acquisition funds
 
+</details>
+
 <a id="p8"></a>
 *[Page 8 of the original](https://www.southlyonmi.org/10-14-19%20Council%20Packet%20-%20part%203%20-%20Audit%20power%20point.pdf?t=202108310733140#page=8)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 Operating Expense (Excl. Depreciation) Plus Capital Improvements and Debt Service
+
+</details>
 
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/10-14-19%20Council%20Packet%20-%20part%203%20-%20Audit%20power%20point.pdf?t=202108310733140#page=9)* (read by OCR; check the original)

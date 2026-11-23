@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/July%2028%202025%20online%20council%20p
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "647ef7eaf629cebe28a52f5612b2f5ccc5aca617f88891bd2ce8868174de7fa5"
 source_bytes: 3944996
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 40
 ocr_pages: 40
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2025-07-28
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/July%2028%202025%20online%20council%20packet%20final.pdf?t=202507251447220) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `647ef7eaf629cebe…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/July%2028%202025%20online%20council%20packet%20final.pdf?t=202507251447220) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `647ef7eaf629cebe…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/July%2028%202025%20online%20council%20packet%20final.pdf?t=202507251447220#page=1)* (read by OCR; check the original)
@@ -482,6 +482,11 @@ Depiction of Easement Area on next page
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/July%2028%202025%20online%20council%20packet%20final.pdf?t=202507251447220#page=16)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td colspan="2">LIVINGSTON ENGINEERING</td></tr><tr><td colspan="2">CML-ENGINEERING - SUCREYING - PLANNING</td></tr><tr><td colspan="2">3500 S. OLD J.S. BRIGHTON, MI 48114</td></tr><tr><td>C.CUM</td><td>PHONE (810) 225-7100 FAX: (810) 225-7699</td></tr></table>
@@ -489,6 +494,8 @@ Depiction of Easement Area on next page
 <div>ENTERNET: WWLMNCSTONENC.COM</div>
 
 <table><tr><td>CLIENT RAND</td><td>0° 60' 120°</td><td>DATE 01/21/25</td></tr><tr><td rowspan="2">DESCRIPTION SW 1/4 OF SECTION 17, TIN, RTE, OAKLAND COUNTY, VICHIGAN</td><td>SCALE 1'-00' JOB No. 23201</td><td>REV.</td></tr><tr><td>SHEET No.3 of 3 ORGAN JDN</td><td>CREW NE</td></tr></table>
+
+</details>
 
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/July%2028%202025%20online%20council%20packet%20final.pdf?t=202507251447220#page=17)* (read by OCR; check the original)
@@ -681,7 +688,14 @@ ___ to approve the Fire Department's request to purchase 5 new Motorola radios i
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/July%2028%202025%20online%20council%20packet%20final.pdf?t=202507251447220#page=23)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/July%2028%202025%20online%20council%20packet%20final.pdf?t=202507251447220#page=24)* (read by OCR; check the original)
@@ -723,6 +737,11 @@ Area Sales Manager
 <a id="p25"></a>
 *[Page 25 of the original](https://www.southlyonmi.org/July%2028%202025%20online%20council%20packet%20final.pdf?t=202507251447220#page=25)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
@@ -736,6 +755,8 @@ APX6000 X5
 The design, technical, pricing, and other information ("Information") furnished with this submission is confidential proprietary information of Motorola Solutions, Inc. or the Motorola Solutions entity providing this quote ("Motorola") and is submitted with the restriction that it is to be used for evaluation purposes only. To the fullest extent allowed by applicable law, the information is not to be disclosed publicly or in any manner to anyone other than those required to evaluate the information without the express written permission of Motorola.
 
 MOTOROLA, MOTOROLA SOLUTIONS, and the Stylized M Logo are trademarks or registered trademarks of Motorola Trademark Holdings, LLC and are used under license. All other trademarks are the property of their respective owners. © 2020 Motorola Solutions, Inc. All rights reserved.
+
+</details>
 
 <a id="p26"></a>
 *[Page 26 of the original](https://www.southlyonmi.org/July%2028%202025%20online%20council%20packet%20final.pdf?t=202507251447220#page=26)* (read by OCR; check the original)
@@ -872,7 +893,14 @@ Motion by _____, supported by _____ to amend the General Fund FY2025-2026 Budget
 <a id="p32"></a>
 *[Page 32 of the original](https://www.southlyonmi.org/July%2028%202025%20online%20council%20packet%20final.pdf?t=202507251447220#page=32)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p33"></a>
 *[Page 33 of the original](https://www.southlyonmi.org/July%2028%202025%20online%20council%20packet%20final.pdf?t=202507251447220#page=33)* (read by OCR; check the original)

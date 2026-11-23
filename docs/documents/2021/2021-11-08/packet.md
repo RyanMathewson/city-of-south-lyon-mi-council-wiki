@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/11-8-21%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "6f34d37378ecfd6c869390d39b7b1ff673f89c9d3dda6df157d2e3a838eecc14"
 source_bytes: 3535200
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 105
 ocr_pages: 105
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2021-11-08
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/11-8-21%20Council%20Packet%20-%20online%20only.pdf?t=202111101429020) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `6f34d37378ecfd6c…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/11-8-21%20Council%20Packet%20-%20online%20only.pdf?t=202111101429020) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `6f34d37378ecfd6c…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/11-8-21%20Council%20Packet%20-%20online%20only.pdf?t=202111101429020#page=1)* (read by OCR; check the original)
@@ -904,11 +904,18 @@ Telephone: 1-202-691-5200 Federal Relay Service: 1-800-877-8339 www.bls.gov Cont
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/11-8-21%20Council%20Packet%20-%20online%20only.pdf?t=202111101429020#page=41)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Table 3: Recent Bids</div>
 
 <table><tr><td></td><td>Novi</td><td>Allen Park</td><td>Auburn Hills</td><td>Dearborn Heights $ ^{{*}} $</td></tr><tr><td>GFL</td><td>138.00</td><td>135.00</td><td>144.04</td><td>161.59</td></tr><tr><td>Priority Waste</td><td>170.52</td><td>156.70</td><td>159.00</td><td>141.79</td></tr><tr><td>Waste Management</td><td>188.64</td><td>184.84</td><td>189.00</td><td>191.95</td></tr><tr><td>Republic Services</td><td>234.36</td><td>214.68</td><td>na</td><td>237.07</td></tr><tr><td>Average</td><td>182.88</td><td>172.81</td><td>164.01</td><td>183.10</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/11-8-21%20Council%20Packet%20-%20online%20only.pdf?t=202111101429020#page=42)* (read by OCR; check the original)

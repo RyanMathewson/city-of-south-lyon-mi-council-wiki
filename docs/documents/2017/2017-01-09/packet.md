@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "b2a7f89a3b0970496b6cebefea64e743624f87cce14b00ac18f18fce2e822296"
 source_bytes: 3738821
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 107
 ocr_pages: 107
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2017-01-09
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/Council%20Packet%201-9-17.pdf?t=202108310733070) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `b2a7f89a3b097049…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/Council%20Packet%201-9-17.pdf?t=202108310733070) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `b2a7f89a3b097049…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/Council%20Packet%201-9-17.pdf?t=202108310733070#page=1)* (read by OCR; check the original)
@@ -302,6 +302,11 @@ Mayor Galeas stated he would like to thank the students for attending. He furthe
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/Council%20Packet%201-9-17.pdf?t=202108310733070#page=10)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 CM 12-9-16 MOTION TO ADJOURN
 
 Motion by Kramer, supported by Kurtzweil
@@ -315,6 +320,8 @@ Respectfully submitted,
 Mayor John Galeas
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/Council%20Packet%201-9-17.pdf?t=202108310733070#page=11)* (read by OCR; check the original)
@@ -1729,6 +1736,11 @@ SUGGESTED MOTION: Motion by _____, supported by _____ to accept the $75.00 donat
 <a id="p66"></a>
 *[Page 66 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/Council%20Packet%201-9-17.pdf?t=202108310733070#page=66)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 May the bright star
 
 of Christmas
@@ -1736,6 +1748,8 @@ of Christmas
 shine in your heart all year
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p67"></a>
 *[Page 67 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/Council%20Packet%201-9-17.pdf?t=202108310733070#page=67)* (read by OCR; check the original)

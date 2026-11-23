@@ -638,6 +638,11 @@ Please print
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%204-24-17.pdf?t=202108310733080#page=24)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 For City Use Only
 
 ___ —
@@ -659,6 +664,8 @@ Referred to City Council Date: ___
 City Council Approval/Denial Date: ___
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p25"></a>
 *[Page 25 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%204-24-17.pdf?t=202108310733080#page=25)* (read by OCR; check the original)
@@ -1095,6 +1102,11 @@ Applicant's SIGNATURE
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%204-24-17.pdf?t=202108310733080#page=40)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # BLUES BREWS BRATS
 
 Saturday, August 5 2017 - 3pm to 11pm
@@ -1111,8 +1123,15 @@ Andrea Meyer (248) 617-3075
 
 2017
 
+</details>
+
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%204-24-17.pdf?t=202108310733080#page=41)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # BLUES BREWS BRATS
 
@@ -1121,6 +1140,8 @@ Saturday, August 5, 2017-3pm to 11pm
 Whipple Street Parking Lot - Downtown South Lyon
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%204-24-17.pdf?t=202108310733080#page=42)* (read by OCR; check the original)
@@ -1306,7 +1327,14 @@ Confidentiality notice: The information included in this e-mail, including any a
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%204-24-17.pdf?t=202108310733080#page=47)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p48"></a>
 *[Page 48 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%204-24-17.pdf?t=202108310733080#page=48)* (read by OCR; check the original)
@@ -1815,7 +1843,14 @@ Printed Name DEBORAH COOK
 <a id="p69"></a>
 *[Page 69 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%204-24-17.pdf?t=202108310733080#page=69)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p70"></a>
 *[Page 70 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%204-24-17.pdf?t=202108310733080#page=70)* (read by OCR; check the original)

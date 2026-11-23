@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "4bd310198030229c8a69f3dd7a15709e74cc1d4de0419bf22c6084c0b659238e"
 source_bytes: 6774603
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 159
 ocr_pages: 159
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2022-01-10
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `4bd310198030229c…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `4bd310198030229c…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=1)* (read by OCR; check the original)
@@ -786,7 +786,14 @@ Date
 <a id="p31"></a>
 *[Page 31 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=31)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p32"></a>
 *[Page 32 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=32)* (read by OCR; check the original)
@@ -1547,6 +1554,11 @@ D9330-92052002000001 South Lingtonia E0205H 12 at 96 Pk Building A01-1
 <a id="p68"></a>
 *[Page 68 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=68)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Paving Plan
 
 *[Image or figure on this page; see the original.]*
@@ -1559,6 +1571,8 @@ INDIVIDUATED GENERAL INFORMATION & TECHNOLOGY
 
 GRAPHIC SCALE
 
+</details>
+
 <a id="p69"></a>
 *[Page 69 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=69)* (read by OCR; check the original)
 
@@ -1567,10 +1581,22 @@ GRAPHIC SCALE
 <a id="p70"></a>
 *[Page 70 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=70)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p71"></a>
 *[Page 71 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=71)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 South Lyon Administration Building
 
@@ -1646,8 +1672,15 @@ CDR SHEET INDEX
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p72"></a>
 *[Page 72 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=72)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 Grading Plan
 
@@ -1677,6 +1710,8 @@ GRAPHIC SCALE
 
 INDIVIDIATIO DESIGN SUSTAINMENT ARCHITECTURE DESIGN INDUSTRY
 
+</details>
+
 <a id="p73"></a>
 *[Page 73 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=73)* (read by OCR; check the original)
 
@@ -1684,6 +1719,11 @@ INDIVIDIATIO DESIGN SUSTAINMENT ARCHITECTURE DESIGN INDUSTRY
 
 <a id="p74"></a>
 *[Page 74 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=74)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1711,8 +1751,15 @@ SHARP</td><td>1 of 1</td></tr><tr><td></td><td></td><td>CDR: 24/13/2021</td><td>
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p75"></a>
 *[Page 75 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=75)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1744,6 +1791,8 @@ WWW.28500.COM/
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p76"></a>
 *[Page 76 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=76)* (read by OCR; check the original)
 
@@ -1770,12 +1819,24 @@ www.shenxiigong.com
 <a id="p77"></a>
 *[Page 77 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=77)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td>KEYNOTES</td><td colspan="2">GENERAL NOTES</td></tr><tr><td>REMARKS</td><td colspan="2">GENERAL NOTES: iDS</td></tr><tr><td>FOR THERMAL INGREDIENT INFORMATION AND APPLICATION AND RESEARCH</td><td>A. ELECTRONIC TECHNOLOGY AND TECHNOLOGY IN THE INDUSTRY OF TECHNOLOGY AND TECHNOLOGY IN THE INDUSTRY OF TECHNOLOGY AND TECHNOLOGY IN THE INDUSTRY OF TE</td><td></td></tr></table>
 
+</details>
+
 <a id="p78"></a>
 *[Page 78 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=78)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1783,13 +1844,27 @@ www.shenxiigong.com
 
 GENERAL NOTES
 
+</details>
+
 <a id="p79"></a>
 *[Page 79 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=79)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p80"></a>
 *[Page 80 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=80)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 South Lyon Community Schools
 
@@ -1869,18 +1944,39 @@ G. PRODUCE MUST BE SLIRED TO ME FOR CHANGING WELL-MEETED IN THE PLANT OR MEANING
 
 H. COCKPITES SPEED AND LOCATION OF ALL AGENTS DOORS WITH TURCINE RESEARCH/SALE, CLUBMENTS DOING DON'T DO NOT BEHAVIORAL OR ALONE. ALL ACTS DOING REPRODUCE
 
+</details>
+
 <a id="p81"></a>
 *[Page 81 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=81)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p82"></a>
 *[Page 82 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=82)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p83"></a>
 *[Page 83 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=83)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1890,19 +1986,35 @@ INTEGRATED design SOLUTIONS
 
 INFLUENCE ENGINEERING HORIZON & TECHNOLOGY
 
+</details>
+
 <a id="p84"></a>
 *[Page 84 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=84)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p85"></a>
 *[Page 85 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=85)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 INTEGRATED design SOLUTIONS
 
 百万级工程咨询 1000万+
+
+</details>
 
 <a id="p86"></a>
 *[Page 86 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=86)* (read by OCR; check the original)
@@ -1919,6 +2031,11 @@ South Lyon Administration
 
 <a id="p87"></a>
 *[Page 87 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=87)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1948,6 +2065,8 @@ DONG YUEZHOU ZHONGGUO, ZHONGGU
 
 <table><tr><td colspan="28">DOOR SCHEDULE</td><td></td></tr><tr><td rowspan="2">DOOR NUMBER</td><td colspan="27">GIF</td><td></td></tr><tr><td>MAUT0</td><td>L100-1</td><td>L100-2</td><td>L100-3</td><td>L100-4</td><td>T100</td><td>MAUT0/100</td><td>MAUT0/100</td><td>T100/100</td><td>T100/100</td><td>T100/L100</td><td>MAUT0/100</td><td>MAUT0/100</td><td>T100/L100</td><td>MAUT0/100</td><td>T100/L100</td><td>MAUT0/100</td><td>T100/L100</td><td>MAUT0/100</td><td>T100/L100</td><td>MAUT0/100</td><td>T100/L100</td><td>T100/L100</td><td>T100/L100</td><td>T100/L100</td><td>T100/L100</td><td>T100/L100</td><td>T100/L100</td></tr><tr><td>G10</td><td>3-0</td><td>3-1</td><td>3-2</td><td>3-3</td><td>3-4</td><td>3-5</td><td>3-6</td><td>3-7</td><td>3-8</td><td>3-9</td><td>3-10</td><td>3-11</td><td>3-12</td><td>3-13</td><td>3-14</td><td>3-15</td><td>3-16</td><td>3-17</td><td>3-18</td><td>3-19</td><td>3-20</td><td>3-21</td><td>3-22</td><td>3-23</td><td>3-24</td><td>3-25</td><td>3-26</td><td>3-27</td></tr><tr><td>L100</td><td>3-0</td><td>3-1</td><td>3-2</td><td>3-3</td><td>3-4</td><td>3-5</td><td>3-6</td><td>3-7</td><td>3-8</td><td>3-9</td><td>3-10</td><td>3-11</td><td>3-12</td><td>3-13</td><td>3-14</td><td>3-15</td><td>3-16</td><td>3-17</td><td>3-18</td><td>3-19</td><td>3-20</td><td>3-21</td><td>3-22</td><td>3-23</td><td>3-24</td><td>3-25</td><td>3-26</td><td>3-27</td></tr><tr><td>L100</td><td>2-0</td><td>2-1</td><td>2-2</td><td>2-3</td><td>2-4</td><td>2-5</td><td>2-6</td><td>2-7</td><td>2-8</td><td>2-9</td><td>2-10</td><td>2-11</td><td>2-12</td><td>2-13</td><td>2-14</td><td>2-15</td><td>2-16</td><td>2-17</td><td>2-18</td><td>2-19</td><td>2-20</td><td>2-21</td><td>2-22</td><td>2-23</td><td>2-24</td><td>2-25</td><td>2-26</td><td>2-27</td></tr><tr><td>L100</td><td>2-0</td><td>2-1</td><td>2-2</td><td>2-3</td><td>2-4</td><td>2-5</td><td>2-6</td><td>2-7</td><td>2-8</td><td>2-9</td><td>2-10</td><td>2-11</td><td>2-12</td><td>2-13</td><td>2-14</td><td>2-15</td><td>2-16</td><td>2-17</td><td>2-18</td><td>2-19</td><td>2-20</td><td>2-21</td><td>2-22</td><td>2-23</td><td>2-24</td><td>2-25</td><td>2-26</td><td>2-27</td></tr><tr><td>L100</td><td>3-0</td><td>3-1</td><td>3-2</td><td>3-3</td><td>3-4</td><td>3-5</td><td>3-6</td><td>3-7</td><td>3-8</td><td>3-9</td><td>3-10</td><td>3-11</td><td>3-12</td><td>3-13</td><td>3-14</td><td>3-15</td><td>3-16</td><td>3-17</td><td>3-18</td><td>3-19</td><td>3-20</td><td>3-21</td><td>3-22</td><td>3-23</td><td>3-24</td><td>3-25</td><td>3-26</td><td>3-27</td></tr><tr><td>L100</td><td>3-0</td><td>3-1</td><td>3-2</td><td>3-3</td><td>3-4</td><td>3-5</td><td>3-6</td><td>3-7</td><td>3-8</td><td>3-9</td><td>3-10</td><td>3-11</td><td>3-12</td><td>3-13</td><td>3-14</td><td>3-15</td><td>3-16</td><td>3-17</td><td>3-18</td><td>3-19</td><td>3-20</td><td>3-21</td><td>3-22</td><td>3-23</td><td>3-24</td><td>3-25</td><td>3-26</td><td>3-27</td></tr><tr><td>L100</td><td>3-0</td><td>3-1</td><td>3-2</td><td>3-3</td><td>3-4</td><td>3-5</td><td>3-6</td><td>3-7</td><td>3-8</td><td>3-9</td><td>3-10</td><td>3-11</td><td>3-12</td><td>3-13</td><td>3-14</td><td>3-15</td><td>3-16</td><td>3-17</td><td>3-18</td><td>3-19</td><td>3-20</td><td>3-21</td><td>3-22</td><td>3-23</td><td>3-24</td><td>3-25</td><td>3-26</td><td>3-27</td></tr><tr><td>L100</td><td>3-0</td><td>3-1</td><td>3-2</td><td>3-3</td><td>3-4</td><td>3-5</td><td>3-6</td><td>3-7</td><td>3-8</td><td>3-9</td><td>3-10</td><td>3-11</td><td>3-12</td><td>3-13</td><td>3-14</td><td>3-15</td><td>3-16</td><td>3-17</td><td>3-18</td><td>3-19</td><td>3-20</td><td>3-21</td><td>3-22</td><td>3-23</td><td><ecel></td><td></td><td></td><td></td></tr></table>
 
+</details>
+
 <a id="p88"></a>
 *[Page 88 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=88)* (read by OCR; check the original)
 
@@ -1955,6 +2074,11 @@ DONG YUEZHOU ZHONGGUO, ZHONGGU
 
 <a id="p89"></a>
 *[Page 89 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=89)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1970,8 +2094,15 @@ INTEGRATED DESIGN SOLUTIONS
 
 ARTICLE ENGINEERING INFLUENCE & TECHNOLOGY
 
+</details>
+
 <a id="p90"></a>
 *[Page 90 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=90)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1979,8 +2110,15 @@ INTEGRATED design solutions
 
 architecture engineering library & technology
 
+</details>
+
 <a id="p91"></a>
 *[Page 91 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=91)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1992,14 +2130,23 @@ BASEMENT MECHANICAL PLAN
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p92"></a>
 *[Page 92 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=92)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 South Lyon Community School
 
 South Lyon Administration
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p93"></a>
 *[Page 93 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=93)* (read by OCR; check the original)
@@ -2051,6 +2198,11 @@ ARTISTIC ENGINEERING INDIVIDUALS ACHOLICITY
 <a id="p96"></a>
 *[Page 96 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=96)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Electrical Site Plan
 
 *[Image or figure on this page; see the original.]*
@@ -2061,13 +2213,27 @@ INTEGRATED DESIGN SOLUTIONS
 
 architecture engineeringிறமை & technology
 
+</details>
+
 <a id="p97"></a>
 *[Page 97 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=97)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p98"></a>
 *[Page 98 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=98)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -2079,8 +2245,15 @@ architecture engineeringymados&technology
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p99"></a>
 *[Page 99 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=99)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## iDs
 
@@ -2136,8 +2309,15 @@ SOUTHFIELD, MI 48054
 
 www.dortermulow.com
 
+</details>
+
 <a id="p100"></a>
 *[Page 100 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=100)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -2151,8 +2331,15 @@ INTEGRATED DESIGN SOLUTIONS
 
 Architecture Engineering Inforos & technology
 
+</details>
+
 <a id="p101"></a>
 *[Page 101 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=101)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -2164,13 +2351,27 @@ INTEGRATED DESIGN SOLUTIONS
 
 ARCHITECTURE ENGINEERING INDIVIDUAL TECHNOLOGY
 
+</details>
+
 <a id="p102"></a>
 *[Page 102 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=102)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p103"></a>
 *[Page 103 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=103)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 One Line Diagram - Demolition
 
@@ -2180,8 +2381,15 @@ INTEGRATED design solutions
 
 architecture engineering�ations & technology
 
+</details>
+
 <a id="p104"></a>
 *[Page 104 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=104)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 One Line Diagram - New Work
 
@@ -2211,6 +2419,8 @@ NOTES</td><td colspan="2">TENGEO CARTO
 NOTES</td></tr></table>
 
 102360000010058100000002207000000016NY20191200501
+
+</details>
 
 <a id="p105"></a>
 *[Page 105 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=105)* (read by OCR; check the original)
@@ -2309,11 +2519,18 @@ XFP 150G-CB1 Pump</td><td>EA</td><td>17,127.00</td><td>17,127.00</td><td></td></
 <a id="p108"></a>
 *[Page 108 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=108)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Submersible Sewage Pumps Type ABS XFP
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p109"></a>
 *[Page 109 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=109)* (read by OCR; check the original)
@@ -2407,7 +2624,14 @@ Motion by _____, supported by _____ to amend the Fiscal Year 2021-2022 Budget to
 <a id="p112"></a>
 *[Page 112 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=112)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p113"></a>
 *[Page 113 of the original](https://www.southlyonmi.org/1-10-22%20Council%20Packet%20-%20online%20only.pdf?t=202201061551060#page=113)* (read by OCR; check the original)

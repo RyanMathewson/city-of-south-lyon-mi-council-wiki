@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/packet%207.10.17%20part%201.pdf?t=20210
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "d4466c065799b110e126d2a213e536d9fb3aa9fa25a9459cba9569d36128e753"
 source_bytes: 2561904
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 55
 ocr_pages: 55
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2017-07-10
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/packet%207.10.17%20part%201.pdf?t=202108310733080) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `d4466c065799b110…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/packet%207.10.17%20part%201.pdf?t=202108310733080) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `d4466c065799b110…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/packet%207.10.17%20part%201.pdf?t=202108310733080#page=1)* (read by OCR; check the original)
@@ -322,6 +322,11 @@ Mayor Galeas stated the letters that were written to thank the Police and Fire D
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/packet%207.10.17%20part%201.pdf?t=202108310733080#page=15)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 VOTE: ___
 
 MOTION CARRIED UNANIMOUSLY
@@ -331,6 +336,8 @@ Respectfully submitted.
 Mayor John Galeas
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/packet%207.10.17%20part%201.pdf?t=202108310733080#page=16)* (read by OCR; check the original)
@@ -1176,11 +1183,18 @@ The reader should note that the above rent is not likely to be realized without 
 <a id="p49"></a>
 *[Page 49 of the original](https://www.southlyonmi.org/packet%207.10.17%20part%201.pdf?t=202108310733080#page=49)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 One can conclude from this that any development of hypothetical  $ 3.80\pm $ upland portion of the subject, therefore, has the potential to yield much more than  $ 30,600\pm $ square feet of building projected in the Shafer Analysis using the above property as an example. If, in fact, a relatively conservative estimate of 4.00:1 land building ratio were projected for  $ 3.80\pm $ upland acres within the subject would show that a parcel of  $ 3.80\pm $ could support a building size at least as large as is calculated below:
 
 ### 3.80 ± ACRES X 43,560 SQUARE FEET÷4 = 41,382 SQUARE FEET
+
+</details>
 
 <a id="p50"></a>
 *[Page 50 of the original](https://www.southlyonmi.org/packet%207.10.17%20part%201.pdf?t=202108310733080#page=50)* (read by OCR; check the original)

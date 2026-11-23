@@ -434,7 +434,14 @@ SUGGESTED MOTION: Motion by _____, supported by _____ to approve the City Seal P
 <a id="p12"></a>
 *[Page 12 of the original](https://www.southlyonmi.org/8-28-23%20Council%20Packet%20-%20online%20only.pdf?t=202308241433420#page=12)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # CITY OF SOUTH LYON USE OF CITY SEAL POLICY
+
+</details>
 
 <a id="p13"></a>
 *[Page 13 of the original](https://www.southlyonmi.org/8-28-23%20Council%20Packet%20-%20online%20only.pdf?t=202308241433420#page=13)* (read by OCR; check the original)
@@ -527,11 +534,18 @@ sl
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/8-28-23%20Council%20Packet%20-%20online%20only.pdf?t=202308241433420#page=17)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 michigan municipal league
 
 *[Image or figure on this page; see the original.]*
 
 CONVENTION 2023 | OCTOBER 18-20
+
+</details>
 
 <a id="p18"></a>
 *[Page 18 of the original](https://www.southlyonmi.org/8-28-23%20Council%20Packet%20-%20online%20only.pdf?t=202308241433420#page=18)* (read by OCR; check the original)

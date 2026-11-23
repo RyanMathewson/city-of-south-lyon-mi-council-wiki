@@ -173,6 +173,11 @@ Council reconvened the Council Meeting at 8:15 p.m.
 <a id="p5"></a>
 *[Page 5 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/9-8-14ccpacket.pdf?t=202108310732570#page=5)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Motion by Wedell, supported by Kopkowski
 
 Motion to adjourn the meeting at 8:15 p.m.
@@ -182,6 +187,8 @@ Respectfully submitted.
 Tedd Wallace, Mayor
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p6"></a>
 *[Page 6 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/9-8-14ccpacket.pdf?t=202108310732570#page=6)* (read by OCR; check the original)
@@ -567,11 +574,18 @@ Signed: 9/3/14
 <a id="p29"></a>
 *[Page 29 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/9-8-14ccpacket.pdf?t=202108310732570#page=29)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 9/2/2014
 
 <div>Google Maps</div>
+
+</details>
 
 <a id="p30"></a>
 *[Page 30 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/9-8-14ccpacket.pdf?t=202108310732570#page=30)* (read by OCR; check the original)

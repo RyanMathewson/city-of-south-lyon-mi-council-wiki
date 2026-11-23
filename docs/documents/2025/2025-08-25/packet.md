@@ -758,18 +758,32 @@ See Attached Map
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/8.25.25%20Council%20Meeting%20Online%20Only.pdf?t=202508211550320#page=24)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## South Lyon Area Pumpkinfest 2025
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p25"></a>
 *[Page 25 of the original](https://www.southlyonmi.org/8.25.25%20Council%20Meeting%20Online%20Only.pdf?t=202508211550320#page=25)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 Corn Hole
 
 Classic
+
+</details>
 
 <a id="p26"></a>
 *[Page 26 of the original](https://www.southlyonmi.org/8.25.25%20Council%20Meeting%20Online%20Only.pdf?t=202508211550320#page=26)* (read by OCR; check the original)
@@ -927,9 +941,16 @@ Date
 <a id="p31"></a>
 *[Page 31 of the original](https://www.southlyonmi.org/8.25.25%20Council%20Meeting%20Online%20Only.pdf?t=202508211550320#page=31)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## SNS
+
+</details>
 
 <a id="p32"></a>
 *[Page 32 of the original](https://www.southlyonmi.org/8.25.25%20Council%20Meeting%20Online%20Only.pdf?t=202508211550320#page=32)* (read by OCR; check the original)
@@ -1450,6 +1471,11 @@ Those unable to attend the public hearing are invited to submit written comments
 <a id="p60"></a>
 *[Page 60 of the original](https://www.southlyonmi.org/8.25.25%20Council%20Meeting%20Online%20Only.pdf?t=202508211550320#page=60)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 # City of South Lyon
@@ -1471,6 +1497,8 @@ Existing Land Uses: Single-Family Residential
 All Other Land Uses
 
 No Single-Family Residential uses are currently found within the FDA district. The FDA area accounts for 23.8 total acres.
+
+</details>
 
 <a id="p61"></a>
 *[Page 61 of the original](https://www.southlyonmi.org/8.25.25%20Council%20Meeting%20Online%20Only.pdf?t=202508211550320#page=61)* (read by OCR; check the original)
@@ -1995,6 +2023,11 @@ The impact of tax increment financing on the revenues of all taxing units is sho
 <a id="p79"></a>
 *[Page 79 of the original](https://www.southlyonmi.org/8.25.25%20Council%20Meeting%20Online%20Only.pdf?t=202508211550320#page=79)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 # City of South Lyon
@@ -2029,8 +2062,15 @@ No Single-Family Residential uses are currently found within the DDA district. T
 
 お知らせをお知らせください。
 
+</details>
+
 <a id="p80"></a>
 *[Page 80 of the original](https://www.southlyonmi.org/8.25.25%20Council%20Meeting%20Online%20Only.pdf?t=202508211550320#page=80)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -2051,6 +2091,8 @@ No Single-Family Residential uses are currently found within the DDA district. T
 *[Image or figure on this page; see the original.]*
 
 <div>Project Descriptions, Estimated Costs, and Schedule for Implementation</div>
+
+</details>
 
 <a id="p81"></a>
 *[Page 81 of the original](https://www.southlyonmi.org/8.25.25%20Council%20Meeting%20Online%20Only.pdf?t=202508211550320#page=81)* (read by OCR; check the original)
@@ -2196,6 +2238,11 @@ The following maps were prepared to assist in illustrating the South Lyon DDA's 
 <a id="p90"></a>
 *[Page 90 of the original](https://www.southlyonmi.org/8.25.25%20Council%20Meeting%20Online%20Only.pdf?t=202508211550320#page=90)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Hold pages for Maps 2-4
@@ -2223,6 +2270,8 @@ Single-Family Residential
 All Other Land Uses
 
 No Single-Family Residential uses are currently found within the DDA district. The DDA area accounts for 23.8 total acres.
+
+</details>
 
 <a id="p91"></a>
 *[Page 91 of the original](https://www.southlyonmi.org/8.25.25%20Council%20Meeting%20Online%20Only.pdf?t=202508211550320#page=91)* (read by OCR; check the original)
@@ -2486,7 +2535,14 @@ Any alteration to, or deviation from, this Agreement involving extra work will r
 <a id="p98"></a>
 *[Page 98 of the original](https://www.southlyonmi.org/8.25.25%20Council%20Meeting%20Online%20Only.pdf?t=202508211550320#page=98)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p99"></a>
 *[Page 99 of the original](https://www.southlyonmi.org/8.25.25%20Council%20Meeting%20Online%20Only.pdf?t=202508211550320#page=99)* (read by OCR; check the original)
@@ -2519,6 +2575,11 @@ JOB NO. 20240737</td></tr></table>
 
 <a id="p100"></a>
 *[Page 100 of the original](https://www.southlyonmi.org/8.25.25%20Council%20Meeting%20Online%20Only.pdf?t=202508211550320#page=100)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -2572,8 +2633,15 @@ FAX (540) 634-8163
 
 8. CAUTION AND MEASURES MUST BE TANGENT BY THE CONTRACTOR TO PREVENT ROOFING MATERIALS AND DIRESIS FROM FALLING ON THE EQUIPMENT INSIDE THE BUILDING.
 
+</details>
+
 <a id="p101"></a>
 *[Page 101 of the original](https://www.southlyonmi.org/8.25.25%20Council%20Meeting%20Online%20Only.pdf?t=202508211550320#page=101)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -2583,13 +2651,27 @@ FAX (540) 634-8163
 
 Inglis Abonens
 
+</details>
+
 <a id="p102"></a>
 *[Page 102 of the original](https://www.southlyonmi.org/8.25.25%20Council%20Meeting%20Online%20Only.pdf?t=202508211550320#page=102)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <table><tr><td>*[Image or figure on this page; see the original.]* *[Image or figure on this page; see the original.]* *[Image or figure on this page; see the original.]* *[Image or figure on this page; see the original.]*</td></tr></table>
+
+</details>
 
 <a id="p103"></a>
 *[Page 103 of the original](https://www.southlyonmi.org/8.25.25%20Council%20Meeting%20Online%20Only.pdf?t=202508211550320#page=103)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -2619,8 +2701,15 @@ PROVIDE NEW ROOFING LUMDER RISTING MECH. EQUIPMENT - FLASH SUPPORT POSTS PER ROO
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p104"></a>
 *[Page 104 of the original](https://www.southlyonmi.org/8.25.25%20Council%20Meeting%20Online%20Only.pdf?t=202508211550320#page=104)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td colspan="3">*[Image or figure on this page; see the original.]*</td></tr><tr><td colspan="3"></td></tr><tr><td colspan="3"></td></tr></table>
 
@@ -2643,6 +2732,8 @@ PROVIDE NEW ROOFING LUMDER RISTING MECH. EQUIPMENT - FLASH SUPPORT POSTS PER ROO
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p105"></a>
 *[Page 105 of the original](https://www.southlyonmi.org/8.25.25%20Council%20Meeting%20Online%20Only.pdf?t=202508211550320#page=105)* (read by OCR; check the original)
@@ -2921,7 +3012,14 @@ Maintenance Note: First Visit: 12 Months/12,000 Miles
 <a id="p114"></a>
 *[Page 114 of the original](https://www.southlyonmi.org/8.25.25%20Council%20Meeting%20Online%20Only.pdf?t=202508211550320#page=114)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p115"></a>
 *[Page 115 of the original](https://www.southlyonmi.org/8.25.25%20Council%20Meeting%20Online%20Only.pdf?t=202508211550320#page=115)* (read by OCR; check the original)
@@ -3086,7 +3184,14 @@ contactus@hutsoninc.com</td></tr><tr><td>Enviro -Load rear tires for tractor
 <a id="p120"></a>
 *[Page 120 of the original](https://www.southlyonmi.org/8.25.25%20Council%20Meeting%20Online%20Only.pdf?t=202508211550320#page=120)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p121"></a>
 *[Page 121 of the original](https://www.southlyonmi.org/8.25.25%20Council%20Meeting%20Online%20Only.pdf?t=202508211550320#page=121)* (read by OCR; check the original)
@@ -3482,9 +3587,16 @@ NOW, THEREFORE, IT IS AGREED:
 <a id="p136"></a>
 *[Page 136 of the original](https://www.southlyonmi.org/8.25.25%20Council%20Meeting%20Online%20Only.pdf?t=202508211550320#page=136)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Oakland County Register of Deeds, and a copy forwarded to the Office of the Great Seal of the Michigan Secretary of State.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p137"></a>
 *[Page 137 of the original](https://www.southlyonmi.org/8.25.25%20Council%20Meeting%20Online%20Only.pdf?t=202508211550320#page=137)* (read by OCR; check the original)
@@ -3553,6 +3665,11 @@ Acting in the County of _____
 <a id="p139"></a>
 *[Page 139 of the original](https://www.southlyonmi.org/8.25.25%20Council%20Meeting%20Online%20Only.pdf?t=202508211550320#page=139)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 By: ___
 
 COUNTY OF OAKLAND
@@ -3570,6 +3687,8 @@ Oakland County, Michigan
 Acting in the County of
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p140"></a>
 *[Page 140 of the original](https://www.southlyonmi.org/8.25.25%20Council%20Meeting%20Online%20Only.pdf?t=202508211550320#page=140)* (read by OCR; check the original)

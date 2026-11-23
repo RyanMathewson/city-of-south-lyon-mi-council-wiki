@@ -311,6 +311,11 @@ Councilmember Kivell stated the website and email was down over the weekend. Cit
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/4-22-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=9)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Councilmember Kivell stated he is willing to continue with the spring clean up day, and he is thankful for all the help the volunteers have given us throughout the years. He does it every year and he would hope we could have more people help and continue this event.
 
  $ \underline{\text{ADJOURNMENT}} $
@@ -328,6 +333,8 @@ Respectfully submitted,
 Mayor Dan Pelchat
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/4-22-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=10)* (read by OCR; check the original)
@@ -436,6 +443,11 @@ This money is allocated for Haven and the Center for Active Adults.
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/4-22-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=16)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 The proposal is to bump up the mill from .5 to 1 mill. That will position the City for necessary improvements. This year $8,000 for engineering of the Dixboro paving project, $390,00 for the actual paving and also some funds for the DPW paving project.
 
 ## EQUIPMENT REPLACEMENT
@@ -447,6 +459,8 @@ This reflects the payment for the street sweeper and the payment for the F350 pi
 City Manager Zelenak stated he will make the changes that were discussed. He stated he will also get some numbers together for any suggestions Council had.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/4-22-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=17)* (read by OCR; check the original)
@@ -618,7 +632,14 @@ Fred Field</td></tr></table>
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/4-22-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=23)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/4-22-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=24)* (read by OCR; check the original)
@@ -749,7 +770,14 @@ Date
 <a id="p30"></a>
 *[Page 30 of the original](https://www.southlyonmi.org/4-22-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=30)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p31"></a>
 *[Page 31 of the original](https://www.southlyonmi.org/4-22-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=31)* (read by OCR; check the original)
@@ -1053,6 +1081,11 @@ b. In addition, the Internal Simul-Wash system has not been evaluated by the man
 <a id="p36"></a>
 *[Page 36 of the original](https://www.southlyonmi.org/4-22-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=36)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 nozzles and trough and underdrains. To do this HRC proposes to coordinate a  $ 3^{rd} $ party internal evaluation and report by the manufacturer (TonkaWater) to properly examine the system.
 
 c. The external tanks, pipes and joints of the Horizontal Pressure Filters have a compromised coating system and are not properly sealed from the elements. The effects of this can clearly be seen in Figures 1 and 2. To properly seal these, the rust will need to be removed the components will then be ultrasonic tested for structural integrity and then a three-part epoxy protective coating system will need to be designed to seal the tanks and protect them from further corrosion. If the tanks are found to structurally unsound, then it is possible that parts of them or entire tanks may need to be replaced.
@@ -1060,6 +1093,8 @@ c. The external tanks, pipes and joints of the Horizontal Pressure Filters have 
 *[Image or figure on this page; see the original.]*
 
 <div>Flav</div>
+
+</details>
 
 <a id="p37"></a>
 *[Page 37 of the original](https://www.southlyonmi.org/4-22-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=37)* (read by OCR; check the original)
@@ -1108,6 +1143,11 @@ a. Similar to the Horizontal Pressure Filters, the pipes, connections, valves an
 <a id="p39"></a>
 *[Page 39 of the original](https://www.southlyonmi.org/4-22-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=39)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
@@ -1123,6 +1163,8 @@ b. There are two flow meters in the basement pipe gallery that are antiquated. H
 *[Image or figure on this page; see the original.]*
 
 <div>Figure 4. Pipes and Joints in the Basement Pipe Gallery</div>
+
+</details>
 
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/4-22-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=40)* (read by OCR; check the original)
@@ -1263,6 +1305,11 @@ No out of plumb distortions along the exposed face of the tank wall was noted at
 <a id="p45"></a>
 *[Page 45 of the original](https://www.southlyonmi.org/4-22-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=45)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Tank leakage along the western edge of the South Pilaster
@@ -1271,8 +1318,15 @@ Tank leakage along the western edge of the South Pilaster
 
 <div>Tank Leakage Detail at Grade</div>
 
+</details>
+
 <a id="p46"></a>
 *[Page 46 of the original](https://www.southlyonmi.org/4-22-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=46)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1282,8 +1336,15 @@ Deteriorated steel prestressing strands near access ladder
 
 Deteriorated steel prestressing strands at utility conduit
 
+</details>
+
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/4-22-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=47)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1292,6 +1353,8 @@ General surface deterioration
 *[Image or figure on this page; see the original.]*
 
 Typical surface deterioration
+
+</details>
 
 <a id="p48"></a>
 *[Page 48 of the original](https://www.southlyonmi.org/4-22-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=48)* (read by OCR; check the original)
@@ -1343,7 +1406,14 @@ Map Showing the WTP 10-yr Pumpage Wellhead Protection Area
 <a id="p51"></a>
 *[Page 51 of the original](https://www.southlyonmi.org/4-22-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=51)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p52"></a>
 *[Page 52 of the original](https://www.southlyonmi.org/4-22-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=52)* (read by OCR; check the original)
@@ -1544,6 +1614,11 @@ Signature
 <a id="p59"></a>
 *[Page 59 of the original](https://www.southlyonmi.org/4-22-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=59)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Cinco De Mayo Party
 
 Sunday May, 5th 2019, Noon to 8pm
@@ -1553,6 +1628,8 @@ Outdoor and indoor event with outside beer service
 Overflow parking will be held across the street and in public lots.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p60"></a>
 *[Page 60 of the original](https://www.southlyonmi.org/4-22-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=60)* (read by OCR; check the original)

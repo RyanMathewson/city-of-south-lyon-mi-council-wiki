@@ -127,6 +127,11 @@ C. Special Appropriations Act
 <a id="p5"></a>
 *[Page 5 of the original](https://www.southlyonmi.org/Council%20Conduct%20Meeting%20Agenda%20April%2011%202018.pdf?t=202108310733110#page=5)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ### 11. CONSENT AGENDA
 
 A. Approval of Minutes – Regular Meeting – Monday, November 20, 2017
@@ -138,6 +143,8 @@ B. Approval of Introduction of Ordinance No. C-754-B, Marihuana Enterprises, Bus
 13. ADJOURNMENT
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p6"></a>
 *[Page 6 of the original](https://www.southlyonmi.org/Council%20Conduct%20Meeting%20Agenda%20April%2011%202018.pdf?t=202108310733110#page=6)* (read by OCR; check the original)
@@ -873,6 +880,11 @@ No member shall speak more than once on the same question unless every member de
 <a id="p26"></a>
 *[Page 26 of the original](https://www.southlyonmi.org/Council%20Conduct%20Meeting%20Agenda%20April%2011%202018.pdf?t=202108310733110#page=26)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## 2 Conduct of Discussion - Rules of Engagement
 
 *[Image or figure on this page; see the original.]*
@@ -887,10 +899,19 @@ Direction and decision making by the City Council shall count as a council Indiv
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p27"></a>
 *[Page 27 of the original](https://www.southlyonmi.org/Council%20Conduct%20Meeting%20Agenda%20April%2011%202018.pdf?t=202108310733110#page=27)* (read by OCR; check the original)
 
-*No readable text on this page. See the original.*
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
+*No text read.*
+
+</details>
 
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/Council%20Conduct%20Meeting%20Agenda%20April%2011%202018.pdf?t=202108310733110#page=28)* (read by OCR; check the original)

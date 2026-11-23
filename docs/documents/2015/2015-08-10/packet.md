@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "98435416ba30d6c7850dec648d19dd56ef29d846b508a5db0a5f0311e2005bc1"
 source_bytes: 5202786
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 145
 ocr_pages: 145
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2015-08-10
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket08.10.15.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `98435416ba30d6c7…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket08.10.15.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `98435416ba30d6c7…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket08.10.15.pdf?t=202108310732570#page=1)* (read by OCR; check the original)
@@ -1268,9 +1268,16 @@ Important Disclosure and Safety Information
 <a id="p51"></a>
 *[Page 51 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket08.10.15.pdf?t=202108310732570#page=51)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p52"></a>
 *[Page 52 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket08.10.15.pdf?t=202108310732570#page=52)* (read by OCR; check the original)
@@ -2974,6 +2981,11 @@ Release Fee for Impounded Vehicles
 <a id="p99"></a>
 *[Page 99 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket08.10.15.pdf?t=202108310732570#page=99)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # CITY OF NOVI COMMUNITY DEVELOPMENT DEPARTMENT
 
 *[Image or figure on this page; see the original.]*
@@ -2991,6 +3003,8 @@ BUILDING DIVISION
 Mission Statement:
 
 Partnering with our Community to Build and Maintain a Safer Novi
+
+</details>
 
 <a id="p100"></a>
 *[Page 100 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket08.10.15.pdf?t=202108310732570#page=100)* (read by OCR; check the original)
@@ -3987,6 +4001,11 @@ Total: $325.00
 <a id="p130"></a>
 *[Page 130 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket08.10.15.pdf?t=202108310732570#page=130)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 $ **100.00
 
 One Hundred and 00/100*****
@@ -4002,6 +4021,8 @@ Arts Commission Donation
 110079L11 10112005511 11053006545011
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p131"></a>
 *[Page 131 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket08.10.15.pdf?t=202108310732570#page=131)* (read by OCR; check the original)

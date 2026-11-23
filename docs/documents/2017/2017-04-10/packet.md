@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "c6afa15726c046e1e70ab41fd8987b2f194b8b8372b47ce2eb21e18d23b1c019"
 source_bytes: 9965623
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 94
 ocr_pages: 94
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2017-04-10
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%204-10-17.pdf?t=202108310733070) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `c6afa15726c046e1…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%204-10-17.pdf?t=202108310733070) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `c6afa15726c046e1…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%204-10-17.pdf?t=202108310733070#page=1)* (read by OCR; check the original)
@@ -1796,9 +1796,16 @@ ILLINOIS
 <a id="p80"></a>
 *[Page 80 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%204-10-17.pdf?t=202108310733070#page=80)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <table><tr><td>13. Rye, New York</td></tr><tr><td>Previously #19</td></tr><tr><td>Rye, New York, is back on our list for the second year in a row and up six spots from its nineteenth spot in 2016. As the first settlement in Westchester county, Rye originated as a cattle and farming town, so it's nice to see it's still calm and peaceful in this modern age. Besides great police work that cuts down on crime, Rye has a Traffic and Pedestrian Safety Committee to improve safety features in the community and educate the public to avoid accidents. Crime isn't the only thing that endangers communities, so we're glad to see Rye takes other public safety issues seriously, too.</td></tr><tr><td>Population</td></tr><tr><td>16,066</td></tr><tr><td>Violent Crimes per 1,000</td></tr><tr><td>0.06</td></tr><tr><td>Property Crimes per 1,000</td></tr><tr><td>3.00</td></tr><tr><td>NEW YORK</td></tr><tr><td>See more safe cities in New York (/blog/safest-cities-new-york/)</td></tr></table>
 
 <table><tr><td colspan="2">14. Madison, Connecticut</td></tr><tr><td colspan="2">Previously #127</td></tr><tr><td colspan="2">Sidled up to the Long Island Sound, Madison, Connecticut, serves as a boat-lover’s paradise—and a place where its residents feel safe. Because the town is right on the water, local government provides emergency plans for hurricanes and severe weather as well as an email sign-up for real-time alerts. The</td></tr></table>
+
+</details>
 
 <a id="p81"></a>
 *[Page 81 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%204-10-17.pdf?t=202108310733070#page=81)* (read by OCR; check the original)
@@ -2123,11 +2130,18 @@ SafeWise compares crime rates to a city's population to find safety rankings. To
 <a id="p91"></a>
 *[Page 91 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%204-10-17.pdf?t=202108310733070#page=91)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
 
 Find out about home security in your State.
+
+</details>
 
 <a id="p92"></a>
 *[Page 92 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%204-10-17.pdf?t=202108310733070#page=92)* (read by OCR; check the original)

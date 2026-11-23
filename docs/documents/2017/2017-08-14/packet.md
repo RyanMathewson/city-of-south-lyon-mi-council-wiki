@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "f4da3b9d4fc7414ee7440e6d1f52f6d0daae229c64dfcff93416575329561c02"
 source_bytes: 19752334
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 126
 ocr_pages: 126
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2017-08-14
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%208-14-17a.pdf?t=202108310733080) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `f4da3b9d4fc7414e…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%208-14-17a.pdf?t=202108310733080) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `f4da3b9d4fc7414e…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%208-14-17a.pdf?t=202108310733080#page=1)* (read by OCR; check the original)
@@ -527,6 +527,11 @@ Thank you for your consideration.
 <a id="p33"></a>
 *[Page 33 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%208-14-17a.pdf?t=202108310733080#page=33)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Concert 1: Ago 5 12
@@ -582,6 +587,8 @@ Oratron SA
 ASV JK JOK
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%208-14-17a.pdf?t=202108310733080#page=34)* (read by OCR; check the original)
@@ -736,9 +743,16 @@ Important Disclosure and Safety Information
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%208-14-17a.pdf?t=202108310733080#page=40)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%208-14-17a.pdf?t=202108310733080#page=41)* (read by OCR; check the original)
@@ -1213,23 +1227,44 @@ Transportation Engineering
 <a id="p49"></a>
 *[Page 49 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%208-14-17a.pdf?t=202108310733080#page=49)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Figure 1 NB Truck turning right, collision with ped signal
 
+</details>
+
 <a id="p50"></a>
 *[Page 50 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%208-14-17a.pdf?t=202108310733080#page=50)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 <div>Figure 2 Daily Truck Volumes</div>
 
+</details>
+
 <a id="p51"></a>
 *[Page 51 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%208-14-17a.pdf?t=202108310733080#page=51)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 <div>Figure 3 Signage Map</div>
+
+</details>
 
 <a id="p52"></a>
 *[Page 52 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%208-14-17a.pdf?t=202108310733080#page=52)* (read by OCR; check the original)
@@ -1365,6 +1400,11 @@ Guidance:
 <a id="p55"></a>
 *[Page 55 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%208-14-17a.pdf?t=202108310733080#page=55)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ### Section 2B.18 Movement Prohibition Signs (R3-1 through R3-4, R3-18, and R3-27) Standard:
 
 01 Except as provided in Paragraphs 11 and 13, where specific movements are prohibited, Movement Prohibition signs shall be installed.
@@ -1434,6 +1474,8 @@ R3-20R
 *[Image or figure on this page; see the original.]*
 
 <div>The diamond symbol may be used instead of the "HOV" word message. The minimum vehicle occupancy level may vary, such as 2+, 3+, 4+. The words "LANE" or "ONLY" may be used with this sign when appropriate. Sect. 2B.18 December</div>
+
+</details>
 
 <a id="p56"></a>
 *[Page 56 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%208-14-17a.pdf?t=202108310733080#page=56)* (read by OCR; check the original)
@@ -1537,14 +1579,26 @@ SHEET1
 <a id="p59"></a>
 *[Page 59 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%208-14-17a.pdf?t=202108310733080#page=59)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 \layout STARTING POINT = NORTH and WEST SIDE OF SIDEWALK INTERSECTION
 
 SHEET 2- LAYOUT and MATERIALS
 
+</details>
+
 <a id="p60"></a>
 *[Page 60 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%208-14-17a.pdf?t=202108310733080#page=60)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1552,8 +1606,15 @@ SHEET 2- LAYOUT and MATERIALS
 
 SHEET 3- LAYOUT and MATERIALS
 
+</details>
+
 <a id="p61"></a>
 *[Page 61 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%208-14-17a.pdf?t=202108310733080#page=61)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## SHEET 4 – DETAILS
 
@@ -1595,12 +1656,21 @@ COMPACTED SUBGRADE
 
 8" MEMORIAL CONCRETE BASE INSTALLATION
 
+</details>
+
 <a id="p62"></a>
 *[Page 62 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%208-14-17a.pdf?t=202108310733080#page=62)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 <div>SHEET 5 - EXISTING CONDITIONS</div>
+
+</details>
 
 <a id="p63"></a>
 *[Page 63 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%208-14-17a.pdf?t=202108310733080#page=63)* (read by OCR; check the original)
@@ -2017,7 +2087,14 @@ To validate bond authenticity, go to  $ \underline{\text{www.cnasurity.com}} $ >
 <a id="p74"></a>
 *[Page 74 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%208-14-17a.pdf?t=202108310733080#page=74)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p75"></a>
 *[Page 75 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%208-14-17a.pdf?t=202108310733080#page=75)* (read by OCR; check the original)
@@ -2215,6 +2292,11 @@ Fax to: 517-373-4202
 <a id="p80"></a>
 *[Page 80 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%208-14-17a.pdf?t=202108310733080#page=80)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## 2017 Fury For A Feast
 
 Saturday, August 26 Noon to Midnight
@@ -2224,6 +2306,8 @@ Saturday, August 26 Noon to Midnight
 For Blessings In A Backpack & Gleaners
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p81"></a>
 *[Page 81 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/agenda/Council%20Packet%208-14-17a.pdf?t=202108310733080#page=81)* (read by OCR; check the original)

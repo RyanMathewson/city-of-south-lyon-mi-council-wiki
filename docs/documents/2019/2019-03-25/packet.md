@@ -1454,26 +1454,54 @@ SUGGESTED MOTION: Motion by ___, supported by _____ to approve
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/City%20Council%20packet%20March%2025%202019.pdf?t=202108310733140#page=44)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p45"></a>
 *[Page 45 of the original](https://www.southlyonmi.org/City%20Council%20packet%20March%2025%202019.pdf?t=202108310733140#page=45)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p46"></a>
 *[Page 46 of the original](https://www.southlyonmi.org/City%20Council%20packet%20March%2025%202019.pdf?t=202108310733140#page=46)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 Missing Rakes
 
+</details>
+
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/City%20Council%20packet%20March%2025%202019.pdf?t=202108310733140#page=47)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 Manual Bar Screen
+
+</details>
 
 <a id="p48"></a>
 *[Page 48 of the original](https://www.southlyonmi.org/City%20Council%20packet%20March%2025%202019.pdf?t=202108310733140#page=48)* (read by OCR; check the original)
@@ -2845,6 +2873,11 @@ Commissioner Mosier questions if there has been anything new with Alexanders. Mc
 <a id="p98"></a>
 *[Page 98 of the original](https://www.southlyonmi.org/City%20Council%20packet%20March%2025%202019.pdf?t=202108310733140#page=98)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Approval to Adjourn
 
 Motion by Bradley, Second by Rose
@@ -2860,6 +2893,8 @@ Scott Lanam, Chairman
 *[Image or figure on this page; see the original.]*
 
 Steve Mosier, Secretary
+
+</details>
 
 <a id="p99"></a>
 *[Page 99 of the original](https://www.southlyonmi.org/City%20Council%20packet%20March%2025%202019.pdf?t=202108310733140#page=99)* (read by OCR; check the original)

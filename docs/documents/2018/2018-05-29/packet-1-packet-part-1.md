@@ -497,6 +497,11 @@ Mayor Pelchat stated he couldn't attend the Cultural Arts event but the artwork 
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/May%2029%202018%20packet%20part%201.pdf?t=202108310733110#page=15)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Respectfully submitted.
 
 Mayor Dan Pelchat
@@ -504,6 +509,8 @@ Mayor Dan Pelchat
 Clerk/Treasurer Lisa Deaton
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/May%2029%202018%20packet%20part%201.pdf?t=202108310733110#page=16)* (read by OCR; check the original)

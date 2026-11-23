@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/1-27-25%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "e74e92a02c3122f2e6c497025fd00ba9ac1fd71c56af6d8e068529dc44eef476"
 source_bytes: 13690531
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 34
 ocr_pages: 34
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2025-01-27
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/1-27-25%20Council%20Packet%20-%20online%20only.pdf?t=202501231503000) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `e74e92a02c3122f2…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/1-27-25%20Council%20Packet%20-%20online%20only.pdf?t=202501231503000) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `e74e92a02c3122f2…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/1-27-25%20Council%20Packet%20-%20online%20only.pdf?t=202501231503000#page=1)* (read by OCR; check the original)
@@ -458,6 +458,11 @@ CBouwkamp@pattenmonument.com</td><td>Name: _____</td></tr><tr><td>Patten Monumen
 <a id="p19"></a>
 *[Page 19 of the original](https://www.southlyonmi.org/1-27-25%20Council%20Packet%20-%20online%20only.pdf?t=202501231503000#page=19)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Import Grey
@@ -514,8 +519,15 @@ Pine Green
 
 PRICING BASED GRANITE COLOR, INTERIOR CONSTRUCTION TYPE, NUMBER OF NICHS, NICHE DOOR TYPE- SLIDING OR ROSETTE PRICING SUBJECT TO CHANGE. PLEASE CALL OR EMAIL FOR A QUOTE. QUOTES ARE GOOD FOR 30 DAYS.
 
+</details>
+
 <a id="p20"></a>
 *[Page 20 of the original](https://www.southlyonmi.org/1-27-25%20Council%20Packet%20-%20online%20only.pdf?t=202501231503000#page=20)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>CFS-E-SY-11895</div>
 
@@ -533,25 +545,53 @@ H:48(23.75*0.75*13H)
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p21"></a>
 *[Page 21 of the original](https://www.southlyonmi.org/1-27-25%20Council%20Packet%20-%20online%20only.pdf?t=202501231503000#page=21)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p22"></a>
 *[Page 22 of the original](https://www.southlyonmi.org/1-27-25%20Council%20Packet%20-%20online%20only.pdf?t=202501231503000#page=22)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/1-27-25%20Council%20Packet%20-%20online%20only.pdf?t=202501231503000#page=23)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 <div>SOUTH LYON CEMETERY</div>
 
+</details>
+
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/1-27-25%20Council%20Packet%20-%20online%20only.pdf?t=202501231503000#page=24)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td>*[Image or figure on this page; see the original.]*</td></tr><tr><td>SECTION 11</td></tr><tr><td>LEGEND
 1 * TIER NUMBER
@@ -563,6 +603,8 @@ POT LAYOUT</td></tr><tr><td>CITY OF SOUTH YORK
 CEMETERY & VOLUNTEER PARK
 GRADING</td></tr><tr><td>2000
 2003</td></tr></table>
+
+</details>
 
 <a id="p25"></a>
 *[Page 25 of the original](https://www.southlyonmi.org/1-27-25%20Council%20Packet%20-%20online%20only.pdf?t=202501231503000#page=25)* (read by OCR; check the original)
@@ -824,9 +866,16 @@ Date
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/1-27-25%20Council%20Packet%20-%20online%20only.pdf?t=202501231503000#page=34)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 DEPART DAY
 
 Sep 56th, 2025
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 

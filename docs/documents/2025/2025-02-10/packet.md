@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/2-10-25%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "1c144aee12c9e6086f10f18d1bcdcf47355a655ed35d3f187e5c480e3f178ab0"
 source_bytes: 8539906
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 60
 ocr_pages: 60
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2025-02-10
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/2-10-25%20Council%20Packet%20-%20online%20only.pdf?t=202502061519480) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `1c144aee12c9e608…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/2-10-25%20Council%20Packet%20-%20online%20only.pdf?t=202502061519480) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `1c144aee12c9e608…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/2-10-25%20Council%20Packet%20-%20online%20only.pdf?t=202502061519480#page=1)* (read by OCR; check the original)
@@ -277,6 +277,11 @@ MOTION CARRIED UNANIMOSLY
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/2-10-25%20Council%20Packet%20-%20online%20only.pdf?t=202502061519480#page=9)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Respectfully submitted.
 
 Mayor Steve Kennedy
@@ -284,6 +289,8 @@ Mayor Steve Kennedy
 City Clerk Lisa Deaton
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/2-10-25%20Council%20Packet%20-%20online%20only.pdf?t=202502061519480#page=10)* (read by OCR; check the original)
@@ -790,11 +797,18 @@ Date
 <a id="p38"></a>
 *[Page 38 of the original](https://www.southlyonmi.org/2-10-25%20Council%20Packet%20-%20online%20only.pdf?t=202502061519480#page=38)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ### Carnivale Road Closure for Event on March 8, 2025. Road closed from 1PM - 5:30 PM
 
 Lafayette St. closed from Lake Street to Liberty Street.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p39"></a>
 *[Page 39 of the original](https://www.southlyonmi.org/2-10-25%20Council%20Packet%20-%20online%20only.pdf?t=202502061519480#page=39)* (read by OCR; check the original)
@@ -911,9 +925,16 @@ SUGGESTED MOTION:
 <a id="p43"></a>
 *[Page 43 of the original](https://www.southlyonmi.org/2-10-25%20Council%20Packet%20-%20online%20only.pdf?t=202502061519480#page=43)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>South Lyon, MI – Proposed Well 8 Location with 200 foot EGLE Required Isolation Distance Shown.</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/2-10-25%20Council%20Packet%20-%20online%20only.pdf?t=202502061519480#page=44)* (read by OCR; check the original)
@@ -959,7 +980,14 @@ Grand Total of All Three Phases (Not to Exceed): $320,500.00
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/2-10-25%20Council%20Packet%20-%20online%20only.pdf?t=202502061519480#page=47)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p48"></a>
 *[Page 48 of the original](https://www.southlyonmi.org/2-10-25%20Council%20Packet%20-%20online%20only.pdf?t=202502061519480#page=48)* (read by OCR; check the original)

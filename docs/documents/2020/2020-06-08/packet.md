@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/6-8-20%20Council%20Packet%20-%20online%
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "87015a4968276debfb7a4af4cc182c557952711904be09c15575ad277a2b78a9"
 source_bytes: 5330451
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 113
 ocr_pages: 113
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2020-06-08
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/6-8-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `87015a4968276deb…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/6-8-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `87015a4968276deb…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/6-8-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=1)* (read by OCR; check the original)
@@ -727,9 +727,16 @@ sue.carter@detroitpump.com
 <a id="p29"></a>
 *[Page 29 of the original](https://www.southlyonmi.org/6-8-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=29)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Sulzer XFP100C-CB1.4-PE35/4 Submersible Pump, 4.7 HP, 230/460 V, 3
+
+</details>
 
 <a id="p30"></a>
 *[Page 30 of the original](https://www.southlyonmi.org/6-8-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=30)* (read by OCR; check the original)
@@ -1779,14 +1786,26 @@ The Umlor Group
 <a id="p64"></a>
 *[Page 64 of the original](https://www.southlyonmi.org/6-8-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=64)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Fieldstone Planned Development
 
 *[Image or figure on this page; see the original.]*
 
 Added walk locations, clarified bench and streetlight locations
 
+</details>
+
 <a id="p65"></a>
 *[Page 65 of the original](https://www.southlyonmi.org/6-8-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=65)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Newton
 
@@ -1806,8 +1825,15 @@ Additional Available Elevations
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p66"></a>
 *[Page 66 of the original](https://www.southlyonmi.org/6-8-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=66)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1819,8 +1845,15 @@ Additional Available Elevations
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p67"></a>
 *[Page 67 of the original](https://www.southlyonmi.org/6-8-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=67)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Aspire
 
@@ -1846,8 +1879,15 @@ Actual Photos & Stone versions
 
 All elevations are typical and representative
 
+</details>
+
 <a id="p68"></a>
 *[Page 68 of the original](https://www.southlyonmi.org/6-8-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=68)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1861,13 +1901,27 @@ Additional Available Elevations
 
 All elevations are typical and representative
 
+</details>
+
 <a id="p69"></a>
 *[Page 69 of the original](https://www.southlyonmi.org/6-8-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=69)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p70"></a>
 *[Page 70 of the original](https://www.southlyonmi.org/6-8-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=70)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1880,6 +1934,8 @@ All elevations are typical and representative
 # York
 
 All elevations are typical and representative
+
+</details>
 
 <a id="p71"></a>
 *[Page 71 of the original](https://www.southlyonmi.org/6-8-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=71)* (read by OCR; check the original)
@@ -2697,6 +2753,11 @@ The project site is challenging, located near the city limits at the west end of
 <a id="p94"></a>
 *[Page 94 of the original](https://www.southlyonmi.org/6-8-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=94)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>The York</div>
 
 *[Image or figure on this page; see the original.]*
@@ -2718,6 +2779,8 @@ Optional Brick and Optional Enclosed Sunrooms increase appeal, privacy, and dive
 *[Image or figure on this page; see the original.]*
 
 Extended garages provide Storage and Accessibility opportunities
+
+</details>
 
 <a id="p95"></a>
 *[Page 95 of the original](https://www.southlyonmi.org/6-8-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=95)* (read by OCR; check the original)
@@ -3140,6 +3203,11 @@ See “South Lyon ‘Say Their Names’ Moment of Silence” Facebook event for 
 <a id="p113"></a>
 *[Page 113 of the original](https://www.southlyonmi.org/6-8-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=113)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # Revised Pave Plan
 
 *[Image or figure on this page; see the original.]*
@@ -3171,4 +3239,6 @@ David Coulter
 Oakland County Executive
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 

@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "6a3482a63478436081ec674bf89514dfbfed936b9a8029acd33558b3b7af4fdd"
 source_bytes: 7054918
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 107
 ocr_pages: 107
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2018-02-12
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `6a3482a634784360…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `6a3482a634784360…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=1)* (read by OCR; check the original)
@@ -232,6 +232,11 @@ VOTE: ___
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=10)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Respectfully submitted
 
 Mayor Dan Pelchat
@@ -239,6 +244,8 @@ Mayor Dan Pelchat
 Clerk Deaton
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=11)* (read by OCR; check the original)
@@ -297,6 +304,11 @@ Lisa Deaton City Clerk
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=15)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
@@ -308,6 +320,8 @@ Study Session
 Presented by Keith Szymanski and Spencer Tawa
 
 January 20, 2018
+
+</details>
 
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=16)* (read by OCR; check the original)
@@ -370,9 +384,16 @@ As a result, most people find the General Fund to be the most important fund. Th
 <a id="p22"></a>
 *[Page 22 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=22)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Wall Ulyom Fund Structure</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=23)* (read by OCR; check the original)
@@ -422,7 +443,14 @@ Do certain funds require subsidies from other funds to exist?
 <a id="p26"></a>
 *[Page 26 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=26)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>What is an Audit</div>
+
+</details>
 
 <a id="p27"></a>
 *[Page 27 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=27)* (read by OCR; check the original)
@@ -470,9 +498,16 @@ Auditor's letter of comments and recommendations ("management letter")
 <a id="p30"></a>
 *[Page 30 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=30)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p31"></a>
 *[Page 31 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=31)* (read by OCR; check the original)
@@ -550,7 +585,14 @@ The GFOA (Government Finance Officers Association) in its best practices documen
 <a id="p36"></a>
 *[Page 36 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=36)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p37"></a>
 *[Page 37 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=37)* (read by OCR; check the original)
@@ -576,9 +618,16 @@ The governing body always has the authority to re-commit or re-assign fund balan
 <a id="p38"></a>
 *[Page 38 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=38)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p39"></a>
 *[Page 39 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=39)* (read by OCR; check the original)
@@ -689,14 +738,26 @@ Populations greater than 7,500
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=44)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>(In 000s)</div>
 
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td></td><td>000</td><td>02</td><td>03</td><td>04</td><td>05</td><td>06</td><td>07</td><td>08</td><td>09</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td></tr><tr><td>Cumulative Lost Revenue Sharing Payments</td><td>$-</td><td>$93</td><td>$284</td><td>$484</td><td>$694</td><td>$929</td><td>$1,164</td><td>$1,439</td><td>$1,801</td><td>$2,086</td><td>$2,346</td><td>$2,533</td><td>$2,696</td><td>$2,837</td><td>$2,989</td><td>$3,091</td><td></td></tr><tr><td>Revenue Sharing Payment Held Constant at 2001 Amounts</td><td>$1,060</td><td>$1,060</td><td>$1,060</td><td>$1,060</td><td>$1,060</td><td>$1,060</td><td>$1,060</td><td>$1,060</td><td>$1,060</td><td>$1,060</td><td>$1,060</td><td>$1,060</td><td>$1,060</td><td>$1,060</td><td>$1,060</td><td>$1,060</td><td></td></tr><tr><td>Actual Revenue Sharing Payments</td><td>$1,011</td><td>$967</td><td>$869</td><td>$860</td><td>$850</td><td>$825</td><td>$825</td><td>$785</td><td>$698</td><td>$775</td><td>$800</td><td>$873</td><td>$897</td><td>$919</td><td>$908</td><td>$958</td><td></td></tr></table>
 
+</details>
+
 <a id="p45"></a>
 *[Page 45 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=45)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## City of South Lyon General Fund Revenue (in 000s) Fiscal Year Ended June 30, 2017
 
@@ -707,6 +768,8 @@ Federal and State Sources
 $1,097
 
 20%
+
+</details>
 
 <a id="p46"></a>
 *[Page 46 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=46)* (read by OCR; check the original)
@@ -732,7 +795,14 @@ Emergency replacements
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=47)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Expenditures and Budgeting</div>
+
+</details>
 
 <a id="p48"></a>
 *[Page 48 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=48)* (read by OCR; check the original)
@@ -781,6 +851,11 @@ A financial projection.
 <a id="p52"></a>
 *[Page 52 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=52)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ■ General Government
@@ -790,6 +865,8 @@ Recreation and Culture
 DPW, Cemetery, and Road Improvements
 
 Public Safety
+
+</details>
 
 <a id="p53"></a>
 *[Page 53 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=53)* (read by OCR; check the original)
@@ -837,14 +914,28 @@ Funded Percentage = 66.12%
 <a id="p54"></a>
 *[Page 54 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=54)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p55"></a>
 *[Page 55 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=55)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>THANK YOU</div>
+
+</details>
 
 <a id="p56"></a>
 *[Page 56 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=56)* (read by OCR; check the original)
@@ -1142,9 +1233,16 @@ Carl Richards - councilman - 2018.
 <a id="p71"></a>
 *[Page 71 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=71)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p72"></a>
 *[Page 72 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=72)* (read by OCR; check the original)
@@ -1332,12 +1430,26 @@ Cons:
 <a id="p77"></a>
 *[Page 77 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=77)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p78"></a>
 *[Page 78 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=78)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p79"></a>
 *[Page 79 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=79)* (read by OCR; check the original)
@@ -1379,7 +1491,14 @@ Our more than 30 field techs are municipal water and wastewater system experts a
 <a id="p80"></a>
 *[Page 80 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=80)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p81"></a>
 *[Page 81 of the original](https://www.southlyonmi.org/2.12.18%20CM%20packet%20part%201.pdf?t=202108310733110#page=81)* (read by OCR; check the original)

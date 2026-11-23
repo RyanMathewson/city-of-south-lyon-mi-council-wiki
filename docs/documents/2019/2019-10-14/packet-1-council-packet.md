@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/10-14-19%20Council%20packet%20-%20onlin
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "e8a8b3fcfca7daf052043f1fcac7393233c609c52a3ba3de1a9284c11f2da503"
 source_bytes: 10148561
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 190
 ocr_pages: 190
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2019-10-14
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/10-14-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733140) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `e8a8b3fcfca7daf0…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/10-14-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733140) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `e8a8b3fcfca7daf0…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/10-14-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733140#page=1)* (read by OCR; check the original)
@@ -2249,6 +2249,11 @@ As shown above, the City does not believe we are in underfunded status as of Jun
 <a id="p83"></a>
 *[Page 83 of the original](https://www.southlyonmi.org/10-14-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733140#page=83)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## GASB 75 ACTUARIAL VALUATION Fiscal Year Ending June 30, 2018
 
 *[Image or figure on this page; see the original.]*
@@ -2268,6 +2273,8 @@ General (317) 845-3500
 Toll-Free (800) 428-7106
 
 Fax (317) 845-3654
+
+</details>
 
 <a id="p84"></a>
 *[Page 84 of the original](https://www.southlyonmi.org/10-14-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733140#page=84)* (read by OCR; check the original)
@@ -2352,6 +2359,11 @@ Valuation Actuary
 <a id="p87"></a>
 *[Page 87 of the original](https://www.southlyonmi.org/10-14-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733140#page=87)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Executive Summary
 
 ## City of South Lyon GASB 75 Valuation for Fiscal Year Ending June 30, 2018
@@ -2364,8 +2376,15 @@ Presented below is the summary of GASB 75 results for the fiscal year ending Jun
 
 The active participants' number above may include active employees who currently have no health care coverage. Refer to Summary of Participants section for an accurate breakdown of active employees with and without coverage.
 
+</details>
+
 <a id="p88"></a>
 *[Page 88 of the original](https://www.southlyonmi.org/10-14-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733140#page=88)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Executive Summary
 
@@ -2398,6 +2417,8 @@ actuarial assumptions are met.
 *[Image or figure on this page; see the original.]*
 
 Total OPEB Liability is the portion of PVFB considered to be accrued or earned as of June 30, 2018. This amount is a required disclosure in the Required Supplementary Information section.
+
+</details>
 
 <a id="p89"></a>
 *[Page 89 of the original](https://www.southlyonmi.org/10-14-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733140#page=89)* (read by OCR; check the original)
@@ -2755,7 +2776,14 @@ Below is a breakdown of the GASB 75 monthly total cost for a General class retir
 <a id="p106"></a>
 *[Page 106 of the original](https://www.southlyonmi.org/10-14-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733140#page=106)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p107"></a>
 *[Page 107 of the original](https://www.southlyonmi.org/10-14-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733140#page=107)* (read by OCR; check the original)
@@ -2817,7 +2845,14 @@ A brief summary of all health plans offered by the City effective on July 1, 201
 <a id="p110"></a>
 *[Page 110 of the original](https://www.southlyonmi.org/10-14-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733140#page=110)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p111"></a>
 *[Page 111 of the original](https://www.southlyonmi.org/10-14-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733140#page=111)* (read by OCR; check the original)
@@ -3952,6 +3987,11 @@ To the extent necessary, the City may levy taxes on all taxable property within 
 <a id="p175"></a>
 *[Page 175 of the original](https://www.southlyonmi.org/10-14-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733140#page=175)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## GASB 75 INTERIM ACTUARIAL VALUATION Fiscal Year Ending June 30, 2019
 
 *[Image or figure on this page; see the original.]*
@@ -3979,6 +4019,8 @@ General (317) 845-3500
 Toll-Free (800) 428-7106
 
 Fax (317) 845-3654
+
+</details>
 
 <a id="p176"></a>
 *[Page 176 of the original](https://www.southlyonmi.org/10-14-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733140#page=176)* (read by OCR; check the original)
@@ -4050,6 +4092,11 @@ Valuation Actuary
 <a id="p179"></a>
 *[Page 179 of the original](https://www.southlyonmi.org/10-14-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733140#page=179)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Executive Summary
 
 City of South Lyon Interim GASB 75 Valuation for Fiscal Year Ending June 30, 2019
@@ -4059,6 +4106,8 @@ City of South Lyon Interim GASB 75 Valuation for Fiscal Year Ending June 30, 201
 Presented below is the summary of GASB 75 results for the fiscal year ending June 30, 2019 compared to the prior fiscal year as shown in the City's Notes to Financial Statement.
 
 <table><tr><td></td><td colspan="2">As of June 30, 2018</td><td colspan="2">As of June 30, 2019</td></tr><tr><td>Total OPEB Liability</td><td>$</td><td>464,775</td><td>$</td><td>545,542</td></tr><tr><td>Actuarial Value of Assets</td><td>$</td><td>0</td><td>$</td><td>0</td></tr><tr><td>Net OPEB Liability</td><td>$</td><td>464,775</td><td>$</td><td>545,542</td></tr><tr><td>Funded Ratio</td><td colspan="2">0.0%</td><td colspan="2">0.0%</td></tr><tr><td></td><td colspan="2">FY 2017/18</td><td colspan="2">FY 2018/19</td></tr><tr><td>OPEB Expense</td><td>$</td><td>32,593</td><td>$</td><td>29,157</td></tr><tr><td>Annual Employer Contributions</td><td>$</td><td>9,000</td><td>$</td><td>13,622</td></tr><tr><td></td><td colspan="2">As of June 30, 2018</td><td colspan="2">As of June 30, 2019</td></tr><tr><td>Discount Rate</td><td colspan="2">3.87%</td><td colspan="2">3.51%</td></tr><tr><td>Expected Return on Assets</td><td colspan="2">N/A</td><td colspan="2">N/A</td></tr></table>
+
+</details>
 
 <a id="p180"></a>
 *[Page 180 of the original](https://www.southlyonmi.org/10-14-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733140#page=180)* (read by OCR; check the original)
@@ -4085,6 +4134,11 @@ Presented below is the summary of GASB 75 results for the fiscal year ending Jun
 <a id="p182"></a>
 *[Page 182 of the original](https://www.southlyonmi.org/10-14-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733140#page=182)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## GASB Disclosures
 
 ## City of South Lyon Interim GASB 75 Valuation for Fiscal Year Ending June 30, 2019
@@ -4108,8 +4162,15 @@ The initial amortization period for the first two items noted above is based on 
 <table><tr><td>Net Difference between projected and actual earnings in
 OPEB plan investments for FYE</td><td>Initial Balance</td><td>Initial Amortization Period</td><td>Annual Recognition</td><td>Unamortized Balance as of June 30, 2019</td></tr><tr><td>June 30, 2018</td><td>$ 0</td><td>N/A</td><td>$ 0</td><td>$ 0</td></tr><tr><td>June 30, 2019</td><td>$ 0</td><td>N/A</td><td>$ 0</td><td>$ 0</td></tr></table>
 
+</details>
+
 <a id="p183"></a>
 *[Page 183 of the original](https://www.southlyonmi.org/10-14-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733140#page=183)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## GASB Disclosures
 
@@ -4124,6 +4185,8 @@ City of South Lyon Interim GASB 75 Valuation for Fiscal Year Ending June 30, 201
 The balances as of June 30, 2019 of the deferred outflows / (inflows) of resources will be recognized in OPEB expense in the future fiscal years as noted below.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p184"></a>
 *[Page 184 of the original](https://www.southlyonmi.org/10-14-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733140#page=184)* (read by OCR; check the original)

@@ -1774,6 +1774,11 @@ An account must be opened with an initial investment of $100,000. Subsequent inv
 <a id="p73"></a>
 *[Page 73 of the original](https://www.southlyonmi.org/1-9-23%20Council%20Packet%20-%20online%20only.pdf?t=202301051555490#page=73)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # LOCAL GOVERNMENT INVESTMENT POOL
 
 "INVESTMENT BROCHURE"
@@ -1785,6 +1790,8 @@ TREASURERS OFFICE
 Robert Wittenberg
 
 County Treasurer
+
+</details>
 
 <a id="p74"></a>
 *[Page 74 of the original](https://www.southlyonmi.org/1-9-23%20Council%20Packet%20-%20online%20only.pdf?t=202301051555490#page=74)* (read by OCR; check the original)

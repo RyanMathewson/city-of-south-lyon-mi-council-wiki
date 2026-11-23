@@ -300,11 +300,18 @@ MOTION CARRIED UNANIMOUSLY
 <a id="p8"></a>
 *[Page 8 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC071014CCpacket7-14-14.pdf?t=202108310732580#page=8)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Tedd Wallace, Mayor
 
 Lisa Deaton Clerk/Treasurer
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC071014CCpacket7-14-14.pdf?t=202108310732580#page=9)* (read by OCR; check the original)

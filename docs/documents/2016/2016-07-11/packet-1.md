@@ -826,6 +826,11 @@ SUGGESTED MOTION: Motion by _____, supported by _____ to approve the final layou
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC070716CC7-11.pdf?t=202108310732560#page=34)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>DIXBORO ROAD</div>
 
 *[Image or figure on this page; see the original.]*
@@ -864,6 +869,8 @@ SUGGESTED MOTION: Motion by _____, supported by _____ to approve the final layou
 SOUTH LYON PARKS AND RECREATION COMMISSION
 
 SOUTH LYON, MICHIGAN
+
+</details>
 
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC070716CC7-11.pdf?t=202108310732560#page=35)* (read by OCR; check the original)
@@ -910,25 +917,46 @@ SUGGESTED MOTION: Motion by _____, supported by _____ to approve the sale by auc
 <a id="p37"></a>
 *[Page 37 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC070716CC7-11.pdf?t=202108310732560#page=37)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p38"></a>
 *[Page 38 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC070716CC7-11.pdf?t=202108310732560#page=38)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p39"></a>
 *[Page 39 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC070716CC7-11.pdf?t=202108310732560#page=39)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # 2010 Ford Crown Victoria VIN: 2FABP7BV6AX140701
 
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC070716CC7-11.pdf?t=202108310732560#page=40)* (read by OCR; check the original)
@@ -1927,6 +1955,11 @@ Title: ___
 <a id="p58"></a>
 *[Page 58 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC070716CC7-11.pdf?t=202108310732560#page=58)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # ATTACHMENT 2 TO GOVERNMENTAL LEASE-PURCHASE AGREEMENT NO. ___ DATED AS OF ___
 
 ## EQUIPMENT DESCRIPTION
@@ -1944,6 +1977,8 @@ By: ___
 Print Name: ___
 
 Title: ___
+
+</details>
 
 <a id="p59"></a>
 *[Page 59 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC070716CC7-11.pdf?t=202108310732560#page=59)* (read by OCR; check the original)
@@ -2145,6 +2180,11 @@ I have acted as counsel to Lessee with respect to the Governmental Lease-Purchas
 <a id="p64"></a>
 *[Page 64 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC070716CC7-11.pdf?t=202108310732560#page=64)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 8. The equipment leased pursuant to the Lease constitutes personal property and when subject to use by Lessee will not be or become fixtures under applicable law.
 
 9. The leasing of the equipment pursuant to the Lease is exempt from all sales, use and documentary stamp taxes against either Lessor or Lessee during the term of the Lease, and such equipment will be exempt from all state and local personal property or other ad valorem taxes.
@@ -2154,6 +2194,8 @@ This opinion of counsel may be relied upon by TCF Equipment Finance, a division 
 Very truly yours,
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p65"></a>
 *[Page 65 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC070716CC7-11.pdf?t=202108310732560#page=65)* (read by OCR; check the original)

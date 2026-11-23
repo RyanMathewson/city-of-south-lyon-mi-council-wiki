@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "fc68d0cb87486d011b8bab11096f594f1dd321e277303cba205bd75a10fe00cc"
 source_bytes: 1677882
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 32
 ocr_pages: 32
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2014-06-23
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC062314CCpacket6-23-14.pdf?t=202108310732580) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `fc68d0cb87486d01…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC062314CCpacket6-23-14.pdf?t=202108310732580) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `fc68d0cb87486d01…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC062314CCpacket6-23-14.pdf?t=202108310732580#page=1)* (read by OCR; check the original)
@@ -324,6 +324,11 @@ Mayor Wallace stated we have a couple vacancies on the Parks and Recreation, Cab
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC062314CCpacket6-23-14.pdf?t=202108310732580#page=10)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 He further stated there are a few more garden plots available if anyone is interested they can call the Clerk's office at City Hall 248-437-1735. Mayor Wallace also stated he would like to thank Rod Cook and welcome our new City Manager Ms. Ladner.
 
 ADJOURNMENT
@@ -335,6 +340,8 @@ Motion to adjourn the meeting at 9:15p.m.
 Respectfully submitted,
 
 Tedd Wallace, Mayor
+
+</details>
 
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC062314CCpacket6-23-14.pdf?t=202108310732580#page=11)* (read by OCR; check the original)

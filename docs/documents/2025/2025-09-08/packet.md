@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/Online%20packet%20September%208%202025.
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "5209b53664f34ee03568e72ed404f1f80de6136029babbff014fb71d020f0d92"
 source_bytes: 3146573
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 84
 ocr_pages: 84
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2025-09-08
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/Online%20packet%20September%208%202025.pdf?t=202509050924330) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `5209b53664f34ee0…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/Online%20packet%20September%208%202025.pdf?t=202509050924330) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `5209b53664f34ee0…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/Online%20packet%20September%208%202025.pdf?t=202509050924330#page=1)* (read by OCR; check the original)
@@ -456,6 +456,11 @@ MOTION CARRIED UNANIMOUSLY
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/Online%20packet%20September%208%202025.pdf?t=202509050924330#page=10)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 MOTION CARRIED UNANIMOUSLY
 
 Respectfully submitted,
@@ -463,6 +468,8 @@ Respectfully submitted,
 Mayor Steve Kennedy
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/Online%20packet%20September%208%202025.pdf?t=202509050924330#page=11)* (read by OCR; check the original)
@@ -1907,6 +1914,11 @@ Acting in the County of _____
 <a id="p68"></a>
 *[Page 68 of the original](https://www.southlyonmi.org/Online%20packet%20September%208%202025.pdf?t=202509050924330#page=68)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # KENNETH R. COLEMAN
 
 By: ___
@@ -1926,6 +1938,8 @@ Oakland County, Michigan
 Acting in the County of
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p69"></a>
 *[Page 69 of the original](https://www.southlyonmi.org/Online%20packet%20September%208%202025.pdf?t=202509050924330#page=69)* (read by OCR; check the original)

@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%201.p
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "f1f5f270aa38103a0427f712db64a23042ed84774b33b37cb2ea996041a45dc7"
 source_bytes: 3319055
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 86
 ocr_pages: 86
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2018-09-10
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%201.pdf?t=202108310733130) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `f1f5f270aa38103a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%201.pdf?t=202108310733130) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `f1f5f270aa38103a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%201.pdf?t=202108310733130#page=1)* (read by OCR; check the original)
@@ -1593,6 +1593,11 @@ Section 102-131(a) of the City of South Lyon Zoning Ordinance requires that lot 
 <a id="p69"></a>
 *[Page 69 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%201.pdf?t=202108310733130#page=69)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 a.  $ \underline{\text{Lot Coverage}} $: The lot coverage for the 50 lots ranges from  $ \underline{\text{20% coverage to 38% coverage}} $. This coverage number represents the house, patio, and deck/patio; all the impervious surfaces.  $ \underline{\text{The average lot coverage of the 50 lots is 31.5%}} $.
 
 <div>Lot Coverage %</div>
@@ -1601,8 +1606,15 @@ a.  $ \underline{\text{Lot Coverage}} $: The lot coverage for the 50 lots ranges
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p70"></a>
 *[Page 70 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%201.pdf?t=202108310733130#page=70)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 b.  $ \underline{\text{Model Unit Breakdown}} $: A majority of the lots are shown with the Hampton model (1,510 square lot house footprint, plus 40 square foot porch, plus a 300 square foot deck), totaling 1,850 square feet of lot coverage. This is the largest model proposed.
 
@@ -1612,8 +1624,15 @@ b.  $ \underline{\text{Model Unit Breakdown}} $: A majority of the lots are show
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p71"></a>
 *[Page 71 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%201.pdf?t=202108310733130#page=71)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 c.  $ \underline{\text{Hampton Model}} $: Of the 37 Hampton models shown on the site plan, 32 units (or 86%) have proposed lot coverages greater than 25%, the current zoning requirement.
 
@@ -1628,6 +1647,8 @@ d.  $ \underline{\text{Dalton Model}} $: Of the 3 Dalton models shown on the sit
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p72"></a>
 *[Page 72 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%201.pdf?t=202108310733130#page=72)* (read by OCR; check the original)
@@ -1987,7 +2008,14 @@ Senior Principal Planner
 <a id="p86"></a>
 *[Page 86 of the original](https://www.southlyonmi.org/9-10-18%20Council%20packet%20part%201.pdf?t=202108310733130#page=86)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <table><tr><td>C-10</td><td colspan="4">SITE PLAN</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 

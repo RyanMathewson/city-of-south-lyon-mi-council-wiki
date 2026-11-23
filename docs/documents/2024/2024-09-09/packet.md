@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/9-9-24%20Council%20Packet%20-%20online%
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "ae3359b885c2f77e6951916d1c89baae65213d7ed1a24355bdaffceb5d98cacb"
 source_bytes: 4837205
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 52
 ocr_pages: 52
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2024-09-09
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/9-9-24%20Council%20Packet%20-%20online%20only%20-%20revised.pdf?t=202409051559150) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `ae3359b885c2f77e…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/9-9-24%20Council%20Packet%20-%20online%20only%20-%20revised.pdf?t=202409051559150) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `ae3359b885c2f77e…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/9-9-24%20Council%20Packet%20-%20online%20only%20-%20revised.pdf?t=202409051559150#page=1)* (read by OCR; check the original)
@@ -285,6 +285,11 @@ Mayor Kennedy stated follow-up to Lisa Deaton's email to the Council Members reg
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/9-9-24%20Council%20Packet%20-%20online%20only%20-%20revised.pdf?t=202409051559150#page=9)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 everyone that Wednesday, August 28 we will have another Lake Street Cruise-in Downtown. So, grab your friends and head downtown for dinner and some drinks and check out the great classic cars.
 
 ADJOURNMENT
@@ -302,6 +307,8 @@ MOTION CARRIED UNANIMOUSLY
 Mayor Steve Kennedy
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/9-9-24%20Council%20Packet%20-%20online%20only%20-%20revised.pdf?t=202409051559150#page=10)* (read by OCR; check the original)
@@ -611,7 +618,14 @@ Paul Baker Park- Maintenance, fertilizing and trimming bushes, trees and shrubs 
 <a id="p33"></a>
 *[Page 33 of the original](https://www.southlyonmi.org/9-9-24%20Council%20Packet%20-%20online%20only%20-%20revised.pdf?t=202409051559150#page=33)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/9-9-24%20Council%20Packet%20-%20online%20only%20-%20revised.pdf?t=202409051559150#page=34)* (read by OCR; check the original)

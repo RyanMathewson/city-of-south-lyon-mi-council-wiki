@@ -412,9 +412,16 @@ Lisa Deaton, City Clerk/Treasurer
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/10-25-21%20City%20Council%20Packet%20-%20online%20only.pdf?t=202111101427070#page=14)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 This Census Block Group map reflects the 2011-2015 American Community Survey (ACS).
+
+</details>
 
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/10-25-21%20City%20Council%20Packet%20-%20online%20only.pdf?t=202111101427070#page=15)* (read by OCR; check the original)

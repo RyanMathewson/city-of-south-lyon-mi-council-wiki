@@ -377,6 +377,11 @@ Kurtzweil- Yes
 <a id="p13"></a>
 *[Page 13 of the original](https://www.southlyonmi.org/January%2026%202026%20Council%20Packet%20-%20Part%20A%20-%20Counter%20Copy.pdf?t=202603101510330#page=13)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ADJOURNMENT
 
 CM 1-10-26 MOTION TO ADOURN
@@ -394,6 +399,8 @@ Respectfully submitted.
 Mayor Steve Kennedy
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/January%2026%202026%20Council%20Packet%20-%20Part%20A%20-%20Counter%20Copy.pdf?t=202603101510330#page=14)* (read by OCR; check the original)
@@ -661,6 +668,11 @@ The next two pages show projections of the plan's funded ratio and computed empl
 <a id="p25"></a>
 *[Page 25 of the original](https://www.southlyonmi.org/January%2026%202026%20Council%20Packet%20-%20Part%20A%20-%20Counter%20Copy.pdf?t=202603101510330#page=25)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>Notes: ___</div>
@@ -668,6 +680,8 @@ The next two pages show projections of the plan's funded ratio and computed empl
 <div>The green indicator lines have been added at 60% funded and 16 years following the valuation date for PA 202 purposes.</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p26"></a>
 *[Page 26 of the original](https://www.southlyonmi.org/January%2026%202026%20Council%20Packet%20-%20Part%20A%20-%20Counter%20Copy.pdf?t=202603101510330#page=26)* (read by OCR; check the original)

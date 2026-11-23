@@ -1241,6 +1241,11 @@ Please see attached Resolution for next motion.
 <a id="p39"></a>
 *[Page 39 of the original](https://www.southlyonmi.org/City%20Council%20July%2026%202021.pdf?t=202108310733180#page=39)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Estimated in service weights</div>
 
 <table><tr><td>Left Front</td><td>11,925 lbs.</td><td>Right Front</td><td>11,517 lbs.</td><td>Total Weight Front</td><td>23,442 lbs.</td><td>L/R Weight Difference</td><td>1.74 %</td></tr><tr><td>Left Rear</td><td>28,513 lbs.</td><td>Right Rear</td><td>27,919 lbs.</td><td>Total Weight Rear</td><td>56,532 lbs.</td><td>L/R Weight Difference</td><td>1.23 %</td></tr><tr><td>Left Side Weight</td><td>40,539 lbs.</td><td>Right Side Weight</td><td>39,436 lbs.</td><td>Total Apparatus Weight</td><td>79,974 lbs.</td><td>Total L/R Weight Difference</td><td>1.38 %</td></tr><tr><td>CG From Rear Axe</td><td>71.52 Inches</td><td></td><td>CG Left Side / Right Side</td><td></td><td>-0.53 Inches</td><td>CG Vertical From Ground</td><td></td></tr></table>
@@ -1251,10 +1256,15 @@ Bid 0021475-02
 
 South Lyon Fire Department
 
+</details>
+
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/City%20Council%20July%2026%202021.pdf?t=202108310733180#page=40)* (read by OCR; check the original)
 
-*[Image or figure on this page; see the original.]*
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1265,6 +1275,10 @@ South Lyon Fire Department
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+*[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/City%20Council%20July%2026%202021.pdf?t=202108310733180#page=41)* (read by OCR; check the original)
@@ -2047,6 +2061,11 @@ SUGGESTED MOTION: None
 <a id="p67"></a>
 *[Page 67 of the original](https://www.southlyonmi.org/City%20Council%20July%2026%202021.pdf?t=202108310733180#page=67)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## City of South Lyon 2020 PASER Rating
 
 *[Image or figure on this page; see the original.]*
@@ -2076,6 +2095,8 @@ HRC
 HUBBELL, ROTH & CLARK, INC
 
 CONSULTING ENGINEERS SINCE 1915
+
+</details>
 
 <a id="p68"></a>
 *[Page 68 of the original](https://www.southlyonmi.org/City%20Council%20July%2026%202021.pdf?t=202108310733180#page=68)* (read by OCR; check the original)
@@ -2569,12 +2590,24 @@ United States</td><td>Payment Type: Purchase Order</td></tr><tr><td>United State
 <a id="p96"></a>
 *[Page 96 of the original](https://www.southlyonmi.org/City%20Council%20July%2026%202021.pdf?t=202108310733180#page=96)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Cutting Edge Turnout Gear That Combines Combat and Sports Technology For Outstanding Performance & Fit
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p97"></a>
 *[Page 97 of the original](https://www.southlyonmi.org/City%20Council%20July%2026%202021.pdf?t=202108310733180#page=97)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## -FORCE
 
@@ -2620,8 +2653,15 @@ V-FIT™ ELBOWS
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p98"></a>
 *[Page 98 of the original](https://www.southlyonmi.org/City%20Council%20July%2026%202021.pdf?t=202108310733180#page=98)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 Cotting Edge Turnout Gear That Combines Combat and Sports Technology
 
@@ -2645,8 +2685,15 @@ V-FORCE ULTRA LOW-RISE PANTS
 
 The V-Force Ultra Low-Rise Pant
 
+</details>
+
 <a id="p99"></a>
 *[Page 99 of the original](https://www.southlyonmi.org/City%20Council%20July%2026%202021.pdf?t=202108310733180#page=99)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## V-FORCE® Cutting Edge Turnout Gear That Combines Combat and Sports Technology For Outstanding Performance & Fit
 
@@ -2661,6 +2708,8 @@ LION V-Force, V-Fit, V-Back, Ventilated Trim, SemperDri, and IsoDri Moisture Man
 LION
 
 ready for action
+
+</details>
 
 <a id="p100"></a>
 *[Page 100 of the original](https://www.southlyonmi.org/City%20Council%20July%2026%202021.pdf?t=202108310733180#page=100)* (read by OCR; check the original)

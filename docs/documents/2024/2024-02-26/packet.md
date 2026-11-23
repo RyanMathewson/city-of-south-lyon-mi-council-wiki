@@ -655,16 +655,30 @@ Product Manager
 <a id="p21"></a>
 *[Page 21 of the original](https://www.southlyonmi.org/2-26-24%20Council%20Packet%20-%20online%20only.pdf?t=202402221538290#page=21)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p22"></a>
 *[Page 22 of the original](https://www.southlyonmi.org/2-26-24%20Council%20Packet%20-%20online%20only.pdf?t=202402221538290#page=22)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/2-26-24%20Council%20Packet%20-%20online%20only.pdf?t=202402221538290#page=23)* (read by OCR; check the original)

@@ -226,12 +226,26 @@ Deputy Clerk/Treasurer Pieper
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/December%208%202025%20Council%20Meeting%20minutes.pdf?t=202601151010290#page=10)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/December%208%202025%20Council%20Meeting%20minutes.pdf?t=202601151010290#page=11)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p12"></a>
 *[Page 12 of the original](https://www.southlyonmi.org/December%208%202025%20Council%20Meeting%20minutes.pdf?t=202601151010290#page=12)* (read by OCR; check the original)
@@ -267,6 +281,11 @@ Bifenthrin is not legal for agricultural use in the European Union and Canada ha
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/December%208%202025%20Council%20Meeting%20minutes.pdf?t=202601151010290#page=15)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## The Davis Creek is ours to Protect
 
 According to the Huron River Watershed Council:
@@ -283,12 +302,21 @@ Photo from HRWC
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/December%208%202025%20Council%20Meeting%20minutes.pdf?t=202601151010290#page=16)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## What is a Mosquito Dunks?
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/December%208%202025%20Council%20Meeting%20minutes.pdf?t=202601151010290#page=17)* (read by OCR; check the original)

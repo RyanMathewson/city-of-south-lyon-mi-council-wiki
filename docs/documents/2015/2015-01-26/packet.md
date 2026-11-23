@@ -231,6 +231,11 @@ Councilman Kivell stated a few weeks ago there was a girl involved in an acciden
 <a id="p7"></a>
 *[Page 7 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket01.26.15.pdf?t=202108310732570#page=7)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Mayor Wallace stated he would like to wish everyone a Happy New Year, and he would also like to thank Troop 38 for attending the meeting.
 
 ## ADJOURNMENT
@@ -248,6 +253,8 @@ Respectfully submitted,
 *[Image or figure on this page; see the original.]*
 
 Tedd Wallace Mayor
+
+</details>
 
 <a id="p8"></a>
 *[Page 8 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket01.26.15.pdf?t=202108310732570#page=8)* (read by OCR; check the original)

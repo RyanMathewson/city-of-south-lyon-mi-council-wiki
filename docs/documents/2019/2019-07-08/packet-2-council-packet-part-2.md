@@ -511,6 +511,11 @@ Date
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/7-8-19%20Council%20Packet%20part%202.pdf?t=202108310733140#page=14)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Concept Plan Advantages
@@ -537,17 +542,33 @@ Proposed Conceptual Layout
 
 September 26 - 29
 
+</details>
+
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/7-8-19%20Council%20Packet%20part%202.pdf?t=202108310733140#page=15)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/7-8-19%20Council%20Packet%20part%202.pdf?t=202108310733140#page=16)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Pumpkinfest of the South Lyon Area
 
 *[Image or figure on this page; see the original.]*
 
 ## 2019 Festival Map
+
+</details>
 

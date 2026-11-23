@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "aab4b12ae966c8c9140638283f56091c7fb78a8c9ef4d29cc4fca6efc1296a41"
 source_bytes: 8262724
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 118
 ocr_pages: 118
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2016-05-09
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC050616CCpacket5-9-16.pdf?t=202108310732560) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `aab4b12ae966c8c9…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC050616CCpacket5-9-16.pdf?t=202108310732560) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `aab4b12ae966c8c9…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC050616CCpacket5-9-16.pdf?t=202108310732560#page=1)* (read by OCR; check the original)
@@ -294,6 +294,11 @@ Councilmember Kurtzweil stated she would like to thank the Four Seasons Garden C
 <a id="p12"></a>
 *[Page 12 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC050616CCpacket5-9-16.pdf?t=202108310732560#page=12)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Motion by Kramer, supported by Kivell Motion to adjourn meeting at 9:16 p.m.
 
 VOTE: ___
@@ -305,6 +310,8 @@ Respectfully submitted,
 Mayor John Galeas
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p13"></a>
 *[Page 13 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC050616CCpacket5-9-16.pdf?t=202108310732560#page=13)* (read by OCR; check the original)
@@ -564,6 +571,11 @@ SUGGESTED MOTION: Motion by ___ , supported by ___ to approve Engine 1 to be pla
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC050616CCpacket5-9-16.pdf?t=202108310732560#page=34)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # Fenton Fire Equipment
 
 # Global suppliers of quality pre-owned custom fire apparatus and equipment
@@ -597,6 +609,8 @@ Electrical
 • OAL on both units is 31' 6" • OAH on both is 9' 3" • Eng 1 has 81K Miles • Eng 2 has 66K Miles
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC050616CCpacket5-9-16.pdf?t=202108310732560#page=35)* (read by OCR; check the original)
@@ -714,6 +728,11 @@ CLICK HERE TO PRINT THIS PAGE NOW
 <a id="p38"></a>
 *[Page 38 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC050616CCpacket5-9-16.pdf?t=202108310732560#page=38)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Search Trucks!
@@ -736,8 +755,15 @@ CONTACT
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p39"></a>
 *[Page 39 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC050616CCpacket5-9-16.pdf?t=202108310732560#page=39)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## 1996 KHE CUSTOINE RESCUE PUININGER
 
@@ -809,6 +835,8 @@ Driver's Side Discharges: 3 – 2 ½"
 
 Driver's Side Suction: 1 – 2 ½", 1 – 6"
 
+</details>
+
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC050616CCpacket5-9-16.pdf?t=202108310732560#page=40)* (read by OCR; check the original)
 
@@ -850,6 +878,11 @@ Stock#: 03248
 
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC050616CCpacket5-9-16.pdf?t=202108310732560#page=41)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # MAKE AN OFFER
 
@@ -894,6 +927,8 @@ Diesel, Automatic, 1250 GPM
 *[Image or figure on this page; see the original.]*
 
 Diesel, Automatic, 1500 GPM
+
+</details>
 
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC050616CCpacket5-9-16.pdf?t=202108310732560#page=42)* (read by OCR; check the original)
@@ -1249,11 +1284,18 @@ Timothy S. Wilhelm
 <a id="p49"></a>
 *[Page 49 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC050616CCpacket5-9-16.pdf?t=202108310732560#page=49)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 windstream.connecting business to business
 
 *[Image or figure on this page; see the original.]*
 
 McLeodUSA
+
+</details>
 
 <a id="p50"></a>
 *[Page 50 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC050616CCpacket5-9-16.pdf?t=202108310732560#page=50)* (read by OCR; check the original)
@@ -2377,9 +2419,16 @@ Existing facilities in Public Rights-of-Way within Municipality as of the date t
 <a id="p93"></a>
 *[Page 93 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC050616CCpacket5-9-16.pdf?t=202108310732560#page=93)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p94"></a>
 *[Page 94 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC050616CCpacket5-9-16.pdf?t=202108310732560#page=94)* (read by OCR; check the original)

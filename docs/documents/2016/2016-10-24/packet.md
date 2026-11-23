@@ -94,6 +94,11 @@ people will be using the walking paths, and she has asked the City Attorney to a
 <a id="p4"></a>
 *[Page 4 of the original](https://www.southlyonmi.org/City%20Council%20Packet%2010-24-2016.pdf?t=202108310733070#page=4)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 CM 10-2-16 MOTION TO APPROVE AGREEMENT FOR COMPLETION AND MAINTENANCE OF IMPROVEMENTS
 
 Motion by Kurtzweil, supported by Ryzyi
@@ -117,6 +122,8 @@ Respectfully submitted,
 Mayor John Galeas
 
 Lisa Deaton Clerk/Treasurer
+
+</details>
 
 <a id="p5"></a>
 *[Page 5 of the original](https://www.southlyonmi.org/City%20Council%20Packet%2010-24-2016.pdf?t=202108310733070#page=5)* (read by OCR; check the original)
@@ -390,6 +397,11 @@ Councilmember Kurtzweil would like to thank Kathy for her work done on Pumpkinfe
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/City%20Council%20Packet%2010-24-2016.pdf?t=202108310733070#page=14)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Motion by Kivell, supported by Kramer Motion to adjourn meeting at 10:40 p.m.
 
 ##  $ \underline{\text{ADJOURNMENT}} $
@@ -403,6 +415,8 @@ Respectfully submitted,
 John Galeas, Mayor
 
 Judy Pieper, Deputy Clerk
+
+</details>
 
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/City%20Council%20Packet%2010-24-2016.pdf?t=202108310733070#page=15)* (read by OCR; check the original)

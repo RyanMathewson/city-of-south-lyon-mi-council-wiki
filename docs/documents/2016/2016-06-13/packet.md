@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "c871725539fed22791429ffa390e883a63e835378e8327af0dc577497c514401"
 source_bytes: 4603557
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 114
 ocr_pages: 114
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2016-06-13
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC061016RevisedCCpacket6-13-2016.pdf?t=202108310732560) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `c871725539fed227…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC061016RevisedCCpacket6-13-2016.pdf?t=202108310732560) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `c871725539fed227…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC061016RevisedCCpacket6-13-2016.pdf?t=202108310732560#page=1)* (read by OCR; check the original)
@@ -901,6 +901,11 @@ Chamber of Commerce for the South Lyon Area
 <a id="p38"></a>
 *[Page 38 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC061016RevisedCCpacket6-13-2016.pdf?t=202108310732560#page=38)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # BLUES BREWS BRATS
 
 Saturday, August 6 2016 - 3pm to 11pm
@@ -917,8 +922,15 @@ Andrea Meyer (248) 437-3257
 
 2016
 
+</details>
+
 <a id="p39"></a>
 *[Page 39 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC061016RevisedCCpacket6-13-2016.pdf?t=202108310732560#page=39)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # BLUES BREWS BRATS
 
@@ -929,6 +941,8 @@ Whipple Street Parking Lot - Downtown South Lyon
 *[Image or figure on this page; see the original.]*
 
 在物理学中， $ E=mc^{2} $ 是一个著名的公式，它描述了能量  $ E $ 与质量  $ m $ 之间的关系，其中 $ c $ 是光速。
+
+</details>
 
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC061016RevisedCCpacket6-13-2016.pdf?t=202108310732560#page=40)* (read by OCR; check the original)
@@ -1782,6 +1796,11 @@ Shuts all doors and stay inside until advised by officials that it is safe to le
 <a id="p65"></a>
 *[Page 65 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC061016RevisedCCpacket6-13-2016.pdf?t=202108310732560#page=65)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Pumpkinfest of the South Lyon Area 2016 Festival Map
 
 PONTIAC TR
@@ -1805,6 +1824,8 @@ WELLS STREET
 BEER GARDET ENTRY "A" = Only all festival hours EXCEPT Saturday night from 6:30pm - 11:30pm
 
 BEER GARDET ENTRY "B" = Only open on Saturday night from 6:30pm - 11:30pm
+
+</details>
 
 <a id="p66"></a>
 *[Page 66 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC061016RevisedCCpacket6-13-2016.pdf?t=202108310732560#page=66)* (read by OCR; check the original)
@@ -1900,9 +1921,16 @@ Responsible Party's SIGNATURE
 <a id="p69"></a>
 *[Page 69 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC061016RevisedCCpacket6-13-2016.pdf?t=202108310732560#page=69)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## PARADE ROUTE
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p70"></a>
 *[Page 70 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC061016RevisedCCpacket6-13-2016.pdf?t=202108310732560#page=70)* (read by OCR; check the original)

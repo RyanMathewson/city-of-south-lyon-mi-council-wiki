@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "5b959458880541504dce167429a53c5bd9c7fc26ebb82a2b30e29782f6880f8e"
 source_bytes: 1679570
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 50
 ocr_pages: 50
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2012-09-10
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC090712CCpacket9-10-12.pdf?t=202108310732590) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `5b95945888054150…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC090712CCpacket9-10-12.pdf?t=202108310732590) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `5b95945888054150…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC090712CCpacket9-10-12.pdf?t=202108310732590#page=1)* (read by OCR; check the original)
@@ -466,6 +466,11 @@ City Manager Murphy stated we applied for and received two grants for adding som
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC090712CCpacket9-10-12.pdf?t=202108310732590#page=10)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Councilman Wedell read a letter that he wrote to the police, fire fighters and the ambulance thanking them for their help for a bee attack he suffered from. See attached letter.)
 
 Mayor Wallace stated he has been interested in getting a recreation center here for a long time, and suggested the Committee contact Salem Township to see if they would be interested in participating as well.
@@ -487,6 +492,8 @@ Tedd Wallace
 Mayor
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC090712CCpacket9-10-12.pdf?t=202108310732590#page=11)* (read by OCR; check the original)
@@ -770,8 +777,6 @@ Y:20110420110494Design/Corr/Bill_of_Sale_Form.doc
 <a id="p31"></a>
 *[Page 31 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC090712CCpacket9-10-12.pdf?t=202108310732590#page=31)* (read by OCR; check the original)
 
-*[OCR note: this page may contain text repeated by the OCR software; check the original.]*
-
 # SANITARY SEWER SYSTEM EASEMENT
 
 KNOW ALL PERSONS that LAFAYETTE WOODS CONDOMINIUM ASSOCIATION ("Grantor(s)"), whose address is C/O SELECT COMMUNITY MANAGEMENT, LLC, 4045 STONE SCHOOL RD., ANN ARBOR, MI 48108 ATTEN: MARK W. HAWLEY, party of the first part, for and in consideration of the sum of $1.00 paid to the Grantor(s) by the City of South Lyon, (a Michigan Municipal Corporation), party of the second part, whose address is, 335 South Warren, South Lyon Michigan 48178 do hereby grant(s) to the party of the second part the right to construct, operate, maintain, repair, and/or replace a Sanitary Sewer System within a permanent easement across and through the following described land ("Property") situated in the City of South Lyon, County of Oakland, State of Michigan to wit:
@@ -911,6 +916,11 @@ When recorded return to: City Clerk, City of South Lyon, 335 South Warren, South
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC090712CCpacket9-10-12.pdf?t=202108310732590#page=34)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td colspan="3">REVISIONS</td><td rowspan="4"></td><td colspan="2">BASNEY & SMITH, INC.
@@ -927,6 +937,8 @@ UBB NUMBER
 1:50'</td><td>SHEET
 1:52'</td></tr></table>
 
+</details>
+
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC090712CCpacket9-10-12.pdf?t=202108310732590#page=35)* (read by OCR; check the original)
 
@@ -938,8 +950,6 @@ A 20 foot wide easement beginning at a point distant South 00 degrees 34 minutes
 
 <a id="p36"></a>
 *[Page 36 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC090712CCpacket9-10-12.pdf?t=202108310732590#page=36)* (read by OCR; check the original)
-
-*[OCR note: this page may contain text repeated by the OCR software; check the original.]*
 
 # WATER SUPPLY SYSTEM EASEMENT
 
@@ -1062,7 +1072,14 @@ When recorded return to: City Clerk, City of South Lyon, 335 South Warren, South
 <a id="p39"></a>
 *[Page 39 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC090712CCpacket9-10-12.pdf?t=202108310732590#page=39)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC090712CCpacket9-10-12.pdf?t=202108310732590#page=40)* (read by OCR; check the original)

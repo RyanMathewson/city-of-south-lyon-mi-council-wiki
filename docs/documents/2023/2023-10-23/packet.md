@@ -461,6 +461,11 @@ Lisa Deaton, City Clerk/Treasurer
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/10-23-23%20Council%20Packet%20-%20online%20only.pdf?t=202310191646120#page=15)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## OAKIAND COUNTY MICHIGAN
@@ -488,6 +493,8 @@ www.oakgov.com/chi
 County Border
 
 This Census Block Group map reflects the 2011-2015 American Community Survey (ACS).
+
+</details>
 
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/10-23-23%20Council%20Packet%20-%20online%20only.pdf?t=202310191646120#page=16)* (read by OCR; check the original)
@@ -518,7 +525,14 @@ to approve purchase of B-10 R reinforced noise barrier from DDS Acoustical Speci
 <a id="p18"></a>
 *[Page 18 of the original](https://www.southlyonmi.org/10-23-23%20Council%20Packet%20-%20online%20only.pdf?t=202310191646120#page=18)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p19"></a>
 *[Page 19 of the original](https://www.southlyonmi.org/10-23-23%20Council%20Packet%20-%20online%20only.pdf?t=202310191646120#page=19)* (read by OCR; check the original)
@@ -682,9 +696,16 @@ The applicant/organization must provide a separate hold harmless agreement and c
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/10-23-23%20Council%20Packet%20-%20online%20only.pdf?t=202310191646120#page=24)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>10 m:le Rd</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p25"></a>
 *[Page 25 of the original](https://www.southlyonmi.org/10-23-23%20Council%20Packet%20-%20online%20only.pdf?t=202310191646120#page=25)* (read by OCR; check the original)

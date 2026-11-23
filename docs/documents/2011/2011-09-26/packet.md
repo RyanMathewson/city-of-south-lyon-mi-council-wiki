@@ -665,6 +665,11 @@ SUGGESTED MOTION: Moved by, _____ seconded by, _____ to set a public hearing for
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/DOC092211CCpacket9-26-11.pdf?t=202108310733000#page=23)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## L Brooks Patterson, County Executive
@@ -706,6 +711,8 @@ Lakes
 This Census Block Group map reflects 2009 LMISD data from the U.S. Department of Housing and Urban Development.
 
 Map created on July 27, 2009
+
+</details>
 
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/DOC092211CCpacket9-26-11.pdf?t=202108310733000#page=24)* (read by OCR; check the original)
@@ -978,6 +985,11 @@ Contract:
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/DOC092211CCpacket9-26-11.pdf?t=202108310733000#page=34)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Museum
 
 Save $6.00 / Day / Fixture!
@@ -1056,6 +1068,8 @@ Wid:10"
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/DOC092211CCpacket9-26-11.pdf?t=202108310733000#page=35)* (read by OCR; check the original)
 
@@ -1087,6 +1101,11 @@ GRAZING APPLICATION SHOWN
 
 <a id="p36"></a>
 *[Page 36 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/DOC092211CCpacket9-26-11.pdf?t=202108310733000#page=36)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## NITE BRITES
 
@@ -1124,6 +1143,8 @@ TP - Tamper Proof
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p37"></a>
 *[Page 37 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/DOC092211CCpacket9-26-11.pdf?t=202108310733000#page=37)* (read by OCR; check the original)
 
@@ -1150,6 +1171,11 @@ Note:  $ L_{70} $ lifetime prediction based upon LED manufacturer's supplied LM-
 <a id="p38"></a>
 *[Page 38 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/DOC092211CCpacket9-26-11.pdf?t=202108310733000#page=38)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## NITEON BRITES
 
 JOB NAME SOUTH LYON
@@ -1175,6 +1201,8 @@ and in-situ laboratory testing)
 ## DIMENSIONS
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p39"></a>
 *[Page 39 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/DOC092211CCpacket9-26-11.pdf?t=202108310733000#page=39)* (read by OCR; check the original)

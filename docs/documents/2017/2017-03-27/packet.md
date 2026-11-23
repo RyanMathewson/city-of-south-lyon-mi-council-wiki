@@ -285,6 +285,11 @@ Councilmember Kurtzweil stated that he would like to respond to John Hogan's com
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%203-27-17.pdf?t=202108310733070#page=11)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 VOTE: ___
 
 MOTION CARRIED UNANIMOUSLY
@@ -294,6 +299,8 @@ Respectfully submitted.
 Mayor Galeas
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p12"></a>
 *[Page 12 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%203-27-17.pdf?t=202108310733070#page=12)* (read by OCR; check the original)
@@ -928,6 +935,11 @@ President
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%203-27-17.pdf?t=202108310733070#page=34)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 301 WALNUT BOULEVARD
 
 ROCHESTER, MI 48307
@@ -940,8 +952,15 @@ INFO@DESIGNHAUS.COM
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%203-27-17.pdf?t=202108310733070#page=35)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 University Structural and Organizational
 
@@ -985,8 +1004,15 @@ DATED: August 17, 2018
 
 <table><tr><td>DATE</td><td>SOUTH LYRM</td></tr><tr><td>CODE</td><td>AND</td></tr><tr><td>SECNO</td><td>29</td></tr><tr><td>T-FA</td><td>R-7-C</td></tr><tr><td>DATE</td><td>DATE/DAY/HR</td></tr><tr><td>DATE</td><td>DAY/DAY/HR</td></tr><tr><td>DATE</td><td>DAY/DAY/HR</td></tr><tr><td>DATE</td><td>DAY</td></tr><tr><td>DATE</td><td>DAY</td></tr><tr><td>DATE</td><td>DAY</td></tr></table>
 
+</details>
+
 <a id="p36"></a>
 *[Page 36 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%203-27-17.pdf?t=202108310733070#page=36)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td>DESIGNHAUS</td><td>EEI</td></tr><tr><td>ARCHITECTURE</td><td>1990</td></tr><tr><td colspan="2">301 WALNUT BOULEVARD
 ROCHESTER, MI 48307
@@ -996,8 +1022,15 @@ INFO@DESIGNHAUS.COM</td></tr><tr><td colspan="2"></td></tr><tr><td></td><td></td
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p37"></a>
 *[Page 37 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%203-27-17.pdf?t=202108310733070#page=37)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td>DESIGNHAUS</td><td>££T</td></tr><tr><td>ARCHITECTURE</td><td>1998</td></tr></table>
 
@@ -1020,6 +1053,8 @@ FORCE
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p38"></a>
 *[Page 38 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%203-27-17.pdf?t=202108310733070#page=38)* (read by OCR; check the original)
@@ -1089,6 +1124,11 @@ NOTE: INCURRED DISBURSEMENTS NOT APPEARING ON THIS INVOICE WILL BE BILLED LATER.
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%203-27-17.pdf?t=202108310733070#page=44)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 SOUTH LYON, CITY OF
 
 MARCH 15, 2017
@@ -1122,6 +1162,8 @@ Julia Murphy
 734-214-7626
 
 jmurphy@dykema.com
+
+</details>
 
 <a id="p45"></a>
 *[Page 45 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%203-27-17.pdf?t=202108310733070#page=45)* (read by OCR; check the original)

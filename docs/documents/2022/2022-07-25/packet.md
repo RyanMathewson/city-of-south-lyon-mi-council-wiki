@@ -292,6 +292,11 @@ Councilmember Kennedy congratulated the Kensington Valley Civilian Club on their
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/7-25-22%20Council%20Packet%20-%20online%20only.pdf?t=202207211542200#page=10)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 efforts. So, remember to drop by, and drop off your bags of returnables to help this organization as they work to find permanent, loving homes for pets.
 
 ADJOURNMENT
@@ -311,6 +316,8 @@ Mayor Pro Tem Kennedy
 City Clerk/Treasurer Lisa Deaton
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/7-25-22%20Council%20Packet%20-%20online%20only.pdf?t=202207211542200#page=11)* (read by OCR; check the original)
@@ -769,12 +776,24 @@ Melanie Schlacht DPW Coordinator
 <a id="p31"></a>
 *[Page 31 of the original](https://www.southlyonmi.org/7-25-22%20Council%20Packet%20-%20online%20only.pdf?t=202207211542200#page=31)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>FIRST RESPONDERS MEMORIAL</div>
 
+</details>
+
 <a id="p32"></a>
 *[Page 32 of the original](https://www.southlyonmi.org/7-25-22%20Council%20Packet%20-%20online%20only.pdf?t=202207211542200#page=32)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 IRRIGATION NOTES:
 
@@ -795,6 +814,8 @@ W = WATER SOURCE
 SITE PLAN
 
 SOUTH LYON FIRST RESPONDERS MEMORIAL JULY 8, 2022
+
+</details>
 
 <a id="p33"></a>
 *[Page 33 of the original](https://www.southlyonmi.org/7-25-22%20Council%20Packet%20-%20online%20only.pdf?t=202207211542200#page=33)* (read by OCR; check the original)
@@ -830,7 +851,14 @@ SOUTH LYON FIRST RESPONDERS MEMORIAL
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/7-25-22%20Council%20Packet%20-%20online%20only.pdf?t=202207211542200#page=34)* (read by OCR; check the original)
 
-*No readable text on this page. See the original.*
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
+*No text read.*
+
+</details>
 
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/7-25-22%20Council%20Packet%20-%20online%20only.pdf?t=202207211542200#page=35)* (read by OCR; check the original)
@@ -844,21 +872,42 @@ SOUTH LYON FIRST RESPONDERS MEMORIAL
 <a id="p36"></a>
 *[Page 36 of the original](https://www.southlyonmi.org/7-25-22%20Council%20Packet%20-%20online%20only.pdf?t=202207211542200#page=36)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td></td><td></td><td></td><td colspan="2">UNLESS OTHERWISE SPECIFIED:</td><td></td><td>NAME</td><td>DATE</td><td colspan="2"><COMPANY NAME></td></tr><tr><td></td><td></td><td></td><td rowspan="4">DIMENSIONS ARE IN INCHES TOLERANCES: FRACTIONAL ANGULAR: MACH TWO PLACE DECIMAL THREE PLACE DECIMAL</td><td>DRAWN</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>CHECKED</td><td></td><td></td><td></td><td colspan="2">TITLE:</td></tr><tr><td></td><td></td><td></td><td>ENG APPR.</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>MFG APPR.</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="3">PROPRIETARY AND CONFIDENTIAL THE INFORMATION CONTAINED IN THIS DRAWING IS THE SOLE PROPERTY OF INSERT COMPANY NAME HERE>. ANY REPRODUCTION IN PART OR AS A WHOLE WITHOUT THE WRITTEN PERMISSION OF INSERT COMPANY NAME HERE> IS PROHIRITED.</td><td>NEXT ASSY</td><td>USED ON</td><td>INTERPRET GEOMETRIC TOLERANCING PER: MATERIAL</td><td colspan="2">Q.A. COMMENTS:</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="2">APPLICATION</td><td rowspan="2">FINISH</td><td rowspan="2">DO NOT SCALE DRAWING</td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td></td><td>SIZE DWG. NO. A SHELL5</td><td>REV</td></tr><tr><td>SCALE: 1:20</td><td>SHEET 1 OF 1</td><td></td></tr></table>
 
+</details>
+
 <a id="p37"></a>
 *[Page 37 of the original](https://www.southlyonmi.org/7-25-22%20Council%20Packet%20-%20online%20only.pdf?t=202207211542200#page=37)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## A
 
 <table><tr><td></td><td></td><td></td><td>UNLESS OTHERWISE SPECIFIED:</td><td></td><td>NAME</td><td>DATE</td><td colspan="2"><COMPANY NAME></td></tr><tr><td></td><td></td><td></td><td rowspan="4">DIMENSIONS ARE IN INCHES TOLERANCES: FRACTIONAL ANGULAR: MACH BEND TWO PLACE DECIMAL THREE PLACE DECIMAL</td><td>DRAWN</td><td></td><td></td><td rowspan="5" colspan="2">TITLE:</td></tr><tr><td></td><td></td><td></td><td>CHECKED</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>ENG APPR.</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>MFG APPR.</td><td></td><td></td></tr><tr><td rowspan="4">PROPRIETARY AND CONFIDENTIAL THE INFORMATION CONTAINED IN THIS DRAWING IS THE SOLE PROPERTY OF <INSERT COMPANY NAME HERE>. ANY REPRODUCTION IN PART OR AS A WHOLE WITHOUT THE WRITTEN PERMISSION OF <INSERT COMPANY NAME HERE> IS PROHIBITED.</td><td rowspan="3"></td><td rowspan="2"></td><td>INTERPRET GEOMETRIC TOLERANCING PER:</td><td>Q.A.</td><td></td><td></td></tr><tr><td>MATERIAL</td><td colspan="3">COMMENTS:</td><td rowspan="2">SIZE DWG. NO. A</td><td rowspan="2">REV</td></tr><tr><td>NEXT ASSY</td><td>USED ON</td><td>FINISH</td><td></td><td></td></tr><tr><td colspan="3">APPLICATION</td><td>DO NOT SCALE DRAWING</td><td></td><td></td><td>SCALE: 1:100</td><td>SHEET 1 OF 1</td></tr></table>
 
+</details>
+
 <a id="p38"></a>
 *[Page 38 of the original](https://www.southlyonmi.org/7-25-22%20Council%20Packet%20-%20online%20only.pdf?t=202207211542200#page=38)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p39"></a>
 *[Page 39 of the original](https://www.southlyonmi.org/7-25-22%20Council%20Packet%20-%20online%20only.pdf?t=202207211542200#page=39)* (read by OCR; check the original)

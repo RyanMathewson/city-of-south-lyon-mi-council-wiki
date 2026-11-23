@@ -378,6 +378,11 @@ Motion to approve the closure of Warren Street from Second St. to Lake Street; L
 <a id="p12"></a>
 *[Page 12 of the original](https://www.southlyonmi.org/5-28-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733140#page=12)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 CM 5-4-19 MOTION TO ADJOURN
 
 Motion by Kivell, supported by Kennedy
@@ -391,6 +396,8 @@ Respectfully submitted,
 Mayor Dan Pelchat
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p13"></a>
 *[Page 13 of the original](https://www.southlyonmi.org/5-28-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733140#page=13)* (read by OCR; check the original)
@@ -827,6 +834,11 @@ The tablets will be dispersed in catch basins throughout the City in order to el
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/5-28-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733140#page=23)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 City of South Lyon (005548)
@@ -858,6 +870,8 @@ South Lyon, MI 48178
 Address ID: 000001
 
 <table><tr><td>Quotation #</td><td>Quote Date</td><td>Salesperson</td><td>Written by</td><td>Valid to</td></tr><tr><td>0002021427</td><td>03/13/19</td><td>Chris Novak</td><td>Gabriela - Sales Associate</td><td>03/15/19</td></tr><tr><td>Delivery Method</td><td colspan="4">Terms</td></tr><tr><td colspan="2">United Parcel Post</td><td colspan="3">Net 30 Days</td></tr><tr><td>Item #</td><td>Item Description</td><td>Qty Ordered</td><td>Unit Price</td><td>Extended Price</td></tr><tr><td>11850</td><td>NATULAR XRT TABLET</td><td>2 cs</td><td>899.8000/cs</td><td>1,691.62</td></tr><tr><td colspan="4">** Extended Price reflects a discount of:</td><td>107.98</td></tr><tr><td colspan="2">US EPA Current Label</td><td colspan="2">Order total</td><td>1,691.62</td></tr><tr><td colspan="2"></td><td colspan="2">Total</td><td>1,691.62</td></tr></table>
+
+</details>
 
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/5-28-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733140#page=24)* (read by OCR; check the original)
@@ -1054,9 +1068,16 @@ A new street sweeper was purchased for the City. Starting in FY 2017-2018, a fiv
 <a id="p29"></a>
 *[Page 29 of the original](https://www.southlyonmi.org/5-28-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733140#page=29)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 800 × 800 - Images may be subject to copyright. Learn More
+
+</details>
 
 <a id="p30"></a>
 *[Page 30 of the original](https://www.southlyonmi.org/5-28-19%20Council%20packet%20-%20online%20only.pdf?t=202108310733140#page=30)* (read by OCR; check the original)

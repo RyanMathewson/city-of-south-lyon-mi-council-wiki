@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "edb2daee2c9cf5a6257c24be12d9acf66b05282360ba5e1ba0faf481faab37dc"
 source_bytes: 6235718
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 176
 ocr_pages: 176
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2015-10-26
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket10.26.15.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `edb2daee2c9cf5a6…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket10.26.15.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `edb2daee2c9cf5a6…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket10.26.15.pdf?t=202108310732570#page=1)* (read by OCR; check the original)
@@ -464,7 +464,14 @@ were to be spent only on routine roadway maintenance (i.e. snow removal, salting
 <a id="p22"></a>
 *[Page 22 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket10.26.15.pdf?t=202108310732570#page=22)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket10.26.15.pdf?t=202108310732570#page=23)* (read by OCR; check the original)
@@ -536,6 +543,11 @@ Submit the annual results of the Asset Management Plan to the TAMC.
 <a id="p26"></a>
 *[Page 26 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket10.26.15.pdf?t=202108310732570#page=26)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 • Annually review and update the Asset Management Plan's 3 Year Multi-Year Program.
 
 Regularly evaluate the budgeted amount of roadway funding and increase it as money becomes available to help increase the PASER rating of the City's roadway network.
@@ -546,8 +558,15 @@ Liberty Street at Wells Street
 
 Current PASER rating 5
 
+</details>
+
 <a id="p27"></a>
 *[Page 27 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket10.26.15.pdf?t=202108310732570#page=27)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -557,8 +576,15 @@ PASER RATING FOR THE CITY OF SOUTH LYON
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket10.26.15.pdf?t=202108310732570#page=28)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -579,6 +605,8 @@ South Lyon City Limits
 <table><tr><td>JOB NO. 20130054</td><td>FIGURE</td></tr><tr><td>DATE 01/06/2015</td><td>2</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p29"></a>
 *[Page 29 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket10.26.15.pdf?t=202108310732570#page=29)* (read by OCR; check the original)
@@ -2516,9 +2544,16 @@ Lloyd T. Collins, Chief of Police
 <a id="p122"></a>
 *[Page 122 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket10.26.15.pdf?t=202108310732570#page=122)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>2014 COOL YULE Parade of Lights ROUTE</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p123"></a>
 *[Page 123 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket10.26.15.pdf?t=202108310732570#page=123)* (read by OCR; check the original)

@@ -1195,7 +1195,14 @@ Any modifications, amendments, recessions, waivers, or releases to this Agreemen
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC032114CCpacket3-24-14.pdf?t=202108310732580#page=44)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p45"></a>
 *[Page 45 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC032114CCpacket3-24-14.pdf?t=202108310732580#page=45)* (read by OCR; check the original)
@@ -1334,6 +1341,11 @@ Applicant's SIGNATURE
 <a id="p51"></a>
 *[Page 51 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC032114CCpacket3-24-14.pdf?t=202108310732580#page=51)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## BLUES BREWS BRATS
 
 Saturday, July 12, 2014 - 4pm to 11pm
@@ -1350,8 +1362,15 @@ Kim Thompson (248) 437-3257
 
 7 March 2014 Preliminary
 
+</details>
+
 <a id="p52"></a>
 *[Page 52 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC032114CCpacket3-24-14.pdf?t=202108310732580#page=52)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## BLUES BREWS BRATS
 
@@ -1360,6 +1379,8 @@ Saturday, July 12, 2014 - 4pm to 11pm
 Whipple Street Parking Lot - Downtown South Lyon
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p53"></a>
 *[Page 53 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2014/packet/DOC032114CCpacket3-24-14.pdf?t=202108310732580#page=53)* (read by OCR; check the original)

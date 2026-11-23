@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/Council%20packet%20revised%205-14-2018.
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "a03041fa8af68c1e3ab5f5791d38c76eece34f554a848d9f7d82cdc71159319b"
 source_bytes: 3745232
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 87
 ocr_pages: 87
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2018-05-14
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/Council%20packet%20revised%205-14-2018.pdf?t=202108310733110) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `a03041fa8af68c1e…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/Council%20packet%20revised%205-14-2018.pdf?t=202108310733110) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `a03041fa8af68c1e…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/Council%20packet%20revised%205-14-2018.pdf?t=202108310733110#page=1)* (read by OCR; check the original)
@@ -518,11 +518,18 @@ MOTION CARRIED UNANIMOUSLY
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/Council%20packet%20revised%205-14-2018.pdf?t=202108310733110#page=16)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Mayor Dan Pelchat
 
 Clerk/Treasurer Lisa Deaton
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/Council%20packet%20revised%205-14-2018.pdf?t=202108310733110#page=17)* (read by OCR; check the original)
@@ -1215,6 +1222,11 @@ such as account or personal identification numbers by e-mail.
 <a id="p60"></a>
 *[Page 60 of the original](https://www.southlyonmi.org/Council%20packet%20revised%205-14-2018.pdf?t=202108310733110#page=60)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Projected Sewer System Operating Cash Flow and Debt Service Coverage Fiscal Years Ended or Ending June 30, 2015 Through 2026</div>
 
 Sewage Disposal Charges
@@ -1260,6 +1272,8 @@ Annual Increase Necessary to Produce 1.1x Coverage.
 (3) Equals average billable flow of 280,928 thousand gallons at the current rate of $4.28 per thousand gallons. Operating revenues are assumed not to change for the fiscal years ending June 30, 2020 and thereafter.
 
 (4) Operating expenditures, excluding depreciation, are assumed to increase 3% for the fiscal year ending June 30, 2019 and thereafter.
+
+</details>
 
 <a id="p61"></a>
 *[Page 61 of the original](https://www.southlyonmi.org/Council%20packet%20revised%205-14-2018.pdf?t=202108310733110#page=61)* (read by OCR; check the original)

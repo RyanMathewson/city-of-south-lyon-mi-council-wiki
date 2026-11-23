@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/10.23.17%20packet%20part%201.pdf?t=2021
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "13e73f88e11cf9743cb763d2ac85645e81a8e1c1d1664d6f971e83fd3cf65ddf"
 source_bytes: 3526883
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 73
 ocr_pages: 73
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2017-10-23
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/10.23.17%20packet%20part%201.pdf?t=202108310733100) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `13e73f88e11cf974…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/10.23.17%20packet%20part%201.pdf?t=202108310733100) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `13e73f88e11cf974…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/10.23.17%20packet%20part%201.pdf?t=202108310733100#page=1)* (read by OCR; check the original)
@@ -117,6 +117,11 @@ hybrid of a 457 and a defined benefit plan. She stated it gives the employees in
 <a id="p5"></a>
 *[Page 5 of the original](https://www.southlyonmi.org/10.23.17%20packet%20part%201.pdf?t=202108310733100#page=5)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Chief Collins asked what the average employers contribution is in the DC plan. Ms. Feinberg stated the average is 8.3%. Councilmember Kurtzweil stated the employees have to get out of being entitled. We don't have a lot of money coming in and we can't afford to pay Cadillac benefits anymore.
 
 CM 10-2-17 MOTION TO ADJOURN
@@ -134,6 +139,8 @@ Respectfully submitted
 Mayor Galeas
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p6"></a>
 *[Page 6 of the original](https://www.southlyonmi.org/10.23.17%20packet%20part%201.pdf?t=202108310733100#page=6)* (read by OCR; check the original)
@@ -1687,14 +1694,26 @@ Lot 28, Assessor's Plat No. 1, parts of Southwest ¼ of Section 20, Northwest ¼
 <a id="p61"></a>
 *[Page 61 of the original](https://www.southlyonmi.org/10.23.17%20packet%20part%201.pdf?t=202108310733100#page=61)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 SURVEY OF THE PROPERTY AND LIMITS OF LAND OR RESOURCE USE RESTRICTIONS
 
 [a survey of the property will be completed prior to finalizing this RC; a figure is included for reference of the restricted areas]
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p62"></a>
 *[Page 62 of the original](https://www.southlyonmi.org/10.23.17%20packet%20part%201.pdf?t=202108310733100#page=62)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1739,6 +1758,8 @@ ARCADIS
 Advancing Communities
 
 <table><tr><td>DATE: DRAWN BY: DWG: 07-17-14 5235SITE</td><td>SHEET 1 OF 2</td><td>JOB NO. 7282-14-0041</td></tr></table>
+
+</details>
 
 <a id="p63"></a>
 *[Page 63 of the original](https://www.southlyonmi.org/10.23.17%20packet%20part%201.pdf?t=202108310733100#page=63)* (read by OCR; check the original)
@@ -1788,14 +1809,28 @@ Advancing Communities
 <a id="p64"></a>
 *[Page 64 of the original](https://www.southlyonmi.org/10.23.17%20packet%20part%201.pdf?t=202108310733100#page=64)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 EXTENT OF LNAPL
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p65"></a>
 *[Page 65 of the original](https://www.southlyonmi.org/10.23.17%20packet%20part%201.pdf?t=202108310733100#page=65)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p66"></a>
 *[Page 66 of the original](https://www.southlyonmi.org/10.23.17%20packet%20part%201.pdf?t=202108310733100#page=66)* (read by OCR; check the original)

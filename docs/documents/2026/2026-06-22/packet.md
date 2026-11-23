@@ -465,6 +465,11 @@ Account # 204-451-802.
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/June%2022%202026%20Council%20Packet%20-%20Online%20Copy_Revised.pdf?t=202606191223240#page=15)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <table><tr><td colspan="2">CITY OF SOUTH LONDON, NO 1000000000
 CONSTRUCTION PLAN</td></tr><tr><td colspan="2">2026 ROAD IMPROVEMENT
 PROGRAM</td></tr><tr><td colspan="2">LEAN RD
@@ -477,6 +482,8 @@ CONSTRUCTION PLAN</td></tr><tr><td>2025/06/00</td><td>ROCKET</td></tr><tr><td>20
 2 REMOVE AND REPLACE STREET SIGN INCLUDING DEAD END SIGN
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/June%2022%202026%20Council%20Packet%20-%20Online%20Copy_Revised.pdf?t=202606191223240#page=16)* (read by OCR; check the original)

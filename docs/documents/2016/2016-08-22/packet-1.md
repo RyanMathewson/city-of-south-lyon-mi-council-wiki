@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "7bb2881fecbaf562a24d15670d83fd0d0cf36a0502d71d5b4f0666db7874a10f"
 source_bytes: 49544354
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 113
 ocr_pages: 113
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2016-08-22
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC081816CCpacket8-22-16AA-08182016092236.pdf?t=202108310732560) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `7bb2881fecbaf562…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC081816CCpacket8-22-16AA-08182016092236.pdf?t=202108310732560) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `7bb2881fecbaf562…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC081816CCpacket8-22-16AA-08182016092236.pdf?t=202108310732560#page=1)* (read by OCR; check the original)
@@ -1314,23 +1314,44 @@ B. ACTION TAKEN BY GOVERNING BODY
 <a id="p46"></a>
 *[Page 46 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC081816CCpacket8-22-16AA-08182016092236.pdf?t=202108310732560#page=46)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC081816CCpacket8-22-16AA-08182016092236.pdf?t=202108310732560#page=47)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 MAIN LEVEL FLOOR PLAN 6CALE 1/4"
 
+</details>
+
 <a id="p48"></a>
 *[Page 48 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC081816CCpacket8-22-16AA-08182016092236.pdf?t=202108310732560#page=48)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 UPPER LEVEL FLR PLAN SCALE 1/4"
+
+</details>
 
 <a id="p49"></a>
 *[Page 49 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC081816CCpacket8-22-16AA-08182016092236.pdf?t=202108310732560#page=49)* (read by OCR; check the original)
@@ -2461,12 +2482,24 @@ Additional information may be requested by the local government to assure that s
 <a id="p73"></a>
 *[Page 73 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC081816CCpacket8-22-16AA-08182016092236.pdf?t=202108310732560#page=73)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>11 Mile South Lyon</div>
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p74"></a>
 *[Page 74 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC081816CCpacket8-22-16AA-08182016092236.pdf?t=202108310732560#page=74)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # 11 Mile South Lyon
 
@@ -2500,10 +2533,19 @@ Oakland County Execu
 
 Oakland Coast & One Shop Shop 2100 Fonter Lake Road Blog #1 West Westford, N648328 Phone: 248-858-0721
 
+</details>
+
 <a id="p75"></a>
 *[Page 75 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC081816CCpacket8-22-16AA-08182016092236.pdf?t=202108310732560#page=75)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p76"></a>
 *[Page 76 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC081816CCpacket8-22-16AA-08182016092236.pdf?t=202108310732560#page=76)* (read by OCR; check the original)
@@ -3082,6 +3124,11 @@ Median Income $67,812
 <a id="p104"></a>
 *[Page 104 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC081816CCpacket8-22-16AA-08182016092236.pdf?t=202108310732560#page=104)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Current SLARA Board of Directors
 
 SLARA Board President:
@@ -3103,6 +3150,8 @@ The SLARA Board meets the 4 $ ^{th} $ Wednesday of every month at 2 pm. Location
 *[Image or figure on this page; see the original.]*
 
 ## SLARA Organizational Chart
+
+</details>
 
 <a id="p105"></a>
 *[Page 105 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC081816CCpacket8-22-16AA-08182016092236.pdf?t=202108310732560#page=105)* (read by OCR; check the original)
@@ -3216,6 +3265,11 @@ Green Oak Township · $10,531 (high $14,243, low $5,295)
 <a id="p108"></a>
 *[Page 108 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC081816CCpacket8-22-16AA-08182016092236.pdf?t=202108310732560#page=108)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## SLARA Contribution Trend
@@ -3233,6 +3287,8 @@ Each of the past 5 years the SLARA has ended the fiscal year in the black and co
 <div>SLARA FUND BALANCE</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p109"></a>
 *[Page 109 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/DOC081816CCpacket8-22-16AA-08182016092236.pdf?t=202108310732560#page=109)* (read by OCR; check the original)

@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "813cd3cc6c0ee5482d6fd4c40006795ac0750828d4033669872289d95101dd3b"
 source_bytes: 37933780
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 91
 ocr_pages: 91
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2015-11-23
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `813cd3cc6c0ee548…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `813cd3cc6c0ee548…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570#page=1)* (read by OCR; check the original)
@@ -576,14 +576,26 @@ B. ACTION TAKEN BY GOVERNING BODY
 <a id="p22"></a>
 *[Page 22 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570#page=22)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
 
 FRONT ELEVATION SCALE: 1/4"=1'-0"
 
+</details>
+
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570#page=23)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -593,14 +605,23 @@ MAIN LEVEL FLOOR PLAN SCALE: 1/4"=1'-0"
 
 1481 TOTAL SQUARE FEET
 
+</details>
+
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570#page=24)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 UPPER LEVEL FLR PLAN
 
 428 SQUARE FEET - THIS LEVEL ONLY
+
+</details>
 
 <a id="p25"></a>
 *[Page 25 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570#page=25)* (read by OCR; check the original)
@@ -1577,14 +1598,26 @@ Additional information may be requested by the local government to assure that s
 <a id="p49"></a>
 *[Page 49 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570#page=49)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # 11 Mile South Lyon
 
 *[Image or figure on this page; see the original.]*
 
 Carlsbad County One St Dp Shop 2100 Poat Rec Lake Road 2503, 41 West 14th St, 14th St, 14th St
 
+</details>
+
 <a id="p50"></a>
 *[Page 50 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570#page=50)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # 11 Mile South Lyon
 
@@ -1604,10 +1637,19 @@ L. Brooks Patterson
 
 Oakland County Execu
 
+</details>
+
 <a id="p51"></a>
 *[Page 51 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570#page=51)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p52"></a>
 *[Page 52 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570#page=52)* (read by OCR; check the original)
@@ -1733,7 +1775,14 @@ Economic Development (Micro-Enterprise Assistance)
 <a id="p56"></a>
 *[Page 56 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570#page=56)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p57"></a>
 *[Page 57 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570#page=57)* (read by OCR; check the original)
@@ -2296,6 +2345,11 @@ Indicates increase in unit price due to comparison of MDOT bid letting 33065-126
 <a id="p79"></a>
 *[Page 79 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570#page=79)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # SAFE ROUTES TO SCHOOL CITY OF SOUTH LYON AND LYON TOWNSHIP, OAKLAND COUNTY, MICHIGAN
 
 *[Image or figure on this page; see the original.]*
@@ -2316,8 +2370,15 @@ AS WELL AS AN EASEMENT ACROSS MILLIONNUM MIGHT SO-BOOK
 
 <table><tr><td>NO.</td><td>DATE</td><td>SUBMITTAL</td><td>NO.</td><td>DATE</td><td>HBV/SCIN</td><td>PROJECT NO.:2014-0086</td><td>SCALE: NO.10</td><td>SHEET NO.</td></tr><tr><td>1</td><td>B-3-2015</td><td>PREMIERART PLAN SUBMITTAL</td><td>1</td><td>2015</td><td>2015</td><td>DIAMOND NO.: 1</td><td>DATE: B-3-2015</td><td rowspan="6">C.01</td></tr><tr><td>2</td><td>B-31-2015</td><td>GRADE MULTIPLED DMC</td><td>1</td><td>2015</td><td>2015</td><td>DIAMOND NO.: 1</td><td>DATE: B-3-2015</td></tr><tr><td>3</td><td>10/21/2015</td><td>2015</td><td>1</td><td>2015</td><td>2015</td><td>DIAMOND, BTI, DMC</td><td>DATE: B-3-2015</td></tr><tr><td>4</td><td>2015</td><td>2015</td><td>1</td><td>2015</td><td>2015</td><td>OREGON BTI, TAC</td><td>DATE: B-3-2015</td></tr><tr><td>5</td><td>2015</td><td>2015</td><td>1</td><td>2015</td><td>2015</td><td colspan="2">SECTION 25-32 TOWN TN RANK PC</td></tr><tr><td>6</td><td>2015</td><td>2015</td><td>1</td><td>2015</td><td>2015</td><td>DTI/TOWN-DTI OF SOFT-LTDN & LODN INF</td><td>DRAWING</td></tr></table>
 
+</details>
+
 <a id="p80"></a>
 *[Page 80 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570#page=80)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -2385,6 +2446,8 @@ THE CONTRACTOR SHALL LOCATE ALL ACTIVE UNDERGROUND UTILITIES PRIOR TO STARTING W
 
 <table><tr><td>NO</td><td>DATE</td><td>SUBMITTAL</td><td>NO</td><td>DATE</td><td>REVISION</td><td>PROJECT NO. 2014-0088</td><td>SCALE:  $ n/a $</td><td>SHEET NO.</td></tr><tr><td>1</td><td>8-3-2015</td><td>PERMIT/APART. PLAN_SUBMITTAL</td><td>2022</td><td>2022</td><td>2022</td><td>DRAWING NO. 2022</td><td>DATE: 8-3-2015</td><td rowspan="5">C.02</td></tr><tr><td>2</td><td>8-31-2015</td><td>DRAWING_REVIEWED_DATE</td><td>2022</td><td>2022</td><td>2022</td><td>DRAWING_BY_INC.</td><td>DATE: 8-3-2015</td></tr><tr><td>2022</td><td>2022</td><td>2022</td><td>2022</td><td>2022</td><td>2022</td><td>CHECKED BY_TAC</td><td>DATE: 8-3-2015</td></tr><tr><td>2022</td><td>2022</td><td>2022</td><td>2022</td><td>2022</td><td>2022</td><td colspan="2">SECTION 29-32 TOWN, IN. RANCH X.</td></tr><tr><td>2022</td><td>2022</td><td>2022</td><td>2022</td><td>2022</td><td>2022</td><td>D/T/NEW/D/T of 500N-L/N/A 100N MP.</td><td>DATE: 8-3-2015</td></tr></table>
 
+</details>
+
 <a id="p81"></a>
 *[Page 81 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570#page=81)* (read by OCR; check the original)
 
@@ -2411,12 +2474,24 @@ Call before you dig. SAFE ROUTES TO SCHOOL
 <a id="p82"></a>
 *[Page 82 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570#page=82)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td>NO</td><td>DATE</td><td>SUBMITTAL</td><td>NO</td><td>DATE</td><td>REVENGER</td><td>PRODUCT NO. 2014-0008</td><td>SCALE: 1:10'</td><td rowspan="2">SHEET NO.</td></tr><tr><td>1</td><td>8-3-2015</td><td>POLARIMATY PLAH SUBMITTAL</td><td>1111</td><td>1111</td><td>1111</td><td>DRAWING NO. 11111</td><td></td></tr><tr><td>2</td><td>8-31-2015</td><td>GNAKE INSPECTION INC</td><td>1111</td><td>1111</td><td>1111</td><td>DRAWING BY: JMC</td><td>DARE: 8-3-2015</td><td rowspan="4">C.04</td></tr><tr><td>1111</td><td>1111</td><td>1111</td><td>1111</td><td>1111</td><td>1111</td><td>CHECKED BY: TAC</td><td>DATE: 11111111111</td></tr><tr><td>1111</td><td>1111</td><td>1111</td><td>1111</td><td>1111</td><td>1111</td><td>SECTION 29-32 TOWN IN</td><td>NAME: TX</td></tr><tr><td>1111</td><td>1111</td><td>1111</td><td>1111</td><td>1111</td><td>1111</td><td>DAYTIME ONT' OF SONN LTD.N & LTD.IN NO</td><td>OMLAS</td></tr></table>
 
+</details>
+
 <a id="p83"></a>
 *[Page 83 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570#page=83)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -2424,8 +2499,15 @@ Call before you dig. SAFE ROUTES TO SCHOOL
 B-31-2015</td><td>PERMANENT PLAN SUBMITTAL
 DAKOR MULTICION ENS</td><td>2022</td><td>2022</td><td>2022</td><td>DAMN. NO. 2022</td><td>DATE: B-3-2015</td><td rowspan="2">DANCE TO NO</td></tr><tr><td>2</td><td>2022</td><td>2022</td><td>2022</td><td>2022</td><td>2022</td><td>DAMN. NO. JNC</td><td>DATE: B-3-2015</td></tr><tr><td>3</td><td>2022</td><td>2022</td><td>2022</td><td>2022</td><td>2022</td><td>CHECKED BY: TAC</td><td>DATE: 2022/12/22</td><td>C.05</td></tr><tr><td>4</td><td>2022</td><td>2022</td><td>2022</td><td>2022</td><td>2022</td><td>SECTION 29-32 TOWN IN KNICE TC</td><td></td><td></td></tr><tr><td>5</td><td>2022</td><td>2022</td><td>2022</td><td>2022</td><td>2022</td><td>DTY/TOWN/DTY OF SUNDAY DAY & LON JAPAN</td><td>DAMN. NO. 2022/12/22</td><td></td></tr></table>
 
+</details>
+
 <a id="p84"></a>
 *[Page 84 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570#page=84)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td>CES</td><td>P.O. BOX 243
 56711 GRAND RIVER AVE.
@@ -2445,22 +2527,43 @@ SESC-PONTIAC TRAIL & 9 MILE
 
 <table><tr><td>NO</td><td>DATE</td><td>SUBMITTAL</td><td>NO</td><td>DATE</td><td>HEVISION</td><td>PROJECT NO. 2014-0088</td><td>SCALE: 1:20</td></tr><tr><td>1</td><td>B-3-2015</td><td>PRELIMINARY PLAN SUBMITTAL</td><td>2</td><td>B</td><td>BRAING NO.:</td><td>0000</td><td>SHEET NO.</td></tr><tr><td>2</td><td>B-31-2015</td><td>GRADE INSPECTION DNG</td><td>0000</td><td>0000</td><td>BRAING NO.:</td><td>JWC</td><td>DATE: B-3-2015</td></tr><tr><td>3</td><td>0000</td><td>0000</td><td>0000</td><td>0000</td><td>OREGON 01T 14C</td><td>DATE: 0000</td><td>C.07</td></tr><tr><td>4</td><td>0000</td><td>0000</td><td>0000</td><td>0000</td><td colspan="3">SECTION 29-32 TOWN IN RANG 7E</td></tr><tr><td>5</td><td>0000</td><td>0000</td><td>0000</td><td>0000</td><td>DAY/TOWN/OFF SOUTH LTON & LION NO. 0000</td><td>0000</td><td>SHEET NO.</td></tr></table>
 
+</details>
+
 <a id="p85"></a>
 *[Page 85 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570#page=85)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td>NO</td><td>DATE</td><td>SUBMITTAL</td><td>NO</td><td>DATE</td><td>REVISION</td><td>PROJECT NO. 2014-0088</td><td>SCALE:  $ 1 \times 10^{7} $</td><td>SHEET NO.</td></tr><tr><td>1</td><td>8-3-2015</td><td>PRELIMINARY PLAN SUBMITTAL</td><td>1</td><td>8</td><td>2014</td><td>DRAWING NO.: 2014</td><td>DATE: 8-3-2015</td><td rowspan="5">C.08</td></tr><tr><td>2</td><td>8-31-2015</td><td>GRADE WORK/CIND OHG</td><td>2</td><td>2014</td><td>2014</td><td>DRAWN BY: JAC</td><td>DATE: 8-3-2015</td></tr><tr><td>2014</td><td>2014</td><td>2014</td><td>2</td><td>2014</td><td>2014</td><td>CHECKED BY: TAC</td><td>DATE: 2014</td></tr><tr><td>2014</td><td>2014</td><td>2014</td><td>2</td><td>2014</td><td>2014</td><td>SECTION 29-32 TOWN IN RANGE XE</td><td>DATE: 2014</td></tr><tr><td>2014</td><td>2014</td><td>2014</td><td>2</td><td>2014</td><td>2014</td><td>DIT/TOWN/QTY OF SOUTH LION & LION TYP</td><td>DATE: 2014</td></tr></table>
 
+</details>
+
 <a id="p86"></a>
 *[Page 86 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570#page=86)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td>NO</td><td>DATE</td><td>SUBMITTAL</td><td>NO</td><td>DATE</td><td>REVISION</td><td>PROJECT NO.194-0088</td><td>SCALE: 1=40'</td></tr><tr><td>1</td><td>B-3-2015</td><td>PREDIMINABLE PARK SUBMITTAL</td><td>1</td><td>2015</td><td>DIAMOND NO.1</td><td>DATE: 6-3-2015</td><td>SHEET NO.</td></tr><tr><td>2</td><td>B-3-2015</td><td>GARCE APPROXION DMG.</td><td>2</td><td>2015</td><td>DIAMOND NO.2</td><td>DATE: 6-3-2015</td><td>C.09</td></tr><tr><td>3</td><td>2015</td><td>2015</td><td>2</td><td>2015</td><td>DIAGNOSTIC TAC.</td><td>DATE: 2015-11-15</td><td>DATE: 2015-11-15</td></tr><tr><td>4</td><td>2015</td><td>2015</td><td>2</td><td>2015</td><td>SECTION 29-32 TOWN IN</td><td>RANGE TE</td><td></td></tr><tr><td>5</td><td>2015</td><td>2015</td><td>2</td><td>2015</td><td>O/TOWN/OOT OF SOUTH LORN & LION TAP</td><td>DIAMOND</td><td></td></tr></table>
 
+</details>
+
 <a id="p87"></a>
 *[Page 87 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570#page=87)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td>CES</td><td>P.O. BOX 243
 56711 GRAND RIVER AVE.
@@ -2476,15 +2579,29 @@ lzawado@civilengineeringsolutions.us</td></tr></table>
 
 <table><tr><td>NO</td><td>DATE</td><td>SUBMITTAL</td><td>NO</td><td>DATE</td><td>REVIEWED</td><td>PROJECT NO.: 2014-0088</td><td>SCALE *+40"</td></tr><tr><td>1</td><td>8-3-2015</td><td>PRELIAMENT PLAN SUBMITTAL</td><td>2000</td><td>2000</td><td>0000</td><td>SEARCH NO.: 0000</td><td>0:00:00 - 6:30:00</td></tr><tr><td>2</td><td>8-31-2015</td><td>GAISE APPROVED DMG</td><td>2000</td><td>2000</td><td>0000</td><td>SEARCH NO. JMC</td><td>0:00:00 - 6:30:00</td></tr><tr><td>3</td><td>2000</td><td>0000</td><td>2000</td><td>2000</td><td>0000</td><td>ODEOD 97-14C</td><td>0:00:00 - 6:30:00</td></tr><tr><td>4</td><td>2000</td><td>0000</td><td>2000</td><td>2000</td><td>0000</td><td colspan="2">SECTION 20-32 TOWN IN NAGLE PL</td></tr><tr><td>5</td><td>2000</td><td>0000</td><td>2000</td><td>2000</td><td>0000</td><td colspan="2">DIVORCE OF SOUTH LONDON & LOUIS ING</td></tr></table>
 
+</details>
+
 <a id="p88"></a>
 *[Page 88 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570#page=88)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td rowspan="7">Civil Engineering Solutions, Inc.</td><td>P.O. BOX 243</td><td>811</td><td>City of South Lyon and Lyon Township</td><td>1</td><td>NO 1</td><td>DATE</td><td>SUBMITTAL</td><td>NO</td><td>DATE</td><td>HIV/AIDS</td><td>PSNR</td><td>SCALE 1"+4"</td><td>SHEET NO.</td></tr><tr><td>5671 Oandor West Ave.</td><td>New Hudson, MI 48165</td><td>Know what's below.</td><td>SAFE ROUTES TO SCHOOL</td><td></td><td>1</td><td>B-3-2005</td><td>PSILINART, P.M. SUBMITTAL</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Pte. (010)446-6906</td><td>FAX: (010)446-5903</td><td>Call before you dig.</td><td></td><td>1</td><td>2</td><td>PSILINART, P.M. SUBMITTAL</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(2) F: (010)446-5903</td><td>(2) F: (010)446-5903</td><td>DEMO-PONTIAC TRAIL</td><td></td><td>1</td><td>2</td><td>PSILINART, P.M. SUBMITTAL</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>1</td><td>2</td><td>PSILINART, P.M. SUBMITTAL</td><td></td><td></td><td></td><td></td><td></td><td>C.11</td></tr><tr><td></td><td></td><td></td><td></td><td>1</td><td>2</td><td>PSILINART, P.M. SUBMITTAL</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>1</td><td>2</td><td>PSILINART, P.M. SUBMITTAL</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p89"></a>
 *[Page 89 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570#page=89)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td>CES</td><td>P.O. BOX 24356711 GRAND RIVER AVE NEW HUDSON, MI 48165</td></tr><tr><td>CIVIL ENGINEERING SOLUTIONS, Inc.</td><td>PHL (248)264-6906 FAX: (810)448-5903</td></tr></table>
 
@@ -2500,8 +2617,15 @@ lzawado@civilengineeringsolutions.us</td></tr></table>
 
 <table><tr><td>NO</td><td>DATE</td><td>SUBMITTAL</td><td>NO.</td><td>DATE</td><td>REVISION</td><td>PROJECT NO. 2014-0088</td><td>SCALE: 1"×2"</td><td>SPECT H0</td></tr><tr><td>1</td><td>8-31-2015</td><td>PROLIMINITY PLAN SUBMITTAL</td><td>1</td><td>2014</td><td>1</td><td>Dividend No. 1</td><td>0</td><td>C.12</td></tr><tr><td>2</td><td>8-31-2015</td><td>GND/ SPRECTION DRG</td><td>2</td><td>2014</td><td>1</td><td>DIVAR BT, JRC</td><td>0/0/0/0 BT, TAC</td><td>HANDE K</td></tr><tr><td>3</td><td>8-31-2015</td><td>0/0/0/0</td><td>2</td><td>2014</td><td>1</td><td>0/0/0/0 BT, TAC</td><td>0/0/0/0 BT, 32 TON IN</td><td>0/0/0/0 BT, 100 NIP</td></tr><tr><td>4</td><td>8-31-2015</td><td>0/0/0/0</td><td>2</td><td>2014</td><td>1</td><td>0/0/0/0 BT, 32 TON IN</td><td>0/0/0/0 BT, 100 NIP</td><td>0/0/0/0 BT, 100 NIP</td></tr></table>
 
+</details>
+
 <a id="p90"></a>
 *[Page 90 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570#page=90)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -2529,6 +2653,8 @@ MATCH LINE STA = 9+50
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td>NO</td><td>DATE</td><td>SUBMITTAL</td><td>NO</td><td>DATE</td><td>REVISION</td><td>PROJECT NO.: 201-0088</td><td>SCALE:  $ 1 \times 10^{7} $</td><td>SHEET NO.</td></tr><tr><td>1</td><td>8-3-2015</td><td>PROGRAMMING SIMULIT.</td><td>0000</td><td>0000</td><td>0000</td><td>GIVING NO. 0000</td><td>0000</td><td>C.13</td></tr><tr><td>2</td><td>8-3-2015</td><td>GRAPH INFORMATION ORG.</td><td>0000</td><td>0000</td><td>0000</td><td>DRAWN BY: JWC</td><td>0000</td><td>DRAWN</td></tr><tr><td>0000</td><td>0000</td><td>0000</td><td>0000</td><td>0000</td><td>0000</td><td>CHECKED BY: TAC</td><td>0000</td><td>CHECKED BY: TAC</td></tr><tr><td>0000</td><td>0000</td><td>0000</td><td>0000</td><td>0000</td><td>0000</td><td>SECTION 29-32 TOWN IN</td><td>0000</td><td>SECTION 29-32 TOWN IN</td></tr><tr><td>0000</td><td>0000</td><td>0000</td><td>0000</td><td>0000</td><td>0000</td><td>DAY/DATE OF SAMPLE ION & LON NTH</td><td>0000</td><td>DAY/DATE OF SAMPLE ION & LON NTH</td></tr></table>
+
+</details>
 
 <a id="p91"></a>
 *[Page 91 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC112015ccPACKET11-23-15.pdf?t=202108310732570#page=91)* (read by OCR; check the original)

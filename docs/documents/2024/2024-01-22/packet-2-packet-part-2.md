@@ -143,9 +143,16 @@ Phone
 <a id="p7"></a>
 *[Page 7 of the original](https://www.southlyonmi.org/1-22-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401181518240#page=7)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 CITY OF SOUTH LYON
 
 PERSONNEL MANUAL
+
+</details>
 
 <a id="p8"></a>
 *[Page 8 of the original](https://www.southlyonmi.org/1-22-24%20Council%20Packet%20Part%202%20-%20online%20only.pdf?t=202401181518240#page=8)* (read by OCR; check the original)

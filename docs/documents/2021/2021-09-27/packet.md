@@ -743,14 +743,26 @@ Date
 <a id="p21"></a>
 *[Page 21 of the original](https://www.southlyonmi.org/9-27-21%20Council%20Packet%20-%20online%20only.pdf?t=202111101421490#page=21)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <table><tr><td>STATE
 FARIA</td><td colspan="6">[F, [F2]]
 TENT</td></tr><tr><td></td><td></td><td>TENT
 KNOWLEDGMENTS</td><td>TENT
 DO</td><td>TENT</td><td>TENT</td><td>TENT</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
 
+</details>
+
 <a id="p22"></a>
 *[Page 22 of the original](https://www.southlyonmi.org/9-27-21%20Council%20Packet%20-%20online%20only.pdf?t=202111101421490#page=22)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Google Maps 127 E Lake St
 
@@ -787,6 +799,8 @@ Share
 127 E Lake St, South Lyon, MI 48178
 
 Photos
+
+</details>
 
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/9-27-21%20Council%20Packet%20-%20online%20only.pdf?t=202111101421490#page=23)* (read by OCR; check the original)
@@ -983,6 +997,11 @@ Lansing, MI 48933
 <a id="p27"></a>
 *[Page 27 of the original](https://www.southlyonmi.org/9-27-21%20Council%20Packet%20-%20online%20only.pdf?t=202111101421490#page=27)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <table><tr><td colspan="3">HRC</td></tr><tr><td colspan="3">HUMBELL ROTH & CLARK, INC</td></tr><tr><td colspan="3">CONSULTING ENGINEERS SINCE 1915</td></tr><tr><td>1515001 First Street, New York, USA</td><td colspan="2">F.A. 244 244</td></tr><tr><td>PUBLIC_NAME: DARL GEM 004-40152 FZ D.A. 244 First Street, New York, USA</td><td>FOR ALL</td><td></td></tr><tr><td colspan="3">W3 220, 220/7 / www.bwh.com</td></tr><tr><td></td><td></td><td></td></tr></table>
 
 STREET
@@ -1000,6 +1019,8 @@ STREET
 *[Image or figure on this page; see the original.]*
 
 REMOVE AND REPLACE CONCRETE
+
+</details>
 
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/9-27-21%20Council%20Packet%20-%20online%20only.pdf?t=202111101421490#page=28)* (read by OCR; check the original)

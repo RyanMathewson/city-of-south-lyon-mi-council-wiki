@@ -873,6 +873,11 @@ a. All money damages within the Subjects of Coverage stated in Section 1 the Mem
 <a id="p31"></a>
 *[Page 31 of the original](https://www.southlyonmi.org/online%20packet%20November%2023%202026.pdf?t=202611191341220#page=31)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Candy Cane Hunt Event Map
 
 *[Image or figure on this page; see the original.]*
@@ -886,6 +891,8 @@ Ages 8-10
 Ages 5-7
 
 Ages 3-4
+
+</details>
 
 <a id="p32"></a>
 *[Page 32 of the original](https://www.southlyonmi.org/online%20packet%20November%2023%202026.pdf?t=202611191341220#page=32)* (read by OCR; check the original)
@@ -921,6 +928,11 @@ This option involves the removal of the existing 1 MG prestressed concrete tank 
 <a id="p33"></a>
 *[Page 33 of the original](https://www.southlyonmi.org/online%20packet%20November%2023%202026.pdf?t=202611191341220#page=33)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Figure 1. Prestressed Concrete Tank Option Photo</div>
 
 *[Image or figure on this page; see the original.]*
@@ -930,6 +942,8 @@ The existing tank is partially buried, with approximately 9-feet of water storag
 <div>Figure 2. Prestressed Concrete Tank Option Section View</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/online%20packet%20November%2023%202026.pdf?t=202611191341220#page=34)* (read by OCR; check the original)

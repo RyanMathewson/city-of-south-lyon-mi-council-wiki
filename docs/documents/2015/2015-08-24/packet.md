@@ -948,9 +948,16 @@ e. If so requested, Certified Copies of all policies mentioned above will be fur
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket08.24.15.pdf?t=202108310732570#page=40)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 2015 Pumpkinfest
+
+</details>
 
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket08.24.15.pdf?t=202108310732570#page=41)* (read by OCR; check the original)
@@ -968,9 +975,16 @@ The roads will be closed at 12:00 p.m. on Friday, September 25th and will re-ope
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket08.24.15.pdf?t=202108310732570#page=42)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Kathleeny. 177 N Haleyville - Not mentioned</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p43"></a>
 *[Page 43 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket08.24.15.pdf?t=202108310732570#page=43)* (read by OCR; check the original)
@@ -1664,9 +1678,16 @@ Responsible Party's SIGNATURE
 <a id="p62"></a>
 *[Page 62 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket08.24.15.pdf?t=202108310732570#page=62)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## PARADE BOUTE
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p63"></a>
 *[Page 63 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket08.24.15.pdf?t=202108310732570#page=63)* (read by OCR; check the original)
@@ -2340,6 +2361,11 @@ Cub Scouts
 <a id="p81"></a>
 *[Page 81 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket08.24.15.pdf?t=202108310732570#page=81)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Cub Scout Pack 39
 
 Real Estate One
@@ -2403,6 +2429,8 @@ Reeds for Judge
 Studio Dance
 
  $$ \begin{array}{l}\text{Now}\\ \text{exclusive}\\ \text{List of}\\ \text{Participants}\end{array} $$
+
+</details>
 
 <a id="p82"></a>
 *[Page 82 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket08.24.15.pdf?t=202108310732570#page=82)* (read by OCR; check the original)
@@ -3319,7 +3347,14 @@ The Tree Trimming processes are designed to ensure that we effectively communica
 <a id="p111"></a>
 *[Page 111 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket08.24.15.pdf?t=202108310732570#page=111)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p112"></a>
 *[Page 112 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket08.24.15.pdf?t=202108310732570#page=112)* (read by OCR; check the original)

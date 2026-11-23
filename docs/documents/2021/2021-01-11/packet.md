@@ -339,6 +339,11 @@ Motion to accept the case evaluation award made by Judge Ryan
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/1-11-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=9)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Kurtzweil- No
 
 Richards- No
@@ -370,6 +375,8 @@ Dan Pelchat, Mayor
 *[Image or figure on this page; see the original.]*
 
 Lisa Deaton, City Clerk
+
+</details>
 
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/1-11-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=10)* (read by OCR; check the original)

@@ -482,7 +482,14 @@ Attachment: Street Closure Map, Parade Route
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/11-28-22%20Council%20Packet%20-%20online%20version%20only.pdf?t=202211231506280#page=14)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/11-28-22%20Council%20Packet%20-%20online%20version%20only.pdf?t=202211231506280#page=15)* (read by OCR; check the original)
@@ -542,9 +549,16 @@ Attachment: Street Closure Map, Parade Route
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/11-28-22%20Council%20Packet%20-%20online%20version%20only.pdf?t=202211231506280#page=16)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Google Maps Holiday Spectacular Road Closure Request 12/3/22 - 10AM - 7PM</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/11-28-22%20Council%20Packet%20-%20online%20version%20only.pdf?t=202211231506280#page=17)* (read by OCR; check the original)
@@ -1005,6 +1019,11 @@ SUGGESTED MOTION: Motion by ___, supported by to approve the selected projects a
 <a id="p31"></a>
 *[Page 31 of the original](https://www.southlyonmi.org/11-28-22%20Council%20Packet%20-%20online%20version%20only.pdf?t=202211231506280#page=31)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## OAKIAND COUNTY MICHIGAN
@@ -1038,6 +1057,8 @@ County Border
 *[Image or figure on this page; see the original.]*
 
 This Census Block Group map reflects the 2011-2015 American Community Survey (ACS).
+
+</details>
 
 <a id="p32"></a>
 *[Page 32 of the original](https://www.southlyonmi.org/11-28-22%20Council%20Packet%20-%20online%20version%20only.pdf?t=202211231506280#page=32)* (read by OCR; check the original)

@@ -3124,6 +3124,11 @@ Fx: (248) 975-4407
 <a id="p95"></a>
 *[Page 95 of the original](https://www.southlyonmi.org/document_center/City%20Council/9-24-18%20Council%20packet.pdf?t=202108310733130#page=95)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # Preliminary Data Analysis:
 
 Former Library Building
@@ -3135,6 +3140,8 @@ South Lyon, Michigan
 *[Image or figure on this page; see the original.]*
 
 Date of Preliminary Valuation: August 15, 2018
+
+</details>
 
 <a id="p96"></a>
 *[Page 96 of the original](https://www.southlyonmi.org/document_center/City%20Council/9-24-18%20Council%20packet.pdf?t=202108310733130#page=96)* (read by OCR; check the original)
@@ -3456,17 +3463,38 @@ Oakland County One Stop Shop 2700 Pontiac Lake Road, 41 West Waterford, MI 41130
 <a id="p108"></a>
 *[Page 108 of the original](https://www.southlyonmi.org/document_center/City%20Council/9-24-18%20Council%20packet.pdf?t=202108310733130#page=108)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p109"></a>
 *[Page 109 of the original](https://www.southlyonmi.org/document_center/City%20Council/9-24-18%20Council%20packet.pdf?t=202108310733130#page=109)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p110"></a>
 *[Page 110 of the original](https://www.southlyonmi.org/document_center/City%20Council/9-24-18%20Council%20packet.pdf?t=202108310733130#page=110)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p111"></a>
 *[Page 111 of the original](https://www.southlyonmi.org/document_center/City%20Council/9-24-18%20Council%20packet.pdf?t=202108310733130#page=111)* (read by OCR; check the original)

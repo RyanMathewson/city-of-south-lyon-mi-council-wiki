@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/5-10-21%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "335d6d3ba22417e3706e2c75c2cb38a8773cd24d99e0a82da5bf0476d14948cb"
 source_bytes: 6523340
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 62
 ocr_pages: 62
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2021-05-10
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/5-10-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `335d6d3ba22417e3…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/5-10-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `335d6d3ba22417e3…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/5-10-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=1)* (read by OCR; check the original)
@@ -794,6 +794,11 @@ Principal, Director of Planning
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/5-10-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=34)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## City of South Lyon 2021 Zoning Ordinance Adoption Schedule
 
 ## April 22, 2021
@@ -827,6 +832,8 @@ Zoning Ordinance
 is effective
 
 ## COMPLETED
+
+</details>
 
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/5-10-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=35)* (read by OCR; check the original)
@@ -900,7 +907,14 @@ Please let me know if you have any questions.
 <a id="p38"></a>
 *[Page 38 of the original](https://www.southlyonmi.org/5-10-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=38)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p39"></a>
 *[Page 39 of the original](https://www.southlyonmi.org/5-10-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=39)* (read by OCR; check the original)
@@ -1164,6 +1178,11 @@ Nayes: None
 <a id="p50"></a>
 *[Page 50 of the original](https://www.southlyonmi.org/5-10-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=50)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Meeting Adjourned
 
 Respectfully submitted,
@@ -1171,6 +1190,8 @@ Respectfully submitted,
 *[Image or figure on this page; see the original.]*
 
 Judy L. Pieper – Deputy Clerk
+
+</details>
 
 <a id="p51"></a>
 *[Page 51 of the original](https://www.southlyonmi.org/5-10-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=51)* (read by OCR; check the original)
@@ -1243,7 +1264,14 @@ accessible bays.
 <a id="p53"></a>
 *[Page 53 of the original](https://www.southlyonmi.org/5-10-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=53)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p54"></a>
 *[Page 54 of the original](https://www.southlyonmi.org/5-10-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=54)* (read by OCR; check the original)
@@ -1273,16 +1301,30 @@ Customer signature below constitutes a purchase order.
 <a id="p56"></a>
 *[Page 56 of the original](https://www.southlyonmi.org/5-10-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=56)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Freestanding Play
 
 We-Go-Swing™ 277778
 
+</details>
+
 <a id="p57"></a>
 *[Page 57 of the original](https://www.southlyonmi.org/5-10-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=57)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p58"></a>
 *[Page 58 of the original](https://www.southlyonmi.org/5-10-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=58)* (read by OCR; check the original)
@@ -1305,6 +1347,11 @@ SUGGESTED MOTION: Motion by _____, supported by _____ to approve Master Plan for
 
 <a id="p59"></a>
 *[Page 59 of the original](https://www.southlyonmi.org/5-10-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=59)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1399,6 +1446,8 @@ SUGGESTED MOTION: Motion by _____, supported by _____ to approve Master Plan for
 45. Future Parking and Other Planned Improvements
 
 46. We Go Swing
+
+</details>
 
 <a id="p60"></a>
 *[Page 60 of the original](https://www.southlyonmi.org/5-10-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733180#page=60)* (read by OCR; check the original)

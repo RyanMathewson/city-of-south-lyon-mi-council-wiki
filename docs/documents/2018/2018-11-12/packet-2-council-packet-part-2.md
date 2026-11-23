@@ -265,6 +265,11 @@ Lloyd T. Collins, Chief of Police
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%202a.pdf?t=202108310733130#page=11)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # 2018 LADIES NIGHT OUT STREET CLOSURE MAP
 
 E. Lake Street, between Lafayette & Wells Streets
@@ -280,6 +285,8 @@ N. LAFAYETTE
 S. WELLS ST.
 
 N. WELLS' ST.
+
+</details>
 
 <a id="p12"></a>
 *[Page 12 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%202a.pdf?t=202108310733130#page=12)* (read by OCR; check the original)
@@ -798,9 +805,16 @@ The name(s) and address(es) of the Incorporator(s) is (are) as follows:
 <a id="p30"></a>
 *[Page 30 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%202a.pdf?t=202108310733130#page=30)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Use space below for additional Articles or for continuation of previous Articles. Please identify any Article being continued or added. Attach additional pages if needed.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p31"></a>
 *[Page 31 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%202a.pdf?t=202108310733130#page=31)* (read by OCR; check the original)
@@ -1984,6 +1998,11 @@ SUGGESTED MOTION: Motion by ___, supported by ___ to approve
 <a id="p84"></a>
 *[Page 84 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%202a.pdf?t=202108310733130#page=84)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 # South Lyon WWTP – UV System Refurbishment Proposal Options
@@ -1995,6 +2014,8 @@ prepared for:
 Ron Beason
 
 November 1, 2018
+
+</details>
 
 <a id="p85"></a>
 *[Page 85 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%202a.pdf?t=202108310733130#page=85)* (read by OCR; check the original)
@@ -2193,30 +2214,58 @@ We appreciate your efforts to maintain compliance with NPDES Permit No. MI002027
 <a id="p95"></a>
 *[Page 95 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%202a.pdf?t=202108310733130#page=95)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>UV PANEL</div>
 
+</details>
+
 <a id="p96"></a>
 *[Page 96 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%202a.pdf?t=202108310733130#page=96)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 <div>UV Module</div>
 
+</details>
+
 <a id="p97"></a>
 *[Page 97 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%202a.pdf?t=202108310733130#page=97)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 <div>UV BALLAST</div>
 
+</details>
+
 <a id="p98"></a>
 *[Page 98 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%202a.pdf?t=202108310733130#page=98)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 <div>UV BANK A</div>
+
+</details>
 
 <a id="p99"></a>
 *[Page 99 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%202a.pdf?t=202108310733130#page=99)* (read by OCR; check the original)
@@ -2381,9 +2430,16 @@ This proposal is valid for a period of 10 days.
 <a id="p104"></a>
 *[Page 104 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%202a.pdf?t=202108310733130#page=104)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Boiler Vent Stack
+
+</details>
 
 <a id="p105"></a>
 *[Page 105 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%202a.pdf?t=202108310733130#page=105)* (read by OCR; check the original)

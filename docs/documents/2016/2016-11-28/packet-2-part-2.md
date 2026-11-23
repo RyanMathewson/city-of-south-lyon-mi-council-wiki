@@ -19,6 +19,11 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/City%20Council%20Packet%2011-28-16%20p%26r%20master%20plan.pdf?t=202108310733070#page=1)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
@@ -40,6 +45,8 @@ MASTER PLAN
 2016-2021
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p2"></a>
 *[Page 2 of the original](https://www.southlyonmi.org/City%20Council%20Packet%2011-28-16%20p%26r%20master%20plan.pdf?t=202108310733070#page=2)* (read by OCR; check the original)
@@ -336,6 +343,11 @@ Difficulty in communicating
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/City%20Council%20Packet%2011-28-16%20p%26r%20master%20plan.pdf?t=202108310733070#page=14)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 A. South Lyon High School
@@ -357,6 +369,8 @@ E. Millennium Middle School
 6. Volunteer Park
 
 Source: Oakland County Planning & Economic Development Services
+
+</details>
 
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/City%20Council%20Packet%2011-28-16%20p%26r%20master%20plan.pdf?t=202108310733070#page=15)* (read by OCR; check the original)
@@ -905,9 +919,16 @@ A fourteen question survey was available on City's website during the Parks and 
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/City%20Council%20Packet%2011-28-16%20p%26r%20master%20plan.pdf?t=202108310733070#page=41)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Q4 Why do you and/or your family visit the City of South Lyon Parks/ Please check all that apply:</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/City%20Council%20Packet%2011-28-16%20p%26r%20master%20plan.pdf?t=202108310733070#page=42)* (read by OCR; check the original)
@@ -970,11 +991,18 @@ Total Respondents: 165
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/City%20Council%20Packet%2011-28-16%20p%26r%20master%20plan.pdf?t=202108310733070#page=47)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Q8 Do you use any of the following facilities? (Please select and list all that apply)</div>
 
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td>Answer Choices</td><td colspan="2">Responses</td></tr><tr><td>Kensington Metro Park</td><td>90.85%</td><td>149</td></tr></table>
+
+</details>
 
 <a id="p48"></a>
 *[Page 48 of the original](https://www.southlyonmi.org/City%20Council%20Packet%2011-28-16%20p%26r%20master%20plan.pdf?t=202108310733070#page=48)* (read by OCR; check the original)
@@ -1023,7 +1051,14 @@ Answered: 167 Skipped: 1
 <a id="p52"></a>
 *[Page 52 of the original](https://www.southlyonmi.org/City%20Council%20Packet%2011-28-16%20p%26r%20master%20plan.pdf?t=202108310733070#page=52)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p53"></a>
 *[Page 53 of the original](https://www.southlyonmi.org/City%20Council%20Packet%2011-28-16%20p%26r%20master%20plan.pdf?t=202108310733070#page=53)* (read by OCR; check the original)

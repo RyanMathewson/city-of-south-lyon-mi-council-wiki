@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/10-14-24%20Council%20Packet%20-%20onlin
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "9b4ece38dee9197fa94b30b43404d406d65cd599f54a69342feed4cc06822545"
 source_bytes: 12466067
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 62
 ocr_pages: 62
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2024-10-14
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/10-14-24%20Council%20Packet%20-%20online%20only.pdf?t=202410101536410) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `9b4ece38dee9197f…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/10-14-24%20Council%20Packet%20-%20online%20only.pdf?t=202410101536410) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `9b4ece38dee9197f…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/10-14-24%20Council%20Packet%20-%20online%20only.pdf?t=202410101536410#page=1)* (read by OCR; check the original)
@@ -297,6 +297,11 @@ Mayor Kennedy reminded everyone that the last Lake Street Cruise-in will take pl
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/10-14-24%20Council%20Packet%20-%20online%20only.pdf?t=202410101536410#page=9)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ADJOURNMENT
 
 CM 9-9-24 MOTION TO ADJOURN
@@ -310,6 +315,8 @@ VOTE: MOTION CARRIED UNANIMOUSLY
 Respectfully submitted.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/10-14-24%20Council%20Packet%20-%20online%20only.pdf?t=202410101536410#page=10)* (read by OCR; check the original)
@@ -558,6 +565,11 @@ FLOOR MATS SEPTEMBER 2024</td><td>12.00</td><td>Open</td></tr><tr><td></td><td><
 <a id="p30"></a>
 *[Page 30 of the original](https://www.southlyonmi.org/10-14-24%20Council%20Packet%20-%20online%20only.pdf?t=202410101536410#page=30)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 City of South Lyon
@@ -581,6 +593,8 @@ Communication with Those Charged with Governance – End of Audit Letter
 Questions
 
 plante moran | Audit Tax Consulting Wealth Management
+
+</details>
 
 <a id="p31"></a>
 *[Page 31 of the original](https://www.southlyonmi.org/10-14-24%20Council%20Packet%20-%20online%20only.pdf?t=202410101536410#page=31)* (read by OCR; check the original)
@@ -626,6 +640,11 @@ Years Ended June 30
 <a id="p32"></a>
 *[Page 32 of the original](https://www.southlyonmi.org/10-14-24%20Council%20Packet%20-%20online%20only.pdf?t=202410101536410#page=32)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Homestead Property Tax Analysis 2023 Levy City of South Lyon – Year Ended June 30, 2024</div>
 
 <div>Property Tax Collections - $22.35 million collected</div>
@@ -654,8 +673,15 @@ Art/Zoo/Huron Clinton Metro Park/Oakland County Parks and Recreation
 
 plante moran | Audit. Tax. Consulting. Wealth Management.
 
+</details>
+
 <a id="p33"></a>
 *[Page 33 of the original](https://www.southlyonmi.org/10-14-24%20Council%20Packet%20-%20online%20only.pdf?t=202410101536410#page=33)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -679,8 +705,15 @@ plante moran | Audit. Tax. Consulting. Wealth Management.
 
 • Graph above excludes Drug Forfeiture fund balance of $3,289 restricted for Police activity and Community Development Block Grant fund balance of -$28,356 (due to timing of receipts)
 
+</details>
+
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/10-14-24%20Council%20Packet%20-%20online%20only.pdf?t=202410101536410#page=34)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -699,6 +732,8 @@ Estimates per MERS Valuations for Pension or Nyhart Valuation for OPEB
 Only includes General Fund and operating revenues of the Water and Sewer Fund. Estimated at 3% annual increase
 
 Note - Water and Sewer Fund accounts for approximately 15-20% of the liability and contributions.
+
+</details>
 
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/10-14-24%20Council%20Packet%20-%20online%20only.pdf?t=202410101536410#page=35)* (read by OCR; check the original)
@@ -811,7 +846,14 @@ SUGGESTED MOTION(S): None
 <a id="p39"></a>
 *[Page 39 of the original](https://www.southlyonmi.org/10-14-24%20Council%20Packet%20-%20online%20only.pdf?t=202410101536410#page=39)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/10-14-24%20Council%20Packet%20-%20online%20only.pdf?t=202410101536410#page=40)* (read by OCR; check the original)
@@ -1014,9 +1056,16 @@ South Lyon Cemetery
 <a id="p46"></a>
 *[Page 46 of the original](https://www.southlyonmi.org/10-14-24%20Council%20Packet%20-%20online%20only.pdf?t=202410101536410#page=46)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>SOUTH LYON CEMETERY</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/10-14-24%20Council%20Packet%20-%20online%20only.pdf?t=202410101536410#page=47)* (read by OCR; check the original)
@@ -1109,7 +1158,14 @@ SECTION 11
 <a id="p51"></a>
 *[Page 51 of the original](https://www.southlyonmi.org/10-14-24%20Council%20Packet%20-%20online%20only.pdf?t=202410101536410#page=51)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p52"></a>
 *[Page 52 of the original](https://www.southlyonmi.org/10-14-24%20Council%20Packet%20-%20online%20only.pdf?t=202410101536410#page=52)* (read by OCR; check the original)
@@ -1166,6 +1222,11 @@ Average $815
 <a id="p54"></a>
 *[Page 54 of the original](https://www.southlyonmi.org/10-14-24%20Council%20Packet%20-%20online%20only.pdf?t=202410101536410#page=54)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 $ \begin{array}{l} \text{Beg} =\displaystyle {\lim_{\text{df } h \to 7}} 21 ( \dots  + \dots) \times ( \dots+ \dots)= \dots \\ \text{J} \times ( \dots+ \dots)= \dots  \\ \text{C} \times ( \dots+ \dots)= \dots  \\ \text{C} \times ( \dots+ \dots)= \dots  \\ \text{C} \times ( \dots+ \dots)= \dots  \end{array} $
 
 The quick brown fox jumps over the lazy dog.
@@ -1175,6 +1236,8 @@ The quick brown fox jumps over the lazy dog.
 The quick brown fox jumps over the lazy dog.
 
  $ \left\{\begin{array}{l}x=2 \\ y=1 \\ z=0\end{array}\right. $
+
+</details>
 
 <a id="p55"></a>
 *[Page 55 of the original](https://www.southlyonmi.org/10-14-24%20Council%20Packet%20-%20online%20only.pdf?t=202410101536410#page=55)* (read by OCR; check the original)
@@ -1278,7 +1341,14 @@ $540,000
 <a id="p59"></a>
 *[Page 59 of the original](https://www.southlyonmi.org/10-14-24%20Council%20Packet%20-%20online%20only.pdf?t=202410101536410#page=59)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p60"></a>
 *[Page 60 of the original](https://www.southlyonmi.org/10-14-24%20Council%20Packet%20-%20online%20only.pdf?t=202410101536410#page=60)* (read by OCR; check the original)

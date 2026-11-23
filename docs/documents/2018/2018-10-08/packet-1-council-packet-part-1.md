@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%201.p
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "94e688c1529f46318f0ecf674c0894f56a3d037ac5e996571e0335ce053e2264"
 source_bytes: 4119411
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 109
 ocr_pages: 109
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2018-10-08
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%201.pdf?t=202108310733130) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `94e688c1529f4631…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%201.pdf?t=202108310733130) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `94e688c1529f4631…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%201.pdf?t=202108310733130#page=1)* (read by OCR; check the original)
@@ -2267,11 +2267,18 @@ Percent Building Cover (House and Porch)
 <a id="p95"></a>
 *[Page 95 of the original](https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%201.pdf?t=202108310733130#page=95)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 a. Building Coverage: The building (house and porch) coverage for the 50 lots ranges from 15% coverage to 30% coverage. The applicant has reduced the number of units with building coverage over 25% on the proposed September 2018 plan (compared to the August 2018 site plan last presented).
 
 <div>Percent Impervious Cover (House, Porch, Deck)</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p96"></a>
 *[Page 96 of the original](https://www.southlyonmi.org/10-8-18%20Council%20packet%20part%201.pdf?t=202108310733130#page=96)* (read by OCR; check the original)

@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20onlin
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "64d16e4941fc28e579785c1abaad343fedc0833a5e50579c87d026b3f8bed624"
 source_bytes: 7066513
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 151
 ocr_pages: 151
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2019-11-25
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `64d16e4941fc28e5…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `64d16e4941fc28e5…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=1)* (read by OCR; check the original)
@@ -1612,6 +1612,11 @@ Oakland County does not have information on exact CDBG funding levels for Progra
 <a id="p50"></a>
 *[Page 50 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=50)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## TOAKIAND COUNTY MICHIGAN
@@ -1654,6 +1659,8 @@ Census Tract 2010
 
 This Census Block Group map reflects the 2011-2015 American Unity Survey (ACS).
 
+</details>
+
 <a id="p51"></a>
 *[Page 51 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=51)* (read by OCR; check the original)
 
@@ -1695,8 +1702,6 @@ Sec. 570.611 Conflict of interest
 <a id="p53"></a>
 *[Page 53 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=53)* (read by OCR; check the original)
 
-*[OCR note: this page may contain text repeated by the OCR software; check the original.]*
-
 <div>(Please √ one box per project)</div>
 
 <div>Project #2 Allocation: $5,000</div>
@@ -1705,8 +1710,6 @@ Sec. 570.611 Conflict of interest
 
 <a id="p54"></a>
 *[Page 54 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=54)* (read by OCR; check the original)
-
-*[OCR note: this page may contain text repeated by the OCR software; check the original.]*
 
 <div>Project #2 Allocation: $5,000</div>
 
@@ -1802,8 +1805,6 @@ Project #2 Allocation: $5,000
 <a id="p63"></a>
 *[Page 63 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=63)* (read by OCR; check the original)
 
-*[OCR note: this page may contain text repeated by the OCR software; check the original.]*
-
 <div>(Please √ one box per project)</div>
 
 <div>Project #1 Allocation: $24,552</div>
@@ -1812,8 +1813,6 @@ Project #2 Allocation: $5,000
 
 <a id="p64"></a>
 *[Page 64 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=64)* (read by OCR; check the original)
-
-*[OCR note: this page may contain text repeated by the OCR software; check the original.]*
 
 Project #1 Allocation: $24,552
 
@@ -2326,6 +2325,11 @@ The graphs on the following page show the water level in the ground storage tank
 <a id="p93"></a>
 *[Page 93 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=93)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Figure 1: Ground Storage Tank Levels — 8/2/2017</div>
 
 *[Image or figure on this page; see the original.]*
@@ -2335,6 +2339,8 @@ On 8/2/2017, the tank operates within its set-points throughout the day. The tan
 <div>Figure 2: Ground Storage Tank Levels - 7/13/2018</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p94"></a>
 *[Page 94 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=94)* (read by OCR; check the original)
@@ -2394,12 +2400,24 @@ HRC performed ultrasonic thickness testing of the Horizontal Pressure Filters (H
 <a id="p99"></a>
 *[Page 99 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=99)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>Figure 5 shows a test location from the thickness testing that was performed. This testing uses a gel that can be seen in the figure to allow for an ultrasonic device to test determine the thickness of the metal. Around the gel, the sealant and paint can be seen peeled away. This image serves as evidence of a small void existing between the seal and the metal of the HPF. The tanks can be seen to need resealing on a macro scale is Figure 6.</div>
 
+</details>
+
 <a id="p100"></a>
 *[Page 100 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=100)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -2408,6 +2426,8 @@ HRC performed ultrasonic thickness testing of the Horizontal Pressure Filters (H
 <div>Figure 7: HPFs 3 and 4</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p101"></a>
 *[Page 101 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=101)* (read by OCR; check the original)
@@ -2476,6 +2496,11 @@ o Wall at the base of the epoxy repair appeared to be saturated.
 <a id="p105"></a>
 *[Page 105 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=105)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Figure 9: Existing Crack Repair</div>
 
 *[Image or figure on this page; see the original.]*
@@ -2491,6 +2516,8 @@ o Wall at the base of the epoxy repair appeared to be saturated.
 <div>Figure 12: Spall Adjacent to Ladder</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p106"></a>
 *[Page 106 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=106)* (read by OCR; check the original)
@@ -2840,6 +2867,11 @@ At a nearby location, near the tank access ladder, a small spalled area of the p
 <a id="p127"></a>
 *[Page 127 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=127)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Tank leakage along the western edge of the South Pilaster
@@ -2848,8 +2880,15 @@ Tank leakage along the western edge of the South Pilaster
 
 Tank Leakage Detail at Grade
 
+</details>
+
 <a id="p128"></a>
 *[Page 128 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=128)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -2859,8 +2898,15 @@ Deteriorated steel prestressing strands near access ladder
 
 Deteriorated steel prestressing strands at utility conduit
 
+</details>
+
 <a id="p129"></a>
 *[Page 129 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=129)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -2869,6 +2915,8 @@ Deteriorated steel prestressing strands at utility conduit
 *[Image or figure on this page; see the original.]*
 
 <div>Typical surface deterioration</div>
+
+</details>
 
 <a id="p130"></a>
 *[Page 130 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=130)* (read by OCR; check the original)
@@ -2934,9 +2982,16 @@ Map of Current Wellfield
 <a id="p135"></a>
 *[Page 135 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=135)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p136"></a>
 *[Page 136 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=136)* (read by OCR; check the original)
@@ -3057,6 +3112,11 @@ NET OF REVENUES & EXPENDITURES..... $20,168.00
 <a id="p138"></a>
 *[Page 138 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=138)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Our Downtown Management Philosophy & Strategy
 
 Comprehensive, Ongoing, Community Involved, Transparent, Professional
@@ -3087,8 +3147,15 @@ PROMOTION
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p139"></a>
 *[Page 139 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=139)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -3106,8 +3173,15 @@ PROMOTION
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p140"></a>
 *[Page 140 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=140)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -3123,8 +3197,15 @@ Historic Preservation & Rehabilitation Preserving Our Unique Sense of Place
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p141"></a>
 *[Page 141 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=141)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -3140,8 +3221,15 @@ Historic Preservation & Rehabilitation Preserving Our Unique Sense of Place
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p142"></a>
 *[Page 142 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=142)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -3171,8 +3259,15 @@ History and Architecture Tours (2018, 2019 & Ongoing)
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p143"></a>
 *[Page 143 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=143)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -3188,8 +3283,15 @@ BUSINESS INVESTMENT & REINVESTMENT ECONOMIC VITALITY
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p144"></a>
 *[Page 144 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=144)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## DDA 2018/2019 Combined
 
@@ -3217,10 +3319,15 @@ January, 2019
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p145"></a>
 *[Page 145 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=145)* (read by OCR; check the original)
 
-*[Image or figure on this page; see the original.]*
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -3231,9 +3338,18 @@ January, 2019
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+*[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p146"></a>
 *[Page 146 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=146)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -3249,10 +3365,15 @@ January, 2019
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p147"></a>
 *[Page 147 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=147)* (read by OCR; check the original)
 
-*[Image or figure on this page; see the original.]*
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -3263,9 +3384,18 @@ January, 2019
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+*[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p148"></a>
 *[Page 148 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=148)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -3281,8 +3411,15 @@ January, 2019
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p149"></a>
 *[Page 149 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=149)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -3298,10 +3435,19 @@ January, 2019
 
 Moving Forward for the Fourth Year in a row and it's only The Beginning. 2020 Here we come!
 
+</details>
+
 <a id="p150"></a>
 *[Page 150 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=150)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p151"></a>
 *[Page 151 of the original](https://www.southlyonmi.org/11-25-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733150#page=151)* (read by OCR; check the original)

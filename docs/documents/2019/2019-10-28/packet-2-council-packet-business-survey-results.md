@@ -80,6 +80,11 @@ More than half of responding business owners have interacted with the City withi
 <a id="p4"></a>
 *[Page 4 of the original](https://www.southlyonmi.org/2019%20Business%20Survey%20results.pdf?t=202108310733140#page=4)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Q1: How likely are you to recommend someone to open a business in South Lyon?
 
 Over three-fourths of responding business owners are somewhat or very likely to recommend starting a business in South Lyon.
@@ -90,8 +95,15 @@ Answered: 22 Skipped: 0
 
 Powered by SurveyMonkey
 
+</details>
+
 <a id="p5"></a>
 *[Page 5 of the original](https://www.southlyonmi.org/2019%20Business%20Survey%20results.pdf?t=202108310733140#page=5)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Q2: What are South Lyon's three greatest business advantages?
 
@@ -103,8 +115,15 @@ Answered: 20 Skipped: 2
 
 Powered by SurveyMonkey
 
+</details>
+
 <a id="p6"></a>
 *[Page 6 of the original](https://www.southlyonmi.org/2019%20Business%20Survey%20results.pdf?t=202108310733140#page=6)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Q3: What are South Lyon's three greatest business disadvantages?
 
@@ -114,8 +133,15 @@ Top mentions include traffic, lack of business diversity, issues with city offic
 
 Answered: 20 Skipped: 2
 
+</details>
+
 <a id="p7"></a>
 *[Page 7 of the original](https://www.southlyonmi.org/2019%20Business%20Survey%20results.pdf?t=202108310733140#page=7)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Q4: If your business has used any of the following types of marketing or advertising efforts, how effective have they been for you?
 
@@ -127,8 +153,15 @@ Answered: 22 Skipped: 0
 
 Powered by SurveyMonkey
 
+</details>
+
 <a id="p8"></a>
 *[Page 8 of the original](https://www.southlyonmi.org/2019%20Business%20Survey%20results.pdf?t=202108310733140#page=8)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Q5: Approximately how much does your business spend annually on marketing and advertising?
 
@@ -138,8 +171,15 @@ Half of responding business owners spend at least $2000 on advertising each year
 
 Answered: 22 Skipped: 0
 
+</details>
+
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/2019%20Business%20Survey%20results.pdf?t=202108310733140#page=9)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 Q6: Group advertising programs can be an affordable way for a business to get their name into their target market in a big way. How interested would your business be in participating in group marketing or advertising through the City or the Downtown Development Authority (DDA)?
 
@@ -149,8 +189,15 @@ Nearly two-thirds of respondents expressed interest in group advertising with th
 
 Answered: 22 Skipped: 0
 
+</details>
+
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/2019%20Business%20Survey%20results.pdf?t=202108310733140#page=10)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Q7: Are there local events you find beneficial to your business? If so, please list or describe below:
 
@@ -162,8 +209,15 @@ Answered: 17 Skipped: 5
 
 Powered by SurveyMonkey
 
+</details>
+
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/2019%20Business%20Survey%20results.pdf?t=202108310733140#page=11)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Q8: How effective has the City been in recent years accommodating business development and expansion opportunities?
 
@@ -175,8 +229,15 @@ Answered: 21 Skipped: 1
 
 Powered by SurveyMonkey
 
+</details>
+
 <a id="p12"></a>
 *[Page 12 of the original](https://www.southlyonmi.org/2019%20Business%20Survey%20results.pdf?t=202108310733140#page=12)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Q9: When did you last interact with the City of South Lyon on a business-related issue?
 
@@ -188,8 +249,15 @@ Answered: 22 Skipped: 0
 
 Powered by 🎧 SurveyMonkey
 
+</details>
+
 <a id="p13"></a>
 *[Page 13 of the original](https://www.southlyonmi.org/2019%20Business%20Survey%20results.pdf?t=202108310733140#page=13)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>Q10: If you have interacted with any of the following City departments in recent years, how would you rate them (on a scale of 1 to 5) in terms of providing helpful and/or prompt service?</div>
 
@@ -200,6 +268,8 @@ The Police Department and Fire Department have the highest ratings, with average
 Answered: 21 Skipped: 1
 
 Powered by SurveyMonkey
+
+</details>
 
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/2019%20Business%20Survey%20results.pdf?t=202108310733140#page=14)* (read by OCR; check the original)
@@ -231,6 +301,11 @@ Answered: 9 Skipped: 13
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/2019%20Business%20Survey%20results.pdf?t=202108310733140#page=15)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Q12: The City uses their website (www.southlyonmi.org) to communicate information to its residents and businesses. How effective is this means of communication for your business needs?
 
 Of the 13 respondents who rated the website, just over half find it either somewhat or very effective.
@@ -240,6 +315,8 @@ Of the 13 respondents who rated the website, just over half find it either somew
 Answered: 22 Skipped: 0
 
 Powered by SurveyMonkey
+
+</details>
 
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/2019%20Business%20Survey%20results.pdf?t=202108310733140#page=16)* (read by OCR; check the original)
@@ -273,6 +350,11 @@ Powered by SurveyMonkey
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/2019%20Business%20Survey%20results.pdf?t=202108310733140#page=17)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Q14: What type of business do you operate?</div>
 
 *[Image or figure on this page; see the original.]*
@@ -281,8 +363,15 @@ Answered: 22 Skipped: 0
 
 Powered by SurveyMonkey
 
+</details>
+
 <a id="p18"></a>
 *[Page 18 of the original](https://www.southlyonmi.org/2019%20Business%20Survey%20results.pdf?t=202108310733140#page=18)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>Q15: How many people are employed at your business?</div>
 
@@ -292,8 +381,15 @@ Answered: 22 Skipped: 0
 
 Powered by SurveyMonkey
 
+</details>
+
 <a id="p19"></a>
 *[Page 19 of the original](https://www.southlyonmi.org/2019%20Business%20Survey%20results.pdf?t=202108310733140#page=19)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>Q16: What is your age?</div>
 
@@ -302,6 +398,8 @@ Powered by SurveyMonkey
 Answered: 21 Skipped: 1
 
 Powered by SurveyMonkey
+
+</details>
 
 <a id="p20"></a>
 *[Page 20 of the original](https://www.southlyonmi.org/2019%20Business%20Survey%20results.pdf?t=202108310733140#page=20)* (read by OCR; check the original)

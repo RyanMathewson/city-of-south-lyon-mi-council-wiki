@@ -441,6 +441,11 @@ City Clerk/Treasurer
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/10-28-24%20Council%20Packet%20-%20online%20only.pdf?t=202410241553200#page=17)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Area-Wide Benefit Map
 
 City of South Lyon
@@ -450,6 +455,8 @@ City of South Lyon
 This Census Block Group map reflects the 2011-2015 American Community Survey (ACS).
 
 Map Created On: 9/1/2020
+
+</details>
 
 <a id="p18"></a>
 *[Page 18 of the original](https://www.southlyonmi.org/10-28-24%20Council%20Packet%20-%20online%20only.pdf?t=202410241553200#page=18)* (read by OCR; check the original)
@@ -673,5 +680,12 @@ ENGINEER: Hubbell, Roth & Clark
 <a id="p26"></a>
 *[Page 26 of the original](https://www.southlyonmi.org/10-28-24%20Council%20Packet%20-%20online%20only.pdf?t=202410241553200#page=26)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 

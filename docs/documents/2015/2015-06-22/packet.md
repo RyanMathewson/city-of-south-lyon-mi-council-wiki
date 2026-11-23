@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "19dd43c5c009b37c5b1f782d623bec20913ae2baaab41909609f31b4664d2427"
 source_bytes: 6350202
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 126
 ocr_pages: 126
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2015-06-22
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC061915CCpacket6-22-15-06192015152243.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `19dd43c5c009b37c…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC061915CCpacket6-22-15-06192015152243.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `19dd43c5c009b37c…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC061915CCpacket6-22-15-06192015152243.pdf?t=202108310732570#page=1)* (read by OCR; check the original)
@@ -210,6 +210,11 @@ Mayor Wallace stated he will only use his personal email, not the city email. He
 <a id="p8"></a>
 *[Page 8 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC061915CCpacket6-22-15-06192015152243.pdf?t=202108310732570#page=8)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 issue to be on the ballot. It is a difficult chore. They would have to be valid signatures of residents of the City only.
 
 CM 6-6-15 MOTION TO ENTER INTO CLOSED SESSION AS ACCORDING TO SECTION 8(a) OF THE OPEN MEETINGS AT 8:45 P.M.
@@ -237,6 +242,8 @@ Respectfully submitted
 Tedd Wallace Mayor
 
 Lisa Deaton Clerk/Treasurer
+
+</details>
 
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC061915CCpacket6-22-15-06192015152243.pdf?t=202108310732570#page=9)* (read by OCR; check the original)
@@ -840,6 +847,11 @@ It is further understood and agreed that no oral representations are binding on 
 <a id="p43"></a>
 *[Page 43 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC061915CCpacket6-22-15-06192015152243.pdf?t=202108310732570#page=43)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 It is further understood and agreed that no tax or withholding shall occur in the payments to Tech Resources, Inc. and that Tech Resources, Inc. agrees to hold harmless City of South Lyon, its agents, its personnel, advisors, representatives and the like for any liability or claims of any kind as result of this agreement not to withhold and further agrees to hold harmless City of South Lyon for the same.
 
 Tech Resources, Inc. represents that technicians and/or personnel assigned to the CLEMIS/LIEN and fire computer record services comply with all laws, regulations, and specifications as are particular to such systems and fire departments in the State of Michigan and meet all Michigan State requirements in servicing and having access to such systems.
@@ -855,6 +867,8 @@ Matt Shelly Presidemt. Tech Resources, Inc.
 *[Image or figure on this page; see the original.]*
 
 Authorized Representative - City of South Lyon
+
+</details>
 
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC061915CCpacket6-22-15-06192015152243.pdf?t=202108310732570#page=44)* (read by OCR; check the original)
@@ -985,6 +999,11 @@ Dispute Resolution
 <a id="p48"></a>
 *[Page 48 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC061915CCpacket6-22-15-06192015152243.pdf?t=202108310732570#page=48)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Severability
 
 25. In the event that any of the provisions of this Agreement are held to be invalid or unenforceable in whole or in part, all other provisions will nevertheless continue to be valid and enforceable with the invalid or unenforceable parts severed from the remainder of this Agreement.
@@ -1008,6 +1027,8 @@ Per: Matt Shelly
 Title: City Clerk Treasure
 
 Date: January 1, 2010
+
+</details>
 
 <a id="p49"></a>
 *[Page 49 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/DOC061915CCpacket6-22-15-06192015152243.pdf?t=202108310732570#page=49)* (read by OCR; check the original)

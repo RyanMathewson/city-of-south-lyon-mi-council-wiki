@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "14f1d650ec2c03b468487a420d4cb00bc00d292bc680beccbf68f085d4f4bac0"
 source_bytes: 4211819
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 95
 ocr_pages: 95
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2017-06-12
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%206.12b.17.pdf?t=202108310733080) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `14f1d650ec2c03b4…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%206.12b.17.pdf?t=202108310733080) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `14f1d650ec2c03b4…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%206.12b.17.pdf?t=202108310733080#page=1)* (read by OCR; check the original)
@@ -584,7 +584,14 @@ Motion to adjourn at 10:30 p.m.
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%206.12b.17.pdf?t=202108310733080#page=24)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p25"></a>
 *[Page 25 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%206.12b.17.pdf?t=202108310733080#page=25)* (read by OCR; check the original)
@@ -685,6 +692,11 @@ MOTION CARRIED
 <a id="p29"></a>
 *[Page 29 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%206.12b.17.pdf?t=202108310733080#page=29)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 CM 5-5-17 MOTION TO APPROVE THE BUDGET FOR 2017-2018
 
 Motion by Kivell, supported by Kramer
@@ -728,6 +740,8 @@ Respectfully submitted.
 Mayor John Galeas
 
 Clerk Lisa Deaton
+
+</details>
 
 <a id="p30"></a>
 *[Page 30 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%206.12b.17.pdf?t=202108310733080#page=30)* (read by OCR; check the original)
@@ -1585,11 +1599,18 @@ SUGGESTED MOTION: Motion by ___, supported by ___, to approve for the City Manag
 <a id="p82"></a>
 *[Page 82 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%206.12b.17.pdf?t=202108310733080#page=82)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 2017 Annual Meeting RISK
 
 AUGUST 17-19 · GRAND TRAVERSE RESORT · ACME, MI · MMRMA.ORG
+
+</details>
 
 <a id="p83"></a>
 *[Page 83 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%206.12b.17.pdf?t=202108310733080#page=83)* (read by OCR; check the original)
@@ -2029,6 +2050,11 @@ Print Name of Licensee & Title
 <a id="p92"></a>
 *[Page 92 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%206.12b.17.pdf?t=202108310733080#page=92)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # 2017 Fathers Day Family Day At The Hat
 
 Sunday, June 18th, Noon to 10pm
@@ -2038,6 +2064,8 @@ Outdoor and indoor event with Kids Games, Beer Tent,
 Bounce Houses and food truck.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p93"></a>
 *[Page 93 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%206.12b.17.pdf?t=202108310733080#page=93)* (read by OCR; check the original)
@@ -2097,6 +2125,11 @@ Farmington Hills, MI 48331</td><td></td><td></td></tr><tr><td>MEMO</td><td></td>
 <a id="p95"></a>
 *[Page 95 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%206.12b.17.pdf?t=202108310733080#page=95)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Thank you so well for all
 
 of your time and dedication
@@ -2112,4 +2145,6 @@ class decisions,
 humor and action.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 

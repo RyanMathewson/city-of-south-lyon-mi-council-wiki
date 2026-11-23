@@ -831,6 +831,11 @@ The 6.93% scenario provides an estimate of computed employer contributions based
 <a id="p29"></a>
 *[Page 29 of the original](https://www.southlyonmi.org/11-25-24%20Council%20Packet%20-%20online%20only.pdf?t=202411211443440#page=29)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>Notes: ___</div>
@@ -838,6 +843,8 @@ The 6.93% scenario provides an estimate of computed employer contributions based
 <div>The green indicator lines have been added at 60% funded and 17 years following the valuation date for PA 202 purposes.</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p30"></a>
 *[Page 30 of the original](https://www.southlyonmi.org/11-25-24%20Council%20Packet%20-%20online%20only.pdf?t=202411211443440#page=30)* (read by OCR; check the original)

@@ -324,6 +324,11 @@ Mayor Kennedy reminded everyone that there are only two Farmers Market Saturdays
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/10-27-25%20redacted%20packet.pdf?t=202510271352410#page=10)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 available. He then stated he wants everyone to drive around our community and check out all the great Halloween decorations folks have put up at their homes. It's truly this time of year that brings me to ask that eternal question after seeing some of those extensive decorations. Where do you store all that stuff after Halloween is over.
 
 ADJOURNMENT
@@ -341,6 +346,8 @@ Respectfully submitted,
 Mayor Steve Kennedy
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/10-27-25%20redacted%20packet.pdf?t=202510271352410#page=11)* (read by OCR; check the original)
@@ -444,9 +451,16 @@ Date
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/10-27-25%20redacted%20packet.pdf?t=202510271352410#page=15)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ### 2.8103 mi
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/10-27-25%20redacted%20packet.pdf?t=202510271352410#page=16)* (read by OCR; check the original)
@@ -579,6 +593,11 @@ Lisa Deaton, City Clerk/Treasurer
 <a id="p22"></a>
 *[Page 22 of the original](https://www.southlyonmi.org/10-27-25%20redacted%20packet.pdf?t=202510271352410#page=22)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## OAKLAND COUNTY MICHIGAN
@@ -629,6 +648,8 @@ Non-Eligible Block Groups
 
 This Census Block Group map reflects the 2011-2015 American Community Survey (ACS).
 
+</details>
+
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/10-27-25%20redacted%20packet.pdf?t=202510271352410#page=23)* (read by OCR; check the original)
 
@@ -650,6 +671,11 @@ SUGGESTED MOTION: None
 
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/10-27-25%20redacted%20packet.pdf?t=202510271352410#page=24)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 South Lyon
 
@@ -683,8 +709,15 @@ Reconstruction 2026
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p25"></a>
 *[Page 25 of the original](https://www.southlyonmi.org/10-27-25%20redacted%20packet.pdf?t=202510271352410#page=25)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 SCALE: 1" = 100'
 
@@ -707,6 +740,8 @@ PHONE: (517) 552-9199
 WEB SITE: www.hrcomgr.com
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p26"></a>
 *[Page 26 of the original](https://www.southlyonmi.org/10-27-25%20redacted%20packet.pdf?t=202510271352410#page=26)* (read by OCR; check the original)

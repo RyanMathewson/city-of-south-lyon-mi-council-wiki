@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/7-11-22%20Council%20packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "dc4093360b662d553dad84e8b874b7670c1e1d10cc0f21e942f2ac169b5a7e8e"
 source_bytes: 3252032
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 41
 ocr_pages: 41
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2022-07-11
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/7-11-22%20Council%20packet%20-%20online%20only.pdf?t=202207071534340) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `dc4093360b662d55…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/7-11-22%20Council%20packet%20-%20online%20only.pdf?t=202207071534340) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `dc4093360b662d55…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/7-11-22%20Council%20packet%20-%20online%20only.pdf?t=202207071534340#page=1)* (read by OCR; check the original)
@@ -741,7 +741,14 @@ $5,000.00
 <a id="p32"></a>
 *[Page 32 of the original](https://www.southlyonmi.org/7-11-22%20Council%20packet%20-%20online%20only.pdf?t=202207071534340#page=32)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p33"></a>
 *[Page 33 of the original](https://www.southlyonmi.org/7-11-22%20Council%20packet%20-%20online%20only.pdf?t=202207071534340#page=33)* (read by OCR; check the original)
@@ -781,6 +788,11 @@ _____ to approve the removal the two round drains, sawcut the concrete floor, an
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/7-11-22%20Council%20packet%20-%20online%20only.pdf?t=202207071534340#page=34)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Old Drain</div>
 
 *[Image or figure on this page; see the original.]*
@@ -791,10 +803,19 @@ _____ to approve the removal the two round drains, sawcut the concrete floor, an
 
 \(x = \frac{1}{2} \left( \frac{
 
+</details>
+
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/7-11-22%20Council%20packet%20-%20online%20only.pdf?t=202207071534340#page=35)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p36"></a>
 *[Page 36 of the original](https://www.southlyonmi.org/7-11-22%20Council%20packet%20-%20online%20only.pdf?t=202207071534340#page=36)* (read by OCR; check the original)

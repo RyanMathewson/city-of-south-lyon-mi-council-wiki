@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "c92bf80f1e24c3a71fc5510c2c21a31e89709a19a39c796386c444fc2b166752"
 source_bytes: 6387138
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 138
 ocr_pages: 138
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2018-11-12
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `c92bf80f1e24c3a7…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `c92bf80f1e24c3a7…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=1)* (read by OCR; check the original)
@@ -2016,11 +2016,18 @@ Number of Units at Percent
 <a id="p85"></a>
 *[Page 85 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=85)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 a. Building Coverage: The building (house and porch) coverage for the 50 lots ranges from 15% coverage to 30% coverage. The applicant has reduced the number of units with building coverage over 25% on the proposed September 2018 plan (compared to the August 2018 site plan last presented).
 
 <div>Percent Impervious Cover (House, Porch, Deck)</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p86"></a>
 *[Page 86 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=86)* (read by OCR; check the original)
@@ -2551,6 +2558,11 @@ WARREN, MI 48080
 <a id="p105"></a>
 *[Page 105 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=105)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <table><tr><td>TOPOGRAPHIC SURVEY</td><td>ARPEE/DONNAN, INC.</td><td>PREPARED FOR</td><td>CORNERSTONE RESIDENTIAL GROUP LLC</td></tr><tr><td>PARCEL 21-19-128-002</td><td>LAND SURVEYING - ENGINEERING - MAPPING</td><td>52401 TRAILWOOD DR.</td><td></td></tr><tr><td>PART OF THE NW 1/4 SEC 19, T. I. N., R. 7 E.</td><td>32233 SCHOOLCRAFT RD., SUVE 103</td><td>SOUTH LYON, MI 48178</td><td></td></tr><tr><td>CITY OF SOUTH LYON</td><td>LUXONIA, MICHIGAN 48150</td><td>248-613-3752</td><td></td></tr><tr><td>WAYNE COUNTY, MICHIGAN</td><td>PHONE (734) 953-2338 FAX (734) 533-3324</td><td></td><td></td></tr></table>
 
 *[Image or figure on this page; see the original.]*
@@ -2611,8 +2623,15 @@ SURCY HAS BEEN BASED ON GREOVEABLE ENFORCE AND ANALYZE CITY RECORD INFORMATION A
 
 RESTAURANCES OF THE
 
+</details>
+
 <a id="p106"></a>
 *[Page 106 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=106)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td>PERMIT NO. 14-124</td><td>DATE</td><td></td><td>TYPE</td><td>SURVEY</td></tr><tr><td>562</td><td>DATE</td><td></td><td>PERMIT NO. 14-124</td><td>7/24/2010</td></tr><tr><td>7/24/2010</td><td>DATE</td><td></td><td>PERMIT NO. 14-124</td><td>7/24/2010</td></tr><tr><td>7/24/2010</td><td>DATE</td><td></td><td>PART OF THE HW 1/4, SEC. 19, T1N-A7E</td><td>DATE: 2023-07-23</td></tr><tr><td>7/24/2010</td><td>DATE</td><td></td><td>PART OF THE HW 1/4, SEC. 19, T1N-A7E</td><td>DATE: 2023-07-23</td></tr><tr><td>7/24/2010</td><td>DATE</td><td></td><td>PART OF THE HW 1/4, SEC. 19, T1N-A7E</td><td>DATE: 2023-07-23</td></tr><tr><td>7/24/2010</td><td>DATE</td><td></td><td>PART OF THE HW 1/4, SEC. 19, T</td><td></td></tr></table>
 
@@ -2634,8 +2653,15 @@ THOMASVILLE STE CONDONN101
 
 TREE SURVEY
 
+</details>
+
 <a id="p107"></a>
 *[Page 107 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=107)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -2646,8 +2672,15 @@ PARCEL NO.: 21-19-126-002
 PART OF THE NW 1/4, SEC. 19, TIN-R2E
 CITY OF SOUTH LYON, OAKLAND COUNTY, MICHIGAN</td></tr></table>
 
+</details>
+
 <a id="p108"></a>
 *[Page 108 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=108)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td>DEMOLUTION PLAN</td></tr></table>
 
@@ -2668,6 +2701,8 @@ NOT FOR CONSTRUCTION
 THOMASYILLE SITE CONDOMINUM
 
 DEMOLITION PLAN
+
+</details>
 
 <a id="p109"></a>
 *[Page 109 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=109)* (read by OCR; check the original)
@@ -2719,6 +2754,11 @@ TOTAL (OF AREA) :</td><td>89,018
 <a id="p110"></a>
 *[Page 110 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=110)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <table><tr><td rowspan="5" colspan="2">ENTRANCE DETAILS</td><td>PART OF THE NEW 1/4, SEC. 19, TIN-R28 CITY OF SOUTH LYON, OAKLAND COUNTY, MICHIGAN</td></tr><tr><td>PARCEL NO.: 21-19-126-002</td></tr><tr><td>PARCEL NO.: 21-19-126-002</td></tr><tr><td>PARCEL NO.: 21-19-126-002</td></tr><tr><td>PARCEL NO.: 21-19-126-002</td></tr></table>
 
 NOT FOR CONSTRUCTION
@@ -2737,18 +2777,39 @@ TONASYLLE SITE CONDOMONTUM
 
 ENTRANCE DETAILS
 
+</details>
+
 <a id="p111"></a>
 *[Page 111 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=111)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p112"></a>
 *[Page 112 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=112)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p113"></a>
 *[Page 113 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=113)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 NOT FOR CONSTRUCTION
 
@@ -2756,10 +2817,19 @@ NOT FOR CONSTRUCTION
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p114"></a>
 *[Page 114 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=114)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p115"></a>
 *[Page 115 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=115)* (read by OCR; check the original)
@@ -2771,12 +2841,24 @@ NOT FOR CONSTRUCTION
 <a id="p116"></a>
 *[Page 116 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=116)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 NOT FOR CONSTRUCTION
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p117"></a>
 *[Page 117 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=117)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td>PERMIT NO. 14-134</td><td>DATE</td><td>STORM SEWER PLAN (EAST)</td></tr><tr><td>C-61</td><td>PERMIT NO. 14-134
 PERMIT NO. 14-134</td><td>PERMIT NO. 14-134
@@ -2784,18 +2866,39 @@ PERMIT NO. 14-134</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p118"></a>
 *[Page 118 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=118)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p119"></a>
 *[Page 119 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=119)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p120"></a>
 *[Page 120 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=120)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -2803,8 +2906,15 @@ PERMIT NO. 14-134</td></tr></table>
 
 NOT FOR CONSTRUCTION
 
+</details>
+
 <a id="p121"></a>
 *[Page 121 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=121)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td colspan="4059">PERMIT NO. / RE<|LOC_410|><|LOC_0|><|LOC_444|><|LOC_0|><|LOC_444|><|LOC_40|><|LOC_410|><|LOC_40|>
 DATE: 2024-09-01 14:00:00</td></tr></table>
@@ -2815,8 +2925,15 @@ NOT FOR CONTRUCTION
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p122"></a>
 *[Page 122 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=122)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td colspan="3">THOMASVILLE STA. 100+00 to 108+51</td></tr></table>
 
@@ -2832,8 +2949,15 @@ THOMASVILLE CIR. PLAN & PROFILE
 
 STA. 100+00 to 106+51
 
+</details>
+
 <a id="p123"></a>
 *[Page 123 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=123)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td colspan="3">THOMASVILLE STA. 106-61 to 109+70</td></tr></table>
 
@@ -2847,8 +2971,15 @@ THOMASVILLE CIR. PLAN & PROFILE
 
 STA. 106+51 to 109+70
 
+</details>
+
 <a id="p124"></a>
 *[Page 124 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=124)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td colspan="3">THOMASVILLE STA. 109+70 to 114+94</td></tr></table>
 
@@ -2860,8 +2991,15 @@ STA. 106+51 to 109+70
 
 THOMASVILLE CIR. PLAN & PROFILE
 
+</details>
+
 <a id="p125"></a>
 *[Page 125 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=125)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td>PERMIT NO. 121-19-10002</td><td>DATE OF PRODUCT移出</td><td>DATE的</td><td>TRADE NO. 21-19-10002</td><td>PERMIT NO. 21-19-10002</td><td>DATE OF WILL移出</td><td>DATE的</td><td>TRADE NO. 21-19-10002</td><td>PERMIT NO. 21-19-10002</td><td>DATE OF WILL移出</td><td>DATE的</td><td>TRADE NO. 21-19-10002</td><td>PERMIT NO. 21-19-10002</td><td>DATE OF WILL移出</td><td>DATE的</td><td>TRADE NO. 21-19-10002</td><td>PERMIT NO. 21-19-10002</td><td>DATE OF WILL移出</td><td>DATE的</td><td>TRADE NO. 21-19-10002</td><td>DATE的</td><td>TRADE NO. 21-19-10002</td><td>DATE的</td><td>TRADE NO. 21-19-10002</td><td>DATE的</td><td>TRADE NO. 21-19-10002</td><td>DATE的</td><td>TRADE NO. 21-19-1000</td></tr></table>
 
@@ -2875,13 +3013,27 @@ THOMASVILLE CIR. PLAN & PROFILE
 
 STA. 114+94 to 117+96
 
+</details>
+
 <a id="p126"></a>
 *[Page 126 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=126)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p127"></a>
 *[Page 127 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=127)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td rowspan="2">C-11.1</td><td rowspan="2">PROJECT NO. 14-134</td><td>SOCIAL N/A</td><td>Rural Spiritual/Autonomous</td><td>STATE</td><td>CITY OF SOUTH LYON STORM DETAILS</td></tr><tr><td>RESEARCH EVALUATION</td><td>7/26/2014</td><td>THOMASVILLE SITE CONSIDERATION
 PARCEL NO.: 21-19-126-002
@@ -2890,13 +3042,22 @@ CITY OF SOUTH LYON, OAKLAND COUNTY, MICHIGAN</td><td></td></tr></table>
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p128"></a>
 *[Page 128 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=128)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td>ME</td><td>Group</td></tr><tr><td>278 VETERANS DRYING
 HOUSE OF LIVING</td><td>4000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p129"></a>
 *[Page 129 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=129)* (read by OCR; check the original)
@@ -2905,6 +3066,11 @@ HOUSE OF LIVING</td><td>40000000000000000000000000000000000000000000000000000000
 
 <a id="p130"></a>
 *[Page 130 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=130)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td rowspan="5">C-114</td><td>PRODUCT NO. 14-1-13A</td><td>POW. INDUSTRIAL PRODUCTS</td><td>CITY</td><td>CITY OF SOUTH LYON WM DETAILS</td></tr><tr><td>SHANGHAI, TAIWAN 410024</td><td>LUNA</td><td>CITY OF SOUTH LYON WM DETAILS</td><td></td></tr><tr><td>SHANGHAI, TAIWAN 410024</td><td>PORT/ROAD</td><td>TAPLAWSILLE SITE CONFORMITY</td><td></td></tr><tr><td>PORT OF THE WY 1/4, SEC. 19, T1N-R7E</td><td></td><td>PARCEL NO: 21-19-128-002</td><td></td></tr><tr><td>CITY OF SOUTH LYON, ONLAND COUNTY, MICHIGAN</td><td></td><td>PART OF THE WY 1/4, SEC. 19, T1N-R7E</td><td></td></tr></table>
 
@@ -2917,6 +3083,8 @@ HOUSE OF LIVING</td><td>40000000000000000000000000000000000000000000000000000000
 <table><tr><td>Pipa Diameter (inch)</td><td>90 $ ^{{a}} $</td><td>60 $ ^{{a}} $</td><td>45 $ ^{{a}} $</td><td>22.5 $ ^{{a}} $</td></tr><tr><td>0-inch</td><td>50 (3)</td><td>23 (2)</td><td>16 (1)</td><td>8 (1)</td></tr><tr><td>10-inch</td><td>51 (4)</td><td>28 (2)</td><td>18 (1)</td><td>9 (1)</td></tr><tr><td>12-inch</td><td>73 (4)</td><td>33 (2)</td><td>23 (2)</td><td>11 (1)</td></tr><tr><td>15-inch</td><td>55 (5)</td><td>42 (5)</td><td>28 (2)</td><td>11 (1)</td></tr><tr><td>20-inch</td><td>118 (6)</td><td>53 (3)</td><td>35 (2)</td><td>11 (1)</td></tr><tr><td>24-inch</td><td>138 (7)</td><td>61 (4)</td><td>40 (2)</td><td>11 (1)</td></tr><tr><td>30-inch</td><td>170 (8)</td><td>75 (4)</td><td>50 (3)</td><td>13 (1)</td></tr><tr><td>36-inch</td><td>198 (10)</td><td>88 (6)</td><td>69 (8)</td><td>15 (1)</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p131"></a>
 *[Page 131 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=131)* (read by OCR; check the original)
@@ -2969,12 +3137,24 @@ UNID</td><td>A</td><td>B</td></tr><tr><td>C</td><td>D</td><td>E</td></tr></table
 <a id="p134"></a>
 *[Page 134 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=134)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td>Chemical</td></tr><tr><td>Chemical</td></tr><tr><td>Chemical</td></tr><tr><td>Chemical</td></tr></table>
 
+</details>
+
 <a id="p135"></a>
 *[Page 135 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=135)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td colspan="2">LANDSCAPE PLAN</td></tr></table>
 
@@ -3010,12 +3190,21 @@ RELIE HORSHALL CONNST OF THE FOLLOWING TYPES AND PERIOD
 
 KENTUCKY SLILE GROUP - BARCHONGRADUATE 80%
 
+</details>
+
 <a id="p136"></a>
 *[Page 136 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=136)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td colspan="2">LANDSCAPE PLAN</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p137"></a>
 *[Page 137 of the original](https://www.southlyonmi.org/11-12-18%20Council%20packet%20part%201a.pdf?t=202108310733130#page=137)* (read by OCR; check the original)

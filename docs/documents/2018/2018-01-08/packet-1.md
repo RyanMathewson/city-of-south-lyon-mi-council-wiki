@@ -318,9 +318,16 @@ VOTE: MOTION CARRIED UNANIMOUSLY
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/1.8.18%20council%20pkt%20part%201.pdf?t=202108310733110#page=14)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Clerk Lisa Deaton
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/1.8.18%20council%20pkt%20part%201.pdf?t=202108310733110#page=15)* (read by OCR; check the original)

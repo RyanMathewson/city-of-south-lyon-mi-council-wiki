@@ -1172,6 +1172,11 @@ Date
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/9-23-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=41)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## GIDM Indirect-Fired Heating and Ventilating Units
 
 *[Image or figure on this page; see the original.]*
@@ -1184,10 +1189,19 @@ EQUIPMENT MANUFACTURING LTD.
 
 GIDM0406BR
 
+</details>
+
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/9-23-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=42)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p43"></a>
 *[Page 43 of the original](https://www.southlyonmi.org/9-23-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=43)* (read by OCR; check the original)
@@ -1425,6 +1439,11 @@ x 4" Female Threads
 <a id="p48"></a>
 *[Page 48 of the original](https://www.southlyonmi.org/9-23-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=48)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # Diesel Storage Tank for Generator Set
 
 *[Image or figure on this page; see the original.]*
@@ -1441,10 +1460,19 @@ SIDE VIEW NEAR DRAIN PLUG
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p49"></a>
 *[Page 49 of the original](https://www.southlyonmi.org/9-23-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=49)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p50"></a>
 *[Page 50 of the original](https://www.southlyonmi.org/9-23-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=50)* (read by OCR; check the original)

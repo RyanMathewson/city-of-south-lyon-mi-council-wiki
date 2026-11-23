@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/3-28-22%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "25a7fc85b6563f3cc97e09736f936475290448b20bc544b6c7f448f955acc336"
 source_bytes: 8583842
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 57
 ocr_pages: 57
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2022-03-28
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/3-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202203241447490) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `25a7fc85b6563f3c…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/3-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202203241447490) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `25a7fc85b6563f3c…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/3-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202203241447490#page=1)* (read by OCR; check the original)
@@ -793,6 +793,11 @@ Our clients may opt-out of the MAC fee as the MAC is a voluntary membership. If 
 <a id="p25"></a>
 *[Page 25 of the original](https://www.southlyonmi.org/3-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202203241447490#page=25)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## City of South Lyon General Obligation Unlimited Tax Bonds, Series 2023 & 2026 as of 03/18/2022
 
 ## Estimated Total Issue Sources And Uses
@@ -800,6 +805,8 @@ Our clients may opt-out of the MAC fee as the MAC is a voluntary membership. If 
 <div>2023 Dated 02/01/2023 | 2026 Dated 02/01/2026</div>
 
 <table><tr><td></td><td>Road Financing Project 2023</td><td>Road Financing Project 2026</td><td>Summary</td></tr><tr><td>Sources of Funds</td><td></td><td></td><td></td></tr><tr><td>Par Amount of Bonds</td><td>$ 8,725,000.00</td><td>$ 9,740,000.00</td><td>$ 18,465,000.00</td></tr><tr><td>Total Sources</td><td>8,725,000.00</td><td>9,740,000.00</td><td>18,465,000.00</td></tr><tr><td>Uses of Funds</td><td></td><td></td><td></td></tr><tr><td>Project Deposit</td><td>8,546,175.00</td><td>9,551,025.00</td><td>18,097,200.00</td></tr><tr><td>Total Underwriter's Discount (1.000%)</td><td>87,250.00</td><td>97,400.00</td><td>184,650.00</td></tr><tr><td>Costs of Issuance</td><td>91,575.00</td><td>91,575.00</td><td>183,150.00</td></tr><tr><td>Total Uses</td><td>$ 8,725,000.00</td><td>$ 9,740,000.00</td><td>$ 18,465,000.00</td></tr></table>
+
+</details>
 
 <a id="p26"></a>
 *[Page 26 of the original](https://www.southlyonmi.org/3-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202203241447490#page=26)* (read by OCR; check the original)
@@ -1046,6 +1053,11 @@ Corrected by Engineer
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/3-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202203241447490#page=44)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>STANDARD PLANS</div>
@@ -1126,6 +1138,8 @@ GLENN KIVELL
 MARGARET KURTZWEIL
 
 LORI MOSIER
+
+</details>
 
 <a id="p45"></a>
 *[Page 45 of the original](https://www.southlyonmi.org/3-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202203241447490#page=45)* (read by OCR; check the original)
@@ -1313,6 +1327,11 @@ CART AND GUTTER COOKS, NOT 10 - 1</td><td></td></tr></table>
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/3-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202203241447490#page=47)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
@@ -1329,8 +1348,15 @@ WALL W CHANG IN ME CORPORATION
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p48"></a>
 *[Page 48 of the original](https://www.southlyonmi.org/3-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202203241447490#page=48)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td colspan="2">CITY OF SOUTH LYON</td></tr><tr><td colspan="2">2022 DPW COMPLEX PAVING IMPROVEMENTS</td></tr><tr><td colspan="2">SITE AND CRADING PLAN</td></tr><tr><td>NO.</td><td>NO. NO.</td></tr><tr><td>20190043</td><td>SCALE  $ 1^{st} $ 30'</td></tr><tr><td>DATE February 2022</td><td>SHEET NO. 5</td></tr><tr><td colspan="2">© 2019 PARKS, INC. & D.W. Inc. All Rights Reserved.</td></tr></table>
 
@@ -1344,15 +1370,31 @@ WALL W CHANG IN ME CORPORATION
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p49"></a>
 *[Page 49 of the original](https://www.southlyonmi.org/3-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202203241447490#page=49)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p50"></a>
 *[Page 50 of the original](https://www.southlyonmi.org/3-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202203241447490#page=50)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p51"></a>
 *[Page 51 of the original](https://www.southlyonmi.org/3-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202203241447490#page=51)* (read by OCR; check the original)
@@ -1438,6 +1480,11 @@ POSSIBLE COURSES OF ACTION: Approve/deny the purchase for removal and installati
 <a id="p54"></a>
 *[Page 54 of the original](https://www.southlyonmi.org/3-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202203241447490#page=54)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>ATTACHMENT 1.1 (IMAGES OF THE ITEM TO BE REPLACED)</div>
 
 *[Image or figure on this page; see the original.]*
@@ -1447,6 +1494,8 @@ Variable Frequency Drive Enclosure – Blower #3
 Area highlighted in the yellow box shows the component to replace
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p55"></a>
 *[Page 55 of the original](https://www.southlyonmi.org/3-28-22%20Council%20Packet%20-%20online%20only.pdf?t=202203241447490#page=55)* (read by OCR; check the original)

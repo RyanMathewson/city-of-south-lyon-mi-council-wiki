@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/6-10-19%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "811b3462a62810e7e8911f278a08539f1078656d49701a42f29c4d7216fd8dae"
 source_bytes: 2603498
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 72
 ocr_pages: 72
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2019-06-10
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/6-10-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `811b3462a62810e7…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/6-10-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `811b3462a62810e7…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/6-10-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=1)* (read by OCR; check the original)
@@ -1360,6 +1360,11 @@ $1,020.00 due upon completion of fibered coating, fibered coating will be applie
 <a id="p64"></a>
 *[Page 64 of the original](https://www.southlyonmi.org/6-10-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=64)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # 20 YEAR ROOFING SYSTEM
 
 # ROOF SYSTEM FOR METAL ROOFS
@@ -1378,10 +1383,19 @@ Apply second layer of Starbond Modified Cold Applied Asphalt Mastic.
 
 Apply cover layer of Fibered Aluminum Coating.
 
+</details>
+
 <a id="p65"></a>
 *[Page 65 of the original](https://www.southlyonmi.org/6-10-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=65)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p66"></a>
 *[Page 66 of the original](https://www.southlyonmi.org/6-10-19%20Council%20Packet%20-%20online%20only.pdf?t=202108310733140#page=66)* (read by OCR; check the original)

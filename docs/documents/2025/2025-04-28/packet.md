@@ -658,7 +658,14 @@ Date
 <a id="p22"></a>
 *[Page 22 of the original](https://www.southlyonmi.org/4-28-25%20Council%20Packet%20-%20online%20only.pdf?t=202504241549130#page=22)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/4-28-25%20Council%20Packet%20-%20online%20only.pdf?t=202504241549130#page=23)* (read by OCR; check the original)
@@ -794,7 +801,14 @@ City Clerk/Treasurer
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/4-28-25%20Council%20Packet%20-%20online%20only.pdf?t=202504241549130#page=28)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p29"></a>
 *[Page 29 of the original](https://www.southlyonmi.org/4-28-25%20Council%20Packet%20-%20online%20only.pdf?t=202504241549130#page=29)* (read by OCR; check the original)
@@ -903,11 +917,18 @@ Date
 <a id="p33"></a>
 *[Page 33 of the original](https://www.southlyonmi.org/4-28-25%20Council%20Packet%20-%20online%20only.pdf?t=202504241549130#page=33)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Norm's Total
 
 Automotive Services
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p34"></a>
 *[Page 34 of the original](https://www.southlyonmi.org/4-28-25%20Council%20Packet%20-%20online%20only.pdf?t=202504241549130#page=34)* (read by OCR; check the original)

@@ -352,6 +352,11 @@ Mayor Pelchat stated he hopes the census numbers come up, we can't let that mone
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/8-10-20%20Council%20Packet%20-%20revised%20council%20and%20online.pdf?t=202108310733160#page=10)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 MOTION CARRIED UNANIMOUSLY
 
 Respectfully submitted,
@@ -359,6 +364,8 @@ Respectfully submitted,
 Mayor Dan Pelchat
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/8-10-20%20Council%20Packet%20-%20revised%20council%20and%20online.pdf?t=202108310733160#page=11)* (read by OCR; check the original)
@@ -1476,6 +1483,11 @@ Nathan Mack, Director, DDA/Economic Development
 <a id="p54"></a>
 *[Page 54 of the original](https://www.southlyonmi.org/8-10-20%20Council%20Packet%20-%20revised%20council%20and%20online.pdf?t=202108310733160#page=54)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
@@ -1489,6 +1501,8 @@ Proposed Soil Boring Locations: B-1 and B-2: 60 feet
 <table><tr><td colspan="3">Soil Boring Location Plan</td></tr><tr><td colspan="3">Proposed Commercial Development
 390 S. Lafayette Street
 South Lyon, Michigan</td></tr><tr><td rowspan="4">CONSULTING GROUP</td><td colspan="2">Project No. 200233</td></tr><tr><td colspan="2">Drawn by: JMH</td></tr><tr><td>Date: 3/13/20</td><td>Plate</td></tr><tr><td>Scale: NTS</td><td>No. 1</td></tr></table>
+
+</details>
 
 <a id="p55"></a>
 *[Page 55 of the original](https://www.southlyonmi.org/8-10-20%20Council%20Packet%20-%20revised%20council%20and%20online.pdf?t=202108310733160#page=55)* (read by OCR; check the original)
@@ -1923,6 +1937,11 @@ Siding Color: Red
 <a id="p69"></a>
 *[Page 69 of the original](https://www.southlyonmi.org/8-10-20%20Council%20Packet%20-%20revised%20council%20and%20online.pdf?t=202108310733160#page=69)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ### 1.2 - CUSTOMIZED STRUCTURE
 
 WELL HOUSE STRUCTURE FOR THE NEW WELL (#7). STRUCTURE FOR #6 WELL WILL BE IDENTICAL TO MATCH THE OTHER OFFSET WELL LOCATED IN MCHATTIE PARK.
@@ -1932,6 +1951,8 @@ WELL HOUSE STRUCTURE FOR THE NEW WELL (#7). STRUCTURE FOR #6 WELL WILL BE IDENTI
 <div>SITE FOR NEW STRUCTURE (WELL #6)</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p70"></a>
 *[Page 70 of the original](https://www.southlyonmi.org/8-10-20%20Council%20Packet%20-%20revised%20council%20and%20online.pdf?t=202108310733160#page=70)* (read by OCR; check the original)
@@ -1959,9 +1980,16 @@ SUGGESTED MOTION: Motion by ___, supported by ___, to approve the purchase and i
 <a id="p71"></a>
 *[Page 71 of the original](https://www.southlyonmi.org/8-10-20%20Council%20Packet%20-%20revised%20council%20and%20online.pdf?t=202108310733160#page=71)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # FAILED AIR CUSHIONED AIR SWING CHECK VALVE @ WATER TREATMENT PLANT
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p72"></a>
 *[Page 72 of the original](https://www.southlyonmi.org/8-10-20%20Council%20Packet%20-%20revised%20council%20and%20online.pdf?t=202108310733160#page=72)* (read by OCR; check the original)

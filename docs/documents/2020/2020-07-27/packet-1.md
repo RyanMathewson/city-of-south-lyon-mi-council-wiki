@@ -1001,6 +1001,11 @@ Motion by _____, supported by _____ to approve the installation of a poly body o
 <a id="p32"></a>
 *[Page 32 of the original](https://www.southlyonmi.org/7-27-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=32)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
@@ -1017,6 +1022,8 @@ TOP VIEW OF BODY SHOWING COMPARTMENT DIVIDER AND STORAGE DETAIL (SIZES ARE APPRO
 986-343-2977</td></tr><tr><td>C</td><td>CUSTOMER RELEASED</td><td>REALLED NTS</td><td>DRAWING NO.</td><td>DRAWING NO.</td><td>DRAWING NO.</td><td></td></tr><tr><td>D</td><td>CUSTOMER RELEASED</td><td>DATE: 3-10-20</td><td>2020/EST.-SALES/SOUTH LYON</td><td>2020/EST.-SALES/SOUTH LYON</td><td>MB</td><td></td></tr><tr><td></td><td></td><td colspan="5">CUSTOMER: SOUTH LYON FIRE-RESCUE</td></tr><tr><td></td><td></td><td colspan="5">DESCRIPTION: POLY WALKAROUND RESCUE</td></tr></table>
 
 <table><tr><td>COMPARENTI DIMENSION KEY</td><td>HEIGHT</td><td>WIDTH</td><td>DEPTH</td><td></td><td>HEIGHT</td><td>WIDTH</td><td>DEPTH</td><td>COMPARTMENT DIMENSION KEY</td><td>HEIGHT</td><td>WIDTH</td><td>DEPTH</td><td>DIMENSIONS:</td><td>NOTE:</td><td></td><td>PLEASE READ</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan="3">ALL DIMENSIONS ARE IN INCHES UNLESS OWNERگ RATED.</td><td rowspan="3">CONCEPT DRAWING ONLY. DO NOT USE FOR CLOSE TOLERANCE PURPOSES.</td><td rowspan="3"></td><td>CUSTOMER: SOUTH LYON FIRE-RESCUE</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>DESCRIPTION:</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>POLY WALKAROUND RESCUE</td></tr></table>
+
+</details>
 
 <a id="p33"></a>
 *[Page 33 of the original](https://www.southlyonmi.org/7-27-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=33)* (read by OCR; check the original)
@@ -2568,6 +2575,11 @@ R·R·R·A·S·O·C
 <a id="p96"></a>
 *[Page 96 of the original](https://www.southlyonmi.org/7-27-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=96)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Total Tons Recycled - April & May</div>
 
 *[Image or figure on this page; see the original.]*
@@ -2578,13 +2590,27 @@ R·R·R·A·S·O·C
 
 2020
 
+</details>
+
 <a id="p97"></a>
 *[Page 97 of the original](https://www.southlyonmi.org/7-27-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=97)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p98"></a>
 *[Page 98 of the original](https://www.southlyonmi.org/7-27-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=98)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>Total Tons Landfilled - April & May</div>
 
@@ -2592,24 +2618,47 @@ R·R·R·A·S·O·C
 
 2020
 
+</details>
+
 <a id="p99"></a>
 *[Page 99 of the original](https://www.southlyonmi.org/7-27-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=99)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 Pounds Landfilled/Household Per Collection Day 2018 - 2020
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p100"></a>
 *[Page 100 of the original](https://www.southlyonmi.org/7-27-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=100)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p101"></a>
 *[Page 101 of the original](https://www.southlyonmi.org/7-27-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=101)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Pounds Composted/Household Per Collection Day 2018 - 2020
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p102"></a>
 *[Page 102 of the original](https://www.southlyonmi.org/7-27-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=102)* (read by OCR; check the original)

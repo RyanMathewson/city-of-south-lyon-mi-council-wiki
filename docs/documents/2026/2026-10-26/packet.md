@@ -1485,6 +1485,11 @@ R-02
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/Online%20Version_Oct%2026%202026%20Council%20Meeting.pdf?t=202610221523410#page=35)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>QUADRANT 2 EXT. WALL</div>
@@ -1493,8 +1498,15 @@ R-02
 
 9/4/2025 9:22 AM
 
+</details>
+
 <a id="p36"></a>
 *[Page 36 of the original](https://www.southlyonmi.org/Online%20Version_Oct%2026%202026%20Council%20Meeting.pdf?t=202610221523410#page=36)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1507,8 +1519,15 @@ SOUTH LYON, MI</td><td colspan="2">DATE: 09/03/26</td><td colspan="2">DRAWN: KF<
 
 9/4/2026 9:22 AM
 
+</details>
+
 <a id="p37"></a>
 *[Page 37 of the original](https://www.southlyonmi.org/Online%20Version_Oct%2026%202026%20Council%20Meeting.pdf?t=202610221523410#page=37)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1520,6 +1539,8 @@ www.PRELOAD.com</td><td rowspan="3">1,000,000 - GALLON WATER STORAGE TANK
 SOUTH LYON, MI</td><td colspan="2">DATE: 09/03/26</td><td colspan="2">DRAWING: KF</td></tr><tr><td>CHECKED: DM</td><td>APPROVED: BH</td><td colspan="2">DESIGNED: DM</td></tr><tr><td colspan="2">JOB NUMBER:</td><td colspan="2">DRAWING NUMBER:</td></tr><tr><td>EXTERIOR WALL DEVELOPED ELEVATION</td><td colspan="2">26PD502</td><td colspan="2">R-05</td></tr></table>
 
 9/4/2026 9:22 AM
+
+</details>
 
 <a id="p38"></a>
 *[Page 38 of the original](https://www.southlyonmi.org/Online%20Version_Oct%2026%202026%20Council%20Meeting.pdf?t=202610221523410#page=38)*

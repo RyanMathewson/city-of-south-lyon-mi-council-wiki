@@ -19,11 +19,18 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/Utility%20Rate%20Model%20-%20Revised%207.27.20.pdf?t=202108310733160#page=1)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 # City of South Lyon Utility Rate Model - REVISED
 
 FY2021 to FY2030
+
+</details>
 
 <a id="p2"></a>
 *[Page 2 of the original](https://www.southlyonmi.org/Utility%20Rate%20Model%20-%20Revised%207.27.20.pdf?t=202108310733160#page=2)* (read by OCR; check the original)
@@ -52,6 +59,11 @@ Change in fee methodology (philosophy) – There is no single “right” way to
 <a id="p4"></a>
 *[Page 4 of the original](https://www.southlyonmi.org/Utility%20Rate%20Model%20-%20Revised%207.27.20.pdf?t=202108310733160#page=4)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Rate Model - Step 1 Calculate the Total Cost Pool
 
 *[Image or figure on this page; see the original.]*
@@ -62,26 +74,49 @@ Sankt-Heinrich
 
 2021 Dec1700
 
+</details>
+
 <a id="p5"></a>
 *[Page 5 of the original](https://www.southlyonmi.org/Utility%20Rate%20Model%20-%20Revised%207.27.20.pdf?t=202108310733160#page=5)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Rate Model – Step 2 Calculate the “Readiness To Serve” charge
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p6"></a>
 *[Page 6 of the original](https://www.southlyonmi.org/Utility%20Rate%20Model%20-%20Revised%207.27.20.pdf?t=202108310733160#page=6)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Rate Model - Step 3 Calculate the Variable Rate
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p7"></a>
 *[Page 7 of the original](https://www.southlyonmi.org/Utility%20Rate%20Model%20-%20Revised%207.27.20.pdf?t=202108310733160#page=7)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Rate Model – Step 4 (Multi-Year Models)
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p8"></a>
 *[Page 8 of the original](https://www.southlyonmi.org/Utility%20Rate%20Model%20-%20Revised%207.27.20.pdf?t=202108310733160#page=8)* (read by OCR; check the original)
@@ -156,9 +191,16 @@ Capital projects are the primary cause of the calculated rate increases.
 <a id="p12"></a>
 *[Page 12 of the original](https://www.southlyonmi.org/Utility%20Rate%20Model%20-%20Revised%207.27.20.pdf?t=202108310733160#page=12)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Rate Model – Step 2 Calculate the “Readiness To Serve” charge
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p13"></a>
 *[Page 13 of the original](https://www.southlyonmi.org/Utility%20Rate%20Model%20-%20Revised%207.27.20.pdf?t=202108310733160#page=13)* (read by OCR; check the original)
@@ -178,9 +220,16 @@ We have completed the model under 2 scenarios: RTS will cover either 10% or 25% 
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/Utility%20Rate%20Model%20-%20Revised%207.27.20.pdf?t=202108310733160#page=14)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Rate Model – Step 3 Calculate the Variable Rate
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/Utility%20Rate%20Model%20-%20Revised%207.27.20.pdf?t=202108310733160#page=15)* (read by OCR; check the original)
@@ -198,9 +247,16 @@ Model assumes future sales will be consistent with 2 year average (FY18 and FY19
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/Utility%20Rate%20Model%20-%20Revised%207.27.20.pdf?t=202108310733160#page=16)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Rate Model – Step 4 (Multi-Year Models)
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/Utility%20Rate%20Model%20-%20Revised%207.27.20.pdf?t=202108310733160#page=17)* (read by OCR; check the original)

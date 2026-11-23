@@ -943,9 +943,16 @@ Lloyd T. Collins, Chief of Police
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/Packet09.12.11.pdf?t=202108310733000#page=28)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>CHAMBER SUMMER FEST FINAL</div>
+
+</details>
 
 <a id="p29"></a>
 *[Page 29 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/Packet09.12.11.pdf?t=202108310733000#page=29)* (read by OCR; check the original)
@@ -1695,7 +1702,14 @@ Note: Total Expenses MUST equal Total REVENUE
 <a id="p61"></a>
 *[Page 61 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/Packet09.12.11.pdf?t=202108310733000#page=61)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p62"></a>
 *[Page 62 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/Packet09.12.11.pdf?t=202108310733000#page=62)* (read by OCR; check the original)
@@ -1960,7 +1974,14 @@ $ 58,889,000 $ 83,250,000
 <a id="p72"></a>
 *[Page 72 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/Packet09.12.11.pdf?t=202108310733000#page=72)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p73"></a>
 *[Page 73 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2011/packets/Packet09.12.11.pdf?t=202108310733000#page=73)* (read by OCR; check the original)

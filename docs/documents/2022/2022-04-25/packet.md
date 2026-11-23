@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/4-25-22%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "f620831e4cd2899a1dd9dc4c8759ca6490cc5900d44949c6e9f0c97030851537"
 source_bytes: 9389388
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 77
 ocr_pages: 77
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2022-04-25
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/4-25-22%20Council%20Packet%20-%20online%20only.pdf?t=202204211553220) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `f620831e4cd2899a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/4-25-22%20Council%20Packet%20-%20online%20only.pdf?t=202204211553220) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `f620831e4cd2899a…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/4-25-22%20Council%20Packet%20-%20online%20only.pdf?t=202204211553220#page=1)* (read by OCR; check the original)
@@ -1077,7 +1077,14 @@ Date
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/4-25-22%20Council%20Packet%20-%20online%20only.pdf?t=202204211553220#page=44)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p45"></a>
 *[Page 45 of the original](https://www.southlyonmi.org/4-25-22%20Council%20Packet%20-%20online%20only.pdf?t=202204211553220#page=45)* (read by OCR; check the original)
@@ -1410,6 +1417,11 @@ Detail Costs Of Issuance
 <a id="p68"></a>
 *[Page 68 of the original](https://www.southlyonmi.org/4-25-22%20Council%20Packet%20-%20online%20only.pdf?t=202204211553220#page=68)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## City of South Lyon General Obligation Unlimited Tax Bonds, Series 2023 & 2026 as of 03/18/2022
 
 ## Estimated Total Issue Sources And Uses
@@ -1417,6 +1429,8 @@ Detail Costs Of Issuance
 ## 2023 Dated 02/01/2023 | 2026 Dated 02/01/2026
 
 <table><tr><td></td><td>Road Financing Project 2023</td><td>Road Financing Project 2026</td><td>Summary</td></tr><tr><td>Sources of Funds</td><td></td><td></td><td></td></tr><tr><td>Par Amount of Bonds</td><td>$ 8,725,000.00</td><td>$ 9,740,000.00</td><td>$ 18,465,000.00</td></tr><tr><td>Total Sources</td><td>$ 8,725,000.00</td><td>$ 9,740,000.00</td><td>$ 18,465,000.00</td></tr><tr><td>Uses of Funds</td><td></td><td></td><td></td></tr><tr><td>Project Deposit</td><td>$ 8,546,175.00</td><td>$ 9,551,025.00</td><td>$ 18,097,200.00</td></tr><tr><td>Total Underwriter's Discount (1.000%)</td><td>$ 87,250.00</td><td>$ 97,400.00</td><td>$ 184,650.00</td></tr><tr><td>Costs of Issuance</td><td>$ 91,575.00</td><td>$ 91,575.00</td><td>$ 183,150.00</td></tr><tr><td>Total Uses</td><td>$ 8,725,000.00</td><td>$ 9,740,000.00</td><td>$ 18,465,000.00</td></tr></table>
+
+</details>
 
 <a id="p69"></a>
 *[Page 69 of the original](https://www.southlyonmi.org/4-25-22%20Council%20Packet%20-%20online%20only.pdf?t=202204211553220#page=69)* (read by OCR; check the original)
@@ -1525,18 +1539,32 @@ By signing this document, you agree that the price, specifications and condition
 <a id="p73"></a>
 *[Page 73 of the original](https://www.southlyonmi.org/4-25-22%20Council%20Packet%20-%20online%20only.pdf?t=202204211553220#page=73)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## PHOTO GALLERY
 
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p74"></a>
 *[Page 74 of the original](https://www.southlyonmi.org/4-25-22%20Council%20Packet%20-%20online%20only.pdf?t=202204211553220#page=74)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p75"></a>
 *[Page 75 of the original](https://www.southlyonmi.org/4-25-22%20Council%20Packet%20-%20online%20only.pdf?t=202204211553220#page=75)* (read by OCR; check the original)
@@ -1628,7 +1656,14 @@ Install new pickleball courts
 <a id="p76"></a>
 *[Page 76 of the original](https://www.southlyonmi.org/4-25-22%20Council%20Packet%20-%20online%20only.pdf?t=202204211553220#page=76)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p77"></a>
 *[Page 77 of the original](https://www.southlyonmi.org/4-25-22%20Council%20Packet%20-%20online%20only.pdf?t=202204211553220#page=77)* (read by OCR; check the original)

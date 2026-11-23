@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/4-14-25%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "49234355b3fa18432679c30f29cdbdf44381680c2fb4cf84cca9f910be0e4c73"
 source_bytes: 20492683
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 87
 ocr_pages: 87
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2025-04-14
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/4-14-25%20Council%20Packet%20-%20online%20only.pdf?t=202504101544090) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `49234355b3fa1843…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/4-14-25%20Council%20Packet%20-%20online%20only.pdf?t=202504101544090) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `49234355b3fa1843…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/4-14-25%20Council%20Packet%20-%20online%20only.pdf?t=202504101544090#page=1)* (read by OCR; check the original)
@@ -237,11 +237,18 @@ Mayor Kennedy reminded residents about the upcoming Household Hazardous Waste co
 <a id="p7"></a>
 *[Page 7 of the original](https://www.southlyonmi.org/4-14-25%20Council%20Packet%20-%20online%20only.pdf?t=202504101544090#page=7)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Respectfully submitted.
 
 Mayor Steve Kennedy
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p8"></a>
 *[Page 8 of the original](https://www.southlyonmi.org/4-14-25%20Council%20Packet%20-%20online%20only.pdf?t=202504101544090#page=8)* (read by OCR; check the original)
@@ -564,7 +571,14 @@ City Clerk
 <a id="p30"></a>
 *[Page 30 of the original](https://www.southlyonmi.org/4-14-25%20Council%20Packet%20-%20online%20only.pdf?t=202504101544090#page=30)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p31"></a>
 *[Page 31 of the original](https://www.southlyonmi.org/4-14-25%20Council%20Packet%20-%20online%20only.pdf?t=202504101544090#page=31)* (read by OCR; check the original)
@@ -755,7 +769,14 @@ The applicant/organization must provide a separate hold harmless agreement and c
 <a id="p38"></a>
 *[Page 38 of the original](https://www.southlyonmi.org/4-14-25%20Council%20Packet%20-%20online%20only.pdf?t=202504101544090#page=38)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p39"></a>
 *[Page 39 of the original](https://www.southlyonmi.org/4-14-25%20Council%20Packet%20-%20online%20only.pdf?t=202504101544090#page=39)* (read by OCR; check the original)
@@ -914,7 +935,14 @@ Date
 <a id="p45"></a>
 *[Page 45 of the original](https://www.southlyonmi.org/4-14-25%20Council%20Packet%20-%20online%20only.pdf?t=202504101544090#page=45)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p46"></a>
 *[Page 46 of the original](https://www.southlyonmi.org/4-14-25%20Council%20Packet%20-%20online%20only.pdf?t=202504101544090#page=46)* (read by OCR; check the original)
@@ -940,16 +968,30 @@ SUGGESTED MOTION: Motion by _____, supported by _____ to approve the request by 
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/4-14-25%20Council%20Packet%20-%20online%20only.pdf?t=202504101544090#page=47)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 FIGURE 1A 05235 SOUTH LYON-AERIAL SITE.DWG 3/26/24
 
+</details>
+
 <a id="p48"></a>
 *[Page 48 of the original](https://www.southlyonmi.org/4-14-25%20Council%20Packet%20-%20online%20only.pdf?t=202504101544090#page=48)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>Typical Nested Permanent Soil Gas Sampling Points</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p49"></a>
 *[Page 49 of the original](https://www.southlyonmi.org/4-14-25%20Council%20Packet%20-%20online%20only.pdf?t=202504101544090#page=49)* (read by OCR; check the original)
@@ -1329,6 +1371,11 @@ Commonly Known as: 26800 South Pontiac Trail, South Lyon, Michigan 48178
 <a id="p62"></a>
 *[Page 62 of the original](https://www.southlyonmi.org/4-14-25%20Council%20Packet%20-%20online%20only.pdf?t=202504101544090#page=62)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## STORM WATER SYSTEM DESCRIPTION
@@ -1358,6 +1405,8 @@ BOTH PONDS ARE DESIGNED S半LARLY SURFACE RUNOFF WILL BE ROUTED EITHER THROUGH C
 BOTH PONDS WILL DETAIN STORM WATER, RESTRICTED BY OUTLET STANDPDES PER COUNTY STANDARDS.
 
 BOTH PONDS PROVIDE A FOREBAY AND ARE DESIGNED TO RETAIN WATER QUALITY VOLUME RUNOFF FROM THE SITE TO ALLOW SUSPENDED SOLIDS TO SETTLE OUT PRIOR TO RELEASE AT A CONTROLLED RESTRICTED RATE TO THE DOWNSTREAM SYSTEM.
+
+</details>
 
 <a id="p63"></a>
 *[Page 63 of the original](https://www.southlyonmi.org/4-14-25%20Council%20Packet%20-%20online%20only.pdf?t=202504101544090#page=63)* (read by OCR; check the original)
@@ -1685,6 +1734,11 @@ state and federal law, as opposed to septic systems. WWTPs are also the only cur
 <a id="p74"></a>
 *[Page 74 of the original](https://www.southlyonmi.org/4-14-25%20Council%20Packet%20-%20online%20only.pdf?t=202504101544090#page=74)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 The HURON RIVER WATERSHED COUNCIL protects and restores the river for healthy and vibrant communities. Our work in science, technical advising and public education is supported by volunteers, individual members, local businesses, and more than 40 communities across Southeast Michigan.
 
 The HURON RIVER WATERSHED covers just over 900 square miles (1448 km) and encompasses all the land, creeks and streams that drain into the Huron River, which then drains into Lake Erie. Creeksheds and other land areas that drain directly to the river are shown on the map.
@@ -1712,6 +1766,8 @@ Ann Arbor, MI 48104
 huronriver
 
 huronriver
+
+</details>
 
 <a id="p75"></a>
 *[Page 75 of the original](https://www.southlyonmi.org/4-14-25%20Council%20Packet%20-%20online%20only.pdf?t=202504101544090#page=75)* (read by OCR; check the original)
@@ -2149,6 +2205,11 @@ Explore your river legacy. Contact Wendy Palms at wpalms@hrwc.org.
 <a id="p80"></a>
 *[Page 80 of the original](https://www.southlyonmi.org/4-14-25%20Council%20Packet%20-%20online%20only.pdf?t=202504101544090#page=80)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 117 North First Stréet, Suite 100
 
 Ann Arbor, MI 48104
@@ -2160,6 +2221,8 @@ Printed on 30% minimum post-consumer recycled content paper.
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p81"></a>
 *[Page 81 of the original](https://www.southlyonmi.org/4-14-25%20Council%20Packet%20-%20online%20only.pdf?t=202504101544090#page=81)* (read by OCR; check the original)

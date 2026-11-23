@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/4-22-24%20Council%20packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "91bf647a55590ddbc71efc3092621427f65630eb6b995c104728ccfcc902b46c"
 source_bytes: 9453685
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 57
 ocr_pages: 57
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2024-04-22
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/4-22-24%20Council%20packet%20-%20online%20only.pdf?t=202404181548050) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `91bf647a55590ddb…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/4-22-24%20Council%20packet%20-%20online%20only.pdf?t=202404181548050) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `91bf647a55590ddb…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/4-22-24%20Council%20packet%20-%20online%20only.pdf?t=202404181548050#page=1)* (read by OCR; check the original)
@@ -475,7 +475,14 @@ Date
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/4-22-24%20Council%20packet%20-%20online%20only.pdf?t=202404181548050#page=15)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/4-22-24%20Council%20packet%20-%20online%20only.pdf?t=202404181548050#page=16)* (read by OCR; check the original)
@@ -611,7 +618,14 @@ Date
 <a id="p21"></a>
 *[Page 21 of the original](https://www.southlyonmi.org/4-22-24%20Council%20packet%20-%20online%20only.pdf?t=202404181548050#page=21)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p22"></a>
 *[Page 22 of the original](https://www.southlyonmi.org/4-22-24%20Council%20packet%20-%20online%20only.pdf?t=202404181548050#page=22)* (read by OCR; check the original)
@@ -818,9 +832,16 @@ Date
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/4-22-24%20Council%20packet%20-%20online%20only.pdf?t=202404181548050#page=28)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Lake Street Cruise-In MOTORFEST 2024 with Farmers Market closure
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p29"></a>
 *[Page 29 of the original](https://www.southlyonmi.org/4-22-24%20Council%20packet%20-%20online%20only.pdf?t=202404181548050#page=29)* (read by OCR; check the original)
@@ -1187,7 +1208,14 @@ COPY OF APPROVED APPLICATION SHALL SERVE AS PERMIT
 <a id="p39"></a>
 *[Page 39 of the original](https://www.southlyonmi.org/4-22-24%20Council%20packet%20-%20online%20only.pdf?t=202404181548050#page=39)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/4-22-24%20Council%20packet%20-%20online%20only.pdf?t=202404181548050#page=40)* (read by OCR; check the original)
@@ -1388,9 +1416,16 @@ $2,454,088.98
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/4-22-24%20Council%20packet%20-%20online%20only.pdf?t=202404181548050#page=47)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Legend
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p48"></a>
 *[Page 48 of the original](https://www.southlyonmi.org/4-22-24%20Council%20packet%20-%20online%20only.pdf?t=202404181548050#page=48)* (read by OCR; check the original)
@@ -1571,7 +1606,14 @@ The performance of preliminary engineering may consist of the preparation of rep
 <a id="p56"></a>
 *[Page 56 of the original](https://www.southlyonmi.org/4-22-24%20Council%20packet%20-%20online%20only.pdf?t=202404181548050#page=56)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p57"></a>
 *[Page 57 of the original](https://www.southlyonmi.org/4-22-24%20Council%20packet%20-%20online%20only.pdf?t=202404181548050#page=57)* (read by OCR; check the original)

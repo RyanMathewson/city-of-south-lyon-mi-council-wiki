@@ -685,16 +685,30 @@ Delivery: 4 weeks
 <a id="p22"></a>
 *[Page 22 of the original](https://www.southlyonmi.org/3-25-24%20Council%20Packet%20-%20online%20only.pdf?t=202403211405270#page=22)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>OPERATOR</div>
 
 <div>EXISTING DOOR</div>
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/3-25-24%20Council%20Packet%20-%20online%20only.pdf?t=202403211405270#page=23)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/3-25-24%20Council%20Packet%20-%20online%20only.pdf?t=202403211405270#page=24)* (read by OCR; check the original)
@@ -757,9 +771,16 @@ Bid Amount: $19,800.00
 <a id="p26"></a>
 *[Page 26 of the original](https://www.southlyonmi.org/3-25-24%20Council%20Packet%20-%20online%20only.pdf?t=202403211405270#page=26)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p27"></a>
 *[Page 27 of the original](https://www.southlyonmi.org/3-25-24%20Council%20Packet%20-%20online%20only.pdf?t=202403211405270#page=27)* (read by OCR; check the original)

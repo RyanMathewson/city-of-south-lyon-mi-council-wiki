@@ -373,6 +373,11 @@ Lloyd T. Collins, Chief of Police
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC090613CCpacket9-9-13.pdf?t=202108310732580#page=23)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # 2013 Pumpkinfest of the South Lyon Area Road Closure Approval (Friday, Saturday & Sunday)
 
 Friday, September 27 through Sunday, September 29, 2013
@@ -384,6 +389,8 @@ Closure of Lake Street between Wells and the alleyway behind the South Lyon Hera
 The road will be closed at 9:30 a.m. on Friday, September 27 and re-open at 8:00 p.m. on Sunday, September 29, 2012.
 
 <table><tr><td>Business Name</td><td>Street Address</td><td>Print Name</td><td>Signature</td></tr><tr><td>Providence Medical Center</td><td>210 N. Lafayette</td><td></td><td></td></tr><tr><td>Tenpenny Furniture</td><td>124 N. Lafayette</td><td>Kevin Blanchard</td><td>John Parrish</td></tr><tr><td>Co. Reutter Salon</td><td>116 N. Lafayette</td><td>Kenny Rafter</td><td>Kouminde</td></tr><tr><td>Driven Computers</td><td>116 N. Lafayette</td><td>Harren Taylor</td><td>Ariana Garcia</td></tr><tr><td>Phillips Travel Service</td><td>110 N. Lafayette</td><td>Christine Kozlarer</td><td>A. Kortz</td></tr><tr><td>Auriel Jewelry Design</td><td>108 N. Lafayette</td><td>Ice Knozen</td><td>Trevor Smith</td></tr><tr><td>Jarratt Architecture</td><td>108 N. Lafayette</td><td>William T. Juarez</td><td>Ursula Smith</td></tr><tr><td>Michelle's Hair Studio</td><td>104 N. Lafayette</td><td>Michelle Willis</td><td>Michelle Willis</td></tr><tr><td>Diane's Dollhouse</td><td>102 N. Lafayette</td><td>Not at 9:30 Plexus</td><td>am not against closure</td></tr><tr><td>Quantum Real Estate - Bonnie David</td><td>129 N. Lafayette</td><td>Daniel Al�ing</td><td>Donnie David</td></tr><tr><td>Chamber of Commerce</td><td>127 N. Lafayette</td><td>Kim Thompson</td><td>Wind Compression</td></tr><tr><td>Michigan Wealth Management Group</td><td>125 N. Lafayette</td><td>Jeff T筹尔</td><td>Alicia Zoe</td></tr><tr><td>Law Office of Jenelle Velarde</td><td>125 N. Lafayette</td><td>Annie Velarde</td><td>Emma Velasquez</td></tr><tr><td>Kathleen's</td><td>117 N. Lafayette</td><td>Kathleen McFall</td><td>A. M. Grace</td></tr><tr><td>Bullet Distributors</td><td>107 N. Lafayette</td><td>Joan Fazil</td><td></td></tr></table>
+
+</details>
 
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC090613CCpacket9-9-13.pdf?t=202108310732580#page=24)* (read by OCR; check the original)
@@ -883,7 +890,14 @@ Shuts all doors and stay inside until advised by officials that it is safe to le
 <a id="p37"></a>
 *[Page 37 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC090613CCpacket9-9-13.pdf?t=202108310732580#page=37)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p38"></a>
 *[Page 38 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC090613CCpacket9-9-13.pdf?t=202108310732580#page=38)* (read by OCR; check the original)
@@ -962,7 +976,14 @@ Chief Loyd T. Collin 09/03/13 Lloyd T. Collins, Chief of Police
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC090613CCpacket9-9-13.pdf?t=202108310732580#page=40)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC090613CCpacket9-9-13.pdf?t=202108310732580#page=41)* (read by OCR; check the original)
@@ -1298,6 +1319,11 @@ Parade Committee Member
 <a id="p53"></a>
 *[Page 53 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC090613CCpacket9-9-13.pdf?t=202108310732580#page=53)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 2013 Pumpkinfest of the South Lyon Area
@@ -1313,6 +1339,8 @@ Closure of Lake Street between Wells and the alleyway behind the South Lyon Hera
 am: on Friday, September 27 and re-open at 8:00 p.m. on Sunday, September 29, 2012
 
 <table><tr><td>Business Name</td><td>Street Address</td><td>Street Name</td><td>Signature</td></tr><tr><td>Providence Medical Center</td><td>210 N. Lafayette</td><td>Trevie St. John Beamford</td><td>Trevie St. John Beamford</td></tr><tr><td>Tenpenny Furniture</td><td>124 N. Lafayette</td><td>Trevie St. John Beamford</td><td>Trevie St. John Beamford</td></tr><tr><td>Co. Reutter Salon</td><td>116 N. Lafayette</td><td>Kenny Reutter</td><td>Kenny Reutter</td></tr><tr><td>Driven Computers</td><td>116 N. Lafayette</td><td>Aaron Taylor</td><td>Aaron Taylor</td></tr><tr><td>Phillips Travel Service</td><td>110 N. Lafayette</td><td>Christine Kozlatter</td><td>Christine Kozlatter</td></tr><tr><td>Auriel Jewelry Design</td><td>108 N. Lafayette</td><td>Leu Canezner</td><td>Leu Canezner</td></tr><tr><td>Jarratt Architecture</td><td>108 N. Lafayette</td><td>William T. Jarrett</td><td>William T. Jarrett</td></tr><tr><td>Michelle's Hair Studio</td><td>104 N. Lafayette</td><td>Michelle Willis</td><td>Michelle Willis</td></tr><tr><td>Diane's Dollhouse</td><td>102 N. Lafayette</td><td>Not at 9:30 Please - early 4:15</td><td>am not against closure - to</td></tr><tr><td>Quantum Real Estate - Bonnie David</td><td>129 N. Lafayette</td><td>Daniel Al�y</td><td>Donnie Daniel</td></tr><tr><td>Chamber of Commerce</td><td>127 N. Lafayette</td><td>Kim Thompson</td><td>Kim Thompson</td></tr><tr><td>Michigan Wealth Management Group</td><td>125 N. Lafayette</td><td>Jeff TUBBS</td><td>Jeff TUBBS</td></tr><tr><td>Law Office of Jenelle Velarde</td><td>125 N. Lafayette</td><td>Daniel Vclarde</td><td>Daniel Vclarde</td></tr><tr><td>Kathleen's</td><td>117 N. Lafayette</td><td>Kathleen McFall</td><td>Kathleen McFall</td></tr><tr><td>Bullet Distributors</td><td>107 N. Lafayette</td><td>Joan Fagin</td><td>Joan Fagin</td></tr></table>
+
+</details>
 
 <a id="p54"></a>
 *[Page 54 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC090613CCpacket9-9-13.pdf?t=202108310732580#page=54)* (read by OCR; check the original)
@@ -2047,6 +2075,11 @@ The cul-de-sacs need to be large enough to accommodate the turning radius of our
 <a id="p80"></a>
 *[Page 80 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC090613CCpacket9-9-13.pdf?t=202108310732580#page=80)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 NOTE. THESE ARE APPROXIMATE DIMENSION THAT DO NOT TAKE IN AFFECT THE WEIGHT OF THE VEHICLE OR THE SURFACE THE VEHICLE IS ON.
@@ -2063,6 +2096,8 @@ ENVIRONMENTAL MEASURES</td></tr><tr><td colspan="3">NOVATION MOBILE EQUIPMENT
 -ON CONVERGENCY CAPITAL</td></tr><tr><td colspan="3">TOLLAND
 CHALLENGE
 ENVIRONMENTAL MEASURES</td></tr><tr><td colspan="4">KME APPLACAT</td></tr><tr><td colspan="4">TURNING RADIUS</td></tr><tr><td colspan="4">BASE 244"</td></tr></table>
+
+</details>
 
 <a id="p81"></a>
 *[Page 81 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC090613CCpacket9-9-13.pdf?t=202108310732580#page=81)* (read by OCR; check the original)

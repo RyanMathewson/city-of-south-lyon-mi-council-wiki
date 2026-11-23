@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "21342896d117ef07f5e10ee2c74e598accf94e5e86893d6b85e1439cd9ba813c"
 source_bytes: 8193156
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 68
 ocr_pages: 68
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2015-04-27
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket04.27.15.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `21342896d117ef07…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket04.27.15.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `21342896d117ef07…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket04.27.15.pdf?t=202108310732570#page=1)* (read by OCR; check the original)
@@ -628,7 +628,14 @@ roadway rehabilitation or reconstruction, the City's average PASER road rating w
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket04.27.15.pdf?t=202108310732570#page=24)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p25"></a>
 *[Page 25 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket04.27.15.pdf?t=202108310732570#page=25)* (read by OCR; check the original)
@@ -702,12 +709,24 @@ Submit the annual results of the Asset Management Plan to the TAMC.
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket04.27.15.pdf?t=202108310732570#page=28)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Liberty Street at Wells Street Current PASER rating 5
 
+</details>
+
 <a id="p29"></a>
 *[Page 29 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket04.27.15.pdf?t=202108310732570#page=29)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -721,8 +740,15 @@ FIGURE
 
 <table><tr><td>JOB NO. CITY OF SOUTH LION NO.</td><td>DATE</td></tr><tr><td>01/06/2015</td><td>N</td></tr></table>
 
+</details>
+
 <a id="p30"></a>
 *[Page 30 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket04.27.15.pdf?t=202108310732570#page=30)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -731,6 +757,8 @@ FIGURE
 ## GROUPED PASER RATING FOR THE CITY OF SOUTH LYON
 
 <table><tr><td>JOB NO.</td><td>CITY OF BOTH LTON</td></tr><tr><td>20130054</td><td></td></tr><tr><td>DATE</td><td></td></tr><tr><td>01/06/2015</td><td></td></tr></table>
+
+</details>
 
 <a id="p31"></a>
 *[Page 31 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket04.27.15.pdf?t=202108310732570#page=31)* (read by OCR; check the original)
@@ -957,6 +985,11 @@ _loyd T. Collins, Chief of Police
 <a id="p51"></a>
 *[Page 51 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket04.27.15.pdf?t=202108310732570#page=51)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 # BLUES BREWS BRATS
 
 Saturday, August 22 2015 - 3pm to 11pm
@@ -971,8 +1004,15 @@ Chamber of Commerce for the South Lyon Area
 
 Andrea Meyer (248) 437-3257
 
+</details>
+
 <a id="p52"></a>
 *[Page 52 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket04.27.15.pdf?t=202108310732570#page=52)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # BLUES BREWS BRATS
 
@@ -981,6 +1021,8 @@ Saturday, August 22, 2015- 3pm to 11pm
 Whipple Street Parking Lot - Downtown South Lyon
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p53"></a>
 *[Page 53 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket04.27.15.pdf?t=202108310732570#page=53)* (read by OCR; check the original)
@@ -1483,6 +1525,11 @@ Bob Martin, DPW
 <a id="p67"></a>
 *[Page 67 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket04.27.15.pdf?t=202108310732570#page=67)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## GROUPED PASER RATING FOR THE CITY OF SOUTH LYON
@@ -1497,10 +1544,19 @@ DATE
 
 FIGURE
 
+</details>
+
 <a id="p68"></a>
 *[Page 68 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket04.27.15.pdf?t=202108310732570#page=68)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 PASER RATING FOR THE CITY OF SOUTH LYON
+
+</details>
 

@@ -790,9 +790,16 @@ Y:20190020190043106_CornSConstChange Orders2020_07_07_CO1_SL_DPW.xlsx
 <a id="p37"></a>
 *[Page 37 of the original](https://www.southlyonmi.org/7-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=37)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ### Attachment 1.2 (Page 1)
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p38"></a>
 *[Page 38 of the original](https://www.southlyonmi.org/7-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=38)* (read by OCR; check the original)
@@ -973,9 +980,16 @@ Howell, MI 48843
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/7-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=42)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p43"></a>
 *[Page 43 of the original](https://www.southlyonmi.org/7-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=43)* (read by OCR; check the original)
@@ -994,6 +1008,11 @@ We are requesting the building to largely contain the large vehicles and equipme
 
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/7-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=44)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 HRC_OLR_CL_CL18
 
@@ -1018,6 +1037,8 @@ IMPROVEMENTS
 <table><tr><td colspan="2">SITE, UTILITIES AND GRADING PLAN</td></tr><tr><td>HIGH JOIN NO. 20190043</td><td>SCALE  $ 1" = 30' $</td></tr><tr><td>DATE June 2020</td><td>SIGHT NO. 5</td></tr></table>
 
 Ozlo liad la (ca, tu a lepi
+
+</details>
 
 <a id="p45"></a>
 *[Page 45 of the original](https://www.southlyonmi.org/7-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=45)* (read by OCR; check the original)

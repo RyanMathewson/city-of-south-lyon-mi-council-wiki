@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/City%20Council%20Packet%2011-14-16%20se
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "1c87519188ba7aa6d368fb4f738cff76d15e0fc6fee7c264a96646debd87addf"
 source_bytes: 6015370
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 75
 ocr_pages: 75
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2016-11-14
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/City%20Council%20Packet%2011-14-16%20set%201.pdf?t=202108310733070) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `1c87519188ba7aa6…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/City%20Council%20Packet%2011-14-16%20set%201.pdf?t=202108310733070) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `1c87519188ba7aa6…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/City%20Council%20Packet%2011-14-16%20set%201.pdf?t=202108310733070#page=1)* (read by OCR; check the original)
@@ -1333,6 +1333,11 @@ This original, signed document and related supporting material must be retained 
 <a id="p64"></a>
 *[Page 64 of the original](https://www.southlyonmi.org/City%20Council%20Packet%2011-14-16%20set%201.pdf?t=202108310733070#page=64)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## OAKIAND COUNTY MICHIGAN
@@ -1359,10 +1364,19 @@ www.oakgov.com/chi
 
 This Census Block Group map reflects 2014 LMISD data from the U.S. Department of Housing and Urban Development.
 
+</details>
+
 <a id="p65"></a>
 *[Page 65 of the original](https://www.southlyonmi.org/City%20Council%20Packet%2011-14-16%20set%201.pdf?t=202108310733070#page=65)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p66"></a>
 *[Page 66 of the original](https://www.southlyonmi.org/City%20Council%20Packet%2011-14-16%20set%201.pdf?t=202108310733070#page=66)* (read by OCR; check the original)
@@ -1622,6 +1636,11 @@ Acting In the County of
 <a id="p69"></a>
 *[Page 69 of the original](https://www.southlyonmi.org/City%20Council%20Packet%2011-14-16%20set%201.pdf?t=202108310733070#page=69)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 SAM.gov will be down for scheduled maintenance Monday, 10/10/2016 from 7 PM - 11 PM (EDT) to deploy the Fiscal Year 2016 Service Contract Reporting module.
@@ -1661,6 +1680,8 @@ RETURN TO SEARCH
 Exclusion Summary
 
 Active Exclusion Records? No
+
+</details>
 
 <a id="p70"></a>
 *[Page 70 of the original](https://www.southlyonmi.org/City%20Council%20Packet%2011-14-16%20set%201.pdf?t=202108310733070#page=70)* (read by OCR; check the original)

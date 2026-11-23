@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/12-12-22%20Council%20Packet%20-%20onlin
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "9ab0c6ec72785323b919af4cf6c1d769309eea13d207b2884f8ad6f99e0f28ed"
 source_bytes: 8184849
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 81
 ocr_pages: 81
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2022-12-12
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/12-12-22%20Council%20Packet%20-%20online%20only.pdf?t=202212081624210) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `9ab0c6ec72785323…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/12-12-22%20Council%20Packet%20-%20online%20only.pdf?t=202212081624210) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `9ab0c6ec72785323…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/12-12-22%20Council%20Packet%20-%20online%20only.pdf?t=202212081624210#page=1)* (read by OCR; check the original)
@@ -306,6 +306,11 @@ MOTION CARRIED
 <a id="p8"></a>
 *[Page 8 of the original](https://www.southlyonmi.org/12-12-22%20Council%20Packet%20-%20online%20only.pdf?t=202212081624210#page=8)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 CM 11-7-22 MOTION TO ASK THE CITY MANAGER TO MOVE FORWARD WITH DISCUSSION
 
 HELD IN CLOSED SESSION
@@ -347,6 +352,8 @@ Respectfully submitted.
 Mayor Dan Pelchat
 
 City Clerk/Treasurer Lisa Deaton
+
+</details>
 
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/12-12-22%20Council%20Packet%20-%20online%20only.pdf?t=202212081624210#page=9)* (read by OCR; check the original)
@@ -1576,7 +1583,14 @@ SUGGESTED MOTION: None
 <a id="p63"></a>
 *[Page 63 of the original](https://www.southlyonmi.org/12-12-22%20Council%20Packet%20-%20online%20only.pdf?t=202212081624210#page=63)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p64"></a>
 *[Page 64 of the original](https://www.southlyonmi.org/12-12-22%20Council%20Packet%20-%20online%20only.pdf?t=202212081624210#page=64)* (read by OCR; check the original)
@@ -1598,6 +1612,11 @@ Good Condition
 <a id="p65"></a>
 *[Page 65 of the original](https://www.southlyonmi.org/12-12-22%20Council%20Packet%20-%20online%20only.pdf?t=202212081624210#page=65)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 City of South Lyon
 
 Average PASER Rating by Funding Amount
@@ -1608,20 +1627,41 @@ Projected Road Condition Chart
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p66"></a>
 *[Page 66 of the original](https://www.southlyonmi.org/12-12-22%20Council%20Packet%20-%20online%20only.pdf?t=202212081624210#page=66)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 Conceptual Street Improvement Implementation
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p67"></a>
 *[Page 67 of the original](https://www.southlyonmi.org/12-12-22%20Council%20Packet%20-%20online%20only.pdf?t=202212081624210#page=67)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p68"></a>
 *[Page 68 of the original](https://www.southlyonmi.org/12-12-22%20Council%20Packet%20-%20online%20only.pdf?t=202212081624210#page=68)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 Preliminary Overall Plan
 
@@ -1629,14 +1669,23 @@ Preliminary Overall Plan
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p69"></a>
 *[Page 69 of the original](https://www.southlyonmi.org/12-12-22%20Council%20Packet%20-%20online%20only.pdf?t=202212081624210#page=69)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 <div>PROPOSED TYPICAL SECTION</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p70"></a>
 *[Page 70 of the original](https://www.southlyonmi.org/12-12-22%20Council%20Packet%20-%20online%20only.pdf?t=202212081624210#page=70)* (read by OCR; check the original)
@@ -1654,7 +1703,14 @@ Date created: 12/07/2022
 <a id="p71"></a>
 *[Page 71 of the original](https://www.southlyonmi.org/12-12-22%20Council%20Packet%20-%20online%20only.pdf?t=202212081624210#page=71)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p72"></a>
 *[Page 72 of the original](https://www.southlyonmi.org/12-12-22%20Council%20Packet%20-%20online%20only.pdf?t=202212081624210#page=72)* (read by OCR; check the original)
@@ -1747,6 +1803,11 @@ The proposed improvements for Lafayette Park establish a southern gateway to the
 <a id="p76"></a>
 *[Page 76 of the original](https://www.southlyonmi.org/12-12-22%20Council%20Packet%20-%20online%20only.pdf?t=202212081624210#page=76)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
@@ -1755,8 +1816,15 @@ CITY OF SOUTH LYON
 
 SOUTH LYON, MICHIGAN
 
+</details>
+
 <a id="p77"></a>
 *[Page 77 of the original](https://www.southlyonmi.org/12-12-22%20Council%20Packet%20-%20online%20only.pdf?t=202212081624210#page=77)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1773,6 +1841,8 @@ EXISTING SITE PLAN
 WHY INFORMATION ON BEE GARDEN AND IF YOU'RE IN THE INFORMATION ON THE INFORMATION THAT YOU CAN'T RECEIVE OR RECEIVED OR
 
  $ P_{1}E_{1}=1 $
+
+</details>
 
 <a id="p78"></a>
 *[Page 78 of the original](https://www.southlyonmi.org/12-12-22%20Council%20Packet%20-%20online%20only.pdf?t=202212081624210#page=78)* (read by OCR; check the original)

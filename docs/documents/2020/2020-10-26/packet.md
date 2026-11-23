@@ -594,6 +594,11 @@ DETAILS: REMOVE ALL CABINET COMPONENTS. RETROFIT CABINET FOR NEW EATON VFD VARIA
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/packet%20oct%2026%20%202020.pdf?t=202108310733170#page=14)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Variable Frequency Drive Enclosure – Blower #3
@@ -601,6 +606,8 @@ Variable Frequency Drive Enclosure – Blower #3
 Area highlighted in the yellow box shows the component that is failed.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/packet%20oct%2026%20%202020.pdf?t=202108310733170#page=15)* (read by OCR; check the original)
@@ -858,6 +865,11 @@ Soil conditions at the site could vary from those generalized on the basis of so
 <a id="p26"></a>
 *[Page 26 of the original](https://www.southlyonmi.org/packet%20oct%2026%20%202020.pdf?t=202108310733170#page=26)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Soil Boring Location Plan
@@ -867,6 +879,8 @@ Proposed Commercial Development
 390 S. Lafayette Street
 
 South Lyon, Michigan
+
+</details>
 
 <a id="p27"></a>
 *[Page 27 of the original](https://www.southlyonmi.org/packet%20oct%2026%20%202020.pdf?t=202108310733170#page=27)* (read by OCR; check the original)
@@ -1033,6 +1047,11 @@ To: Mark Stapleton <mstableton@g2consultinggroup.com>
 <a id="p37"></a>
 *[Page 37 of the original](https://www.southlyonmi.org/packet%20oct%2026%20%202020.pdf?t=202108310733170#page=37)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 The following pages show snapshots from a 3D model designed to show key redevelopment opportunities in Downtown South Lyon broken down by three area types:
 
 2. Downtown Core
@@ -1045,8 +1064,15 @@ PLANNING COMMISSION RECOMMENDED DRAFT - MARCH 2016
 
 South Lyon Master Plan
 
+</details>
+
 <a id="p38"></a>
 *[Page 38 of the original](https://www.southlyonmi.org/packet%20oct%2026%20%202020.pdf?t=202108310733170#page=38)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ### 1. Downtown Core
 
@@ -1060,8 +1086,15 @@ PLANNING COMMISSION RECOMMENDED DRAFT - MARCH 2016
 
 South Lyon Master Plan
 
+</details>
+
 <a id="p39"></a>
 *[Page 39 of the original](https://www.southlyonmi.org/packet%20oct%2026%20%202020.pdf?t=202108310733170#page=39)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1079,8 +1112,15 @@ A vacant lot that currently faces businesses across Wells Street is an opportuni
 
 Should the Post Office vacate its current site in the future, the location could be redeveloped with a town square, outdoor restaurant seating, and storefronts that match the rest of the downtown core.
 
+</details>
+
 <a id="p40"></a>
 *[Page 40 of the original](https://www.southlyonmi.org/packet%20oct%2026%20%202020.pdf?t=202108310733170#page=40)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## G LONG TERM: Key Redevelopment Block
 
@@ -1098,8 +1138,15 @@ The existing site is underutilized with the storage of parked cars.
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/packet%20oct%2026%20%202020.pdf?t=202108310733170#page=41)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ### 2. Downtown Transition
 
@@ -1113,8 +1160,15 @@ PLANNING COMMISSION RECOMMENDED DRAFT - MARCH 2016
 
 South Lyon Master Plan
 
+</details>
+
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/packet%20oct%2026%20%202020.pdf?t=202108310733170#page=42)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ### 2. Downtown Transition
 
@@ -1136,8 +1190,15 @@ Modern multiple-family apartments or lofts would be a positive addition to urban
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p43"></a>
 *[Page 43 of the original](https://www.southlyonmi.org/packet%20oct%2026%20%202020.pdf?t=202108310733170#page=43)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ### 3. Mixed-Use Redevelopment
 
@@ -1149,8 +1210,15 @@ PLANNING COMMISSION RECOMMENDED DRAFT - MARCH 2016
 
 South Lyon Master Plan
 
+</details>
+
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/packet%20oct%2026%20%202020.pdf?t=202108310733170#page=44)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ### 3. Mixed-Use Redevelopment
 
@@ -1161,6 +1229,8 @@ The current character of the downtown south of Lake St. lacks the consistent "Ma
 PLANNING COMMISSION RECOMMENDED DRAFT - MARCH 2016
 
 South Lyon Master Plan
+
+</details>
 
 <a id="p45"></a>
 *[Page 45 of the original](https://www.southlyonmi.org/packet%20oct%2026%20%202020.pdf?t=202108310733170#page=45)* (read by OCR; check the original)

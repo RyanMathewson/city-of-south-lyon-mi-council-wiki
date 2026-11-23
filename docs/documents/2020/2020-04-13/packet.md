@@ -709,7 +709,14 @@ Date
 <a id="p36"></a>
 *[Page 36 of the original](https://www.southlyonmi.org/4-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=36)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p37"></a>
 *[Page 37 of the original](https://www.southlyonmi.org/4-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=37)* (read by OCR; check the original)
@@ -909,7 +916,14 @@ Date
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/4-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=44)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p45"></a>
 *[Page 45 of the original](https://www.southlyonmi.org/4-13-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=45)* (read by OCR; check the original)

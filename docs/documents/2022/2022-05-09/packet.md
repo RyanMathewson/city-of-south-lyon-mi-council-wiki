@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/5-9-22%20Council%20Packet%20-%20online%
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "1c3d449055f14daa4ee1d91cd01b6a2f6a67d57aa3b7cbe218bf7318a29cedd0"
 source_bytes: 8842304
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 60
 ocr_pages: 60
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2022-05-09
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/5-9-22%20Council%20Packet%20-%20online%20only.pdf?t=202205051526190) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `1c3d449055f14daa…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/5-9-22%20Council%20Packet%20-%20online%20only.pdf?t=202205051526190) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `1c3d449055f14daa…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/5-9-22%20Council%20Packet%20-%20online%20only.pdf?t=202205051526190#page=1)* (read by OCR; check the original)
@@ -683,7 +683,14 @@ Date
 <a id="p31"></a>
 *[Page 31 of the original](https://www.southlyonmi.org/5-9-22%20Council%20Packet%20-%20online%20only.pdf?t=202205051526190#page=31)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p32"></a>
 *[Page 32 of the original](https://www.southlyonmi.org/5-9-22%20Council%20Packet%20-%20online%20only.pdf?t=202205051526190#page=32)* (read by OCR; check the original)
@@ -715,9 +722,16 @@ Date
 <a id="p35"></a>
 *[Page 35 of the original](https://www.southlyonmi.org/5-9-22%20Council%20Packet%20-%20online%20only.pdf?t=202205051526190#page=35)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>NORTH SIDE OF ROPER BARN</div>
+
+</details>
 
 <a id="p36"></a>
 *[Page 36 of the original](https://www.southlyonmi.org/5-9-22%20Council%20Packet%20-%20online%20only.pdf?t=202205051526190#page=36)* (read by OCR; check the original)
@@ -754,9 +768,16 @@ There is a lean-to structure attached to the barn on the south side that was pro
 <a id="p38"></a>
 *[Page 38 of the original](https://www.southlyonmi.org/5-9-22%20Council%20Packet%20-%20online%20only.pdf?t=202205051526190#page=38)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>EAST SIDE OF ROPER BARN</div>
+
+</details>
 
 <a id="p39"></a>
 *[Page 39 of the original](https://www.southlyonmi.org/5-9-22%20Council%20Packet%20-%20online%20only.pdf?t=202205051526190#page=39)* (read by OCR; check the original)
@@ -816,12 +837,24 @@ Roof: steel shingles, cut similar to current style on present barn, for durabili
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/5-9-22%20Council%20Packet%20-%20online%20only.pdf?t=202205051526190#page=42)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>WEST END OF BARN WITH STORAGE LEAN-TO</div>
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p43"></a>
 *[Page 43 of the original](https://www.southlyonmi.org/5-9-22%20Council%20Packet%20-%20online%20only.pdf?t=202205051526190#page=43)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td>*[Image or figure on this page; see the original.]*</td><td>CITY OF SOUTH LIXIN</td></tr><tr><td>MCHATTI PARK
 EXISTING CONDITIONS</td><td></td></tr><tr><td>VETERANS
@@ -830,6 +863,8 @@ MEMORIAL</td><td></td></tr></table>
 *[Image or figure on this page; see the original.]*
 
 <div>East Historic Village Plat with proposed barn location</div>
+
+</details>
 
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/5-9-22%20Council%20Packet%20-%20online%20only.pdf?t=202205051526190#page=44)* (read by OCR; check the original)
@@ -865,6 +900,11 @@ MEMORIAL</td><td></td></tr></table>
 
 <a id="p46"></a>
 *[Page 46 of the original](https://www.southlyonmi.org/5-9-22%20Council%20Packet%20-%20online%20only.pdf?t=202205051526190#page=46)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -919,6 +959,8 @@ MCHATTIE PARK-HISTORIC VILLAGE
 SOUTH LYON, MICHIGAN
 
 05 APRIL 2022
+
+</details>
 
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/5-9-22%20Council%20Packet%20-%20online%20only.pdf?t=202205051526190#page=47)* (read by OCR; check the original)
@@ -1354,7 +1396,14 @@ Retrieve your printed ballot and take all sheets to the scanner to cast your bal
 <a id="p60"></a>
 *[Page 60 of the original](https://www.southlyonmi.org/5-9-22%20Council%20Packet%20-%20online%20only.pdf?t=202205051526190#page=60)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>$$\text{E} = \sum_{i=1}^{n} \sum_{j=1}^{m} \sum_{k=1}^{n} \sum_{l=1}^{m} \sum_{m=1}^{n} \sum_{i=1}^{m} \sum_{j=1}^{n} \sum_{k=1}^{m} \sum_{l=1}^{n} \sum_{i=1}^{m} \sum_{j=1}^{n} \sum_{k=1}^{m} \sum_{l=1}^{n} \sum_{i=1}^{m} \sum_{j</div>
+
+</details>
 

@@ -267,6 +267,11 @@ Council reconvened the regular meeting at 9:50 p.m.
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacketfor3.23.15.pdf?t=202108310732570#page=9)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Motion by Kramer, supported by Kopkowski
 
 Motion to adjourn meeting at 9:52 p.m.
@@ -280,6 +285,8 @@ Respectfully submitted,
 Tedd Wallace, Mayor
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacketfor3.23.15.pdf?t=202108310732570#page=10)* (read by OCR; check the original)

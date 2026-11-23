@@ -372,6 +372,11 @@ Wedell-Yes
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/11.13.17%20council%20packet.pdf?t=202108310733100#page=16)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Galeas- Yes
 
 Ryzyi-Yes
@@ -399,6 +404,8 @@ Mayor John Galeas
 Clerk Lisa Deaton
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/11.13.17%20council%20packet.pdf?t=202108310733100#page=17)* (read by OCR; check the original)

@@ -423,12 +423,26 @@ Under Article IV, Section 40, of the Constitution of Michigan (1963), the Commis
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/March%2023%20Online%20Copy%20Redacted%20with%20Updated%20Next%20Council%20Meeting_03-23-2026.pdf?t=202603231212560#page=11)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p12"></a>
 *[Page 12 of the original](https://www.southlyonmi.org/March%2023%20Online%20Copy%20Redacted%20with%20Updated%20Next%20Council%20Meeting_03-23-2026.pdf?t=202603231212560#page=12)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p13"></a>
 *[Page 13 of the original](https://www.southlyonmi.org/March%2023%20Online%20Copy%20Redacted%20with%20Updated%20Next%20Council%20Meeting_03-23-2026.pdf?t=202603231212560#page=13)* (read by OCR; check the original)

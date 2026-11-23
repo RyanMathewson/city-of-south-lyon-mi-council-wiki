@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/document_center/City%20Council/Agenda%2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "760a2eb3e3adfab9d6962de1202650e8b1b38c40477290d53d869a713efb9f78"
 source_bytes: 6044491
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 147
 ocr_pages: 147
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2015-12-14
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket12.14.15.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `760a2eb3e3adfab9…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket12.14.15.pdf?t=202108310732570) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `760a2eb3e3adfab9…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket12.14.15.pdf?t=202108310732570#page=1)* (read by OCR; check the original)
@@ -1082,6 +1082,11 @@ Code of Federal Regulations Title 24, Volume 3 Revised as of April 1, 2004 CITE:
 <a id="p57"></a>
 *[Page 57 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket12.14.15.pdf?t=202108310732570#page=57)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## TOAKIAND COUNTY MICHIGAN
@@ -1133,6 +1138,8 @@ Non-Eligible Block Groups
 1 in = 0.48 miles
 
 This Census Block Group map reflects 2014 LMISD data from the U.S. Department of Housing and Urban Development.
+
+</details>
 
 <a id="p58"></a>
 *[Page 58 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket12.14.15.pdf?t=202108310732570#page=58)* (read by OCR; check the original)
@@ -3765,11 +3772,18 @@ South Lyon, Michigan 48178
 <a id="p117"></a>
 *[Page 117 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket12.14.15.pdf?t=202108310732570#page=117)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## PEA
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p118"></a>
 *[Page 118 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket12.14.15.pdf?t=202108310732570#page=118)* (read by OCR; check the original)
@@ -3873,11 +3887,18 @@ South Lyon, Michigan 48178
 <a id="p121"></a>
 *[Page 121 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket12.14.15.pdf?t=202108310732570#page=121)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## PEA
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p122"></a>
 *[Page 122 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket12.14.15.pdf?t=202108310732570#page=122)* (read by OCR; check the original)
@@ -4160,9 +4181,16 @@ Date of Application 11/16/2015
 <a id="p128"></a>
 *[Page 128 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket12.14.15.pdf?t=202108310732570#page=128)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Witch's Hat BC 4th Anniversary Party Saturday, 12/26/15 11am to Midnight 21 and up only Entry Fee Donated to Mott Hospital</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p129"></a>
 *[Page 129 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket12.14.15.pdf?t=202108310732570#page=129)* (read by OCR; check the original)
@@ -4428,9 +4456,16 @@ Date of Application 11/14/2015
 <a id="p134"></a>
 *[Page 134 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket12.14.15.pdf?t=202108310732570#page=134)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Witch's Hat BC 4th Anniversary Party Saturday, 12/26/15 11am to Midnight 21 and up only Entry Fee Donated to Mott Hospital</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p135"></a>
 *[Page 135 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2015/packet/CityCouncilPacket12.14.15.pdf?t=202108310732570#page=135)* (read by OCR; check the original)

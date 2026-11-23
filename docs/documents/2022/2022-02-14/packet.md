@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/2-14-22%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "e4030c0161cbe6903f4e343366116a95cedd2d5b4d6b7ed1fabd2ee6b9a4a218"
 source_bytes: 11018594
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 71
 ocr_pages: 71
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2022-02-14
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/2-14-22%20Council%20Packet%20-%20online%20only.pdf?t=202202101449370) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `e4030c0161cbe690…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/2-14-22%20Council%20Packet%20-%20online%20only.pdf?t=202202101449370) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `e4030c0161cbe690…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/2-14-22%20Council%20Packet%20-%20online%20only.pdf?t=202202101449370#page=1)* (read by OCR; check the original)
@@ -1137,9 +1137,16 @@ to approve the award of Phase 4 of the Sanitary Sewer Evaluation Study to Pipete
 <a id="p53"></a>
 *[Page 53 of the original](https://www.southlyonmi.org/2-14-22%20Council%20Packet%20-%20online%20only.pdf?t=202202101449370#page=53)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 WS
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p54"></a>
 *[Page 54 of the original](https://www.southlyonmi.org/2-14-22%20Council%20Packet%20-%20online%20only.pdf?t=202202101449370#page=54)* (read by OCR; check the original)

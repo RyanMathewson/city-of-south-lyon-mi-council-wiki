@@ -451,6 +451,11 @@ South Lyon City Clerk
 <a id="p13"></a>
 *[Page 13 of the original](https://www.southlyonmi.org/1-24-22%20Council%20Packet%20-%20online%20only.pdf?t=202201201626110#page=13)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>LAFAYETTE PARK CITY OF SOUTH LYON</div>
@@ -460,6 +465,8 @@ CITY OF SOUTH LYON
 *[Image or figure on this page; see the original.]*
 
 SOUTH LYON, MICHIGAN
+
+</details>
 
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/1-24-22%20Council%20Packet%20-%20online%20only.pdf?t=202201201626110#page=14)* (read by OCR; check the original)

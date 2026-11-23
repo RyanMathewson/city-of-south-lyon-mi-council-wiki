@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/packet.pdf?t=202108310733110"
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "213da49792c355663069e6967f071b16218775fc934b67b84953feb91f711766"
 source_bytes: 5911238
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 137
 ocr_pages: 137
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2018-04-09
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/packet.pdf?t=202108310733110) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `213da49792c35566…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/packet.pdf?t=202108310733110) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `213da49792c35566…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/packet.pdf?t=202108310733110#page=1)* (read by OCR; check the original)
@@ -1281,6 +1281,11 @@ Lisa Deaton, City Clerk
 <a id="p58"></a>
 *[Page 58 of the original](https://www.southlyonmi.org/packet.pdf?t=202108310733110#page=58)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 I hereby certify that the foregoing is a true and complete copy of the ordinance adopted at the regular meeting of the South Lyon City Council held on the ___ day of _____, 2018.
 
 Lisa Deaton, City Clerk
@@ -1292,6 +1297,8 @@ Published:
 Effective:
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p59"></a>
 *[Page 59 of the original](https://www.southlyonmi.org/packet.pdf?t=202108310733110#page=59)* (read by OCR; check the original)
@@ -1994,9 +2001,16 @@ Adopted: Published:
 <a id="p85"></a>
 *[Page 85 of the original](https://www.southlyonmi.org/packet.pdf?t=202108310733110#page=85)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Effective:
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p86"></a>
 *[Page 86 of the original](https://www.southlyonmi.org/packet.pdf?t=202108310733110#page=86)* (read by OCR; check the original)
@@ -3262,6 +3276,11 @@ SUGGESTED MOTION: Motion by _____, supported by _____ to have an action vote to 
 <a id="p131"></a>
 *[Page 131 of the original](https://www.southlyonmi.org/packet.pdf?t=202108310733110#page=131)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Sources: Esri, HERE, DeLorme, USGS, Intermap, INCREMENT P, NRCan, Esri Japan, METI, Esri China (Hong Kong), Esri Korea, Esri (Thailand).
 
 <div>DTE Energy - energy Electric</div>
@@ -3272,8 +3291,15 @@ Sources: Esri, HERE, DeLorme, USGS, Intermap, INCREMENT P, NRCan, Esri Japan, ME
 
 <div>December 27, 2017</div>
 
+</details>
+
 <a id="p132"></a>
 *[Page 132 of the original](https://www.southlyonmi.org/packet.pdf?t=202108310733110#page=132)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>Copyright DTE Energy</div>
 
@@ -3284,6 +3310,8 @@ December 27, 2017
 *[Image or figure on this page; see the original.]*
 
 DTE Energy - energy Electric
+
+</details>
 
 <a id="p133"></a>
 *[Page 133 of the original](https://www.southlyonmi.org/packet.pdf?t=202108310733110#page=133)* (read by OCR; check the original)
@@ -3388,6 +3416,11 @@ About the Arbor Day Foundation: The Arbor Day Foundation is a million member non
 <a id="p137"></a>
 *[Page 137 of the original](https://www.southlyonmi.org/packet.pdf?t=202108310733110#page=137)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 BOB+SUZAN
@@ -3399,4 +3432,6 @@ YOU ARE DOING AN EXCEPTIONAL JOB AS POLICE CHIEF AND CITY MANAGER.
 JUST A LITTLE TOAST TO CELEBRATE YOU!
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 

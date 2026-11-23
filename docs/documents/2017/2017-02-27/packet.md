@@ -804,6 +804,11 @@ City of South Lyon Planning Commission Meeting Minutes of February 9, 2017
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%202-27-17.pdf?t=202108310733070#page=28)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 None.
 
 ## STAFF REPORT:
@@ -825,6 +830,8 @@ Scott Lanam, Chairman
 Jerry Chaundy, Secretary
 
 Kristen Delaney, Recording Secretary
+
+</details>
 
 <a id="p29"></a>
 *[Page 29 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2017/packet/Council%20Packet%202-27-17.pdf?t=202108310733070#page=29)* (read by OCR; check the original)

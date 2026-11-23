@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/February%2026%202018%20part%203.pdf?t=2
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "33194e0f5a2e59b749c7544b2823322bb757442d25f3eaed0031608c5ec6d5ab"
 source_bytes: 3856878
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 129
 ocr_pages: 129
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2018-02-26
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/February%2026%202018%20part%203.pdf?t=202108310733110) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `33194e0f5a2e59b7…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/February%2026%202018%20part%203.pdf?t=202108310733110) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `33194e0f5a2e59b7…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/February%2026%202018%20part%203.pdf?t=202108310733110#page=1)* (read by OCR; check the original)
@@ -802,6 +802,11 @@ c. All other items upon approval of a super-majority of five (5) of the Council 
 <a id="p32"></a>
 *[Page 32 of the original](https://www.southlyonmi.org/February%2026%202018%20part%203.pdf?t=202108310733110#page=32)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 cityofnovi.org
@@ -825,6 +830,8 @@ AMENDED: June 2, 2014
 AMENDED: 11/13/14 appt Council
 
 AMENDED: November 9, 2015
+
+</details>
 
 <a id="p33"></a>
 *[Page 33 of the original](https://www.southlyonmi.org/February%2026%202018%20part%203.pdf?t=202108310733110#page=33)* (read by OCR; check the original)
@@ -2353,9 +2360,16 @@ SUGGESTED MOTION: Motion by ___, supported by ___ to
 <a id="p85"></a>
 *[Page 85 of the original](https://www.southlyonmi.org/February%2026%202018%20part%203.pdf?t=202108310733110#page=85)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p86"></a>
 *[Page 86 of the original](https://www.southlyonmi.org/February%2026%202018%20part%203.pdf?t=202108310733110#page=86)* (read by OCR; check the original)
@@ -2420,6 +2434,11 @@ A Capital Improvement Program is not the same as a city budget. A city budget ap
 <a id="p88"></a>
 *[Page 88 of the original](https://www.southlyonmi.org/February%2026%202018%20part%203.pdf?t=202108310733110#page=88)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Executive Summary
 
 ## FY2018-FY2023 Funding Need
@@ -2463,6 +2482,8 @@ Projects by Year:
 2022 66
 
 2023 33
+
+</details>
 
 <a id="p89"></a>
 *[Page 89 of the original](https://www.southlyonmi.org/February%2026%202018%20part%203.pdf?t=202108310733110#page=89)* (read by OCR; check the original)
@@ -2624,8 +2645,6 @@ Sidewalk Wildening: Grand River Avenue, South Side Between The Groves Retail Cen
 <a id="p97"></a>
 *[Page 97 of the original](https://www.southlyonmi.org/February%2026%202018%20part%203.pdf?t=202108310733110#page=97)* (read by OCR; check the original)
 
-*[OCR note: this page may contain text repeated by the OCR software; check the original.]*
-
 <table><tr><td>Project Category</td><td>Project Name</td><td>Placēts/Donāts</td><td>Placēts/Rank</td><td>Highest(1)</td><td>City</td><td>Fund</td><td>Outside Source</td><td>Total</td><td>Prior Years City Cost</td><td>Future City Cost</td><td>2018</td><td>2019</td><td>2020</td><td>2021</td><td>2022</td><td>2023</td><td>2024-2027</td></tr><tr><td>Vehicles and Equipment</td><td>1998 GMC Dump Truck, Flow, Scaper and Spracker</td><td>Necessary, Short Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>236,740</td><td>-</td><td>236,740</td><td></td><td></td><td></td><td></td><td>236,740</td><td></td></tr><tr><td>Vehicles and Equipment</td><td>2024 Ford F-250 464 Utility Body</td><td>Necessary, Short Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>37,440</td><td>-</td><td>37,440</td><td></td><td></td><td></td><td>37,440</td><td></td><td></td></tr><tr><td>Vehicles and Equipment</td><td>2005 GMC Pickup w/Flow</td><td>Necessary, Short Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>36,449</td><td>-</td><td>36,449</td><td></td><td></td><td>36,449</td><td></td><td></td><td></td></tr><tr><td>Vehicles and Equipment</td><td>2005 Swanina Van</td><td>Necessary, Short Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>48,100</td><td>-</td><td>48,100</td><td></td><td></td><td></td><td>48,100</td><td></td><td></td></tr><tr><td>Vehicles and Equipment</td><td>Ford 2000 F350 434 Pickup /FTSF315YEE26773</td><td>Necessary, Short Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>52,479</td><td>-</td><td>52,479</td><td></td><td></td><td>52,479</td><td></td><td></td><td></td></tr><tr><td>Vehicles and Equipment</td><td>2007 GMC Pickup w/Flow</td><td>Necessary, Short Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>44,200</td><td>-</td><td>44,200</td><td></td><td></td><td></td><td></td><td>44,200</td><td></td></tr><tr><td>Vehicles and Equipment</td><td>1995 Ford Vactor, M42 2110-t w/Guinnins</td><td>Necessary, Short Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>345,960</td><td>-</td><td>345,960</td><td></td><td>345,960</td><td></td><td></td><td></td><td></td></tr><tr><td>Vehicles and Equipment</td><td>1994 Ford Tractor</td><td>Necessary, Short Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>44,880</td><td>-</td><td>44,880</td><td></td><td></td><td></td><td></td><td>44,880</td><td></td></tr><tr><td>Vehicles and Equipment</td><td>Steel KIPS Cab/Hydraulic Broom Sneeper</td><td>Necessary, Short Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>20,400</td><td>-</td><td>20,400</td><td></td><td></td><td></td><td></td><td>20,400</td><td></td></tr><tr><td>Vehicles and Equipment</td><td>Maksiba Vibratory Compactor</td><td>Necessary, Short Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>2,541</td><td>-</td><td>2,541</td><td></td><td>2,541</td><td></td><td></td><td></td><td></td></tr><tr><td>Vehicles and Equipment</td><td>1985 Ford Tractor Backhoe w/Breaker</td><td>Necessary, Short Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>127,000</td><td>-</td><td>127,000</td><td></td><td></td><td></td><td>127,000</td><td></td><td></td></tr><tr><td>Vehicles and Equipment</td><td>Scorp Dway for 1985 Ford</td><td>Necessary, Short Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>3,619</td><td>-</td><td>3,619</td><td></td><td></td><td></td><td>3,619</td><td></td><td></td></tr><tr><td>Vehicles and Equipment</td><td>Fayette Trailer 3D Tor</td><td>Necessary, Short Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>20,400</td><td>-</td><td>20,400</td><td></td><td></td><td></td><td></td><td>20,400</td><td></td></tr><tr><td>Vehicles and Equipment</td><td>Enmark GTJ Laser Mower</td><td>Necessary, Short Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>15,295</td><td>-</td><td>15,295</td><td></td><td></td><td></td><td></td><td>15,295</td><td></td></tr><tr><td>Vehicles and Equipment</td><td>2008 Dodge Garvan</td><td>Necessary, Short Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>-</td><td>-</td><td>-</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Vehicles and Equipment</td><td>2014 F-250 464 w/Flow</td><td>Necessary, Short Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>-</td><td>-</td><td>-</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Vehicles and Equipment</td><td>Dietz Flashing Arrow</td><td>Necessary, Short Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>7,500</td><td>-</td><td>7,500</td><td></td><td></td><td></td><td></td><td>7,500</td><td></td></tr><tr><td>Vehicles and Equipment</td><td>Stapp SPN 1.21P Pre-Mits Haizer</td><td>Necessary, Short Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>27,200</td><td>-</td><td>27,200</td><td></td><td></td><td></td><td></td><td>27,200</td><td></td></tr><tr><td>Vehicles and Equipment</td><td>Sewer Telenving Camera</td><td>Necessary, Short Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>40,500</td><td>-</td><td>40,500</td><td></td><td></td><td></td><td></td><td>40,500</td><td></td></tr><tr><td>Vehicles and Equipment</td><td>Stanley Concrete Breaker (WR25) 50% W&S</td><td>Necessary, Short Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>27,940</td><td>-</td><td>27,940</td><td></td><td></td><td></td><td>27,940</td><td></td><td></td></tr><tr><td>Vehicles and Equipment</td><td>1989 Liberty Landscape Trailer</td><td>Necessary, Short Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>12,240</td><td>-</td><td>12,240</td><td></td><td></td><td></td><td></td><td>12,240</td><td></td></tr><tr><td>Vehicles and Equipment</td><td>Leaf Lander</td><td>Necessary, Short Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>57,200</td><td>-</td><td>57,200</td><td></td><td></td><td></td><td></td><td>57,200</td><td></td></tr><tr><td>Vehicles and Equipment</td><td>Cakote Pedalant Calcium Pre-Wetter</td><td>Necessary, Short Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>10,400</td><td>-</td><td>10,400</td><td></td><td></td><td></td><td></td><td>10,400</td><td></td></tr><tr><td>Vehicles and Equipment</td><td>2015 F-250 (50% W&S)</td><td>Necessary, Short Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>154,406</td><td>-</td><td>154,406</td><td></td><td></td><td></td><td></td><td>37,310</td><td></td></tr><tr><td>Vehicles and Equipment</td><td>1994 Bovill Brush Chipper</td><td>Necessary, Long Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>29,000</td><td>-</td><td>29,000</td><td></td><td></td><td></td><td></td><td></td><td>29,000</td></tr><tr><td>Vehicles and Equipment</td><td>2000 GMC Dump Trucks Sniper, Flow & Spracker</td><td>Necessary, Long Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>252,760</td><td>-</td><td>252,760</td><td></td><td></td><td></td><td></td><td></td><td>252,760</td></tr><tr><td>Vehicles and Equipment</td><td>1996 GMC Dump Trucks Scraper, Flow & Spracker</td><td>Necessary, Long Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>263,440</td><td>-</td><td>263,440</td><td></td><td></td><td></td><td></td><td></td><td>263,440</td></tr><tr><td>Vehicles and Equipment</td><td>2015 Cherry Express</td><td>Necessary, Long Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>39,803</td><td>-</td><td>39,803</td><td></td><td></td><td></td><td></td><td></td><td>39,803</td></tr><tr><td>Vehicles and Equipment</td><td>Leaf Ladder</td><td>Necessary, Long Term</td><td></td><td>3</td><td>100%</td><td>ISF</td><td>0%</td><td>N/A</td><td>63,800</td><td>-</td><td>63,800</td><td></td><td></td><td></td><td></td><td></td><td>63,800</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
@@ -2701,7 +2720,14 @@ Score sheet example ..... 27
 <a id="p104"></a>
 *[Page 104 of the original](https://www.southlyonmi.org/February%2026%202018%20part%203.pdf?t=202108310733110#page=104)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p105"></a>
 *[Page 105 of the original](https://www.southlyonmi.org/February%2026%202018%20part%203.pdf?t=202108310733110#page=105)* (read by OCR; check the original)

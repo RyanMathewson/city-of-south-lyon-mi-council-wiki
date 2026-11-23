@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "15f27fef1cffee27cc911bf3d3d0b6d835c11b52773748d285f78466077d1a66"
 source_bytes: 8606393
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 174
 ocr_pages: 174
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2021-02-22
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `15f27fef1cffee27…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `15f27fef1cffee27…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=1)* (read by OCR; check the original)
@@ -231,6 +231,11 @@ Mayor Pro Tem Kivell stated he hopes everyone will dine local, we have a lot of 
 <a id="p7"></a>
 *[Page 7 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=7)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 were taken out when we did Reynold Sweet Parkway was augment to that so it was a little higher and steeper and he is grateful we capitalized on the mistake made at Reynold Sweet Parkway.
 
 ADJOURNMENT
@@ -248,6 +253,8 @@ Respectfully submitted,
 *[Image or figure on this page; see the original.]*
 
 Glenn Kivell, Mayor Pro Tem
+
+</details>
 
 <a id="p8"></a>
 *[Page 8 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=8)* (read by OCR; check the original)
@@ -784,6 +791,11 @@ SUGGESTED MOTION: Motion by ___, supported by ___, to approve the selected proje
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=14)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 Economic Development & Community Affairs
@@ -809,6 +821,8 @@ www.askgov.com/chi
 *[Image or figure on this page; see the original.]*
 
 This Census Block Group map reflects the 2011-2015 American Community Survey (ACS).
+
+</details>
 
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=15)* (read by OCR; check the original)
@@ -854,8 +868,6 @@ Subpart K Other Program Requirements Sec. 570.611 Conflict of interest
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=17)* (read by OCR; check the original)
 
-*[OCR note: this page may contain text repeated by the OCR software; check the original.]*
-
 <div>(Please √ one box per project)</div>
 
 Project #1 Allocation: $24.552
@@ -887,8 +899,6 @@ e. Known or suspected environmental contamination</td><td rowspan="3">570.208(b)
 
 <a id="p20"></a>
 *[Page 20 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=20)* (read by OCR; check the original)
-
-*[OCR note: this page may contain text repeated by the OCR software; check the original.]*
 
 <div>(Please √ one box per project)</div>
 
@@ -3567,6 +3577,11 @@ It must clearly state the restrictions that are proposed for the property.
 <a id="p122"></a>
 *[Page 122 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=122)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Vacant Industrial Properties
 
 *[Image or figure on this page; see the original.]*
@@ -3574,6 +3589,8 @@ It must clearly state the restrictions that are proposed for the property.
 1. Parcel: 21-29-129-003: .20 acres
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p123"></a>
 *[Page 123 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=123)* (read by OCR; check the original)
@@ -3724,6 +3741,11 @@ Partner
 <a id="p129"></a>
 *[Page 129 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=129)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Land for Industrial - For Sale
 
 B. For
@@ -3815,6 +3837,8 @@ Days On Market: 2,100
 This property is represented by Thomas Duke Company - John Porth, (248) 476-8661
 
 This property is for sale individually
+
+</details>
 
 <a id="p130"></a>
 *[Page 130 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=130)* (read by OCR; check the original)
@@ -4467,39 +4491,74 @@ Total undeveloped land area: approximately 3 acres
 <a id="p136"></a>
 *[Page 136 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=136)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 FAO CHINA V 201
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p137"></a>
 *[Page 137 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=137)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p138"></a>
 *[Page 138 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=138)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p139"></a>
 *[Page 139 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=139)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p140"></a>
 *[Page 140 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=140)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## from the city of
 
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p141"></a>
 *[Page 141 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=141)* (read by OCR; check the original)
@@ -4836,6 +4895,11 @@ Home Builders Association of West Michigan
 <a id="p147"></a>
 *[Page 147 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=147)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## The PORTLAND
 
 ## STARTING AT 1623 sqft
@@ -4852,8 +4916,15 @@ Elevation C
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p148"></a>
 *[Page 148 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=148)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -4861,8 +4932,15 @@ Elevation C
 
 Elevation B
 
+</details>
+
 <a id="p149"></a>
 *[Page 149 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=149)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## The WASHINGTON
 
@@ -4882,8 +4960,15 @@ Elevation F
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p150"></a>
 *[Page 150 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=150)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -4907,8 +4992,15 @@ Elevation D
 
 Elevation E
 
+</details>
+
 <a id="p151"></a>
 *[Page 151 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=151)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## The SEDONA
 
@@ -4922,8 +5014,15 @@ Elevation E
 
 Elevation F
 
+</details>
+
 <a id="p152"></a>
 *[Page 152 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=152)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -4944,6 +5043,8 @@ Elevation D
 *[Image or figure on this page; see the original.]*
 
 Elevation E
+
+</details>
 
 <a id="p153"></a>
 *[Page 153 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=153)* (read by OCR; check the original)
@@ -5140,6 +5241,11 @@ My Commission Expires: ___
 <a id="p162"></a>
 *[Page 162 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=162)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>SOUTH LYON HOLLY HILLS CITY OF SOUTH LYON, OAKLAND COUNTY, MICHIGAN</div>
 
 <div>SITE PLANS FOR</div>
@@ -5148,8 +5254,15 @@ My Commission Expires: ___
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p163"></a>
 *[Page 163 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=163)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 Consulting Citi Engineers Engineering A Better Michigan
 
@@ -5165,22 +5278,43 @@ IXBORO & 10 MILE RD. CITY OF SOUTH LYON, OAKLAND CNT
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p164"></a>
 *[Page 164 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=164)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <table><tr><td>HOLLY HILLS SUBDIVISION GRADING PLAN HOLLY HILLS SITE CONDOMINIUM DIXBORO & 10 MILE RD, CITY OF SOUTH LYON, OAKLAND CITY</td><td>Consulting CriE Engineers Engineering A Better Michigan</td></tr></table>
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p165"></a>
 *[Page 165 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=165)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p166"></a>
 *[Page 166 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=166)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -5404,8 +5538,15 @@ IXBORO & 10 MILE RD. CITY OF SOUTH LYON, OAKLAND CNT
 
 HOLLY HILLS SUBDIVISION UTILITY PLAN - WEST LAKE
 
+</details>
+
 <a id="p167"></a>
 *[Page 167 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=167)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 Consulting Civil Engineers Engineering A Better Michigan
 
@@ -5420,6 +5561,8 @@ DIXBORO & 10 MILE RD. CITY OF SOUTH LYON, OAKLAND CITY
 HOLLY HILLS SUBDIVISION DEVELOPMENT OVERLAY
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p168"></a>
 *[Page 168 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=168)* (read by OCR; check the original)
@@ -5544,6 +5687,11 @@ Date
 <a id="p172"></a>
 *[Page 172 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=172)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 DEPART DAY
 
 September 11, 2021
@@ -5551,6 +5699,8 @@ September 11, 2021
 <div>SOUTH LYON HISTORIC VILLAGE</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p173"></a>
 *[Page 173 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=173)* (read by OCR; check the original)
@@ -5582,6 +5732,11 @@ U.S. Census Bureau
 <a id="p174"></a>
 *[Page 174 of the original](https://www.southlyonmi.org/2-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202108310733170#page=174)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 THE U.S. CENSUS BUREAU HEREBY RECOGNIZES
@@ -5595,4 +5750,6 @@ as an invaluable member of the 2020 Census Community Partnership and Engagement 
 Dr. Steven D. Dillingham, Director
 
 U.S. Census Bureau
+
+</details>
 

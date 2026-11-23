@@ -1586,5 +1586,12 @@ SUGGESTED MOTION: Motion by ___, supported by ___ to approve
 <a id="p53"></a>
 *[Page 53 of the original](https://www.southlyonmi.org/01-28-19%20packet.pdf?t=202108310733130#page=53)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 

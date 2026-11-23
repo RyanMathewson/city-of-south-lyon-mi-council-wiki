@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/3-26-18%20Council%20Packet%20part%202.p
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "de45e590ebb10f6561e1295f9551f135befbca41d79d9d9d00755fe9527bb89a"
 source_bytes: 2438826
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 54
 ocr_pages: 54
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2018-03-26
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/3-26-18%20Council%20Packet%20part%202.pdf?t=202108310733110) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `de45e590ebb10f65…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/3-26-18%20Council%20Packet%20part%202.pdf?t=202108310733110) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `de45e590ebb10f65…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/3-26-18%20Council%20Packet%20part%202.pdf?t=202108310733110#page=1)* (read by OCR; check the original)

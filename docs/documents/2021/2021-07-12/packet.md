@@ -6,7 +6,7 @@ source_url: "https://www.southlyonmi.org/online%20packet%20only%20july%2012%2020
 source_listing: "https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php"
 source_sha256: "f09006e556aa9de27b5ee364c49b32715092b0302c8476dc53aca74497fff366"
 source_bytes: 3606581
-retrieved: "2026-11-22"
+retrieved: "2026-10-27"
 pages: 76
 ocr_pages: 76
 converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned pages)"
@@ -14,7 +14,7 @@ converter: "pymupdf4llm 0.3.4 (text layers); PaddleOCR-VL-1.6-0.9B (scanned page
 
 # Agenda packet, 2021-07-12
 
-> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/online%20packet%20only%20july%2012%202021.pdf?t=202108310733180) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-11-22; SHA-256 `f09006e556aa9de2…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
+> **Source:** [Agenda packet, original PDF](https://www.southlyonmi.org/online%20packet%20only%20july%2012%202021.pdf?t=202108310733180) from the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php). Retrieved 2026-10-27; SHA-256 `f09006e556aa9de2…`. This Markdown was machine-converted and may contain errors. The original PDF is the authoritative document.
 
 <a id="p1"></a>
 *[Page 1 of the original](https://www.southlyonmi.org/online%20packet%20only%20july%2012%202021.pdf?t=202108310733180#page=1)* (read by OCR; check the original)
@@ -581,6 +581,11 @@ SUGGESTED MOTION: None
 <a id="p27"></a>
 *[Page 27 of the original](https://www.southlyonmi.org/online%20packet%20only%20july%2012%202021.pdf?t=202108310733180#page=27)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## City of South Lyon 2020 PASER Rating
 
 *[Image or figure on this page; see the original.]*
@@ -608,6 +613,8 @@ HRC
 HUBBELL, ROTH & CLARK, INC
 
 CONSULTING ENGINEERS SINCE 1915
+
+</details>
 
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/online%20packet%20only%20july%2012%202021.pdf?t=202108310733180#page=28)* (read by OCR; check the original)
@@ -1439,6 +1446,11 @@ With Bluetooth 4.0 standard on all APX XE radios, we are able to partner with SC
 <a id="p61"></a>
 *[Page 61 of the original](https://www.southlyonmi.org/online%20packet%20only%20july%2012%202021.pdf?t=202108310733180#page=61)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## SEAMLESS ON-SCENE COMMUNICATION
 
 Ensure fast and seamless communication and collaboration across all responders arriving on a scene. Mission Critical Geofence automatically changes a radio's active talkgroup based on its GPS location and an agency-defined virtual barrier. For example, an incident commander can create a geofence around the 3-block radius of a burning building so that all arriving military personnel are automatically placed in the same talkgroup. IMPROVE SAFETY WITH REAL-TIME DATA
@@ -1446,6 +1458,8 @@ Ensure fast and seamless communication and collaboration across all responders a
 APX Personnel Accountability Application allows incident command personnel to quickly and accurately account for first responders with APX radios roll call and an interactive GUI. This real-time information allows you to maintain control of a chaotic fireground.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p62"></a>
 *[Page 62 of the original](https://www.southlyonmi.org/online%20packet%20only%20july%2012%202021.pdf?t=202108310733180#page=62)* (read by OCR; check the original)
@@ -1639,6 +1653,11 @@ Method 512.X Procedure I, IP68
 <a id="p66"></a>
 *[Page 66 of the original](https://www.southlyonmi.org/online%20packet%20only%20july%2012%202021.pdf?t=202108310733180#page=66)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <table><tr><td colspan="2">EMISSION DESIGNATORS</td></tr><tr><td>LMR:</td><td>8K10F1D, 8K10F1E, 8K10F1W, 11K0F3E, 16K0F3E, 20K0F1E</td></tr><tr><td>Bluetooth:</td><td>852KF1D, 1M17F1D, 1M19F1D, 1M04F1D</td></tr><tr><td>WLAN (Wi-Fi):</td><td>13M7G1D, 17M0D1D, 18M1D1D</td></tr></table>
 
 <table><tr><td colspan="2">WIRELESS CONNECTIVITY AND SECURITY</td></tr><tr><td>Frequency Range/Bandsplits:</td><td></td></tr><tr><td colspan="2">Bluetooth: 2402 - 2480 MHz, WLAN (Wi-Fi): 2400 - 2483.5 MHz</td></tr><tr><td colspan="2">WLAN (Wi-Fi) 802.11 b/g/n supports WPA-2, WPA, WEP security protocols; radio can be pre-provisioned with up to 20 SSIDs $ ^{1} $</td></tr><tr><td colspan="2">Mission Critical Wireless Bluetooth 2.1 uses 96 bit encryption for pairing & 128 bit encryption for voice, signaling and data. The radio BT supports up to 6 data connections and 1 audio connection</td></tr><tr><td colspan="2">Bluetooth 4.0 Low Energy uses 128-bit AES-CCM encryption</td></tr></table>
@@ -1648,6 +1667,8 @@ Method 512.X Procedure I, IP68
 Channels 1 – 11 used for FCC/IC region.
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p67"></a>
 *[Page 67 of the original](https://www.southlyonmi.org/online%20packet%20only%20july%2012%202021.pdf?t=202108310733180#page=67)* (read by OCR; check the original)
@@ -2176,5 +2197,12 @@ BY DEALER OR HIS AUTHORIZED REPRESENTATIVE</td></tr><tr><td>SIGNED:</td></tr><tr
 <a id="p76"></a>
 *[Page 76 of the original](https://www.southlyonmi.org/online%20packet%20only%20july%2012%202021.pdf?t=202108310733180#page=76)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 

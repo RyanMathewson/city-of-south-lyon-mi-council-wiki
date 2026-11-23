@@ -532,6 +532,11 @@ Date
 <a id="p18"></a>
 *[Page 18 of the original](https://www.southlyonmi.org/5-23-22%20Council%20Packet%20-%20online%20only.pdf?t=202205191552420#page=18)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Google Earth</div>
 
 3/30/22, 12:41 PM
@@ -539,6 +544,8 @@ Date
 *[Image or figure on this page; see the original.]*
 
 https://earth.google.com/web/search/350+s+lafayette+south+lyon+mi/@42.45809351,-83.65194059,279.59813231a,154.78053002d,35y,359.07368359h,0t,0r/data=CigiJgokCQIG6TxIBTFAEcY1EXVIB...
+
+</details>
 
 <a id="p19"></a>
 *[Page 19 of the original](https://www.southlyonmi.org/5-23-22%20Council%20Packet%20-%20online%20only.pdf?t=202205191552420#page=19)* (read by OCR; check the original)
@@ -653,7 +660,14 @@ Date
 <a id="p23"></a>
 *[Page 23 of the original](https://www.southlyonmi.org/5-23-22%20Council%20Packet%20-%20online%20only.pdf?t=202205191552420#page=23)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p24"></a>
 *[Page 24 of the original](https://www.southlyonmi.org/5-23-22%20Council%20Packet%20-%20online%20only.pdf?t=202205191552420#page=24)* (read by OCR; check the original)
@@ -764,11 +778,18 @@ Date
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/5-23-22%20Council%20Packet%20-%20online%20only.pdf?t=202205191552420#page=28)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>Google Earth</div>
 
 3/30/22, 12:41 PM
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p29"></a>
 *[Page 29 of the original](https://www.southlyonmi.org/5-23-22%20Council%20Packet%20-%20online%20only.pdf?t=202205191552420#page=29)* (read by OCR; check the original)

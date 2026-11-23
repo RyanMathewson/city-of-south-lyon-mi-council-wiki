@@ -1382,6 +1382,11 @@ c. Baaki may terminate his employment as Interim City Manager and this Agreement
 <a id="p57"></a>
 *[Page 57 of the original](https://www.southlyonmi.org/12-8-25%20Council%20Packet-%20Online%20only.pdf?t=202512041434270#page=57)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 10.  $ \underline{\text{Amendment}} $. This Agreement may be amended, changed, or modified, but only by written agreement executed by both parties.
 
 11.  $ \underline{\text{No Assignment}} $. This Agreement may not be assigned.
@@ -1397,4 +1402,6 @@ Stephen B. Kennedy, Mayor
 *[Image or figure on this page; see the original.]*
 
 Lisa Deaton, City Clerk
+
+</details>
 

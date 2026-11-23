@@ -731,9 +731,16 @@ Date
 <a id="p19"></a>
 *[Page 19 of the original](https://www.southlyonmi.org/5-27-25%20Council%20Packet%20-%20online%20only.pdf?t=202505221534430#page=19)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ### CHRISTMAS IN July 7-26.25
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p20"></a>
 *[Page 20 of the original](https://www.southlyonmi.org/5-27-25%20Council%20Packet%20-%20online%20only.pdf?t=202505221534430#page=20)* (read by OCR; check the original)

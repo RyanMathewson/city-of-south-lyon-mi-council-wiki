@@ -283,6 +283,11 @@ Motion to adjourn the meeting at 8:50 p.m.
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC101413REVISEDpacketCC10-14-13.pdf?t=202108310732580#page=9)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 VOTE: ___
 
 MOTION CARRIED UNANIMOUSLY
@@ -292,6 +297,8 @@ Respectfully submitted,
 Tedd Wallace Mayor
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC101413REVISEDpacketCC10-14-13.pdf?t=202108310732580#page=10)* (read by OCR; check the original)
@@ -1248,7 +1255,14 @@ Lloyd T. Collins, Chief of Police
 <a id="p57"></a>
 *[Page 57 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2013/packets/DOC101413REVISEDpacketCC10-14-13.pdf?t=202108310732580#page=57)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 TENA 2017,511716-427-3705
+
+</details>
 

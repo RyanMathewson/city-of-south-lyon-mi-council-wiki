@@ -194,6 +194,11 @@ President
 <a id="p7"></a>
 *[Page 7 of the original](https://www.southlyonmi.org/packet%20part%202.pdf?t=202108310733120#page=7)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 FBL A/P/M/M/N/2014/14-157 (Amend-da 11 A > Lqx/Dqx/P/M/M/q \18-19) 21.2_SLd/4p_3000/1d=3 204L_A/1/2015 1.0 194
 
 <table><tr><td colspan="4">SITE PLAN</td></tr></table>
@@ -203,6 +208,8 @@ FBL A/P/M/M/N/2014/14-157 (Amend-da 11 A > Lqx/Dqx/P/M/M/q \18-19) 21.2_SLd/4p_3
 2000: IBM-1 Multicore Assembly Subsystem Channels
 
 ZONING INFORMATION:
+
+</details>
 
 <a id="p8"></a>
 *[Page 8 of the original](https://www.southlyonmi.org/packet%20part%202.pdf?t=202108310733120#page=8)* (read by OCR; check the original)
@@ -238,6 +245,11 @@ CONFIDENTIALITY NOTICE: The information contained in this transmission may conta
 <a id="p9"></a>
 *[Page 9 of the original](https://www.southlyonmi.org/packet%20part%202.pdf?t=202108310733120#page=9)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
@@ -254,8 +266,15 @@ CONFIDENTIALITY NOTICE: The information contained in this transmission may conta
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p10"></a>
 *[Page 10 of the original](https://www.southlyonmi.org/packet%20part%202.pdf?t=202108310733120#page=10)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -267,8 +286,15 @@ Owner's Bath 3 Option
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p11"></a>
 *[Page 11 of the original](https://www.southlyonmi.org/packet%20part%202.pdf?t=202108310733120#page=11)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -286,13 +312,27 @@ Newton - Home Exterior HR2J
 
 <div>Newton - Home Exterior HR2K</div>
 
+</details>
+
 <a id="p12"></a>
 *[Page 12 of the original](https://www.southlyonmi.org/packet%20part%202.pdf?t=202108310733120#page=12)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p13"></a>
 *[Page 13 of the original](https://www.southlyonmi.org/packet%20part%202.pdf?t=202108310733120#page=13)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -314,8 +354,15 @@ Option
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p14"></a>
 *[Page 14 of the original](https://www.southlyonmi.org/packet%20part%202.pdf?t=202108310733120#page=14)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -333,13 +380,27 @@ Option
 
 <div>Hampton - Home Exterior HR2K</div>
 
+</details>
+
 <a id="p15"></a>
 *[Page 15 of the original](https://www.southlyonmi.org/packet%20part%202.pdf?t=202108310733120#page=15)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/packet%20part%202.pdf?t=202108310733120#page=16)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -355,8 +416,15 @@ Owner's Bath 5 Option
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/packet%20part%202.pdf?t=202108310733120#page=17)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -374,10 +442,19 @@ Owner's Bath 5 Option
 
 <div>Aspire - Home Exterior CR2H</div>
 
+</details>
+
 <a id="p18"></a>
 *[Page 18 of the original](https://www.southlyonmi.org/packet%20part%202.pdf?t=202108310733120#page=18)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p19"></a>
 *[Page 19 of the original](https://www.southlyonmi.org/packet%20part%202.pdf?t=202108310733120#page=19)* (read by OCR; check the original)
@@ -403,6 +480,11 @@ Owner's Bath 5 Option
 <a id="p20"></a>
 *[Page 20 of the original](https://www.southlyonmi.org/packet%20part%202.pdf?t=202108310733120#page=20)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>Dalton - Home Exterior HR21</div>
@@ -418,6 +500,8 @@ Owner's Bath 5 Option
 *[Image or figure on this page; see the original.]*
 
 <div>Dalton - Home Exterior HR2K</div>
+
+</details>
 
 <a id="p21"></a>
 *[Page 21 of the original](https://www.southlyonmi.org/packet%20part%202.pdf?t=202108310733120#page=21)* (read by OCR; check the original)
@@ -1157,9 +1241,16 @@ Shipping Cost: ___ Copy to: MEGA Billing Dept.
 <a id="p41"></a>
 *[Page 41 of the original](https://www.southlyonmi.org/packet%20part%202.pdf?t=202108310733120#page=41)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>ZONING INFORMATION</div>
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p42"></a>
 *[Page 42 of the original](https://www.southlyonmi.org/packet%20part%202.pdf?t=202108310733120#page=42)* (read by OCR; check the original)
@@ -1185,6 +1276,11 @@ SUGGESTED MOTION: Motion by ___, supported by to approve the “BrotoberFest” 
 <a id="p43"></a>
 *[Page 43 of the original](https://www.southlyonmi.org/packet%20part%202.pdf?t=202108310733120#page=43)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 2018 BROTOBERFEST
 
 East Lake Street, between Lafayette & Wells Streets
@@ -1204,6 +1300,8 @@ SCALE:  $ 1\,min = 50\,FeET $
 S.WELLS ST.
 
 N. WELLS ST.
+
+</details>
 
 <a id="p44"></a>
 *[Page 44 of the original](https://www.southlyonmi.org/packet%20part%202.pdf?t=202108310733120#page=44)* (read by OCR; check the original)
@@ -1257,16 +1355,30 @@ Chief Chief Collie 07/05/18 Lloyd T. Collins, Chief of Police
 <a id="p45"></a>
 *[Page 45 of the original](https://www.southlyonmi.org/packet%20part%202.pdf?t=202108310733120#page=45)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 <div>East Lake Street</div>
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p46"></a>
 *[Page 46 of the original](https://www.southlyonmi.org/packet%20part%202.pdf?t=202108310733120#page=46)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
 Oakland County One Stoo Shop 2100 Pontiac Lake Road Bldg. 41 West Waterford, MI 48328 Phone: 248-858-0721 Web: www.advantageoakland.com
+
+</details>
 
 <a id="p47"></a>
 *[Page 47 of the original](https://www.southlyonmi.org/packet%20part%202.pdf?t=202108310733120#page=47)* (read by OCR; check the original)
@@ -2718,6 +2830,11 @@ All estimates were submitted with the understanding that the project would not b
 <a id="p99"></a>
 *[Page 99 of the original](https://www.southlyonmi.org/packet%20part%202.pdf?t=202108310733120#page=99)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## COMPAN THEROOF COMPANY
 
 *[Image or figure on this page; see the original.]*
@@ -2759,6 +2876,8 @@ OFFICE: 855-533-7663 • CELL: 248-390-8777
 CHRIS@HEROIO.COM/ANYARET
 
 53600 E. 43 MALE RD O SOUTH HYON, LA 438173
+
+</details>
 
 <a id="p100"></a>
 *[Page 100 of the original](https://www.southlyonmi.org/packet%20part%202.pdf?t=202108310733120#page=100)* (read by OCR; check the original)

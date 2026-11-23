@@ -1026,17 +1026,36 @@ SUGGESTED MOTION: Motion by _____, supported by _____ to approve the purchase of
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC092012CCpacket9-24-12.pdf?t=202108310732590#page=28)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 This is how we repair the diffusers noul.
 
+</details>
+
 <a id="p29"></a>
 *[Page 29 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC092012CCpacket9-24-12.pdf?t=202108310732590#page=29)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p30"></a>
 *[Page 30 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC092012CCpacket9-24-12.pdf?t=202108310732590#page=30)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## KEY BENEFITS
 
@@ -1063,6 +1082,8 @@ Non-skid Work Area
 Manual Operation Or Optional Trolling Motor Power
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p31"></a>
 *[Page 31 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC092012CCpacket9-24-12.pdf?t=202108310732590#page=31)* (read by OCR; check the original)
@@ -1505,6 +1526,11 @@ Large Skid for 4" and 6" centering $ Call for Pricing
 <a id="p43"></a>
 *[Page 43 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2012/packets/DOC092012CCpacket9-24-12.pdf?t=202108310732590#page=43)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 # SOUTH LYON FIRE DEPARTMENT
@@ -1538,4 +1564,6 @@ South Lyon Fire Department
 FREE ADMISSION
 
 www.southlyonfire.com
+
+</details>
 

@@ -478,7 +478,14 @@ Date
 <a id="p16"></a>
 *[Page 16 of the original](https://www.southlyonmi.org/11-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202111181645530#page=16)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p17"></a>
 *[Page 17 of the original](https://www.southlyonmi.org/11-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202111181645530#page=17)* (read by OCR; check the original)
@@ -870,6 +877,11 @@ The 7.35% scenario provides an estimate of computed employer contributions based
 <a id="p32"></a>
 *[Page 32 of the original](https://www.southlyonmi.org/11-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202111181645530#page=32)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <div>Notes: ___</div>
@@ -883,6 +895,8 @@ The green indicator lines have been added at 60% funded and 20 years following t
 Notes: ___
 
 All projected contributions are shown with no phase-in.
+
+</details>
 
 <a id="p33"></a>
 *[Page 33 of the original](https://www.southlyonmi.org/11-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202111181645530#page=33)* (read by OCR; check the original)
@@ -1580,6 +1594,11 @@ Lisa Deaton, City Clerk/Treasurer
 <a id="p65"></a>
 *[Page 65 of the original](https://www.southlyonmi.org/11-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202111181645530#page=65)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 ## OAKLAND COUNTY MICHIGAN
@@ -1611,6 +1630,8 @@ City of South Lyon
 *[Image or figure on this page; see the original.]*
 
 This Census Block Group map reflects the 2011-2015 American Community Survey (ACS).
+
+</details>
 
 <a id="p66"></a>
 *[Page 66 of the original](https://www.southlyonmi.org/11-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202111181645530#page=66)* (read by OCR; check the original)
@@ -2303,7 +2324,14 @@ South Lyon
 <a id="p88"></a>
 *[Page 88 of the original](https://www.southlyonmi.org/11-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202111181645530#page=88)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p89"></a>
 *[Page 89 of the original](https://www.southlyonmi.org/11-22-21%20Council%20Packet%20-%20online%20only.pdf?t=202111181645530#page=89)* (read by OCR; check the original)

@@ -1532,6 +1532,11 @@ After Recording Return to:
 <a id="p68"></a>
 *[Page 68 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CouncilPacketAug8II.pdf?t=202108310732560#page=68)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Lisa Deaton, Clerk
 
 City of South Lyon
@@ -1543,6 +1548,8 @@ South Lyon, MI 48178
 Thomasville PD Agreement - draft 2016-07-2008-02.docx
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p69"></a>
 *[Page 69 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CouncilPacketAug8II.pdf?t=202108310732560#page=69)* (read by OCR; check the original)
@@ -1560,6 +1567,11 @@ Parcel Tax Number: 21-19-126-002 pt
 <a id="p70"></a>
 *[Page 70 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CouncilPacketAug8II.pdf?t=202108310732560#page=70)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 EXHIBIT B
 
 APPROVED FINAL (STAGE II)  $ \underline{\text{PLANNED DEVELOPMENT}} $ SITE PLAN
@@ -1568,15 +1580,29 @@ APPROVED FINAL (STAGE II)  $ \underline{\text{PLANNED DEVELOPMENT}} $ SITE PLAN
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p71"></a>
 *[Page 71 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CouncilPacketAug8II.pdf?t=202108310732560#page=71)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 APPROVED MINUTES OF
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p72"></a>
 *[Page 72 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CouncilPacketAug8II.pdf?t=202108310732560#page=72)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 EXHIBIT D
 
@@ -1584,12 +1610,21 @@ LEGAL DESCRIPTION OF OPEN SPACES AND NATURAL AREAS
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p73"></a>
 *[Page 73 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CouncilPacketAug8II.pdf?t=202108310732560#page=73)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 EXHIBIT E HOME AND FLOOR PLANS AND DWELLING ELEVATION DRAWINGS
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p74"></a>
 *[Page 74 of the original](https://www.southlyonmi.org/document_center/City%20Council/Agenda%20packet%20and%20Minutes/2016/packet/CouncilPacketAug8II.pdf?t=202108310732560#page=74)* (read by OCR; check the original)

@@ -610,6 +610,11 @@ Councilmember Kurtzweil stated the water and sewer revenue changed from the last
 <a id="p26"></a>
 *[Page 26 of the original](https://www.southlyonmi.org/April%2023%202018%20Council%20packet%20part%201.pdf?t=202108310733110#page=26)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 Mr. Camiller stated based on tonight's meeting, we have added $25,000 for the second police car, and increased the mill to .2938 and someone will need to speak with the schools regarding the video equipment.
 
 CM 4-2-18 MOTION TO ADJOURN
@@ -625,6 +630,8 @@ Respectfully submitted,
 Mayor Daniel Pelchat
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p27"></a>
 *[Page 27 of the original](https://www.southlyonmi.org/April%2023%202018%20Council%20packet%20part%201.pdf?t=202108310733110#page=27)* (read by OCR; check the original)
@@ -2232,6 +2239,11 @@ Daniel L. Pelchat, Mayor
 <a id="p76"></a>
 *[Page 76 of the original](https://www.southlyonmi.org/April%2023%202018%20Council%20packet%20part%201.pdf?t=202108310733110#page=76)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Certificate of Adoption
 
 I hereby certify that the foregoing is a true and complete copy of the ordinance adopted at the regular meeting of the South Lyon City Council held on the ___ day of ___, 2018.
@@ -2245,6 +2257,8 @@ Effective:
 *[Image or figure on this page; see the original.]*
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p77"></a>
 *[Page 77 of the original](https://www.southlyonmi.org/April%2023%202018%20Council%20packet%20part%201.pdf?t=202108310733110#page=77)* (read by OCR; check the original)

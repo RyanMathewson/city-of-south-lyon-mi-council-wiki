@@ -833,7 +833,14 @@ www.mobilefireunits.com
 <a id="p19"></a>
 *[Page 19 of the original](https://www.southlyonmi.org/8-24-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=19)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p20"></a>
 *[Page 20 of the original](https://www.southlyonmi.org/8-24-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=20)* (read by OCR; check the original)
@@ -937,9 +944,16 @@ BY SIGNING BELOW, I ACKNOWLEDGE THAT I HAVE READ AND UNDERSTAND THE 911 LIMITATI
 <a id="p28"></a>
 *[Page 28 of the original](https://www.southlyonmi.org/8-24-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=28)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 <table><tr><td>COMCAST BUSINESS</td><td>Drawn By: Mike Swehla</td><td>Version: 1.0</td><td>Title:</td><td>City of South Lyon CONFIDENTIAL</td><td>File Name:</td><td>Page: 1 of 1</td><td>Internet Access Type: Private Ethernet Access Type Voice Service Type</td></tr></table>
+
+</details>
 
 <a id="p29"></a>
 *[Page 29 of the original](https://www.southlyonmi.org/8-24-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=29)* (read by OCR; check the original)
@@ -950,6 +964,11 @@ BY SIGNING BELOW, I ACKNOWLEDGE THAT I HAVE READ AND UNDERSTAND THE 911 LIMITATI
 
 <a id="p30"></a>
 *[Page 30 of the original](https://www.southlyonmi.org/8-24-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=30)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Available Equipment
 
@@ -976,6 +995,8 @@ Polycom 5000</td><td>Conference Room
 Polycom 6000</td></tr><tr><td>*[Image or figure on this page; see the original.]*</td><td>*[Image or figure on this page; see the original.]*</td><td>*[Image or figure on this page; see the original.]*</td><td>*[Image or figure on this page; see the original.]*</td><td>*[Image or figure on this page; see the original.]*</td></tr></table>
 
 Consult Proprietary & Confidential
+
+</details>
 
 <a id="p31"></a>
 *[Page 31 of the original](https://www.southlyonmi.org/8-24-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=31)* (read by OCR; check the original)
@@ -1450,7 +1471,14 @@ Jackson MI 49202</td></tr><tr><td colspan="2">POLICY NUMBER</td></tr><tr><td>CAR
 <a id="p54"></a>
 *[Page 54 of the original](https://www.southlyonmi.org/8-24-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=54)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p55"></a>
 *[Page 55 of the original](https://www.southlyonmi.org/8-24-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=55)* (read by OCR; check the original)
@@ -1542,6 +1570,11 @@ We have outlined some of the items that need to be discussed and determined in m
 <a id="p60"></a>
 *[Page 60 of the original](https://www.southlyonmi.org/8-24-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=60)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
 
 HRC
@@ -1550,8 +1583,15 @@ HUBBELL, BOTH & CLARIL, INC.
 
 CONSULTING ENGINEER GACE 1913
 
+</details>
+
 <a id="p61"></a>
 *[Page 61 of the original](https://www.southlyonmi.org/8-24-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=61)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 # City of South Lyon 2020 PASER Rating
 
@@ -1561,8 +1601,15 @@ CONSULTING ENGINEER GACE 1913
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p62"></a>
 *[Page 62 of the original](https://www.southlyonmi.org/8-24-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=62)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## City of South Lyon 2020 PASER Rating
 
@@ -1585,6 +1632,8 @@ Poor (1-4)
 Fair (5-7)
 
 Good (8-10)
+
+</details>
 
 <a id="p63"></a>
 *[Page 63 of the original](https://www.southlyonmi.org/8-24-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=63)* (read by OCR; check the original)
@@ -1721,19 +1770,38 @@ Good (8-10)
 <a id="p83"></a>
 *[Page 83 of the original](https://www.southlyonmi.org/8-24-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=83)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 ## Major Streets Revenue
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p84"></a>
 *[Page 84 of the original](https://www.southlyonmi.org/8-24-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=84)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Major Street Expenses
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p85"></a>
 *[Page 85 of the original](https://www.southlyonmi.org/8-24-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=85)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 *[Image or figure on this page; see the original.]*
 
@@ -1743,52 +1811,103 @@ Gas & Weight Tax
 
 71%
 
+</details>
+
 <a id="p86"></a>
 *[Page 86 of the original](https://www.southlyonmi.org/8-24-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=86)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## Local Street Expenses
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p87"></a>
 *[Page 87 of the original](https://www.southlyonmi.org/8-24-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=87)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 <div>(1)</div>
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p88"></a>
 *[Page 88 of the original](https://www.southlyonmi.org/8-24-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=88)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## (2) 
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p89"></a>
 *[Page 89 of the original](https://www.southlyonmi.org/8-24-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=89)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## (3) 
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p90"></a>
 *[Page 90 of the original](https://www.southlyonmi.org/8-24-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=90)* (read by OCR; check the original)
 
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
+
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p91"></a>
 *[Page 91 of the original](https://www.southlyonmi.org/8-24-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=91)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## （5） 
 
 *[Image or figure on this page; see the original.]*
 
+</details>
+
 <a id="p92"></a>
 *[Page 92 of the original](https://www.southlyonmi.org/8-24-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=92)* (read by OCR; check the original)
+
+*[Drawing, map or photo: see the original. The OCR software often invents text on drawings, so what it read is kept below, folded away.]*
+
+<details markdown="1">
+<summary>Text the OCR software read from this page (often wrong)</summary>
 
 ## (6) 
 
 *[Image or figure on this page; see the original.]*
+
+</details>
 
 <a id="p93"></a>
 *[Page 93 of the original](https://www.southlyonmi.org/8-24-20%20Council%20Packet%20-%20online%20only.pdf?t=202108310733160#page=93)* (read by OCR; check the original)
