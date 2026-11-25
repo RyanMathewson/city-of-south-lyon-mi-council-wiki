@@ -194,4 +194,4 @@ kind: "council"
 - [whmi_35277](https://whmi.com/news/article/35277)
 - [whmi_44252](https://whmi.com/news/article/44252)
 - [city_council_page](https://www.southlyonmi.org/government/city_council/index.php)
-- Named in the roll call or staff list of 156 meeting minutes from 2019-11-25 to 2026-10-26; the minutes are listed on the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php).
+- Named in the roll call or staff list of 157 meeting minutes from 2019-11-25 to 2026-11-09; the minutes are listed on the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php).

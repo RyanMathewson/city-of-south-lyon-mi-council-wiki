@@ -9,7 +9,7 @@ person: "Douglas Baaki"
 
 Back to [Douglas Baaki](../douglas-baaki.md).
 
-717 paragraphs in 83 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
+723 paragraphs in 84 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
 
 Speakers are matched by voice, so some of these may be someone else, and some of what this person said may be missing. Only confident matches are listed; 19 more paragraphs matched only weakly and appear in the transcripts marked *(unconfirmed)*. The words are machine transcribed; the video is the record.
 
@@ -1792,6 +1792,22 @@ Speakers are matched by voice, so some of these may be someone else, and some of
 [0:27:39](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1659s) Um like I said hannah's been working Pretty closely with her attorneys over at ohm but also our city attorney so and they're they Have experience on it but understood as far as yes I agree that we want to make sure that we're Crossing our t's and dotting our eyes when it comes to this this ordinance so regarding the
 
 [0:28:32](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1712s) Yeah, again, I'll talk with Jeff. Fortunately, I know I included it in my report, But fortunately there are marks already on the curb that we can just line up And get them done where they were at before. So I'm hoping that'll be a quick and easy thing to do when it gets to that point. But I'll talk to Jeff again on that And make sure we have at least a timeline of where we can get it.
+
+### Monday, November 23, 2026
+
+[Meeting page](../../meetings/2026/2026-11-23.md) · [Full transcript](../../transcripts/2026/2026-11-23.md) · [Video](https://www.youtube.com/watch?v=adoLmiVFAFY) · South Lyon City Council Meeting November 23 2026
+
+[1:07:57](https://www.youtube.com/watch?v=adoLmiVFAFY&t=4077s) I can thank you mr. Mayor public hearing for the community development block grant funds each year the US Department of Housing and Urban Development HUD Provides funds to jurisdictions throughout our country for projects that meet their national objectives here in South Lyon we received funds from HUD via Oakland County the upcoming year this upcoming year our allocations will Be tentatively twenty seven thousand nine hundred thirty one dollars last Year the city designated the funds to be used for the senior center and Haven the 2027 CDBG application for receiving funds is due in January the city Published the notice of a public hearing October 28th and tonight gives the Opportunity for uh hearing the public's comments related to those funds and copy of the uh the Notice of public hearing is attached to the agenda that's
+
+[1:09:05](https://www.youtube.com/watch?v=adoLmiVFAFY&t=4145s) Where we're at okay so basically at this
+
+[1:27:37](https://www.youtube.com/watch?v=adoLmiVFAFY&t=5257s) You mr mayor thank you council uh yeah definitely I Can reach out to a line township and maybe get some information from them uh and talk how they Do it and what we can look for as well um that sounds like I can yeah that that I'll do that Sometime this week or next week we'll start the ball rolling on that um as far as the report goes Pretty much a Pontiac Trail road project it is complete um there's a few little cleanup items That need to be addressed one of the issues we were coming uh into were the mailboxes so now That there's curbs up on some of the uh addresses um letter carriers couldn't put them in the Mailboxes so now we had to deal with that working with um rcoc as well as the uh the ponio they were Relocating those mailboxes and I drove down there today down lafayette and they're placed back in order so now they can get their mail other things and I think I mentioned it In my report as well as that the black the asphalt there on the four corners Those are going to be replaced next year so if there's any people talking about That that's a temporary fix until we get the lights in next season and it's Hopefully in the springtime as well as the decorative brick motif for the Crosswalk that's supposed to be in as well there pretty much that's all I got on that portion of it I think I have to talk to the Cindy the chief Conrad to
+
+[1:29:17](https://www.youtube.com/watch?v=adoLmiVFAFY&t=5357s) Pontiac Trail that
+
+[1:29:21](https://www.youtube.com/watch?v=adoLmiVFAFY&t=5361s) Get it down for the fire truck so I'll give her a we'll figure that out since We have a nice new road uh to go ahead and uh get the fire truck down though so that's all I got for Right now if there's any questions okay
+
+[1:30:38](https://www.youtube.com/watch?v=adoLmiVFAFY&t=5438s) Look into it tomorrow thank
 
 ## Sources
 

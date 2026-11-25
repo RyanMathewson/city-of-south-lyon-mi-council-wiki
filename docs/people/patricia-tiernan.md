@@ -88,4 +88,4 @@ kind: "staff"
 
 - [fy2024_audit](https://cms5.revize.com/revize/southlyon/19083%20City%20of%20South%20Lyon-0624-FS-Final.pdf)
 - [staff_directory](https://www.southlyonmi.org/staff_directory/index.php)
-- Named in the roll call or staff list of 105 meeting minutes from 2021-01-11 to 2026-10-26; the minutes are listed on the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php).
+- Named in the roll call or staff list of 106 meeting minutes from 2021-01-11 to 2026-11-09; the minutes are listed on the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php).

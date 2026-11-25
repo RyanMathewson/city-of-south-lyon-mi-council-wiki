@@ -9,7 +9,7 @@ person: "Bonnie Unruh"
 
 Back to [Bonnie Unruh](../bonnie-unruh.md).
 
-242 paragraphs in 31 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
+247 paragraphs in 32 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
 
 Speakers are matched by voice, so some of these may be someone else, and some of what this person said may be missing. Only confident matches are listed. The words are machine transcribed; the video is the record.
 
@@ -624,6 +624,20 @@ Speakers are matched by voice, so some of these may be someone else, and some of
 [0:17:36](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1056s) great experience I don't know if you saw on Facebook we did have I got a picture With the four cows that were going through the neighborhood by the time they got to me they were Hoarse they couldn't barely moo anymore but it was a lot of fun so 2100 pieces of candy we gave out Police department attended the first responder monument ceremony and that was a very nice Ceremony myself and chief conrad got to ring the bell there it's usually locked and you you can't Ring the bell and they unlocked it for us to to ring it um the election there was no election Problems that the police department saw any
 
 [0:21:02](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1262s) Yes yes yes yes yes yes
+
+### Monday, November 23, 2026
+
+[Meeting page](../../meetings/2026/2026-11-23.md) · [Full transcript](../../transcripts/2026/2026-11-23.md) · [Video](https://www.youtube.com/watch?v=adoLmiVFAFY) · South Lyon City Council Meeting November 23 2026
+
+[0:05:03](https://www.youtube.com/watch?v=adoLmiVFAFY&t=303s) We have a big check and a little check
+
+[0:05:53](https://www.youtube.com/watch?v=adoLmiVFAFY&t=353s) ,000
+
+[0:15:25](https://www.youtube.com/watch?v=adoLmiVFAFY&t=925s) Mayor council so I know that they left but I still want to give a shout out to the organizers of Punkin Fest and South Lyon live for a large -scale event as both of These were it was well run and organized and the other thing that I liked is they Invited us to be at their meetings and they listened to our concerns and Address them and one thing I find with large -scale events like they had the Communication usually falls but with them they had radios for our officers so We always knew what was going on so I just want to applaud them for that and Speaking for sergeant Baker he would like to be a judge again next year for
+
+[0:16:10](https://www.youtube.com/watch?v=adoLmiVFAFY&t=970s) the other thing I wanted to bring up tonight was the The police department is selling their 2017 Ford Explorer Police Interceptor, heavily used, And we do have it on an auction site, And we're going to put that link to that auction site on our Facebook page, Or if anybody wants to get a hold of the police department, I can email them that auction site. We've already had one bid, so I'm excited about that. The vehicle is Located in the parking lot of the police department if somebody wants to buy appointment See that vehicle super up close just get a hold of us and we will make arrangements Here tonight. I have detective booty. I want him to talk about the sensory bags that we're now carrying in the cars and Emergency contact forms that we have detective booty
+
+[0:39:27](https://www.youtube.com/watch?v=adoLmiVFAFY&t=2367s) Just wanted to add that Sergeant color her is looking for grant money to help pay for the supplies and For these iPads he's got his his thumb on things and he's trying hard to find
 
 ## Sources
 

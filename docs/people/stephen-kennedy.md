@@ -251,6 +251,7 @@ kind: "council"
 - [2026-10-12](../meetings/2026/2026-10-12.md), 7 min
 - [2026-10-26](../meetings/2026/2026-10-26.md), 15 min
 - [2026-11-09](../meetings/2026/2026-11-09.md), 9 min
+- [2026-11-23](../meetings/2026/2026-11-23.md), 18 min
 
 ## Sources
 
@@ -261,4 +262,4 @@ kind: "council"
 - [ballotready_kennedy](https://www.ballotready.org/people/steve-kennedy)
 - [city_council_page](https://www.southlyonmi.org/government/city_council/index.php)
 - [whmi_44252](https://whmi.com/news/article/44252)
-- Named in the roll call or staff list of 217 meeting minutes from 2018-01-22 to 2026-10-26; the minutes are listed on the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php).
+- Named in the roll call or staff list of 218 meeting minutes from 2018-01-22 to 2026-11-09; the minutes are listed on the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php).

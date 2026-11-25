@@ -9,7 +9,7 @@ person: "Lisa Popa"
 
 Back to [Lisa Popa](../lisa-popa.md).
 
-185 paragraphs in 23 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
+194 paragraphs in 24 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
 
 Speakers are matched by voice, so some of these may be someone else, and some of what this person said may be missing. Only confident matches are listed. The words are machine transcribed; the video is the record.
 
@@ -478,6 +478,28 @@ Speakers are matched by voice, so some of these may be someone else, and some of
 [0:20:23](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1223s) Like to motion to approve the current city manager doug bakke to sign the amendment which would Extend the term of the oakland county parks community park and trail capital grant program Agreement to may 3rd 2027 to complete the grant program requirements I'll support
 
 [0:29:39](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1779s) You mr mayor um I want to echo the halloween turnout I know in our neighborhood the kids really enjoyed when the officer drove through pulled a little Rank they turned on the lights so that was super exciting for me the kids liked it too but I really Really enjoyed it um so uh glad halloween went well for everyone um super excited for the upcoming Holiday spectacular parade I anticipate the application will probably be going live tomorrow So um looking forward to that that's going to be on saturday december 5th and uh you know that'll Kind of close out this year and uh you know be a celebration right so because we've all been Through a lot so um I want to thank everyone uh especially our city manager mr bakke he he really Led the efforts on that along with uh mr mayor here um to ensure that we had that celebration This year um to kind of bring us back together with some sense of normalcy so uh looking forward To that and uh that's gonna be what I'm working on now until then so um and happy thanksgiving To everyone are we going to be meeting before thanksgiving we are okay well I'm wishing happy Thanksgiving because it's already christmas in my mind so with that I'll pass thank you
+
+### Monday, November 23, 2026
+
+[Meeting page](../../meetings/2026/2026-11-23.md) · [Full transcript](../../transcripts/2026/2026-11-23.md) · [Video](https://www.youtube.com/watch?v=adoLmiVFAFY) · South Lyon City Council Meeting November 23 2026
+
+[0:38:56](https://www.youtube.com/watch?v=adoLmiVFAFY&t=2336s) mayor I'll just add this is great outreach and Thoughtfulness put into it the program I hope it's well received and the intent Is well received as well so keep us posted you know any feedback anything Like that but I applaud you for thinking this forward thinking to the needs of some members of our community so thank you so much I
+
+[1:02:20](https://www.youtube.com/watch?v=adoLmiVFAFY&t=3740s) Thank you Mr. Mayor. I would like to know And if you could iron out between the two bidders what this warranty would be Because this this is a large amount of money and looking at the charts that are Now obsolete we're only looking at based on this data a month difference so I I would want to know about a warranty and either of them for both companies for the for the work
+
+[1:02:56](https://www.youtube.com/watch?v=adoLmiVFAFY&t=3776s) Okay. All right. Thank you for the clarification Then excuse that comment. Thank you very much. Mr. Mayor but again the warranty information I would want a little more I Want clarity on that? What would the warranty be? And I understand about negotiating and all of that stuff but if the if the Contract if we're gonna decide who to go with I want to know that part of the Information because that could change a decision as well down the road correct I
+
+[1:03:30](https://www.youtube.com/watch?v=adoLmiVFAFY&t=3810s) I
+
+[1:24:32](https://www.youtube.com/watch?v=adoLmiVFAFY&t=5072s) You mr mayor I just wanted to add as Well this is a great consideration I also want to make sure that when we do have newcomers wanting To join and they get acclimated and everything that they're the the commitment is is great it Is a great commitment but maybe more only one at a time until you can only serve on one at a time One Commission one board something like that because multiple especially for a Newcomer that that's a lot to process and in in bring on so well that would be
+
+[1:25:11](https://www.youtube.com/watch?v=adoLmiVFAFY&t=5111s) so I would just add that as well right so I Appreciate the the thought and the discussion around this thank you
+
+[1:32:55](https://www.youtube.com/watch?v=adoLmiVFAFY&t=5575s) mayor that's a lot to follow before I get started with my Comments I just want to add that us in charleston park we do have a lot of lights up so if they want To head on over to charleston park we'd be glad to offer participation as well as a lot of our Homes are already lit up so um all the best to them
+
+[1:33:21](https://www.youtube.com/watch?v=adoLmiVFAFY&t=5601s) I want to thank everyone who came out For the veterans day memorial it was very well attended we had a lot of our local Service members there and it was just an honor for me to be able to be in that company Honoring all those who have served to keep our country safe and there was also a beautiful gathering at the VFW which was very touching to see the the young kids who Wrote letters of encouragement and drew pictures for our service members who are Abroad just their their heartfelt letters and in their portrayal of things And their messages of encouragement dumb it really moved me so I want to commend Everyone on that event to echo we're going to have events taking place here on December 4th and December 5th shameless plug from me the holiday Spectacular parade we do have applications coming in there are some Participants that I haven't yet seen their names come through so you're on Notice please send in your application because I want to see you uh lined up on december 5th The kiwanis thank you for the presentation about the upcoming events I encourage everyone to attend And support those events december 14th at dinner that's right before our council meeting so Unfortunately I can't be at that event helping out but I will be looking into seeing where I can Uh give some time for the christmas tree lot and I encourage everyone in addition to buying a treat See if there's any slots available um I know my dad used to do a christmas tree sale and they Always had open slots available so normally it's not the most popular times but um as someone who Volunteers I'm sure the kiwanis would appreciate the the effort in the inquiry um finally I want To wish everyone a happy thanksgiving happy and safe thanksgiving uh as we go into the holidays So let's just have extra grace for one another um for some this isn't a happy time of year so Let's just be cognizant of that and uh offer a smile and a lending hand uh however we can So um with that uh I wish everyone happy thanksgiving thank you thank you council
+
+[1:40:03](https://www.youtube.com/watch?v=adoLmiVFAFY&t=6003s) Popa? Yes. Bogert? Yes. Kurtzweil? Yes. Hanson? Yes. Kennedy?
 
 ## Sources
 

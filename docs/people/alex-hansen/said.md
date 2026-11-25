@@ -9,7 +9,7 @@ person: "Alex Hansen"
 
 Back to [Alex Hansen](../alex-hansen.md).
 
-927 paragraphs in 113 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
+938 paragraphs in 114 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
 
 Speakers are matched by voice, so some of these may be someone else, and some of what this person said may be missing. Only confident matches are listed; 26 more paragraphs matched only weakly and appear in the transcripts marked *(unconfirmed)*. The words are machine transcribed; the video is the record.
 
@@ -2330,6 +2330,32 @@ Speakers are matched by voice, so some of these may be someone else, and some of
 [0:18:40](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1120s) Mr mayor thank you
 
 [0:32:39](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1959s) Thank you, Mr. Mayor. Just a couple things from my seat this evening. Definitely wanted to thank Lisa Deaton, all the city staff, the election volunteers for such a smooth election this year. My mom volunteers every year for over in Kalamazoo County, and she said it was very busy. So the fact that we had 90 percent of all absentee ballots come back, you know, total of, gosh, 2 ,742 by 8 p .m. And then also, 68 % of the vote for the city coming in. That is a great turnout. Thank you, South Lyon, for coming out and voting, 6 ,739 of you. So definitely we'll see what happens next election. But it was so positive to read that in the manager's report And to see that kind of turnout and civic engagement from the community. A point for next week, there's actually ribbon cutting, Friday, November 20th at 10 .30 a .m., BU therapy ribbon cutting. And then also coming up here on Wednesday, just wanted to put a reminder out there that Wednesday is actually Veterans Day. Thank a veteran, thank a service member that you know in our community for their service. Um this day is to honor them and by all means I'll be looking forward to some of the activities Around town so thank you mr mayor thank
+
+### Monday, November 23, 2026
+
+[Meeting page](../../meetings/2026/2026-11-23.md) · [Full transcript](../../transcripts/2026/2026-11-23.md) · [Video](https://www.youtube.com/watch?v=adoLmiVFAFY) · South Lyon City Council Meeting November 23 2026
+
+[0:00:59](https://www.youtube.com/watch?v=adoLmiVFAFY&t=59s) Thank you, Mr. Mayor. I'll make the motion to excuse Councilmember Squires.
+
+[0:01:22](https://www.youtube.com/watch?v=adoLmiVFAFY&t=82s) You mr mayor I'll move the minutes as presented
+
+[0:07:35](https://www.youtube.com/watch?v=adoLmiVFAFY&t=455s) You mr mayor I will move the consent agenda as presented
+
+[0:08:14](https://www.youtube.com/watch?v=adoLmiVFAFY&t=494s) I will retract my previous motion and make the motion for The revised consent agenda.
+
+[0:39:41](https://www.youtube.com/watch?v=adoLmiVFAFY&t=2381s) something that'll fit Councilmember Hanson one suggestion I might make Councilwoman Kurtzweil had mentioned you know a list of items I know that it's Free to do like even Amazon wish list for nonprofits and you know this would Probably be something that you know maybe you could look into just so then You've got the specific items that you're looking for you know especially With it being given Tuesday coming up here pretty soon so but thank you for For putting this together it's great any
+
+[0:54:22](https://www.youtube.com/watch?v=adoLmiVFAFY&t=3262s) Thank mr. Mayor based on what you've presented here as well as the documents He provided us in our member in our Councilmember packets I definitely feel That the the cost for a concrete instead of the steel tank is much better like Longevity wise we'd get more years out of it especially the decreased cost in The maintenance one one question that I did have for you is based on the you Know schedule and whatnot my question would be we can't do the demo like During the winter months and like obviously you had it listed from like like, mid -July to, like, November of 2027. I mean, yeah.
+
+[0:55:40](https://www.youtube.com/watch?v=adoLmiVFAFY&t=3340s) winter and it looks like so going from like April 1st to October so like about five six Six months construction time or something like that or
+
+[0:57:05](https://www.youtube.com/watch?v=adoLmiVFAFY&t=3425s) One final question that I did have was in regards to the existing tank. Is there any value from selling any of the materials that we're demoing or anything that no, there's nothing
+
+[1:04:27](https://www.youtube.com/watch?v=adoLmiVFAFY&t=3867s) Good mr mayor thank you any
+
+[1:23:43](https://www.youtube.com/watch?v=adoLmiVFAFY&t=5023s) I'll just make the comment that I definitely appreciate the thought process of bringing this up even when I served on the ZBA for like how township It was not just getting appointed to the to that board it was also training and And providing the resources and that sort of thing so I think that having This sort of plan so that you know even going over you know meeting protocol and that sort of thing Would be beneficial especially for folks that are considering being appointed to a board so I I I Think that having some sort of a process is is definitely a great idea so
+
+[1:30:54](https://www.youtube.com/watch?v=adoLmiVFAFY&t=5454s) I just wanted to make a quick comment I was able to attend the ribbon cutting on friday It was great turnout it was good to see so many city staff there as well as a few council members In the mayor and all the best to the uh to the new business that uh that opened on south lion Following that ribbon cutting I was able to travel south for the first time on the brand New pavement and let me tell you it was great uh the work came out really well very smooth Such a great uh addition in the city and I'm glad to see it come to fruition With that mr mayor I'll wish everybody a happy thanksgiving and uh hopefully everybody can get Together with their families and friends thanks thank
 
 ## Sources
 

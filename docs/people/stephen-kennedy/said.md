@@ -9,7 +9,7 @@ person: "Stephen Kennedy"
 
 Back to [Stephen Kennedy](../stephen-kennedy.md).
 
-6159 paragraphs in 224 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
+6226 paragraphs in 225 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
 
 Speakers are matched by voice, so some of these may be someone else, and some of what this person said may be missing. Only confident matches are listed; 115 more paragraphs matched only weakly and appear in the transcripts marked *(unconfirmed)*. The words are machine transcribed; the video is the record.
 
@@ -13244,6 +13244,144 @@ Speakers are matched by voice, so some of these may be someone else, and some of
 [0:35:57](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=2157s) Certainly appreciate the uh accolades for uh jeanette benson as well well deserved council
 
 [0:36:09](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=2169s) Good night thank you Councilmember that won't stop me I'm going to repeat it Uh so tonight I want to I'd like to commend our city clerk Lisa Deaton as well as the entire staff City hall the entire team of election workers our dpw and everyone else who helped with last Week's election as usual everything went smoothly as the city conducted another safe and secure Election so again thank you one and all for making that happen also as was mentioned earlier in the the meeting tonight, we have a vacancy on the city's Zoning Board of Appeals, as well As on a number of other boards and commissions in the city. I'm encouraging our residents to contact City Hall and see if there's an area that might Be of interest to you, where you can help improve things in our city and make a difference For the folks who live here. Please contact City Hall at 248 -437 -1735, and we certainly appreciate you helping. So, thank you very much. and with that I will look for a motion to adjourn Councilmember Kurtz well move To adjourn support and we will see on November 23rd thank you very much before Thanksgiving
+
+### Monday, November 23, 2026
+
+[Meeting page](../../meetings/2026/2026-11-23.md) · [Full transcript](../../transcripts/2026/2026-11-23.md) · [Video](https://www.youtube.com/watch?v=adoLmiVFAFY) · South Lyon City Council Meeting November 23 2026
+
+[0:00:00](https://www.youtube.com/watch?v=adoLmiVFAFY&t=0s) 23rd, 2026, regular City Council meeting. Please stand for the Pledge of Allegiance.
+
+[0:00:29](https://www.youtube.com/watch?v=adoLmiVFAFY&t=29s) City Clerk Deaton let the roll call show that Councilmember Dilg and Councilmember Squires are absent this evening. And I'll look for a motion and a second to excuse Councilmember Dilg. Councilmember Bogert.
+
+[0:00:42](https://www.youtube.com/watch?v=adoLmiVFAFY&t=42s) Motion to. Excuse Councilmember Dilge. Motion and a second to excuse Councilmember Dilge. Any discussion? All those in favor, please say aye. Aye. Opposed? Thank you. And now a motion and a second to excuse Councilmember Squires. Councilmember Hanson.
+
+[0:01:03](https://www.youtube.com/watch?v=adoLmiVFAFY&t=63s) Second. Motion and a second. Any further discussion regarding this absence? All those in favor, please say aye. Aye. Opposed? Thank you very much. At this point we'll move on to approval of the minutes for the november 9th 2026 regular city Council meeting Councilmember hansen thank
+
+[0:01:25](https://www.youtube.com/watch?v=adoLmiVFAFY&t=85s) Second motion a second any further discussion regarding the minutes All those in favor please say aye aye opposed thank you we have no bills for this evening So we'll move on to approval of tonight's agenda Councilmember bogart thank you mr mayor motion to Approve the agenda as presented second the motion is secondly further discussion regarding tonight's Agenda all those in favor please say aye aye opposed thank you very much at this point we'll Open the floor for public comment those wishing to address the council have a two -minute time Frame within which to do so please approach the podium and state your name and address for the The city clerk if you would good
+
+[0:04:14](https://www.youtube.com/watch?v=adoLmiVFAFY&t=254s) You very much hello
+
+[0:05:19](https://www.youtube.com/watch?v=adoLmiVFAFY&t=319s) Come on out this way so everybody can get in the picture there Okay you get in the back
+
+[0:05:40](https://www.youtube.com/watch?v=adoLmiVFAFY&t=340s) Real quick
+
+[0:06:40](https://www.youtube.com/watch?v=adoLmiVFAFY&t=400s) Well, the road is done, so there'll be absolutely, you know, the sky's the limit next year.
+
+[0:06:46](https://www.youtube.com/watch?v=adoLmiVFAFY&t=406s) Thank you very much. That's wonderful there.
+
+[0:06:54](https://www.youtube.com/watch?v=adoLmiVFAFY&t=414s) Certainly appreciate everybody's hard work there. You know, I know it was challenging for South Lion Live and Pumpkin Fest and the new locations And dealing with the construction. I didn't realize attendance was down and so forth, but, you know, the team's made it work, And kudos to you for doing that, and obviously the benefits are there for all those organizations too. So much appreciated thank you do we have any further public comment for this evening at this Point we will close public comment and we'll move on to approval of tonight's consent agenda Councilmember hansen thank
+
+[0:07:39](https://www.youtube.com/watch?v=adoLmiVFAFY&t=459s) Councilmember kurtzwell thank
+
+[0:08:03](https://www.youtube.com/watch?v=adoLmiVFAFY&t=483s) Discussion okay so I'll need a motion to approve the revised consent agenda minus those three items Councilmember Hanson.
+
+[0:08:19](https://www.youtube.com/watch?v=adoLmiVFAFY&t=499s) Motion and second. Any further discussion regarding the consent agenda? All those in favor please say aye. Opposed? Thank you very Much. Tonight's consent agenda for the benefit of the audience there at this Point involves the approval of the 2026 candy cane hunt that's put on by Slara mccaddy park on december 5th at 9 00 a .m and also the cancellation of the december 28th City Council meeting so at this point we will move on to discussion of downtown with our DDA director Miss ashley abade all
+
+[0:13:05](https://www.youtube.com/watch?v=adoLmiVFAFY&t=785s) Okay thank you any questions for our DDA director this evening oh I guess we're all set thank you
+
+[0:13:15](https://www.youtube.com/watch?v=adoLmiVFAFY&t=795s) This point we'll move on to the fire chief's report with Chief Conrad this evening.
+
+[0:14:26](https://www.youtube.com/watch?v=adoLmiVFAFY&t=866s) Certainly appreciate Martin sorry we're making that donation that certainly helps with the inventory I'm sure yes so any questions for chief Conrad this evening Councilmember Kurtzweil Thank You mr.
+
+[0:15:12](https://www.youtube.com/watch?v=adoLmiVFAFY&t=912s) Other comments or questions for the Chief very good thanks thank you appreciate moving on to the police Chief's report with Chief Unruh this evening good
+
+[0:15:25](https://www.youtube.com/watch?v=adoLmiVFAFY&t=925s) Evening mr.
+
+[0:17:08](https://www.youtube.com/watch?v=adoLmiVFAFY&t=1028s) Good evening folks. Good evening.
+
+[0:25:36](https://www.youtube.com/watch?v=adoLmiVFAFY&t=1536s) Well, let me go ahead and start. I certainly appreciate the article that you posted in the Lion Today magazine. Thought that was excellent you know we've shared that extensively in the Community in fact shared it with a resident who actually brought this Concern I think to the chief last year was a chief or about that and you know She told us at that time that you were going to come on board and you had done This in the past so we provided that information to the resident she was Excited and so she's really excited now to see it actually come to fruition so So that's wonderful. The second part is the sign language thing, and I was talking with the chief about this Just a little while ago, the fact that you do have some training, fundamental sign language, Because there's another resident that has a deaf child, and that's how she communicates. So she's not autistic, but she's hearing impaired, very significant hearing impairment. So the fact that somebody can know some fundamental sign language would be extremely calming for that individual and I've passed that on to her too So I think these are a couple of extremely beneficial steps that are going to help the residents in our community So I certainly appreciate that and I certainly appreciate the publicity you you put forward in that Magazine article to to help get that out
+
+[0:27:35](https://www.youtube.com/watch?v=adoLmiVFAFY&t=1655s) Great any other questions or comments
+
+[0:28:02](https://www.youtube.com/watch?v=adoLmiVFAFY&t=1682s) member Kurtzweil thank you mr.
+
+[0:38:53](https://www.youtube.com/watch?v=adoLmiVFAFY&t=2333s) Thank You mr.
+
+[0:40:14](https://www.youtube.com/watch?v=adoLmiVFAFY&t=2414s) other comments for chief chief also I
+
+[0:40:44](https://www.youtube.com/watch?v=adoLmiVFAFY&t=2444s) Them yeah we're good thank you very much chief at this point we'll have the discussion uh from Our water and wastewater superintendent mr ron beason regarding the ground storage tank union
+
+[0:50:21](https://www.youtube.com/watch?v=adoLmiVFAFY&t=3021s) Based on what you've said here ron I mean we're looking at The fact that you know so the concrete concrete tank offers longer service life than the steel Tank offers the steel tank comes with higher maintenance related activities as well there's Additional equipment in the tank that needs to be serviced additional maintenance inspections that Need to be performed so I mean those costs aren't aren't there those are costs that we bear because I'm assuming that the water waste water department is going to put their men or their workers on that On those jobs so again that's additional costs that we incur out of your department that that Isn't baked in into this and that takes them away for doing something else that they were Supposed to be doing correct the part that I liked about what you said about The contractor assuming full responsibility and accountability for The project is that eliminates all the finger -pointing there's only one person Responsible here it makes it pretty straightforward what kind of a warranty Comes on these things do you have any idea what I don't know if you're down to
+
+[0:52:13](https://www.youtube.com/watch?v=adoLmiVFAFY&t=3133s) To take place we could obviously start the demo of the existing tank and during The winter months here right that's that's what we're hoping for and we have
+
+[0:53:38](https://www.youtube.com/watch?v=adoLmiVFAFY&t=3218s) again I appreciate the fact that you took it on To to get the three bids okay and obviously it's kind of an apples and oranges thing there's there's Advantages and disadvantages to each I think from what's been discussed I think we talked about this At the last meeting that you know looking at what we would get for the money we spend on a concrete Tank I think we're we derive greater value for the investment than we would out of a steel tank Obviously the increased useful life and so forth less anticipated maintenance inspection requirements and the rest of that I guess I'd like to hear what Everybody else has to say about the two options there Councilmember handsome
+
+[0:57:40](https://www.youtube.com/watch?v=adoLmiVFAFY&t=3460s) Thank you. Councilmember Kurtzweil.
+
+[1:02:15](https://www.youtube.com/watch?v=adoLmiVFAFY&t=3735s) Any other comments? Councilmember Poppa.
+
+[1:02:52](https://www.youtube.com/watch?v=adoLmiVFAFY&t=3772s) Are you talking about these shirts here? Yes, that was for the steel in the country.
+
+[1:03:36](https://www.youtube.com/watch?v=adoLmiVFAFY&t=3816s) agree with Councilmember Kurtz will point there as Far as the number of jobs that one contractor has over the other and their Familiarity with the obviously the conditions that they're going to be dealing with here in Michigan as opposed to elsewhere so yeah I would I'd be Looking at the preload as well and that concrete tank I think we've already Ruled out the steel tank based on the other discussion so I think that's a set Aside uh we can certainly look at the uh the warranty maybe that's uh that's something that In the negotiations you know obviously to throw an extra year or whatever on the warranty is You either know your product and you stand behind it or you don't okay so it should be a fairly easy Discussion I would think Councilmember hansen did you do something else you want to say I'm
+
+[1:04:30](https://www.youtube.com/watch?v=adoLmiVFAFY&t=3870s) Other questions for mr beason or the folks from hrc this evening Okay. So, Ron, I think we're all set here. I think we need to get the costs, the demo Costs and everything. And just to reiterate, when we demo this thing, we're taking everything out right down to the dirt. We're taking the former foundation out. Everything is coming Out of that hole.
+
+[1:04:53](https://www.youtube.com/watch?v=adoLmiVFAFY&t=3893s) Okay. So, we just need to get those other costs. We know exactly how big this elephant is that we're trying to deal with here. And I know you hope to have that by the next meeting So we can move things along into the into the early winter here perfect so we
+
+[1:05:13](https://www.youtube.com/watch?v=adoLmiVFAFY&t=3913s) inclined to look at preload I mean does Anybody else have a we focus any one way or the other let's see if they can you know give us in a more of warranty than one one year sure but I'm I'm okay with Preload they built the original one and we've had that for what 30 40 years Whatever it is 46
+
+[1:05:33](https://www.youtube.com/watch?v=adoLmiVFAFY&t=3933s) Have any comments or opinions on That okay okay so that would be the person I would think we would focus on Let's see what they they can do to to help us make that decision and do Something on the warranty if they can do that you know I like the fact that they Can sure the installation with obviously not shortening the process by any means Okay, and they're certainly not going to shoot themselves in the foot by doing something like that I'm sure so they've got a reputation to maintain So I think that's where we need to focus and I certainly hope you can get the facts and figures so that at the next Meeting we can make a Decision to move forward and and get them going I appreciate the fact that they're already looking for the people that are going to do the the demo work on the existing tank Yes, so they're ready to go.
+
+[1:06:40](https://www.youtube.com/watch?v=adoLmiVFAFY&t=4000s) Mike, did you have anything you wanted to add or? No, we're on cover as well. Okay. All right, well, we'll see you on the 14th. Good luck with getting the numbers and everything. Oh, Councilmember Kurtzweil.
+
+[1:07:39](https://www.youtube.com/watch?v=adoLmiVFAFY&t=4059s) Thank you very much. Appreciate it
+
+[1:07:47](https://www.youtube.com/watch?v=adoLmiVFAFY&t=4067s) Tonight the next topic on the agenda is the CDBG public hearing City manager Bakke. Did you want to introduce this you want me to go through it?
+
+[1:09:08](https://www.youtube.com/watch?v=adoLmiVFAFY&t=4148s) Point I am going to open the public hearing for discussion of the cdbg funds those wishing to Comment on the on that topic please come to the podium state your name and address for the city Clerk seeing
+
+[1:09:31](https://www.youtube.com/watch?v=adoLmiVFAFY&t=4171s) nothing I'm sorry go ahead for me no this is for this is for comments on the CDBG funds Linda Benson
+
+[1:10:02](https://www.youtube.com/watch?v=adoLmiVFAFY&t=4202s) Funds are typically distributed at At about three quarters goes to the Southland Center for Active Adults, and one quarter goes to Haven. That's typically how we distribute these funds.
+
+[1:10:17](https://www.youtube.com/watch?v=adoLmiVFAFY&t=4217s) At
+
+[1:10:24](https://www.youtube.com/watch?v=adoLmiVFAFY&t=4224s) This point, we will close the public comment and close the public hearing.
+
+[1:10:37](https://www.youtube.com/watch?v=adoLmiVFAFY&t=4237s) We have no unfinished business this evening, so we'll move on to new business. And on new business, we have number one, two, and three, the appointment for Ralph Hartzell to the Compensation Commission, the appointment of Vanessa Torres to the Parks and Recreation Commission, and the appointment of Vanessa Torres to the Compensation Commission. Councilmember Kurtzweil, you wanted to have these removed, or do you want to go ahead and lead the discussion?
+
+[1:19:01](https://www.youtube.com/watch?v=adoLmiVFAFY&t=4741s) Well, I think you bring up some valid points, and I think it could behoove us to put together A process to do that, whatever that process is, for vetting an individual and matching Their skill set with the area that they're looking for, more so than just that we have A vacancy but you have no real interest in it, no background in it, et cetera. so what I think I'd like to do is I'd like to defer this to the next meeting When we have a full complement I'd like to see if there are two or three people That would get to like to get together and lay out that process okay because I agree with you that if I'm going to be on Parks and Rec yeah I'd like them to meet the the chair of the Parks and Rec Commission talk to them and have a Little dialogue between the two of them to see do you think this would be a good Fit for you do they have some good ideas or are they totally oblivious to what goes on in parks And rec that isn't for this individual it's just for anybody whether it's a zoning board of appeals And and so forth and we've run into this in the past I know but we've had applicants that you Know would have been probably a negative ad to some of these commissions but sometimes you don't Know that in advance so I don't have a problem with holding off on the approval of these we're Not under a time crunch for these uh to fill these three these three vacancies right now Uh but I would like to offer it up to the the full council to see if there's interest in laying out Some vetting process to bring when we put somebody up for approval that everybody's on board with That individual based on their meeting with the the chair for that that commissioner board and Having a discussion with people to see that it's it's going to be good for the citizens Of the city and and
+
+[1:22:25](https://www.youtube.com/watch?v=adoLmiVFAFY&t=4945s) Not sure what we whether we can Just table the approvals of that or if we need to make it formal with a vote to Table it or postpone it for right now until we develop that that process yeah
+
+[1:22:47](https://www.youtube.com/watch?v=adoLmiVFAFY&t=4967s) So we have a motion to table this for 30 days?
+
+[1:22:51](https://www.youtube.com/watch?v=adoLmiVFAFY&t=4971s) Postpone for 30 days?
+
+[1:23:02](https://www.youtube.com/watch?v=adoLmiVFAFY&t=4982s) It has nothing to do with the individuals. It has to do with the process.
+
+[1:23:06](https://www.youtube.com/watch?v=adoLmiVFAFY&t=4986s) So I have a motion from Councilmember Kurtzweil to postpone it for 30 days. Well, it's going to depend on the availability of some Councilmembers to develop the process. It's not that difficult. Well, it's not like the other subcommittee that we went through previously. I don't think it will take that long to do that.
+
+[1:23:31](https://www.youtube.com/watch?v=adoLmiVFAFY&t=5011s) So we have a motion. I need a second for that. support the motion from Councilmember Kurtz well a second Councilmember Bogart Do we have any further discussion regarding this Councilmember Hanson
+
+[1:24:15](https://www.youtube.com/watch?v=adoLmiVFAFY&t=5055s) Okay sounds like we've Got a member for that subcommittee right there somebody's been through the process thanks for Volunteering so we have a motion from Councilmember Kurtzweil a second Councilmember bogert Do we have any further discussion Councilmember popa thank
+
+[1:25:10](https://www.youtube.com/watch?v=adoLmiVFAFY&t=5110s) A discussion for the process right
+
+[1:25:33](https://www.youtube.com/watch?v=adoLmiVFAFY&t=5133s) Okay so we have a motion from Councilmember Kurtz well a second from Councilmember Bogart city clerk Dayton if you'll lead us in a roll call vote to postpone approval of these Applications for 30 days yes yes
+
+[1:25:57](https://www.youtube.com/watch?v=adoLmiVFAFY&t=5157s) Carries moving
+
+[1:26:02](https://www.youtube.com/watch?v=adoLmiVFAFY&t=5162s) on to discussion of the budget for this evening but I have any Questions for our finance director this evening okay
+
+[1:26:11](https://www.youtube.com/watch?v=adoLmiVFAFY&t=5171s) At this point we'll open The floor for public comment those wishing to address the council or please Come up to the podium you have a two minute time frame within which to do so State your name and address for the city clerk if you would
+
+[1:27:25](https://www.youtube.com/watch?v=adoLmiVFAFY&t=5245s) Thank you very much at
+
+[1:27:31](https://www.youtube.com/watch?v=adoLmiVFAFY&t=5251s) This point we will close public comment and move on to the manager's report With city manager bacchi this evening thank
+
+[1:29:33](https://www.youtube.com/watch?v=adoLmiVFAFY&t=5373s) Any questions for our city manager this evening
+
+[1:30:39](https://www.youtube.com/watch?v=adoLmiVFAFY&t=5439s) Any other questions for our city manager This evening okay thank you very much Doug thank you at this point we'll move On to council comments and we'll start tonight with Councilmember hanson thank you mr mayor
+
+[1:32:53](https://www.youtube.com/watch?v=adoLmiVFAFY&t=5573s) popa Thank You mr.
+
+[1:37:52](https://www.youtube.com/watch?v=adoLmiVFAFY&t=5872s) Tonight I want to share two emails that I received from residents over the last couple of days The first one mayor kennedy would you please take a moment during council comments at a Regular City Council meeting to recognize the outstanding work of our dpw staff staff. Our neighborhood looks like the famous scene from How the Grinch Stole Christmas, where nothing was left behind in Cindy Lou Who's home. There is hardly a trace of fall leaves anywhere. As someone who works in public service, I notice and appreciate the attention To detail, pride, and hard work that goes into maintaining our community. Please extend our thanks to the entire DPW team for caring about the appearance of our city and for the Exceptional job they do every day sincerely your friends on brookfield drive the second one mayor Kennedy as I was coming out of the cemetery today a large funeral cortege was coming down striker Street into the cemetery the crew running the leaf pickup truck respectfully shut down the Truck until they had all passed by a truly respectful thing to do I really appreciated it If you can pass it on to the crew, it would be appreciated. Thank you, Mrs. Barbara Green. So, thank you to all of the DPW crew members for everything you do. It certainly is noticed and appreciated by our residents. And finally tonight, like everyone else has already done, I want to wish everyone a happy Thanksgiving. At this time, I would normally be looking for a motion to adjourn, But tonight I'm going to be looking for a motion to go into closed session. Councilmember Kurtzweil.
+
+[1:39:49](https://www.youtube.com/watch?v=adoLmiVFAFY&t=5989s) Support. I have a motion from Councilmember Kurtzweil, a second from Councilmember Hanson. Do we have any discussion? City Clerk Clerk Deaton, if you'll let us in our roll call, vote for this, please.
+
+[1:40:08](https://www.youtube.com/watch?v=adoLmiVFAFY&t=6008s) Yes. So the council will adjourn into closed session. Those who are not involved in the discussion, please ask you to exit at this time. Any decisions that are made will be made when we reconvene into open session. Thank you very much.
 
 ## Sources
 

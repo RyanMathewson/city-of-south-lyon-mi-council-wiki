@@ -9,7 +9,7 @@ person: "Thad Bogert"
 
 Back to [Thad Bogert](../thad-bogert.md).
 
-748 paragraphs in 66 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
+753 paragraphs in 67 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
 
 Speakers are matched by voice, so some of these may be someone else, and some of what this person said may be missing. Only confident matches are listed; 11 more paragraphs matched only weakly and appear in the transcripts marked *(unconfirmed)*. The words are machine transcribed; the video is the record.
 
@@ -1780,6 +1780,20 @@ Speakers are matched by voice, so some of these may be someone else, and some of
 [0:16:52](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1012s) You yeah any other
 
 [0:31:05](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=1865s) You mr mayor um first I'd like to uh thank Everyone involved in the elections this year it sounds like it went really well my wife um actually Volunteered at one of the polling places and she said it was a great experience everyone was very professional very courteous I'd like to congratulate the South Lyon Lions on their win over South Lyon East district champions so wish them the best as they progress also December 4th is a South Lyon night out I'm sure mr. mayor has Some things to share about it but yours truly will be playing the tunes on Thanksgiving is the turkey trot for act for blessings in a backpack it's a great Opportunity to support the organization I'll be playing tunes again finally well almost finally so every year for my birthday I do a fundraiser for South Line area youth assistance for their shop with the hero event where kids with WITH DIFFICULT SITUATIONS, HAVE THE OPPORTUNITY TO SHOP WITH FIRST RESPONDERS. I'M STILL RAISING FUNDS SO BE SURE TO CHECK OUT MY FACEBOOK PAGE AND CONSIDER MAKING A DONATION. AND FINALLY, I'D LIKE TO THANK OUR LOCAL SCOUTS FOR COMING AND VISITING. I WAS A SCOUT BACK IN 1981, PACK 774. THANK YOU.
+
+### Monday, November 23, 2026
+
+[Meeting page](../../meetings/2026/2026-11-23.md) · [Full transcript](../../transcripts/2026/2026-11-23.md) · [Video](https://www.youtube.com/watch?v=adoLmiVFAFY) · South Lyon City Council Meeting November 23 2026
+
+[0:00:04](https://www.youtube.com/watch?v=adoLmiVFAFY&t=4s) I pledge allegiance to the flag of the United States of America, and to the republic for which it stands, one nation, under God, indivisible.
+
+[0:00:41](https://www.youtube.com/watch?v=adoLmiVFAFY&t=41s) I have a motion.
+
+[0:27:36](https://www.youtube.com/watch?v=adoLmiVFAFY&t=1656s) Thank you um I'd just like to applaud you and the department to having that um sensitivity In the past there's been circumstances where there's been an escalation of law enforcement Which had adverse outcomes it's wonderful that you all are ahead of that Councilmember
+
+[1:25:19](https://www.youtube.com/watch?v=adoLmiVFAFY&t=5119s) Councilmember Bogart just to add on to it not something that needs to be Be considered immediately but I think we also need to give consideration to how we recruit quality candidates for these Commission's
+
+[1:35:53](https://www.youtube.com/watch?v=adoLmiVFAFY&t=5753s) Member Councilmember bogart uh thank you mr mayor um as mentioned before um december 4th is south Line night out a celebration of our reopened downtown should be a great time uh yours truly Will be playing music I'm pretty excited about that um then um so two hats that I wear one is Right here which is southline live and I also am the vice chair of south lane area youth assistance So, it was amazing to see what happened this evening with Southline Live raising $3 ,000 For youth assistance. You know, it's an amazing group of people that I serve with. For example, Ryan Cartmill, the real tall guy, he walked 45 miles during Pumpkin Fest Weekend to keep things going. Yeah, that's the kind of dedication that we have in this community, and they all should Be celebrated for their good work um yeah and then um what else oh so my quote for this meeting Is no holiday in all our calendar is comparable to thanksgiving it is the great holiday of common People who have worked all year and now thank god humbly for good harvest we are not celebrating Washington or Columbus or the Declaration of Independence but just True good things the simple blessings of the soil and the common life Thanksgiving Is a holiday of peace the celebration of work and a simple life it is undoubtedly The most American of our holidays even the food there is scarcely a dish on the Table that is not peculiar to america david grayson happy thanksgiving thank you Councilmember
 
 ## Sources
 

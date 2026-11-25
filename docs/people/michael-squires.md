@@ -54,4 +54,4 @@ kind: "council"
 ## Sources
 
 - [whmi_49043](https://www.whmi.com/news/article/49043)
-- Named in the roll call or staff list of 23 meeting minutes from 2025-11-24 to 2026-10-26; the minutes are listed on the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php).
+- Named in the roll call or staff list of 24 meeting minutes from 2025-11-24 to 2026-11-09; the minutes are listed on the [City of South Lyon minutes and agendas page](https://www.southlyonmi.org/government/city_council/city_council_minutes_and_agendas.php).

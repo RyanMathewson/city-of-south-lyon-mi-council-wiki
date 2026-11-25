@@ -9,7 +9,7 @@ person: "Cindy Conrad"
 
 Back to [Cindy Conrad](../cindy-conrad.md).
 
-152 paragraphs in 35 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
+154 paragraphs in 36 meetings, oldest first. Each time links to that moment in the video; each meeting links to its page and full transcript.
 
 Speakers are matched by voice, so some of these may be someone else, and some of what this person said may be missing. Only confident matches are listed. The words are machine transcribed; the video is the record.
 
@@ -466,6 +466,14 @@ Speakers are matched by voice, so some of these may be someone else, and some of
 [0:15:46](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=946s) Mayor council we are at 1195 calls Year -to -date and the types of calls I'm going to report are since last council meeting we've had 36 calls 25 of them were EMS 7 public service 2 fires and 2 False alarms unfortunately I do not have any updates on our engine build or our Rescue and there are no new developments regarding the smoke alarm donations that I requested a couple weeks ago that's
 
 [0:16:34](https://www.youtube.com/watch?v=AqdwFBG4X3I&t=994s) So I looked those numbers up last week and we were 30 calls over last year's Numbers so yeah usually we're we're in our slow time right now there's probably A couple weeks maybe a month around Thanksgiving that it gets kind of slow and then it starts to pick up again in December so thank
+
+### Monday, November 23, 2026
+
+[Meeting page](../../meetings/2026/2026-11-23.md) · [Full transcript](../../transcripts/2026/2026-11-23.md) · [Video](https://www.youtube.com/watch?v=adoLmiVFAFY) · South Lyon City Council Meeting November 23 2026
+
+[0:06:19](https://www.youtube.com/watch?v=adoLmiVFAFY&t=379s) $30
+
+[0:13:27](https://www.youtube.com/watch?v=adoLmiVFAFY&t=807s) Good evening Council, Mr. Mayor. This evening's Calls are based on everything we've responded to since the last council meeting. We're at 1 ,250 calls for the year. We're still maintaining the 30 Calls above over last year. 51 incidents in the last two weeks, 35 of them were EMS, six public service, eight false alarms, one hazardous condition, and one Small fire we had yesterday at a barn behind a house on Liberty didn't even Know there was a barn back there but we got it under control so no issues I want to take a moment to thank Martin's Hardware who graciously donated 24 10 Year smoke alarms for us to install in residence homes for anyone that needs a Smoke alarm call the fire station two four eight four three seven two six one And we'll schedule that for you and that's all I have all right you
 
 ## Sources
 
